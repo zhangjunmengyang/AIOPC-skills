@@ -6,9 +6,11 @@
 
 > 配套讲稿：[OPC 分享](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — 宏观认知、2C/2B 路线、案例、分享大纲。
 
+<!-- readme:omit:start -->
 <img src="../../assets/opc-workflow.png" alt="一人公司工作流：选题、验证、产品定义、设计、搭建、上线、获客、销售、交付、留存、经营、资产化；复盘后回到选题或验证。" width="100%" />
 
 <p align="center"><sub>12 个阶段与复盘回路 · <a href="../../assets/opc-workflow.png">下载完整图片</a> · <a href="../../assets/opc-workflow-en.png">English version</a></sub></p>
+<!-- readme:omit:end -->
 
 ---
 

@@ -1685,10 +1685,6 @@ Twelve stages from self-audit to asset building, 21 capabilities and the 10 most
 
 > Companion deck: [OPC Sharing](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — macro framing, 2C/2B routes, cases and talk outline.
 
-<img src="assets/opc-workflow-en.png" alt="One-person company workflow: pick, validate, define, design, build, launch, acquire, sell, deliver, retain, operate and build assets; review returns to picking or validating." width="100%" />
-
-<p align="center"><sub>12 stages and the review loop · <a href="assets/opc-workflow-en.png">Download full image</a> · <a href="assets/opc-workflow.png">中文版</a></sub></p>
-
 <a id="workflow-12-stages"></a>
 #### 12 stages
 

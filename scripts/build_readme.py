@@ -157,7 +157,9 @@ def rewrite_target(target: str, source: Path, docs: dict[Path, str]) -> str:
 
 def render_document(name: str, lang: str, docs: dict[Path, str]) -> str:
     source = ROOT / 'docs' / lang / f'{name}.md'
-    lines = source.read_text().splitlines()
+    # Keep standalone illustrations out of the continuous README catalog.
+    content = re.sub(r'<!-- readme:omit:start -->.*?<!-- readme:omit:end -->', '', source.read_text(), flags=re.S)
+    lines = content.splitlines()
     base = section_id(name)
     title = document_title(source)
     if name.startswith('full-'):
