@@ -2,7 +2,7 @@
 
 # 🧑‍💼 Solo Founder OS
 
-59 skills from the direct competitor whawkinsiv/solo-founder-skills, re-grouped by capability: validation, finance, build, marketing, growth, design, ops and personal craft.
+71 skills from the direct competitor whawkinsiv/solo-founder-skills, re-grouped by capability: validation, finance, build, marketing, growth, design, ops and personal craft.
 
 ---
 

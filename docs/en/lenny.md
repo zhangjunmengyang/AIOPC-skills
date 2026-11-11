@@ -2,7 +2,7 @@
 
 # 🧭 Lenny's Product & Growth Skills
 
-45 selected skills from Lenny Rachitsky’s 148-skill pack, re-grouped by product, growth, sales, team and decisions.
+all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sales, team and decisions.
 
 ---
 

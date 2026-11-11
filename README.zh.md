@@ -85,9 +85,9 @@
 ## 🧠 经典与竞品
 
 - 🧠 **[商业经典与思维模型](docs/zh/classics.md)** — 芒格、Naval、PG、塔勒布，以及 Lean Startup、Mom Test 等 20 个框架。
-- 🧑‍💼 **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 59 个技能，按能力重排。
-- 🧑‍💼 **[创始人技能包（按能力拆）](docs/zh/founder-packs.md)** — 五个创始人包的 56 个技能，按能力重排。
-- 🧭 **[Lenny 产品与增长](docs/zh/lenny.md)** — 从 148 个技能里选 45 个，按产品/增长/销售/团队/决策重排。
+- 🧑‍💼 **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 71 个技能，按能力重排。
+- 🧑‍💼 **[创始人技能包（按能力拆）](docs/zh/founder-packs.md)** — 六个创始人包的 98 个技能，按能力重排。
+- 🧭 **[Lenny 产品与增长](docs/zh/lenny.md)** — 148 个技能全量收录，按产品/增长/销售/团队/决策重排。
 - 🗺️ **[竞品与大佬合集](docs/zh/landscape.md)** — 我们跟踪的 OPC/创始人技能合集。
 - 🏷️ **[取名与命名](docs/zh/naming.md)** — 品牌名、App 名、域名、商品名，中英文都覆盖。
 

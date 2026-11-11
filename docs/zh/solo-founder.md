@@ -2,7 +2,7 @@
 
 # 🧑‍💼 一人公司全栈
 
-直接竞品 whawkinsiv/solo-founder-skills 的 59 个技能，按能力重新分组：验证、财务、开发、营销、增长、设计、运营、个人表达。
+直接竞品 whawkinsiv/solo-founder-skills 的 71 个技能，按能力重新分组：验证、财务、开发、营销、增长、设计、运营、个人表达。
 
 ---
 

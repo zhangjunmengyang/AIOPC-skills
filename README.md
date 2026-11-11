@@ -85,9 +85,9 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 ## 🧠 Classics & landscape
 
 - 🧠 **[Classic frameworks & mental models](docs/en/classics.md)** — Munger, Naval, PG, Taleb, Lean Startup, Mom Test and 20 frameworks.
-- 🧑‍💼 **[Solo Founder OS](docs/en/solo-founder.md)** — 59 skills from the direct competitor solo-founder-skills, re-grouped by capability.
-- 🧑‍💼 **[Founder Packs, by capability](docs/en/founder-packs.md)** — 56 skills from five founder packs, re-grouped by capability.
-- 🧭 **[Lenny's product & growth skills](docs/en/lenny.md)** — 45 selected from 148, re-grouped by product, growth, sales, team and decisions.
+- 🧑‍💼 **[Solo Founder OS](docs/en/solo-founder.md)** — 71 skills from the direct competitor solo-founder-skills, re-grouped by capability.
+- 🧑‍💼 **[Founder Packs, by capability](docs/en/founder-packs.md)** — 98 skills from six founder packs, re-grouped by capability.
+- 🧭 **[Lenny's product & growth skills](docs/en/lenny.md)** — all 148 skills, re-grouped by product, growth, sales, team and decisions.
 - 🗺️ **[Competitive landscape](docs/en/landscape.md)** — the OPC and founder packs we track.
 - 🏷️ **[Naming](docs/en/naming.md)** — brand names, app names, domains and product titles, in Chinese and English.
 
