@@ -46,7 +46,6 @@ Sales and delivery as repeatable actions.
 <a id="s2"></a>
 ### Contracts, legal & compliance
 
-- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — Technical contract documentation.
 - **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — Employment contract templates.
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS compliance.
 - **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — Contract review and risk flags.

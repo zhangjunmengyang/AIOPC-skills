@@ -77,7 +77,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[post-mortems-retrospectives](https://www.skills.sh/refoundai/lenny-skills/post-mortems-retrospectives)** — Post-mortems and retros.
 - **[startup-pivoting](https://www.skills.sh/refoundai/lenny-skills/startup-pivoting)** — Startup pivoting.
 
-### 产品与设计
+### Product and design
 
 - **[behavioral-product-design](https://www.skills.sh/refoundai/lenny-skills/behavioral-product-design)** — Behavioral product design.
 - **[designing-surveys](https://www.skills.sh/refoundai/lenny-skills/designing-surveys)** — Design surveys.
@@ -109,7 +109,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[evaluating-startup-ideas](https://www.skills.sh/refoundai/lenny-skills/evaluating-startup-ideas)** — Evaluate startup ideas.
 - **[idea-validation](https://www.skills.sh/refoundai/lenny-skills/idea-validation)** — Idea validation.
 
-### 增长与渠道
+### Growth and channels
 
 - **[content-marketing](https://www.skills.sh/refoundai/lenny-skills/content-marketing)** — Content marketing.
 - **[seo-strategy](https://www.skills.sh/refoundai/lenny-skills/seo-strategy)** — SEO strategy.
@@ -130,7 +130,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[plg-fundamentals](https://www.skills.sh/refoundai/lenny-skills/plg-fundamentals)** — PLG fundamentals.
 - **[international-expansion](https://www.skills.sh/refoundai/lenny-skills/international-expansion)** — International expansion.
 
-### 销售与融资
+### Sales and fundraising
 
 - **[enterprise-sales-motion](https://www.skills.sh/refoundai/lenny-skills/enterprise-sales-motion)** — Enterprise sales motion.
 - **[building-sales-team](https://www.skills.sh/refoundai/lenny-skills/building-sales-team)** — Build a sales team.
@@ -139,7 +139,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[plg-sales-integration](https://www.skills.sh/refoundai/lenny-skills/plg-sales-integration)** — PLG sales integration.
 - **[fundraising](https://www.skills.sh/refoundai/lenny-skills/fundraising)** — Fundraising.
 
-### 团队与组织
+### Teams and organizations
 
 - **[organizational-design](https://www.skills.sh/refoundai/lenny-skills/organizational-design)** — Org design.
 - **[org-design](https://www.skills.sh/refoundai/lenny-skills/org-design)** — Org design.
@@ -168,7 +168,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[goal-setting-okrs](https://www.skills.sh/refoundai/lenny-skills/goal-setting-okrs)** — Goals and OKRs.
 - **[planning-cadence](https://www.skills.sh/refoundai/lenny-skills/planning-cadence)** — Planning cadence.
 
-### 领导与个人
+### Leadership and personal development
 
 - **[public-speaking](https://www.skills.sh/refoundai/lenny-skills/public-speaking)** — Public speaking.
 - **[having-difficult-conversations](https://www.skills.sh/refoundai/lenny-skills/having-difficult-conversations)** — Difficult conversations.
@@ -186,7 +186,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[breaking-into-product](https://www.skills.sh/refoundai/lenny-skills/breaking-into-product)** — Breaking into product.
 - **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — Founder psychology.
 
-### AI 与技术
+### AI and technology
 
 - **[vibe-coding](https://www.skills.sh/refoundai/lenny-skills/vibe-coding)** — Vibe coding.
 - **[ai-evals](https://www.skills.sh/refoundai/lenny-skills/ai-evals)** — AI evals.
@@ -195,7 +195,7 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 - **[building-with-ai-agents](https://www.skills.sh/refoundai/lenny-skills/building-with-ai-agents)** — Building with AI agents.
 - **[evaluating-new-technology](https://www.skills.sh/refoundai/lenny-skills/evaluating-new-technology)** — Evaluating new technology.
 
-### 双边市场
+### Two-sided marketplaces
 
 - **[marketplace-fundamentals](https://www.skills.sh/refoundai/lenny-skills/marketplace-fundamentals)** — Marketplace fundamentals.
 - **[marketplace-liquidity-take-rates](https://www.skills.sh/refoundai/lenny-skills/marketplace-liquidity-take-rates)** — Liquidity and take rates.

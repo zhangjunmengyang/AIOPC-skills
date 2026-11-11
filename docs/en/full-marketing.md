@@ -1,26 +1,13 @@
-# 📚 Marketing & sales full catalog
+# Marketing & sales extended catalog
 
-> Full pack catalog: every tracked skill not already on a curated page. Names + links only; see the curated pages for descriptions.
+Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
----
-
-## coreyhaines31/marketingskills · 16
+## coreyhaines31/marketingskills · 5
 
 - **[revops](https://www.skills.sh/coreyhaines31/marketingskills/revops)**
 - **[video](https://www.skills.sh/coreyhaines31/marketingskills/video)**
-- **[social-content](https://www.skills.sh/coreyhaines31/marketingskills/social-content)**
 - **[marketing-loops](https://www.skills.sh/coreyhaines31/marketingskills/marketing-loops)**
-- **[schema-markup](https://www.skills.sh/coreyhaines31/marketingskills/schema-markup)**
-- **[email-sequence](https://www.skills.sh/coreyhaines31/marketingskills/email-sequence)**
-- **[paid-ads](https://www.skills.sh/coreyhaines31/marketingskills/paid-ads)**
-- **[competitor-alternatives](https://www.skills.sh/coreyhaines31/marketingskills/competitor-alternatives)**
 - **[marketing-council](https://www.skills.sh/coreyhaines31/marketingskills/marketing-council)**
-- **[form-cro](https://www.skills.sh/coreyhaines31/marketingskills/form-cro)**
-- **[free-tool-strategy](https://www.skills.sh/coreyhaines31/marketingskills/free-tool-strategy)**
-- **[ab-test-setup](https://www.skills.sh/coreyhaines31/marketingskills/ab-test-setup)**
-- **[signup-flow-cro](https://www.skills.sh/coreyhaines31/marketingskills/signup-flow-cro)**
-- **[paywall-upgrade-cro](https://www.skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro)**
-- **[popup-cro](https://www.skills.sh/coreyhaines31/marketingskills/popup-cro)**
 - **[events](https://www.skills.sh/coreyhaines31/marketingskills/events)**
 
 ## jimliu/baoyu-skills · 20
@@ -275,7 +262,7 @@
 - **[ads-reddit](https://www.skills.sh/agricidaniel/claude-ads/ads-reddit)**
 - **[ads-x](https://www.skills.sh/agricidaniel/claude-ads/ads-x)**
 
-## kostja94/marketing-skills · 227
+## kostja94/marketing-skills · 225
 
 - **[copywriting](https://www.skills.sh/kostja94/marketing-skills/copywriting)**
 - **[video-marketing](https://www.skills.sh/kostja94/marketing-skills/video-marketing)**
@@ -428,8 +415,6 @@
 - **[api-page-generator](https://www.skills.sh/kostja94/marketing-skills/api-page-generator)**
 - **[pricing-strategy](https://www.skills.sh/kostja94/marketing-skills/pricing-strategy)**
 - **[discount-marketing-strategy](https://www.skills.sh/kostja94/marketing-skills/discount-marketing-strategy)**
-- **[domain-selection](https://www.skills.sh/kostja94/marketing-skills/domain-selection)**
-- **[domain-architecture](https://www.skills.sh/kostja94/marketing-skills/domain-architecture)**
 - **[multi-domain-brand-seo](https://www.skills.sh/kostja94/marketing-skills/multi-domain-brand-seo)**
 - **[comparison-table-generator](https://www.skills.sh/kostja94/marketing-skills/comparison-table-generator)**
 - **[howto-section-generator](https://www.skills.sh/kostja94/marketing-skills/howto-section-generator)**

@@ -32,7 +32,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 
 ## All skills
 
-[Visual styles](#s1) · [Type, color & layout](#s2) · [UX patterns](#s3) · [Design systems](#s4) · [Critique & research](#s5) · [Motion & 3D](#s6) · [Page design](#s7) · [Figma](#s8) · [UI & visual](#s9) · [Frontend implementation](#s10) · [Accessibility](#s11) · [Logo / 品牌识别](#s12) · [排版](#s13) · [色彩](#s14) · [图标](#s15) · [布局](#s16) · [UX / 可用性](#s17) · [动效](#s18) · [设计系统](#s19)
+[Visual styles](#s1) · [Type, color & layout](#s2) · [UX patterns](#s3) · [Design systems](#s4) · [Critique & research](#s5) · [Motion & 3D](#s6) · [Page design](#s7) · [Figma](#s8) · [UI & visual](#s9) · [Frontend implementation](#s10) · [Accessibility](#s11) · [Logo & brand identity](#s12) · [Typography](#s13) · [Color](#s14) · [Icons](#s15) · [Layout](#s16) · [UX & usability](#s17) · [Motion](#s18) · [Design systems](#s19)
 
 <a id="s1"></a>
 ### Visual styles
@@ -186,7 +186,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
 
 <a id="s12"></a>
-### Logo / 品牌识别
+### Logo & brand identity
 
 - **[logo-design](https://www.skills.sh/kaankiziltug/logo-design-skill/logo-design)** — Logo design.
 - **[logo-design-guide](https://www.skills.sh/inference-sh/skills/logo-design-guide)** — Logo design guide.
@@ -202,7 +202,6 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[muapi-3d-logo-animation](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-3d-logo-animation)** — 3D logo animation.
 - **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator (OPC).
 - **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
-- **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — Brand identity generator.
 - **[brand-guidelines](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-guidelines)** — Brand guidelines.
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
 - **[brand-strategy](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-strategy)** — Brand strategy.
@@ -215,7 +214,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[brand-packaging](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-packaging)** — Brand packaging.
 
 <a id="s13"></a>
-### 排版
+### Typography
 
 - **[ui-typography](https://www.skills.sh/bencium/bencium-marketplace/ui-typography)** — UI typography.
 - **[modular-scale-typography](https://www.skills.sh/dembrandt/dembrandt-skills/modular-scale-typography)** — Modular type scale.
@@ -229,7 +228,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[layer-typography](https://www.skills.sh/layerai/skills/layer-typography)** — Layer typography.
 
 <a id="s14"></a>
-### 色彩
+### Color
 
 - **[color-accessibility](https://www.skills.sh/aj-geddes/useful-ai-prompts/color-accessibility)** — Color accessibility.
 - **[algorithmic-color-palette](https://www.skills.sh/dembrandt/dembrandt-skills/algorithmic-color-palette)** — Algorithmic palettes.
@@ -242,7 +241,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[color-mode-and-theme](https://www.skills.sh/dembrandt/dembrandt-skills/color-mode-and-theme)** — Color mode and theme.
 
 <a id="s15"></a>
-### 图标
+### Icons
 
 - **[ios-icon-gen](https://www.skills.sh/affaan-m/ecc/ios-icon-gen)** — iOS icon generator.
 - **[icon-retrieval](https://www.skills.sh/antvis/chart-visualization-skills/icon-retrieval)** — Icon retrieval.
@@ -256,7 +255,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[add-icon](https://www.skills.sh/fortawesome/fontawesome-agent-tools/add-icon)** — Add icon.
 
 <a id="s16"></a>
-### 布局
+### Layout
 
 - **[layout-analyzer](https://www.skills.sh/claude-office-skills/skills/layout-analyzer)** — Layout analyzer.
 - **[better-layout](https://www.skills.sh/jakubkrehel/skills/better-layout)** — Better layout.
@@ -264,7 +263,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[tailwindcss-advanced-layouts](https://www.skills.sh/josiahsiegel/claude-plugin-marketplace/tailwindcss-advanced-layouts)** — Tailwind layouts.
 
 <a id="s17"></a>
-### UX / 可用性
+### UX & usability
 
 - **[ux-designer](https://www.skills.sh/aj-geddes/claude-code-bmad-skills/ux-designer)** — UX designer.
 - **[ux-research-discovery-testing](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing)** — UX research and testing.
@@ -277,7 +276,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[prototype](https://www.skills.sh/adobe/skills/prototype)** — Prototyping.
 
 <a id="s18"></a>
-### 动效
+### Motion
 
 - **[motion-foundations](https://www.skills.sh/affaan-m/ecc/motion-foundations)** — Motion foundations.
 - **[motion-patterns](https://www.skills.sh/affaan-m/ecc/motion-patterns)** — Motion patterns.
@@ -291,7 +290,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[threejs-lighting](https://www.skills.sh/cesartevisual/threejs-skills/threejs-lighting)** — Three.js lighting.
 
 <a id="s19"></a>
-### 设计系统
+### Design systems
 
 - **[design-system-creation](https://www.skills.sh/aj-geddes/useful-ai-prompts/design-system-creation)** — Design system creation.
 - **[ui-design-system](https://www.skills.sh/alirezarezvani/claude-skills/ui-design-system)** — UI design system.

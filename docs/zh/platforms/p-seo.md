@@ -20,7 +20,7 @@
 ## ⭐ 先试这几个
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — SEO + GEO 优化全流程。
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 让内容被 AI 搜索引用。
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 检查内容结构与引用来源，提出 AI 搜索优化建议。
 - **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — 全站 SEO 审计。
 - **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — 模板×数据批量生成页面。
 
@@ -29,7 +29,7 @@
 ## 全部技能
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — SEO + GEO 优化全流程。
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 让内容被 AI 搜索引用。
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 检查内容结构与引用来源，提出 AI 搜索优化建议。
 - **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — 全站 SEO 审计。
 - **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — 模板×数据批量生成页面。
 - **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — 结构化数据标记。

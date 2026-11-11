@@ -46,7 +46,6 @@
 <a id="s2"></a>
 ### 合同 / 法务 / 合规
 
-- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — 技术合同文档。
 - **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — 雇佣合同模板。
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS 合规。
 - **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — 合同审阅与风险提示。

@@ -38,7 +38,6 @@ Pricing, finance and marketing for a one-person company.
 ### Pricing & monetization
 
 - **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS pricing strategy.
-- **[pricing-strategy](https://www.skills.sh/coreyhaines31/marketingskills/pricing-strategy)** — Pricing and monetization strategy.
 - **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — Mobile app monetization.
 - **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — Developer-tool pricing.
 - **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — Developer-tool business models.
@@ -68,7 +67,6 @@ Pricing, finance and marketing for a one-person company.
 - **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — Community-led marketing.
 - **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — Co-marketing partnerships.
 - **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — Product marketing context.
-- **[product-marketing-context](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing-context)** — Write product marketing context.
 
 ### OPC repos
 

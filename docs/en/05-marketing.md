@@ -10,22 +10,22 @@ Visibility, understanding, conversion — one skill per job.
 
 **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)**
 
-- *Why:* Make content quotable by AI search.
+- *Why:* Review content structure, sources and crawlability for AI search.
 - *First use:* Rewrite one article for AI-search structure.
 
 **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)**
 
-- *Why:* Find the site’s SEO problems in one pass.
+- *Why:* Check technical SEO, page content and indexing issues, then prioritize findings.
 - *First use:* Audit your site and fix the top three issues.
 
 **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)**
 
-- *Why:* Find why a landing page does not convert.
+- *Why:* Review messaging, calls to action and trust signals for potential conversion barriers.
 - *First use:* Audit your landing page and rewrite the hero.
 
 **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)**
 
-- *Why:* Cold email that does not read like a blast.
+- *Why:* Draft outreach using the prospect’s background and business needs.
 - *First use:* Write ten one-to-one emails; do not batch-send.
 
 ---
@@ -38,7 +38,7 @@ Visibility, understanding, conversion — one skill per job.
 ### GEO / AI search
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Make content quotable by AI search.
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
 - **[seo-aeo-best-practices](https://www.skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices)** — Optimize for both SEO and answer engines.
 - **[bencium-aeo](https://www.skills.sh/bencium/bencium-marketplace/bencium-aeo)** — Answer Engine Optimization for content.
 
@@ -102,15 +102,14 @@ Visibility, understanding, conversion — one skill per job.
 <a id="s5"></a>
 ### Landing pages, funnels & CRO
 
-- **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)** — Audit a landing page for conversion blockers.
+- **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)** — Audit a landing page for potential conversion barriers.
 - **[sales-funnel-blueprint](https://www.skills.sh/autonnel/autonnel-skills/sales-funnel-blueprint)** — Build-ready sales funnel spec.
 - **[funnel-platform-picker](https://www.skills.sh/autonnel/autonnel-skills/funnel-platform-picker)** — Pick a funnel platform from the case.
 - **[server-side-conversion-tracking](https://www.skills.sh/autonnel/autonnel-skills/server-side-conversion-tracking)** — Server-side conversion tracking.
 - **[self-hosted-funnel-launch](https://www.skills.sh/autonnel/autonnel-skills/self-hosted-funnel-launch)** — Launch a self-hosted funnel from zero.
 - **[cro](https://www.skills.sh/coreyhaines31/marketingskills/cro)** — Conversion rate optimization.
 - **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer design and packaging.
-- **[page-cro](https://www.skills.sh/coreyhaines31/marketingskills/page-cro)** — Single-page conversion optimization.
-- **[onboarding-cro](https://www.skills.sh/coreyhaines31/marketingskills/onboarding-cro)** — Onboarding and activation CRO.
+- **[onboarding](https://www.skills.sh/coreyhaines31/marketingskills/onboarding)** — Onboarding and activation CRO.
 
 <a id="s6"></a>
 ### Growth & conversion
@@ -122,7 +121,7 @@ Visibility, understanding, conversion — one skill per job.
 - **[paywalls](https://www.skills.sh/coreyhaines31/marketingskills/paywalls)** — Design paywalls.
 - **[popups](https://www.skills.sh/coreyhaines31/marketingskills/popups)** — Design conversion popups.
 - **[sms](https://www.skills.sh/coreyhaines31/marketingskills/sms)** — Run SMS campaigns.
-- **[referral-program](https://www.skills.sh/coreyhaines31/marketingskills/referral-program)** — Build a referral program.
+- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — Build a referral program.
 - **[ab-testing](https://www.skills.sh/coreyhaines31/marketingskills/ab-testing)** — Run A/B tests.
 - **[conversion-tracking](https://www.skills.sh/coreyhaines31/marketingskills/conversion-tracking)** — Track conversions.
 
@@ -156,10 +155,9 @@ Visibility, understanding, conversion — one skill per job.
 ### Launch & ASO
 
 - **[launch](https://www.skills.sh/coreyhaines31/marketingskills/launch)** — Product launch strategy.
-- **[launch-strategy](https://www.skills.sh/coreyhaines31/marketingskills/launch-strategy)** — SaaS launch and feature announcement strategy.
 - **[shipping-and-launch](https://www.skills.sh/addyosmani/agent-skills/shipping-and-launch)** — Ship with quality gates.
 - **[product-hunt-launch](https://www.skills.sh/101-skills/superpowers/product-hunt-launch)** — Product Hunt launch playbook.
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — App Store / Play Store ASO audit.
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
 
 <a id="s11"></a>
 ### Directories, links & analytics
@@ -168,7 +166,6 @@ Visibility, understanding, conversion — one skill per job.
 - **[link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building)** — Build backlinks.
 - **[reverse-engineer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/reverse-engineer-marketing)** — Reverse-engineer a marketing funnel.
 - **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — Analyze marketing performance.
-- **[analytics-tracking](https://www.skills.sh/coreyhaines31/marketingskills/analytics-tracking)** — Instrument marketing analytics.
 - **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — Attribute conversions.
 - **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — Design site architecture.
 - **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — Analyze Search Console data.

@@ -2,7 +2,7 @@
 
 # 🧑‍💼 创始人技能包（按能力拆）
 
-把 resciencelab/opc-skills、ognjengt/founder-skills、jakeschincariol/founder-skill、ferdinandobons/startup-skill、ncklrs/startup-os-skills、slavingia/skills 里的 98 个技能，按能力重新分组。
+把 resciencelab/opc-skills、ognjengt/founder-skills、jakeschincariol/founder-skill、ferdinandobons/startup-skill、ncklrs/startup-os-skills、slavingia/skills 里的 99 个技能，按能力重新分组。
 
 ---
 
@@ -111,7 +111,6 @@
 - **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo 生成。
 - **[banner-creator](https://www.skills.sh/resciencelab/opc-skills/banner-creator)** — Banner 生成。
 - **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — 域名挖掘。
-- **[skill-name](https://www.skills.sh/resciencelab/opc-skills/skill-name)** — 技能命名。
 - **[producthunt](https://www.skills.sh/resciencelab/opc-skills/producthunt)** — Product Hunt 发布。
 - **[product-hunt-launch-plan](https://www.skills.sh/ognjengt/founder-skills/product-hunt-launch-plan)** — PH 发布计划。
 

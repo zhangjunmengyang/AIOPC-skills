@@ -25,7 +25,6 @@
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名策略
 - **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — 产品命名
 - **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — 域名头脑风暴
-- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — 命名分析
 
 ---
 
@@ -36,9 +35,6 @@
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名策略。
 - **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — 产品命名。
 - **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — 品牌识别。
-- **[naming](https://www.skills.sh/timschoch/skilly/naming)** — 通用命名。
-- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — 命名分析。
-- **[skill-name](https://www.skills.sh/resciencelab/opc-skills/skill-name)** — 技能/产品命名。
 
 ### 域名与线上身份
 

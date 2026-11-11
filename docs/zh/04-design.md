@@ -202,7 +202,6 @@
 - **[muapi-3d-logo-animation](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-3d-logo-animation)** — 3D Logo 动画。
 - **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo 生成（OPC）。
 - **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — 品牌识别系统。
-- **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — 品牌识别生成。
 - **[brand-guidelines](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-guidelines)** — 品牌规范。
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名。
 - **[brand-strategy](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-strategy)** — 品牌战略。

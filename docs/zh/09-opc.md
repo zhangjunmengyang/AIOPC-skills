@@ -38,7 +38,6 @@
 ### 定价 / 变现
 
 - **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS 定价策略。
-- **[pricing-strategy](https://www.skills.sh/coreyhaines31/marketingskills/pricing-strategy)** — 定价与变现策略。
 - **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — 移动 App 变现。
 - **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — 开发者工具定价。
 - **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — 开发者工具商业模式。
@@ -68,7 +67,6 @@
 - **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — 社区营销。
 - **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — 联合营销。
 - **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — 产品营销上下文。
-- **[product-marketing-context](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing-context)** — 产品营销上下文。
 
 ### OPC 专属仓库
 

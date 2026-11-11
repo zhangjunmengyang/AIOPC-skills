@@ -25,22 +25,18 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming
 - **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Product naming
 - **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — Domain name brainstormer
-- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — Naming analyzer
 
 ---
 
 ## All skills
 
-### 品牌与产品名
+### Brand and product names
 
 - **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
 - **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Product naming.
 - **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
-- **[naming](https://www.skills.sh/timschoch/skilly/naming)** — Naming.
-- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — Naming analyzer.
-- **[skill-name](https://www.skills.sh/resciencelab/opc-skills/skill-name)** — Skill naming.
 
-### 域名与线上身份
+### Domains and online identity
 
 - **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — Domain name brainstormer.
 - **[domain-selection](https://www.skills.sh/kostja94/marketing-skills/domain-selection)** — Domain selection.
@@ -48,7 +44,7 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 - **[domain-architecture](https://www.skills.sh/kostja94/marketing-skills/domain-architecture)** — Domain architecture.
 - **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Domain name.
 
-### 标题与商品名
+### Titles and product listings
 
 - **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Product title optimization.
 - **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas.

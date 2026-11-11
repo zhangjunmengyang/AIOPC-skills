@@ -39,7 +39,7 @@ Concrete servers and runtimes. Install one, prove it on a real task, then add an
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MCP` — Controlled local file access.
 - **[Postgres MCP Pro](https://github.com/crystaldba/postgres-mcp)** `MCP` — Postgres reads, writes, indexes and tuning.
 - **[Notion MCP](https://github.com/makenotion/notion-mcp-server)** `MCP` — Read and write pages, databases and comments.
-- **[Figma MCP](https://github.com/GLips/Figma-Context-MCP)** `MCP` — Give Figma layouts and components to agents.
+- **[Framelink MCP for Figma](https://github.com/GLips/Figma-Context-MCP)** `MCP` — Community server maintained by GLips that provides Figma layout and styling data to coding agents.
 - **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** `MCP` — Scraping, crawling and deep research.
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** `MCP` — Real-time search and scraping.
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** `MCP` — Knowledge-graph persistent memory.

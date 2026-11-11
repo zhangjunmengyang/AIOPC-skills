@@ -32,7 +32,7 @@ From requirement to deploy, by engineering stage.
 
 ## All skills
 
-[Requirements & PRD](#s1) · [Architecture](#s2) · [Testing](#s3) · [Review & security](#s4) · [Deploy & CI](#s5) · [Debugging & performance](#s6) · [Docs & context](#s7) · [Release & design handoff](#s8)
+[Requirements & PRD](#s1) · [Architecture](#s2) · [Testing](#s3) · [Review & security](#s4) · [Deploy & CI](#s5) · [Debugging & performance](#s6) · [Docs & context](#s7) · [Release & design handoff](#s8) · [Code naming](#s9)
 
 <a id="s1"></a>
 ### Requirements & PRD
@@ -52,6 +52,7 @@ From requirement to deploy, by engineering stage.
 - **[architecture-blueprint-generator](https://www.skills.sh/github/awesome-copilot/architecture-blueprint-generator)** — Project architecture blueprint.
 - **[system-design](https://www.skills.sh/anthropics/knowledge-work-plugins/system-design)** — System design and architecture decisions.
 - **[api-design](https://www.skills.sh/affaan-m/ecc/api-design)** — API design conventions.
+- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — Document REST/RPC, webhook, CLI and file-format contracts.
 - **[bmad-agent-architect](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-architect)** — Architect role.
 - **[bmad-agent-dev](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-dev)** — Developer role.
 
@@ -115,6 +116,11 @@ From requirement to deploy, by engineering stage.
 - **[develop-design-rationale](https://www.skills.sh/product-on-purpose/pm-skills/develop-design-rationale)** — Document design rationale.
 - **[deliver-release-notes](https://www.skills.sh/product-on-purpose/pm-skills/deliver-release-notes)** — Write release notes.
 
+
+<a id="s9"></a>
+### Code naming
+
+- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — Improve variable, function, class, file and API names using context and conventions.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

@@ -1,121 +1,65 @@
 [← 返回总览](../../README.zh.md) · [English](../en/solo-founder.md)
 
-# 🧑‍💼 一人公司全栈
+# 一人公司全栈
 
-直接竞品 whawkinsiv/solo-founder-skills 的 71 个技能，按能力重新分组：验证、财务、开发、营销、增长、设计、运营、个人表达。
+按当前上游目录整理的 21 个技能，覆盖验证、开发、获客、经营与个人表达。
+
+来源：[上游技能目录](https://github.com/whawkinsiv/solo-founder-skills/tree/01bd10f79a4b6a741be78e3184612a90ecbd54ef/skills)。已核对目录和各项 SKILL.md；用途摘要不代表实际运行验证。
 
 ---
 
-## ⭐ 先试这几个
+## 先试这几个
 
-- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — 验证想法。
-- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — SEO。
-- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — 定价。
-- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — 法律与合规。
+- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — 根据付费客户和产品现状判断创业阶段，选出下一项技能与本周行动。
+- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — 设计低成本需求实验，并用证据评分决定继续、补充验证或停止。
+- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — 从已验证的人工交付步骤缩小首版范围，写简短规格，逐步开发并复测。
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — 整理目标客户与痛点证据，起草逐人外联和跟进内容，并规划后续发布。
 
 ---
 
 ## 全部技能
 
-### 验证与定位
+### 判断阶段与验证
 
-- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — 验证想法。
-- **[market-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/market-research)** — 市场研究。
-- **[niche-advantage](https://www.skills.sh/whawkinsiv/solo-founder-skills/niche-advantage)** — 利基优势。
-- **[customer-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/customer-research)** — 客户研究。
-- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — 用户旅程。
-- **[prioritize](https://www.skills.sh/whawkinsiv/solo-founder-skills/prioritize)** — 优先级排序。
-- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — 这是不是一个 App。
-- **[brand](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand)** — 品牌。
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — 域名。
-- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — 首批客户。
+- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — 根据付费客户和产品现状判断创业阶段，选出下一项技能与本周行动。
+- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — 设计低成本需求实验，并用证据评分决定继续、补充验证或停止。
+- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — 用评估矩阵比较 Web、移动端、插件、自动化、Skill、API 或无需开发的方案。
+- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — 评估一项活动、支出或功能选择是否值得投入，形成一周行动计划。
 
-### 财务与法务
+### 开发与上线
 
-- **[accounting](https://www.skills.sh/whawkinsiv/solo-founder-skills/accounting)** — 记账与会计。
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — 财务规划。
-- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — 法律与合规。
-- **[compliance](https://www.skills.sh/whawkinsiv/solo-founder-skills/compliance)** — 合规检查。
-- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — 定价。
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — 收款与支付。
+- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — 从已验证的人工交付步骤缩小首版范围，写简短规格，逐步开发并复测。
+- **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — 确定视觉方向，检查层级、间距、字体、界面状态与基础可访问性。
+- **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — 检查密钥泄露、用户数据隔离、路由鉴权、Webhook 签名与费用限制。
+- **[go-live](https://www.skills.sh/whawkinsiv/solo-founder-skills/go-live)** — 核对核心流程、收款、部署、备份恢复、错误告警和回滚，形成上线判断。
 
-### 建站与开发
+### 获客与内容
 
-- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — 从零搭建。
-- **[deploy](https://www.skills.sh/whawkinsiv/solo-founder-skills/deploy)** — 部署上线。
-- **[database](https://www.skills.sh/whawkinsiv/solo-founder-skills/database)** — 数据库。
-- **[integrations](https://www.skills.sh/whawkinsiv/solo-founder-skills/integrations)** — 第三方集成。
-- **[ai-features](https://www.skills.sh/whawkinsiv/solo-founder-skills/ai-features)** — AI 功能。
-- **[test](https://www.skills.sh/whawkinsiv/solo-founder-skills/test)** — 测试。
-- **[debug](https://www.skills.sh/whawkinsiv/solo-founder-skills/debug)** — 调试。
-- **[optimize](https://www.skills.sh/whawkinsiv/solo-founder-skills/optimize)** — 性能优化。
-- **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — 安全加固。
-- **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — 监控。
-- **[scope](https://www.skills.sh/whawkinsiv/solo-founder-skills/scope)** — 范围控制。
-- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — 安全。
-- **[replit-claude-code-prompting](https://www.skills.sh/whawkinsiv/solo-founder-skills/replit-claude-code-prompting)** — Replit/Claude Code 提示。
-- **[skill-audit-loop](https://www.skills.sh/whawkinsiv/solo-founder-skills/skill-audit-loop)** — Skill 审计循环。
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — 整理目标客户与痛点证据，起草逐人外联和跟进内容，并规划后续发布。
+- **[landing-page](https://www.skills.sh/whawkinsiv/solo-founder-skills/landing-page)** — 根据客户原话、报价与真实证据撰写销售页，设置一个主要行动入口。
+- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — 从代码检查站点的搜索基础、页面意图与 AI 检索信息，生成带文件路径的修改计划。
+- **[content](https://www.skills.sh/whawkinsiv/solo-founder-skills/content)** — 选择一个主要平台，确定有依据的内容角度，并按创始人的表达方式起草和编辑。
 
-### 营销与内容
+### 命名与个人表达
 
-- **[copywriting](https://www.skills.sh/whawkinsiv/solo-founder-skills/copywriting)** — 文案写作。
-- **[landing-page](https://www.skills.sh/whawkinsiv/solo-founder-skills/landing-page)** — 落地页。
-- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — SEO。
-- **[technical-seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/technical-seo)** — 技术 SEO。
-- **[seo-content](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo-content)** — SEO 内容。
-- **[seo-audit](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo-audit)** — SEO 审计。
-- **[content](https://www.skills.sh/whawkinsiv/solo-founder-skills/content)** — 内容营销。
-- **[email](https://www.skills.sh/whawkinsiv/solo-founder-skills/email)** — 邮件营销。
-- **[social-media](https://www.skills.sh/whawkinsiv/solo-founder-skills/social-media)** — 社媒运营。
-- **[ads](https://www.skills.sh/whawkinsiv/solo-founder-skills/ads)** — 付费广告。
-- **[launch](https://www.skills.sh/whawkinsiv/solo-founder-skills/launch)** — 产品发布。
+- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — 按评分规则比较产品名称，再通过 DNS 与 RDAP 检查域名可用性。
+- **[about-me](https://www.skills.sh/whawkinsiv/solo-founder-skills/about-me)** — 整理经历、观点、故事与可检验的写作规则，创建供其他技能读取的 ABOUT-ME.md。
+- **[humanize](https://www.skills.sh/whawkinsiv/solo-founder-skills/humanize)** — 编辑已有文字，删除程式化表达和空话，保留事实与作者语气。
 
-### 增长与转化
+### 定价、收款与法务
 
-- **[analytics](https://www.skills.sh/whawkinsiv/solo-founder-skills/analytics)** — 数据分析。
-- **[growth](https://www.skills.sh/whawkinsiv/solo-founder-skills/growth)** — 增长策略。
-- **[conversion](https://www.skills.sh/whawkinsiv/solo-founder-skills/conversion)** — 转化优化。
-- **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — 留存。
-- **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — 用户反馈。
-- **[community](https://www.skills.sh/whawkinsiv/solo-founder-skills/community)** — 社区运营。
-- **[sales](https://www.skills.sh/whawkinsiv/solo-founder-skills/sales)** — 销售。
+- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — 结合付费客户阶段制定起步价格或套餐，并计算收入目标所需客户数。
+- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — 从支付链接或账单起步，再配置 Stripe Checkout、客户门户与收款 Webhook。
+- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — 估算生活支出对应的收入目标、现金储备可用月数与业务收支，整理财务习惯。
+- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — 整理主体选择、使用条款、隐私政策与数据导出删除要求，起草供律师复核的材料。
 
-### 设计与体验
+### 邮件与客户维护
 
-- **[design](https://www.skills.sh/whawkinsiv/solo-founder-skills/design)** — 产品设计。
-- **[ux-design](https://www.skills.sh/whawkinsiv/solo-founder-skills/ux-design)** — UX 设计。
-- **[ui-patterns](https://www.skills.sh/whawkinsiv/solo-founder-skills/ui-patterns)** — UI 模式。
-- **[design-review](https://www.skills.sh/whawkinsiv/solo-founder-skills/design-review)** — 设计评审。
-- **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — 视觉打磨。
-- **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — 品牌识别生成。
-- **[motion-polish](https://www.skills.sh/whawkinsiv/solo-founder-skills/motion-polish)** — 动效打磨。
-- **[accessibility](https://www.skills.sh/whawkinsiv/solo-founder-skills/accessibility)** — 可访问性。
-- **[navigation](https://www.skills.sh/whawkinsiv/solo-founder-skills/navigation)** — 导航。
-- **[onboarding](https://www.skills.sh/whawkinsiv/solo-founder-skills/onboarding)** — 用户引导。
-
-### 运营与支持
-
-- **[support](https://www.skills.sh/whawkinsiv/solo-founder-skills/support)** — 客户支持。
-- **[hiring](https://www.skills.sh/whawkinsiv/solo-founder-skills/hiring)** — 招聘。
-- **[go-live](https://www.skills.sh/whawkinsiv/solo-founder-skills/go-live)** — 上线检查。
-- **[glossary](https://www.skills.sh/whawkinsiv/solo-founder-skills/glossary)** — 术语表。
-- **[translate](https://www.skills.sh/whawkinsiv/solo-founder-skills/translate)** — 翻译本地化。
-- **[improve](https://www.skills.sh/whawkinsiv/solo-founder-skills/improve)** — 持续改进。
-- **[next](https://www.skills.sh/whawkinsiv/solo-founder-skills/next)** — 下一步规划。
-
-### 个人与表达
-
-- **[plan](https://www.skills.sh/whawkinsiv/solo-founder-skills/plan)** — 计划与执行。
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — 专注与优先级。
-- **[humanize](https://www.skills.sh/whawkinsiv/solo-founder-skills/humanize)** — 说人话。
-- **[prose-writing](https://www.skills.sh/whawkinsiv/solo-founder-skills/prose-writing)** — 长文写作。
-- **[about-me](https://www.skills.sh/whawkinsiv/solo-founder-skills/about-me)** — 个人介绍。
-- **[dry](https://www.skills.sh/whawkinsiv/solo-founder-skills/dry)** — 减法写作。
-
+- **[email](https://www.skills.sh/whawkinsiv/solo-founder-skills/email)** — 配置域名邮箱、转发与发信服务，检查 SPF、DKIM、DMARC 和应用邮件设置。
+- **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — 安排新客首次使用、欢迎邮件、定期回访、支持、反馈与取消订阅流程。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 
 ---
 
 [← 返回总览](../../README.zh.md)
-

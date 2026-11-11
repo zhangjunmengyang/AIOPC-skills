@@ -114,7 +114,7 @@ Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold e
 
 - **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
 - **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Optimize product titles.
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — App Store / Play Store ASO audit.
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
 
 <a id="s11"></a>

@@ -2,7 +2,7 @@
 
 # 🧑‍💼 Founder Packs, by capability
 
-98 skills from resciencelab/opc-skills, ognjengt/founder-skills, jakeschincariol/founder-skill, ferdinandobons/startup-skill, ncklrs/startup-os-skills and slavingia/skills, re-grouped by capability.
+99 skills from resciencelab/opc-skills, ognjengt/founder-skills, jakeschincariol/founder-skill, ferdinandobons/startup-skill, ncklrs/startup-os-skills and slavingia/skills, re-grouped by capability.
 
 ---
 
@@ -111,7 +111,6 @@
 - **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator.
 - **[banner-creator](https://www.skills.sh/resciencelab/opc-skills/banner-creator)** — Banner creator.
 - **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — Domain hunter.
-- **[skill-name](https://www.skills.sh/resciencelab/opc-skills/skill-name)** — Skill naming.
 - **[producthunt](https://www.skills.sh/resciencelab/opc-skills/producthunt)** — Product Hunt launch.
 - **[product-hunt-launch-plan](https://www.skills.sh/ognjengt/founder-skills/product-hunt-launch-plan)** — Product Hunt launch plan.
 

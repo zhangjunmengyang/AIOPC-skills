@@ -8,7 +8,7 @@ Store listing, keywords, localization and pricing.
 
 | Step | Start with |
 |---|---|
-| Keywords | [aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit) |
+| Keywords | [aso](https://www.skills.sh/coreyhaines31/marketingskills/aso) |
 | Screenshots | [app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots) |
 | Localization | [asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata) |
 | Pricing | [asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing) |
@@ -18,7 +18,7 @@ Store listing, keywords, localization and pricing.
 
 ## ⭐ Top picks
 
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — App Store / Play Store ASO audit.
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
 - **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — Localize App Store subscription metadata.
 - **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — Asc Ppp Pricing.
@@ -27,7 +27,7 @@ Store listing, keywords, localization and pricing.
 
 ## All skills
 
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — App Store / Play Store ASO audit.
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
 - **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — Localize App Store subscription metadata.
 - **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — Asc Ppp Pricing.

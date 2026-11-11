@@ -60,27 +60,27 @@ Assets to keep building include customer lists, content libraries, code and prod
 
 | Capability | Status | Where |
 |---|---|---|
-| 选题与验证 | ● | [Open](01-startup.md) |
-| 用户研究 | ● | [Open](01-startup.md) |
-| 产品定义 | ● | [Open](03-product.md) |
-| 设计 | ● | [Open](04-design.md) |
-| 开发 | ● | [Open](03-product.md) |
-| 支付 | ○ | [Open](03-product.md) |
-| 上线 | ● | [Open](05-marketing.md) |
+| Direction and validation | ● | [Open](01-startup.md) |
+| User research | ● | [Open](01-startup.md) |
+| Product definition | ● | [Open](03-product.md) |
+| Design | ● | [Open](04-design.md) |
+| Development | ● | [Open](03-product.md) |
+| Payments | ○ | [Open](03-product.md) |
+| Launch | ● | [Open](05-marketing.md) |
 | SEO / GEO | ● | [Open](05-marketing.md) |
-| 内容 | ● | [Open](07-content.md) |
-| 社媒 | ● | [Open](platforms/p-xiaohongshu.md) |
-| 广告 | ● | [Open](platforms/p-seo.md) |
-| 销售 | ● | [Open](06-ops.md) |
-| 定价 | ● | [Open](09-opc.md) |
-| 交付 | ● | [Open](06-ops.md) |
-| 客服 | ● | [Open](workflow.md#support) |
-| 留存 | ● | [Open](workflow.md#support) |
-| 数据 | ● | [Open](08-data.md) |
-| 财务 | ● | [Open](workflow.md#finance) |
-| 法务 | ● | [Open](workflow.md#legal) |
-| 风险与安全 | ● | [Open](workflow.md#risk) |
-| 资产化 | ○ | [Open](workflow.md#risk) |
+| Content | ● | [Open](07-content.md) |
+| Social media | ● | [Open](platforms/p-xiaohongshu.md) |
+| Advertising | ● | [Open](platforms/p-seo.md) |
+| Sales | ● | [Open](06-ops.md) |
+| Pricing | ● | [Open](09-opc.md) |
+| Delivery | ● | [Open](06-ops.md) |
+| Support | ● | [Open](workflow.md#support) |
+| Retention | ● | [Open](workflow.md#support) |
+| Data | ● | [Open](08-data.md) |
+| Finance | ● | [Open](workflow.md#finance) |
+| Legal | ● | [Open](workflow.md#legal) |
+| Risk and security | ● | [Open](workflow.md#risk) |
+| Asset building | ○ | [Open](workflow.md#risk) |
 
 ---
 
@@ -117,7 +117,7 @@ Assets to keep building include customer lists, content libraries, code and prod
 - **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)** — DSAR response.
 - **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)** — Launch review.
 - **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)** — OSS license review.
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — Termination review.
+- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — Review employee dismissal, severance arrangements and final-pay requirements.
 - **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — Legal risk assessment.
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI compliance.
 
@@ -134,7 +134,6 @@ Assets to keep building include customer lists, content libraries, code and prod
 - **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)** — Variance commentary.
 - **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)** — GL reconciliation.
 - **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)** — Accrual schedule.
-- **[accounting](https://www.skills.sh/whawkinsiv/solo-founder-skills/accounting)** — Accounting.
 - **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Financial planning.
 - **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Payments.
 - **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — Founder CFO.
@@ -161,9 +160,6 @@ Assets to keep building include customer lists, content libraries, code and prod
 - **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — Trade-offs.
 - **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — Founder psychology.
 - **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Focus.
-- **[plan](https://www.skills.sh/whawkinsiv/solo-founder-skills/plan)** — Planning.
-- **[improve](https://www.skills.sh/whawkinsiv/solo-founder-skills/improve)** — Improvement.
-- **[next](https://www.skills.sh/whawkinsiv/solo-founder-skills/next)** — Next step.
 
 <a id="support"></a>
 ### Support & retention
@@ -180,17 +176,13 @@ Assets to keep building include customer lists, content libraries, code and prod
 - **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — Lifecycle marketing.
 - **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — Community building.
 - **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — Customer research.
-- **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — Feedback.
 
 <a id="risk"></a>
 ### Risk & assets
 
-- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — Security.
 - **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — Security hardening.
 - **[security-audit](https://www.skills.sh/cloudflare/skills/security-audit)** — Security audit.
 - **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — Incident response.
-- **[compliance](https://www.skills.sh/whawkinsiv/solo-founder-skills/compliance)** — Compliance.
-- **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — Monitoring.
 - **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — Grow sustainably.
 - **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — Company values.
 - **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — Minimalist review.

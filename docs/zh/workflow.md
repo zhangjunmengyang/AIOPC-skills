@@ -117,7 +117,7 @@
 - **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)** — 数据主体请求。
 - **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)** — 上线合规审查。
 - **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)** — 开源许可证审查。
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — 终止条款审查。
+- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — 员工解雇、遣散安排与最终工资支付审查。
 - **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — 法律风险评估。
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI 合规。
 
@@ -134,7 +134,6 @@
 - **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)** — 差异分析。
 - **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)** — 总账对账。
 - **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)** — 应计计划。
-- **[accounting](https://www.skills.sh/whawkinsiv/solo-founder-skills/accounting)** — 记账与会计。
 - **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — 财务规划。
 - **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — 收款与支付。
 - **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — 创始人 CFO。
@@ -161,9 +160,6 @@
 - **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — 权衡取舍。
 - **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — 创始人心理。
 - **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — 专注。
-- **[plan](https://www.skills.sh/whawkinsiv/solo-founder-skills/plan)** — 计划。
-- **[improve](https://www.skills.sh/whawkinsiv/solo-founder-skills/improve)** — 持续改进。
-- **[next](https://www.skills.sh/whawkinsiv/solo-founder-skills/next)** — 下一步。
 
 <a id="support"></a>
 ### 支持与留存
@@ -180,17 +176,13 @@
 - **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — 生命周期营销。
 - **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — 社区建设。
 - **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — 客户研究。
-- **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — 用户反馈。
 
 <a id="risk"></a>
 ### 风险与资产
 
-- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — 安全基础。
 - **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — 安全加固。
 - **[security-audit](https://www.skills.sh/cloudflare/skills/security-audit)** — 安全审计。
 - **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — 事故响应。
-- **[compliance](https://www.skills.sh/whawkinsiv/solo-founder-skills/compliance)** — 合规检查。
-- **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — 监控。
 - **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — 可持续增长。
 - **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — 公司价值观。
 - **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — 极简复盘。

@@ -114,7 +114,7 @@
 
 - **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — 商品描述。
 - **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — 商品标题优化。
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — 应用商店 ASO 审计。
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — 应用商店 ASO 审计。
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
 
 <a id="s11"></a>

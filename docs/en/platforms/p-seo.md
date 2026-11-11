@@ -20,7 +20,7 @@ Technical, content, backlinks, local and AI search.
 ## ⭐ Top picks
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Make content quotable by AI search.
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
 - **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — Full-site SEO audit.
 - **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — Template × data page generation.
 
@@ -29,7 +29,7 @@ Technical, content, backlinks, local and AI search.
 ## All skills
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Make content quotable by AI search.
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
 - **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — Full-site SEO audit.
 - **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — Template × data page generation.
 - **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — Structured data and schema markup.

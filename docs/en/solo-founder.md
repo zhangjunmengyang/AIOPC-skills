@@ -1,121 +1,65 @@
 [← Back to index](../../README.md) · [中文](../zh/solo-founder.md)
 
-# 🧑‍💼 Solo Founder OS
+# Solo Founder Skills
 
-71 skills from the direct competitor whawkinsiv/solo-founder-skills, re-grouped by capability: validation, finance, build, marketing, growth, design, ops and personal craft.
+The 21 skills in the current upstream directory, organized around validation, development, customer acquisition, operations and the founder’s voice.
+
+Source: [upstream skill directory](https://github.com/whawkinsiv/solo-founder-skills/tree/01bd10f79a4b6a741be78e3184612a90ecbd54ef/skills). The directory and individual SKILL.md files were reviewed; these summaries do not imply runtime testing.
 
 ---
 
-## ⭐ Top picks
+## Top picks
 
-- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — Validate the idea.
-- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — SEO.
-- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — Pricing.
-- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — Legal and compliance.
+- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — Identify the founder’s stage from paying customers and product progress, then choose the next skill and weekly action.
+- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — Design a low-cost demand test and score the evidence for a go, further testing or stop decision.
+- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — Scope the first version from validated manual delivery, write a short spec, and build and retest one piece at a time.
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — Build a prospect list with pain signals, draft individual outreach and follow-ups, and plan a later launch.
 
 ---
 
 ## All skills
 
-### Validation & positioning
+### Stage and validation
 
-- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — Validate the idea.
-- **[market-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/market-research)** — Market research.
-- **[niche-advantage](https://www.skills.sh/whawkinsiv/solo-founder-skills/niche-advantage)** — Niche advantage.
-- **[customer-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/customer-research)** — Customer research.
-- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — Customer journey.
-- **[prioritize](https://www.skills.sh/whawkinsiv/solo-founder-skills/prioritize)** — Prioritize.
-- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — Is this an app.
-- **[brand](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand)** — Brand.
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Domain name.
-- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — First customers.
+- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — Identify the founder’s stage from paying customers and product progress, then choose the next skill and weekly action.
+- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — Design a low-cost demand test and score the evidence for a go, further testing or stop decision.
+- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — Compare web, mobile, extension, automation, skill, API and no-build options with a weighted matrix.
+- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Evaluate one activity, purchase or feature choice and produce a plan for the week.
 
-### Finance & legal
+### Build and launch
 
-- **[accounting](https://www.skills.sh/whawkinsiv/solo-founder-skills/accounting)** — Accounting.
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Financial planning.
-- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — Legal and compliance.
-- **[compliance](https://www.skills.sh/whawkinsiv/solo-founder-skills/compliance)** — Compliance.
-- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — Pricing.
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Payments.
+- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — Scope the first version from validated manual delivery, write a short spec, and build and retest one piece at a time.
+- **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — Set a visual direction and review hierarchy, spacing, type, UI states and accessibility basics.
+- **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — Audit exposed secrets, user-data isolation, route authentication, webhook signatures and spend limits.
+- **[go-live](https://www.skills.sh/whawkinsiv/solo-founder-skills/go-live)** — Check the core flow, payments, deployment, backup restoration, error alerts and rollback before launch.
 
-### Build & ship
+### Customers and content
 
-- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — Build from zero.
-- **[deploy](https://www.skills.sh/whawkinsiv/solo-founder-skills/deploy)** — Deploy.
-- **[database](https://www.skills.sh/whawkinsiv/solo-founder-skills/database)** — Database.
-- **[integrations](https://www.skills.sh/whawkinsiv/solo-founder-skills/integrations)** — Integrations.
-- **[ai-features](https://www.skills.sh/whawkinsiv/solo-founder-skills/ai-features)** — AI features.
-- **[test](https://www.skills.sh/whawkinsiv/solo-founder-skills/test)** — Testing.
-- **[debug](https://www.skills.sh/whawkinsiv/solo-founder-skills/debug)** — Debugging.
-- **[optimize](https://www.skills.sh/whawkinsiv/solo-founder-skills/optimize)** — Optimization.
-- **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — Security.
-- **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — Monitoring.
-- **[scope](https://www.skills.sh/whawkinsiv/solo-founder-skills/scope)** — Scope.
-- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — Security.
-- **[replit-claude-code-prompting](https://www.skills.sh/whawkinsiv/solo-founder-skills/replit-claude-code-prompting)** — Replit/Claude Code prompting.
-- **[skill-audit-loop](https://www.skills.sh/whawkinsiv/solo-founder-skills/skill-audit-loop)** — Skill audit loop.
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — Build a prospect list with pain signals, draft individual outreach and follow-ups, and plan a later launch.
+- **[landing-page](https://www.skills.sh/whawkinsiv/solo-founder-skills/landing-page)** — Write a sales page from customer language, an offer and real proof, with one primary call to action.
+- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — Audit site code, page intent and AI-search information, then produce a prioritized plan with file paths.
+- **[content](https://www.skills.sh/whawkinsiv/solo-founder-skills/content)** — Choose one main platform, develop a supported angle, and draft and edit in the founder’s voice.
 
-### Marketing & content
+### Naming and voice
 
-- **[copywriting](https://www.skills.sh/whawkinsiv/solo-founder-skills/copywriting)** — Copywriting.
-- **[landing-page](https://www.skills.sh/whawkinsiv/solo-founder-skills/landing-page)** — Landing page.
-- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — SEO.
-- **[technical-seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/technical-seo)** — Technical SEO.
-- **[seo-content](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo-content)** — SEO content.
-- **[seo-audit](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo-audit)** — SEO audit.
-- **[content](https://www.skills.sh/whawkinsiv/solo-founder-skills/content)** — Content marketing.
-- **[email](https://www.skills.sh/whawkinsiv/solo-founder-skills/email)** — Email marketing.
-- **[social-media](https://www.skills.sh/whawkinsiv/solo-founder-skills/social-media)** — Social media.
-- **[ads](https://www.skills.sh/whawkinsiv/solo-founder-skills/ads)** — Paid ads.
-- **[launch](https://www.skills.sh/whawkinsiv/solo-founder-skills/launch)** — Launch.
+- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Score product names, then check domain availability with DNS and RDAP.
+- **[about-me](https://www.skills.sh/whawkinsiv/solo-founder-skills/about-me)** — Create ABOUT-ME.md with experience, opinions, stories and testable writing rules for other skills.
+- **[humanize](https://www.skills.sh/whawkinsiv/solo-founder-skills/humanize)** — Edit existing text to remove formulaic patterns and filler while preserving facts and the writer’s voice.
 
-### Growth & conversion
+### Pricing, payments and legal
 
-- **[analytics](https://www.skills.sh/whawkinsiv/solo-founder-skills/analytics)** — Analytics.
-- **[growth](https://www.skills.sh/whawkinsiv/solo-founder-skills/growth)** — Growth.
-- **[conversion](https://www.skills.sh/whawkinsiv/solo-founder-skills/conversion)** — Conversion.
-- **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — Retention.
-- **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — User feedback.
-- **[community](https://www.skills.sh/whawkinsiv/solo-founder-skills/community)** — Community.
-- **[sales](https://www.skills.sh/whawkinsiv/solo-founder-skills/sales)** — Sales.
+- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — Choose an initial price or tiers based on the paying-customer stage and calculate customers needed for the revenue goal.
+- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Start with payment links or invoices, then configure Stripe Checkout, the customer portal and payment webhooks.
+- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Estimate the income target, cash runway and business cash flow, and establish basic money-management habits.
+- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — Outline entity choices, terms, privacy and data export/deletion requirements, and prepare drafts for legal review.
 
-### Design & UX
+### Email and customer care
 
-- **[design](https://www.skills.sh/whawkinsiv/solo-founder-skills/design)** — Product design.
-- **[ux-design](https://www.skills.sh/whawkinsiv/solo-founder-skills/ux-design)** — UX design.
-- **[ui-patterns](https://www.skills.sh/whawkinsiv/solo-founder-skills/ui-patterns)** — UI patterns.
-- **[design-review](https://www.skills.sh/whawkinsiv/solo-founder-skills/design-review)** — Design review.
-- **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — Visual polish.
-- **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — Brand identity generator.
-- **[motion-polish](https://www.skills.sh/whawkinsiv/solo-founder-skills/motion-polish)** — Motion polish.
-- **[accessibility](https://www.skills.sh/whawkinsiv/solo-founder-skills/accessibility)** — Accessibility.
-- **[navigation](https://www.skills.sh/whawkinsiv/solo-founder-skills/navigation)** — Navigation.
-- **[onboarding](https://www.skills.sh/whawkinsiv/solo-founder-skills/onboarding)** — Onboarding.
-
-### Ops & support
-
-- **[support](https://www.skills.sh/whawkinsiv/solo-founder-skills/support)** — Customer support.
-- **[hiring](https://www.skills.sh/whawkinsiv/solo-founder-skills/hiring)** — Hiring.
-- **[go-live](https://www.skills.sh/whawkinsiv/solo-founder-skills/go-live)** — Go-live checklist.
-- **[glossary](https://www.skills.sh/whawkinsiv/solo-founder-skills/glossary)** — Glossary.
-- **[translate](https://www.skills.sh/whawkinsiv/solo-founder-skills/translate)** — Translation.
-- **[improve](https://www.skills.sh/whawkinsiv/solo-founder-skills/improve)** — Continuous improvement.
-- **[next](https://www.skills.sh/whawkinsiv/solo-founder-skills/next)** — Next-step planning.
-
-### Personal craft
-
-- **[plan](https://www.skills.sh/whawkinsiv/solo-founder-skills/plan)** — Planning.
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Focus.
-- **[humanize](https://www.skills.sh/whawkinsiv/solo-founder-skills/humanize)** — Humanize writing.
-- **[prose-writing](https://www.skills.sh/whawkinsiv/solo-founder-skills/prose-writing)** — Prose writing.
-- **[about-me](https://www.skills.sh/whawkinsiv/solo-founder-skills/about-me)** — About me.
-- **[dry](https://www.skills.sh/whawkinsiv/solo-founder-skills/dry)** — Dry writing.
-
+- **[email](https://www.skills.sh/whawkinsiv/solo-founder-skills/email)** — Configure domain email, forwarding and sending services, then check SPF, DKIM, DMARC and app email setup.
+- **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — Plan first-use onboarding, welcome emails, check-ins, support, feedback and cancellation flows.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 
 ---
 
 [← Back to index](../../README.md)
-

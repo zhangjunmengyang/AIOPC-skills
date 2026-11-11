@@ -39,7 +39,7 @@
 - **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MCP` — 受控读写本地文件。
 - **[Postgres MCP Pro](https://github.com/crystaldba/postgres-mcp)** `MCP` — Postgres 读写、索引与调优。
 - **[Notion MCP](https://github.com/makenotion/notion-mcp-server)** `MCP` — 读写页面、数据库和评论。
-- **[Figma MCP](https://github.com/GLips/Figma-Context-MCP)** `MCP` — 把 Figma 布局和组件给 AI。
+- **[Framelink MCP for Figma](https://github.com/GLips/Figma-Context-MCP)** `MCP` — GLips 维护的社区服务，将 Figma 布局与样式信息提供给编程 Agent。
 - **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** `MCP` — 网页抓取、爬站、深度研究。
 - **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** `MCP` — 实时搜索与抓取。
 - **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** `MCP` — 知识图谱式持久记忆。

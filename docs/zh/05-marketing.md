@@ -10,22 +10,22 @@
 
 **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)**
 
-- *为什么:* 让内容被 ChatGPT / Perplexity 引用。
+- *为什么:* 检查内容结构、引用来源与可抓取性，提出 AI 搜索优化建议。
 - *第一次怎么用:* 挑 1 篇内容，按 AI 搜索结构重写。
 
 **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)**
 
-- *为什么:* 一次性找出站点 SEO 问题。
+- *为什么:* 检查技术 SEO、页面内容与索引问题，并按影响排序。
 - *第一次怎么用:* 对官网跑一次审计，先修 3 个高优先级问题。
 
 **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)**
 
-- *为什么:* 找出落地页不转化的具体原因。
+- *为什么:* 检查页面信息、行动入口与信任证据，列出待验证的转化障碍。
 - *第一次怎么用:* 拿现有落地页跑一遍，按清单改首屏。
 
 **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)**
 
-- *为什么:* 写出不像群发的冷邮件。
+- *为什么:* 根据客户背景和业务问题起草外联邮件。
 - *第一次怎么用:* 为 10 个目标客户各写一封，不用模板群发。
 
 ---
@@ -38,7 +38,7 @@
 ### GEO / AI 搜索
 
 - **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — SEO + GEO 优化全流程。
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 让内容被 AI 搜索引用。
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 检查内容结构与引用来源，提出 AI 搜索优化建议。
 - **[seo-aeo-best-practices](https://www.skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices)** — 同时优化 SEO 和 AEO。
 - **[bencium-aeo](https://www.skills.sh/bencium/bencium-marketplace/bencium-aeo)** — AEO 内容优化。
 
@@ -109,8 +109,7 @@
 - **[self-hosted-funnel-launch](https://www.skills.sh/autonnel/autonnel-skills/self-hosted-funnel-launch)** — 自托管漏斗从零上线。
 - **[cro](https://www.skills.sh/coreyhaines31/marketingskills/cro)** — 转化率优化。
 - **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer 设计与包装。
-- **[page-cro](https://www.skills.sh/coreyhaines31/marketingskills/page-cro)** — 单页转化优化。
-- **[onboarding-cro](https://www.skills.sh/coreyhaines31/marketingskills/onboarding-cro)** — 新手引导转化。
+- **[onboarding](https://www.skills.sh/coreyhaines31/marketingskills/onboarding)** — 新手引导转化。
 
 <a id="s6"></a>
 ### 增长 / 转化
@@ -122,7 +121,7 @@
 - **[paywalls](https://www.skills.sh/coreyhaines31/marketingskills/paywalls)** — 付费墙。
 - **[popups](https://www.skills.sh/coreyhaines31/marketingskills/popups)** — 弹窗转化。
 - **[sms](https://www.skills.sh/coreyhaines31/marketingskills/sms)** — 短信营销。
-- **[referral-program](https://www.skills.sh/coreyhaines31/marketingskills/referral-program)** — 推荐计划。
+- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — 推荐计划。
 - **[ab-testing](https://www.skills.sh/coreyhaines31/marketingskills/ab-testing)** — A/B 测试。
 - **[conversion-tracking](https://www.skills.sh/coreyhaines31/marketingskills/conversion-tracking)** — 转化追踪。
 
@@ -156,10 +155,9 @@
 ### 发布 / ASO
 
 - **[launch](https://www.skills.sh/coreyhaines31/marketingskills/launch)** — 产品发布策略。
-- **[launch-strategy](https://www.skills.sh/coreyhaines31/marketingskills/launch-strategy)** — SaaS 发布与功能公告策略。
 - **[shipping-and-launch](https://www.skills.sh/addyosmani/agent-skills/shipping-and-launch)** — 带质量门禁的发布。
 - **[product-hunt-launch](https://www.skills.sh/101-skills/superpowers/product-hunt-launch)** — Product Hunt 发布。
-- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — 应用商店 ASO 审计。
+- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — 应用商店 ASO 审计。
 
 <a id="s11"></a>
 ### 目录 / 外链 / 分析
@@ -168,7 +166,6 @@
 - **[link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building)** — 外链建设。
 - **[reverse-engineer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/reverse-engineer-marketing)** — 逆向拆解营销。
 - **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — 营销分析。
-- **[analytics-tracking](https://www.skills.sh/coreyhaines31/marketingskills/analytics-tracking)** — 埋点追踪。
 - **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — 归因。
 - **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — 站点架构。
 - **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — GSC 分析。

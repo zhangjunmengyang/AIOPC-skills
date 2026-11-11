@@ -1,10 +1,8 @@
-# 📚 Ops, legal & finance full catalog
+# Ops, legal & finance extended catalog
 
-> Full pack catalog: every tracked skill not already on a curated page. Names + links only; see the curated pages for descriptions.
+Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
----
-
-## anthropics/knowledge-work-plugins · 255
+## anthropics/knowledge-work-plugins · 254
 
 - **[code-review](https://www.skills.sh/anthropics/knowledge-work-plugins/code-review)**
 - **[memory-management](https://www.skills.sh/anthropics/knowledge-work-plugins/memory-management)**
@@ -174,7 +172,6 @@
 - **[report-builder](https://www.skills.sh/anthropics/knowledge-work-plugins/report-builder)**
 - **[review-reputation](https://www.skills.sh/anthropics/knowledge-work-plugins/review-reputation)**
 - **[brand-style](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-style)**
-- **[inventory-planner](https://www.skills.sh/anthropics/knowledge-work-plugins/inventory-planner)**
 - **[hiring-screener](https://www.skills.sh/anthropics/knowledge-work-plugins/hiring-screener)**
 - **[speed-to-lead](https://www.skills.sh/anthropics/knowledge-work-plugins/speed-to-lead)**
 - **[lead-finder](https://www.skills.sh/anthropics/knowledge-work-plugins/lead-finder)**
@@ -262,7 +259,7 @@
 - **[ios](https://www.skills.sh/anthropics/knowledge-work-plugins/ios)**
 - **[android](https://www.skills.sh/anthropics/knowledge-work-plugins/android)**
 
-## anthropics/claude-for-legal · 113
+## anthropics/claude-for-legal · 104
 
 - **[legal-writing](https://www.skills.sh/anthropics/claude-for-legal/legal-writing)**
 - **[draft](https://www.skills.sh/anthropics/claude-for-legal/draft)**
@@ -270,19 +267,15 @@
 - **[review](https://www.skills.sh/anthropics/claude-for-legal/review)**
 - **[study-plan](https://www.skills.sh/anthropics/claude-for-legal/study-plan)**
 - **[policy-monitor](https://www.skills.sh/anthropics/claude-for-legal/policy-monitor)**
-- **[vendor-agreement-review](https://www.skills.sh/anthropics/claude-for-legal/vendor-agreement-review)**
 - **[research-start](https://www.skills.sh/anthropics/claude-for-legal/research-start)**
 - **[claim-chart](https://www.skills.sh/anthropics/claude-for-legal/claim-chart)**
 - **[chronology](https://www.skills.sh/anthropics/claude-for-legal/chronology)**
 - **[demand-draft](https://www.skills.sh/anthropics/claude-for-legal/demand-draft)**
 - **[reg-gap-analysis](https://www.skills.sh/anthropics/claude-for-legal/reg-gap-analysis)**
 - **[socratic-drill](https://www.skills.sh/anthropics/claude-for-legal/socratic-drill)**
-- **[ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review)**
 - **[invention-intake](https://www.skills.sh/anthropics/claude-for-legal/invention-intake)**
 - **[case-brief](https://www.skills.sh/anthropics/claude-for-legal/case-brief)**
 - **[cold-start-interview](https://www.skills.sh/anthropics/claude-for-legal/cold-start-interview)**
-- **[entity-compliance](https://www.skills.sh/anthropics/claude-for-legal/entity-compliance)**
-- **[policy-drafting](https://www.skills.sh/anthropics/claude-for-legal/policy-drafting)**
 - **[memo](https://www.skills.sh/anthropics/claude-for-legal/memo)**
 - **[cease-desist](https://www.skills.sh/anthropics/claude-for-legal/cease-desist)**
 - **[exam-forecast](https://www.skills.sh/anthropics/claude-for-legal/exam-forecast)**
@@ -293,11 +286,8 @@
 - **[fto-triage](https://www.skills.sh/anthropics/claude-for-legal/fto-triage)**
 - **[brief-section-drafter](https://www.skills.sh/anthropics/claude-for-legal/brief-section-drafter)**
 - **[auto-updater](https://www.skills.sh/anthropics/claude-for-legal/auto-updater)**
-- **[pia-generation](https://www.skills.sh/anthropics/claude-for-legal/pia-generation)**
-- **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)**
 - **[deep-research](https://www.skills.sh/anthropics/claude-for-legal/deep-research)**
 - **[infringement-triage](https://www.skills.sh/anthropics/claude-for-legal/infringement-triage)**
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)**
 - **[amendment-history](https://www.skills.sh/anthropics/claude-for-legal/amendment-history)**
 - **[irac-practice](https://www.skills.sh/anthropics/claude-for-legal/irac-practice)**
 - **[clearance](https://www.skills.sh/anthropics/claude-for-legal/clearance)**
@@ -310,9 +300,7 @@
 - **[deadlines](https://www.skills.sh/anthropics/claude-for-legal/deadlines)**
 - **[stakeholder-summary](https://www.skills.sh/anthropics/claude-for-legal/stakeholder-summary)**
 - **[review-proposals](https://www.skills.sh/anthropics/claude-for-legal/review-proposals)**
-- **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)**
 - **[cold-call-prep](https://www.skills.sh/anthropics/claude-for-legal/cold-call-prep)**
-- **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)**
 - **[customize](https://www.skills.sh/anthropics/claude-for-legal/customize)**
 - **[closing-checklist](https://www.skills.sh/anthropics/claude-for-legal/closing-checklist)**
 - **[material-contract-schedule](https://www.skills.sh/anthropics/claude-for-legal/material-contract-schedule)**
@@ -378,15 +366,13 @@
 - **[semester-handoff](https://www.skills.sh/anthropics/claude-for-legal/semester-handoff)**
 - **[ramp](https://www.skills.sh/anthropics/claude-for-legal/ramp)**
 
-## anthropics/financial-services · 72
+## anthropics/financial-services · 66
 
 - **[earnings-analysis](https://www.skills.sh/anthropics/financial-services/earnings-analysis)**
 - **[equity-research](https://www.skills.sh/anthropics/financial-services/equity-research)**
-- **[dcf-model](https://www.skills.sh/anthropics/financial-services/dcf-model)**
 - **[pitch-deck](https://www.skills.sh/anthropics/financial-services/pitch-deck)**
 - **[competitive-analysis](https://www.skills.sh/anthropics/financial-services/competitive-analysis)**
 - **[macro-rates-monitor](https://www.skills.sh/anthropics/financial-services/macro-rates-monitor)**
-- **[comps-analysis](https://www.skills.sh/anthropics/financial-services/comps-analysis)**
 - **[audit-xls](https://www.skills.sh/anthropics/financial-services/audit-xls)**
 - **[ppt-template-creator](https://www.skills.sh/anthropics/financial-services/ppt-template-creator)**
 - **[clean-data-xls](https://www.skills.sh/anthropics/financial-services/clean-data-xls)**
@@ -409,10 +395,7 @@
 - **[xlsx-author](https://www.skills.sh/anthropics/financial-services/xlsx-author)**
 - **[pptx-author](https://www.skills.sh/anthropics/financial-services/pptx-author)**
 - **[dd-checklist](https://www.skills.sh/anthropics/financial-services/dd-checklist)**
-- **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)**
-- **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)**
 - **[break-trace](https://www.skills.sh/anthropics/financial-services/break-trace)**
-- **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)**
 - **[roll-forward](https://www.skills.sh/anthropics/financial-services/roll-forward)**
 - **[kyc-rules](https://www.skills.sh/anthropics/financial-services/kyc-rules)**
 - **[thesis-tracker](https://www.skills.sh/anthropics/financial-services/thesis-tracker)**
@@ -429,7 +412,6 @@
 - **[client-report](https://www.skills.sh/anthropics/financial-services/client-report)**
 - **[returns-analysis](https://www.skills.sh/anthropics/financial-services/returns-analysis)**
 - **[client-review](https://www.skills.sh/anthropics/financial-services/client-review)**
-- **[model-update](https://www.skills.sh/anthropics/financial-services/model-update)**
 - **[merger-model](https://www.skills.sh/anthropics/financial-services/merger-model)**
 - **[cim-builder](https://www.skills.sh/anthropics/financial-services/cim-builder)**
 - **[dd-meeting-prep](https://www.skills.sh/anthropics/financial-services/dd-meeting-prep)**

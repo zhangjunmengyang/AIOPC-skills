@@ -1,8 +1,6 @@
-# 📚 Design full catalog
+# Design extended catalog
 
-> Full pack catalog: every tracked skill not already on a curated page. Names + links only; see the curated pages for descriptions.
-
----
+Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
 ## anthropics/skills · 12
 

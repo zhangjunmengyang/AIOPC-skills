@@ -32,7 +32,7 @@
 
 ## 全部技能
 
-[需求 / PRD](#s1) · [架构](#s2) · [测试](#s3) · [审查 / 安全](#s4) · [部署 / CI](#s5) · [调试 / 性能](#s6) · [文档 / 上下文](#s7) · [发布 / 设计协作](#s8)
+[需求 / PRD](#s1) · [架构](#s2) · [测试](#s3) · [审查 / 安全](#s4) · [部署 / CI](#s5) · [调试 / 性能](#s6) · [文档 / 上下文](#s7) · [发布 / 设计协作](#s8) · [代码命名](#s9)
 
 <a id="s1"></a>
 ### 需求 / PRD
@@ -52,6 +52,7 @@
 - **[architecture-blueprint-generator](https://www.skills.sh/github/awesome-copilot/architecture-blueprint-generator)** — 项目架构蓝图。
 - **[system-design](https://www.skills.sh/anthropics/knowledge-work-plugins/system-design)** — 系统设计与架构决策。
 - **[api-design](https://www.skills.sh/affaan-m/ecc/api-design)** — API 设计约定。
+- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — 记录 REST/RPC、Webhook、CLI 与文件格式的接口契约。
 - **[bmad-agent-architect](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-architect)** — 架构师角色。
 - **[bmad-agent-dev](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-dev)** — 开发角色。
 
@@ -115,6 +116,11 @@
 - **[develop-design-rationale](https://www.skills.sh/product-on-purpose/pm-skills/develop-design-rationale)** — 设计理由。
 - **[deliver-release-notes](https://www.skills.sh/product-on-purpose/pm-skills/deliver-release-notes)** — 发布说明。
 
+
+<a id="s9"></a>
+### 代码命名
+
+- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — 按上下文和约定改进变量、函数、类、文件及 API 名称。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 
