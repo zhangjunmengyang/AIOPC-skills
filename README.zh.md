@@ -14,7 +14,7 @@
 
 </div>
 
-一人公司 / 超级个体的 AI 工具箱。每条只留「名称 + 一句话 + 链接」，**按具体任务分类**，不堆合集。优先收有具体流程、模板或脚本的技能；纯一句 prompt 包装不收。
+一人公司 / 超级个体的 AI 工具箱。每条只留「名称 + 一句话 + 链接」，**按具体任务分类**，不堆合集。只收有具体步骤、模板或脚本的技能，纯 prompt 包装不收。
 
 链接核验于 **2026-11-11**。skills.sh 页面里有安装命令；MCP / Tool 条目直接看仓库 README。欢迎 PR，格式见[文末](#contribute)。
 
@@ -24,13 +24,13 @@
 
 | | 分区 | 条数 | 你会找到 |
 |---|---|---|---|
-| 🧩 | [一、写作与表达](#writing) | 44 | 从“像 AI 写的”到“像人写的” |
-| 📣 | [二、营销与增长](#marketing) | 47 | 按“被看见 → 被理解 → 被购买”拆开 |
-| 🎨 | [三、设计与前端](#design) | 22 | 不是“让 AI 画个图” |
-| 🎬 | [四、内容生产](#content) | 25 | 图、视频、PPT、文档、音频 |
-| 🔎 | [五、数据与研究](#data) | 13 | 找资料、抓数据、做分析、盯变化。 |
-| 🛠️ | [六、产品与研发](#product) | 23 | 从需求到上线 |
-| 💼 | [七、销售、客服与运营](#ops) | 14 | 把“卖”和“交付”拆成可复用动作。 |
+| 🧩 | [一、写作与表达](#writing) | 44 | 去 AI 味、文案、长文、中文平台 |
+| 📣 | [二、营销与增长](#marketing) | 49 | GEO、SEO、漏斗、社媒、广告 |
+| 🎨 | [三、设计与前端](#design) | 27 | UI、设计系统、Figma、前端 |
+| 🎬 | [四、内容生产](#content) | 26 | 图片、视频、PPT、文档、音频 |
+| 🔎 | [五、数据与研究](#data) | 14 | 搜索、抓取、分析、监控 |
+| 🛠️ | [六、产品与研发](#product) | 28 | PRD、架构、测试、审查、部署 |
+| 💼 | [七、销售、客服与运营](#ops) | 18 | 销售、合同、招聘、项目 |
 | 📈 | [八、OPC / 商业](#opc) | 20 | 定价、财务、营销规划 |
 | 🔌 | [MCP 与运行时](#mcp) | 19 | 服务器、自动化、编程 Agent |
 
@@ -170,6 +170,8 @@
 - **[ads](https://www.skills.sh/coreyhaines31/marketingskills/ads)** — 付费广告策略。
 - **[ad-creative](https://www.skills.sh/coreyhaines31/marketingskills/ad-creative)** — 广告创意生成。
 - **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — 广告创意 brief。
+- **[google-ads-api-quickstart](https://www.skills.sh/google/skills/google-ads-api-quickstart)** — Google Ads API 从零跑通。
+- **[google-ads-api-account-diagnostics](https://www.skills.sh/google/skills/google-ads-api-account-diagnostics)** — 诊断 Google Ads 账户表现。
 
 ### PR / 合作 / 推荐
 
@@ -223,6 +225,8 @@
 
 - **[figma-use](https://www.skills.sh/figma/mcp-server-guide/figma-use)** — 用 Figma Plugin API 操作画布。
 - **[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)** — 把设计稿实现成代码。
+- **[figma-code-connect](https://www.skills.sh/figma/mcp-server-guide/figma-code-connect)** — 把设计组件映射到代码组件。
+- **[figma-create-new-file](https://www.skills.sh/figma/mcp-server-guide/figma-create-new-file)** — 新建 Figma 设计/FigJam/Slides 文件。
 
 ### 前端实现
 
@@ -236,10 +240,13 @@
 - **[better-accessibility](https://www.skills.sh/jakubkrehel/skills/better-accessibility)** — 语义、键盘、焦点修复。
 - **[fixing-accessibility](https://www.skills.sh/ibelick/ui-skills/fixing-accessibility)** — 系统修复可访问性问题。
 - **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 审计。
+- **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — WCAG 2.2 全站审计。
+- **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — 按基线修复无障碍问题。
 
 ### 动效 / 3D
 
 - **[threejs-shaders](https://www.skills.sh/cloudai-x/threejs-skills/threejs-shaders)** — Three.js 着色器。
+- **[threejs-fundamentals](https://www.skills.sh/cloudai-x/threejs-skills/threejs-fundamentals)** — Three.js 基础场景与渲染。
 - **[remotion-render](https://www.skills.sh/101-skills/superpowers/remotion-render)** — Remotion 视频渲染。
 - **[transitions-polish](https://www.skills.sh/jakubantalik/transitions.dev/transitions-polish)** — 过渡动效打磨。
 
@@ -283,6 +290,7 @@
 - **[docx](https://www.skills.sh/anthropics/skills/docx)** — DOCX 创建/编辑/分析。
 - **[pdf](https://www.skills.sh/anthropics/skills/pdf)** — PDF 处理。
 - **[excel-automation](https://www.skills.sh/claude-office-skills/skills/excel-automation)** — Excel 自动化。
+- **[gws-sheets](https://www.skills.sh/googleworkspace/cli/gws-sheets)** — Google Sheets 读写与自动化。
 
 ### 音频
 
@@ -325,6 +333,7 @@
 ### 监控
 
 - **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — 网页变化监控与通知。
+- **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** — 网页变化监控与告警。
 
 [↑ 回到顶部](#top)
 
@@ -355,12 +364,17 @@
 - **[webapp-testing](https://www.skills.sh/anthropics/skills/webapp-testing)** — Web 应用测试。
 - **[test-driven-development](https://www.skills.sh/addyosmani/agent-skills/test-driven-development)** — 先写失败测试。
 - **[browser-testing-with-devtools](https://www.skills.sh/addyosmani/agent-skills/browser-testing-with-devtools)** — 用 DevTools 做浏览器测试。
+- **[vitest](https://www.skills.sh/antfu/skills/vitest)** — Vite 原生测试框架。
+- **[testing-strategy](https://www.skills.sh/anthropics/knowledge-work-plugins/testing-strategy)** — 设计测试策略与覆盖。
+- **[web-quality-audit](https://www.skills.sh/addyosmani/web-quality-skills/web-quality-audit)** — 浏览器实测 + 质量审计。
 
 ### 审查 / 安全
 
 - **[code-review-and-quality](https://www.skills.sh/addyosmani/agent-skills/code-review-and-quality)** — 多维度代码审查。
 - **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — 安全优先的开发。
 - **[security-audit](https://www.skills.sh/cloudflare/security-audit-skill/security-audit)** — 找真实信任边界漏洞。
+- **[bmad-code-review](https://www.skills.sh/bmad-code-org/bmad-method/bmad-code-review)** — BMad 代码审查流程。
+- **[ponytail-audit](https://www.skills.sh/dietrichgebert/ponytail/ponytail-audit)** — 像接手项目的资深工程师一样审全仓。
 
 ### 部署 / CI
 
@@ -398,17 +412,21 @@
 - **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — 技术合同文档。
 - **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — 雇佣合同模板。
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS 合规。
+- **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — 合同审阅与风险提示。
+- **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** — CUAD 合同风险审查。
 
 ### 招聘
 
 - **[resume-ats-optimizer](https://www.skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer)** — 简历 ATS 优化。
 - **[resume-bullet-writer](https://www.skills.sh/paramchoudhary/resumeskills/resume-bullet-writer)** — 简历要点写作。
 - **[tailored-resume-generator](https://www.skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator)** — 按 JD 定制简历。
+- **[sales-hiring](https://www.skills.sh/mbfinotti/sales-skills/sales-hiring)** — 销售招聘四件套。
 
 ### 项目 / 任务
 
 - **[planning-and-task-breakdown](https://www.skills.sh/addyosmani/agent-skills/planning-and-task-breakdown)** — 任务拆解。
 - **[task-management](https://www.skills.sh/anthropics/knowledge-work-plugins/task-management)** — 任务管理。
+- **[to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets)** — 把计划/规格拆成可执行 tickets。
 - **[lark-task](https://www.skills.sh/larksuite/cli/lark-task)** — 飞书任务。
 
 [↑ 回到顶部](#top)

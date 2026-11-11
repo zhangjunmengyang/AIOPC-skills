@@ -14,7 +14,7 @@
 
 </div>
 
-A toolbox for one-person companies and solo builders. One line per item, **organized by concrete task**, not by mega-list. We prioritize skills with real workflows, templates or scripts — prompt-only one-liners are out.
+A toolbox for one-person companies and solo builders. One line per item, **organized by concrete task**, not by mega-list. We only list skills with real steps, templates or scripts — no prompt-only wrappers.
 
 Links verified **2026-11-11**. Each skills.sh page includes an install command; for MCP / Tool entries, read the repo README. PRs welcome — see [Contributing](#contribute).
 
@@ -24,14 +24,14 @@ Links verified **2026-11-11**. Each skills.sh page includes an install command; 
 
 | | Section | Items | What you will find |
 |---|---|---|---|
-| 🧩 | [Writing & Expression](#writing) | 44 | From "sounds like AI" to writing that ships and sells. |
-| 📣 | [Marketing & Growth](#marketing) | 47 | Visibility |
-| 🎨 | [Design & Frontend](#design) | 22 | From visual concept to production UI. |
-| 🎬 | [Content Production](#content) | 25 | Images |
-| 🔎 | [Data & Research](#data) | 13 | Search |
-| 🛠️ | [Product & Engineering](#product) | 23 | From requirement to deploy |
-| 💼 | [Sales, Support & Ops](#ops) | 14 | Sales and delivery as repeatable actions. |
-| 📈 | [OPC & Business](#opc) | 20 | Pricing |
+| 🧩 | [Writing & Expression](#writing) | 44 | De-AI, copy, long-form, Chinese platforms |
+| 📣 | [Marketing & Growth](#marketing) | 49 | GEO, SEO, funnels, social, ads |
+| 🎨 | [Design & Frontend](#design) | 27 | UI, design systems, Figma, frontend |
+| 🎬 | [Content Production](#content) | 26 | Images, video, slides, docs, audio |
+| 🔎 | [Data & Research](#data) | 14 | Search, scraping, analysis, monitoring |
+| 🛠️ | [Product & Engineering](#product) | 28 | PRD, architecture, testing, review, deploy |
+| 💼 | [Sales, Support & Ops](#ops) | 18 | Sales, contracts, hiring, projects |
+| 📈 | [OPC & Business](#opc) | 20 | Pricing, finance, marketing planning |
 | 🔌 | [MCP & Runtime](#mcp) | 19 | Servers, automation and coding agents |
 
 **Tags:** each entry is a concrete task skill; `MCP` is a Model Context Protocol server, `Tool` is a standalone tool.
@@ -170,6 +170,8 @@ Visibility, understanding, conversion — one skill per job.
 - **[ads](https://www.skills.sh/coreyhaines31/marketingskills/ads)** — Paid ads strategy.
 - **[ad-creative](https://www.skills.sh/coreyhaines31/marketingskills/ad-creative)** — Performance ad creative.
 - **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — Performance creative brief.
+- **[google-ads-api-quickstart](https://www.skills.sh/google/skills/google-ads-api-quickstart)** — Go from zero to a working Google Ads API call.
+- **[google-ads-api-account-diagnostics](https://www.skills.sh/google/skills/google-ads-api-account-diagnostics)** — Diagnose Google Ads account performance.
 
 ### PR, partnerships & referrals
 
@@ -223,6 +225,8 @@ From visual concept to production UI.
 
 - **[figma-use](https://www.skills.sh/figma/mcp-server-guide/figma-use)** — Operate Figma through the Plugin API.
 - **[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)** — Turn Figma designs into code.
+- **[figma-code-connect](https://www.skills.sh/figma/mcp-server-guide/figma-code-connect)** — Map Figma components to code components.
+- **[figma-create-new-file](https://www.skills.sh/figma/mcp-server-guide/figma-create-new-file)** — Create Figma Design, FigJam or Slides files.
 
 ### Frontend implementation
 
@@ -236,10 +240,13 @@ From visual concept to production UI.
 - **[better-accessibility](https://www.skills.sh/jakubkrehel/skills/better-accessibility)** — Fix semantics, keyboard and focus.
 - **[fixing-accessibility](https://www.skills.sh/ibelick/ui-skills/fixing-accessibility)** — Systematically fix accessibility issues.
 - **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 audit patterns.
+- **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — Full WCAG 2.2 accessibility audit.
+- **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
 
 ### Motion & 3D
 
 - **[threejs-shaders](https://www.skills.sh/cloudai-x/threejs-skills/threejs-shaders)** — Three.js shaders.
+- **[threejs-fundamentals](https://www.skills.sh/cloudai-x/threejs-skills/threejs-fundamentals)** — Three.js scenes and rendering basics.
 - **[remotion-render](https://www.skills.sh/101-skills/superpowers/remotion-render)** — Render video with Remotion.
 - **[transitions-polish](https://www.skills.sh/jakubantalik/transitions.dev/transitions-polish)** — Polish transitions and motion.
 
@@ -283,6 +290,7 @@ Images, video, slides, docs and audio — by deliverable.
 - **[docx](https://www.skills.sh/anthropics/skills/docx)** — Create, edit and analyze DOCX.
 - **[pdf](https://www.skills.sh/anthropics/skills/pdf)** — PDF processing.
 - **[excel-automation](https://www.skills.sh/claude-office-skills/skills/excel-automation)** — Excel automation.
+- **[gws-sheets](https://www.skills.sh/googleworkspace/cli/gws-sheets)** — Read, write and automate Google Sheets.
 
 ### Audio
 
@@ -325,6 +333,7 @@ Search, scrape, analyze and monitor.
 ### Monitoring
 
 - **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — Monitor web pages for changes.
+- **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** — Page change monitoring and alerts.
 
 [↑ Back to top](#top)
 
@@ -355,12 +364,17 @@ From requirement to deploy, by engineering stage.
 - **[webapp-testing](https://www.skills.sh/anthropics/skills/webapp-testing)** — Web application testing.
 - **[test-driven-development](https://www.skills.sh/addyosmani/agent-skills/test-driven-development)** — Write a failing test first.
 - **[browser-testing-with-devtools](https://www.skills.sh/addyosmani/agent-skills/browser-testing-with-devtools)** — Browser testing with DevTools.
+- **[vitest](https://www.skills.sh/antfu/skills/vitest)** — Vite-native testing framework.
+- **[testing-strategy](https://www.skills.sh/anthropics/knowledge-work-plugins/testing-strategy)** — Design test coverage and strategy.
+- **[web-quality-audit](https://www.skills.sh/addyosmani/web-quality-skills/web-quality-audit)** — Browser-backed quality audit.
 
 ### Review & security
 
 - **[code-review-and-quality](https://www.skills.sh/addyosmani/agent-skills/code-review-and-quality)** — Multi-dimensional code review.
 - **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — Security-first development.
 - **[security-audit](https://www.skills.sh/cloudflare/security-audit-skill/security-audit)** — Find vulnerabilities at trust boundaries.
+- **[bmad-code-review](https://www.skills.sh/bmad-code-org/bmad-method/bmad-code-review)** — BMad code review workflow.
+- **[ponytail-audit](https://www.skills.sh/dietrichgebert/ponytail/ponytail-audit)** — Audit a repo like its new senior owner.
 
 ### Deploy & CI
 
@@ -398,17 +412,21 @@ Sales and delivery as repeatable actions.
 - **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — Technical contract documentation.
 - **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — Employment contract templates.
 - **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS compliance.
+- **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — Contract review and risk flags.
+- **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** — CUAD contract risk review.
 
 ### Hiring
 
 - **[resume-ats-optimizer](https://www.skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer)** — ATS resume optimization.
 - **[resume-bullet-writer](https://www.skills.sh/paramchoudhary/resumeskills/resume-bullet-writer)** — Resume bullet writing.
 - **[tailored-resume-generator](https://www.skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator)** — Tailor a resume to a job description.
+- **[sales-hiring](https://www.skills.sh/mbfinotti/sales-skills/sales-hiring)** — Four artifacts for sales hiring.
 
 ### Projects & tasks
 
 - **[planning-and-task-breakdown](https://www.skills.sh/addyosmani/agent-skills/planning-and-task-breakdown)** — Task breakdown and planning.
 - **[task-management](https://www.skills.sh/anthropics/knowledge-work-plugins/task-management)** — Task management.
+- **[to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets)** — Turn a plan or spec into tracer-bullet tickets.
 - **[lark-task](https://www.skills.sh/larksuite/cli/lark-task)** — Feishu/Lark tasks.
 
 [↑ Back to top](#top)
