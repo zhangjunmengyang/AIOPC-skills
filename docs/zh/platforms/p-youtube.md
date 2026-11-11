@@ -35,6 +35,8 @@
 - **[youtube-ads](https://www.skills.sh/kostja94/marketing-skills/youtube-ads)** — YouTube 广告。
 - **[youtube-thumbnail](https://www.skills.sh/charlie947/social-media-skills/youtube-thumbnail)** — YouTube 缩略图。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

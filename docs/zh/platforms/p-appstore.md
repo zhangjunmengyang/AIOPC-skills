@@ -30,6 +30,8 @@
 - **[asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics)** — ASC 指标。
 - **[app-store-featured](https://www.skills.sh/appeeky/aso-skills/app-store-featured)** — 商店推荐。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

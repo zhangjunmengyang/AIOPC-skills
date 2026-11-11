@@ -62,6 +62,8 @@ Product research, listings, SEO, pricing and checkout.
 - **[shopify-loyalty-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-loyalty-program)** — Shopify loyalty program.
 - **[shopify-cart-abandonment](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-cart-abandonment)** — Shopify cart abandonment.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

@@ -30,6 +30,8 @@ Store listing, keywords, localization and pricing.
 - **[asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics)** — App Store Connect metrics.
 - **[app-store-featured](https://www.skills.sh/appeeky/aso-skills/app-store-featured)** — App Store featuring.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

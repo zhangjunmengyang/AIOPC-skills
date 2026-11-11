@@ -38,6 +38,8 @@ Hooks, scripts, titles and covers, extraction and chapter navigation.
 - **[dbs-deconstruct](https://www.skills.sh/dontbesilent2025/dbskill/dbs-deconstruct)** — Deconstruct viral content.
 - **[dbs-resonate](https://www.skills.sh/dontbesilent2025/dbskill/dbs-resonate)** — Resonance design.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

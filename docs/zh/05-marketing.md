@@ -185,6 +185,9 @@
 - **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — 评论分析。
 - **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — 结账优化。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

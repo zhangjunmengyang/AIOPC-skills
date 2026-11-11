@@ -35,6 +35,8 @@ Search, Shorts, thumbnails and ads.
 - **[youtube-ads](https://www.skills.sh/kostja94/marketing-skills/youtube-ads)** — YouTube ads.
 - **[youtube-thumbnail](https://www.skills.sh/charlie947/social-media-skills/youtube-thumbnail)** — YouTube thumbnails.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

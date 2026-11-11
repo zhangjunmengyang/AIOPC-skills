@@ -90,6 +90,9 @@ Idea, validation, business model and positioning — decide what to build first.
 - **[founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales)** — Run founder-led sales.
 - **[ai-product-strategy](https://www.skills.sh/refoundai/lenny-skills/ai-product-strategy)** — Define an AI product strategy.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

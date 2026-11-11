@@ -34,6 +34,8 @@ Content, scripts, captions and ads.
 - **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok creator marketplace.
 - **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok influencer marketing.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

@@ -32,6 +32,8 @@ Professional content, ghostwriting, outreach and ads.
 - **[linkedin-profile-optimizer](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/linkedin-profile-optimizer)** — LinkedIn profile optimizer.
 - **[linkedin-company-pages](https://www.skills.sh/social-media-skills/skills/linkedin-company-pages)** — LinkedIn company pages.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

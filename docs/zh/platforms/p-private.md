@@ -39,6 +39,8 @@
 - **[newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator)** — 订阅页生成。
 - **[email-and-newsletter](https://www.skills.sh/social-media-skills/skills/email-and-newsletter)** — 邮件与 Newsletter。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

@@ -34,6 +34,8 @@
 - **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok 达人市场。
 - **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok 达人营销。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

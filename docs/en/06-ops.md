@@ -120,6 +120,9 @@ Sales and delivery as repeatable actions.
 - **[crm-data-governance](https://www.skills.sh/mbfinotti/revops-skills/crm-data-governance)** — Govern CRM data.
 - **[revenue-data-governance-strategy](https://www.skills.sh/mbfinotti/revops-skills/revenue-data-governance-strategy)** — Set revenue data governance.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

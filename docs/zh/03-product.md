@@ -115,6 +115,9 @@
 - **[develop-design-rationale](https://www.skills.sh/product-on-purpose/pm-skills/develop-design-rationale)** — 设计理由。
 - **[deliver-release-notes](https://www.skills.sh/product-on-purpose/pm-skills/deliver-release-notes)** — 发布说明。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

@@ -85,6 +85,7 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 ## 🧪 How we curate
 
 - Sources: high-install skill packs and community lists on skills.sh, split into individual skills and re-categorized.
+- This is an index, not a mirror: every entry links to the original skill page; summaries are short editorial notes, not republished content.
 - We prioritize skills with real workflows, templates or scripts — prompt-only one-liners are out.
 - All links verified **2026-11-11**; skills.sh pages include the install command and source repo.
 - Coverage over exhaustiveness: every stack must solve a real class of tasks before we add long-tail items.

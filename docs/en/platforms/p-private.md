@@ -39,6 +39,8 @@ Community, email list and podcast — turn traffic into a reachable asset.
 - **[newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator)** — Newsletter signup generator.
 - **[email-and-newsletter](https://www.skills.sh/social-media-skills/skills/email-and-newsletter)** — Email and newsletter.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

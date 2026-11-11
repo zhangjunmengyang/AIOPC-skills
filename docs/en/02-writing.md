@@ -141,6 +141,9 @@ Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold e
 - **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — Generate visual storyboards with AI.
 - **[chinese-novelist](https://www.skills.sh/penglonghuang/chinese-novelist-skill/chinese-novelist)** — Chinese fiction writing with conflict and hooks.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

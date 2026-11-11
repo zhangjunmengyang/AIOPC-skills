@@ -185,6 +185,9 @@ Visibility, understanding, conversion — one skill per job.
 - **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — Analyze product reviews.
 - **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — Optimize checkout.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

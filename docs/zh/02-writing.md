@@ -141,6 +141,9 @@
 - **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — AI 生成分镜。
 - **[chinese-novelist](https://www.skills.sh/penglonghuang/chinese-novelist-skill/chinese-novelist)** — 中文小说创作，冲突与悬念。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

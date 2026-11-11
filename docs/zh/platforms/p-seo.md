@@ -41,6 +41,8 @@
 - **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — GSC 分析。
 - **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — 站点架构。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

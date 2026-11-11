@@ -26,6 +26,8 @@
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — 社媒内容策略。
 - **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — 多平台发布。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

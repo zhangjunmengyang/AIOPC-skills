@@ -26,6 +26,8 @@ Posts, threads, algorithm optimization and automation.
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
 - **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

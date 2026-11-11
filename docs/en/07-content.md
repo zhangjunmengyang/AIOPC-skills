@@ -80,6 +80,9 @@ Images, video, slides, docs and audio — by deliverable.
 - **[music-to-video](https://www.skills.sh/heygen-com/hyperframes/music-to-video)** — Turn music into visual videos.
 - **[edge-tts](https://www.skills.sh/aahl/skills/edge-tts)** — Microsoft Edge text-to-speech.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

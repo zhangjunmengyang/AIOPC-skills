@@ -78,6 +78,9 @@
 - **[opcspace/opcstartup-skill](https://github.com/opcspace/opcstartup-skill)** — 0-6 阶段、百日计划、12 个模板。
 - **[slavingia/skills](https://github.com/slavingia/skills)** — 《极简创业》的 9 步技能库。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

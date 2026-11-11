@@ -31,6 +31,8 @@
 - **[wewrite-wechat-ai-publishing](https://www.skills.sh/reason-machines/trending-skills/wewrite-wechat-ai-publishing)** — 公众号 AI 发布。
 - **[wechat-message-sender](https://www.skills.sh/cloudsen/eliteforge-skills/wechat-message-sender)** — 微信消息发送。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

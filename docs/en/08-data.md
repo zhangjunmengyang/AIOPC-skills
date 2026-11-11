@@ -69,6 +69,9 @@ Search, scrape, analyze and monitor.
 - **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — Monitor web pages for changes.
 - **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** — Page change monitoring and alerts.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

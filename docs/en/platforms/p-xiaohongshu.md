@@ -37,6 +37,8 @@ Covers, titles, copy, publishing and review — one loop.
 - **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote cover generator.
 - **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — Xiaohongshu operations.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

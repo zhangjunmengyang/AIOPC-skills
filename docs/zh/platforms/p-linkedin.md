@@ -32,6 +32,8 @@
 - **[linkedin-profile-optimizer](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/linkedin-profile-optimizer)** — LinkedIn 主页优化。
 - **[linkedin-company-pages](https://www.skills.sh/social-media-skills/skills/linkedin-company-pages)** — LinkedIn 公司页。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

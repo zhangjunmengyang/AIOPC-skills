@@ -120,6 +120,9 @@
 - **[crm-data-governance](https://www.skills.sh/mbfinotti/revops-skills/crm-data-governance)** — CRM 数据治理。
 - **[revenue-data-governance-strategy](https://www.skills.sh/mbfinotti/revops-skills/revenue-data-governance-strategy)** — 收入数据治理。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

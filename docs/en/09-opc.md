@@ -78,6 +78,9 @@ Pricing, finance and marketing for a one-person company.
 - **[opcspace/opcstartup-skill](https://github.com/opcspace/opcstartup-skill)** — 0-6 stages, 100-day plan and 12 templates.
 - **[slavingia/skills](https://github.com/slavingia/skills)** — Nine-step skills from The Minimalist Entrepreneur.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

@@ -69,6 +69,9 @@
 - **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — 网页变化监控与通知。
 - **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** — 网页变化监控与告警。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

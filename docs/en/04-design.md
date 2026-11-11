@@ -185,6 +185,9 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — Full WCAG 2.2 accessibility audit.
 - **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

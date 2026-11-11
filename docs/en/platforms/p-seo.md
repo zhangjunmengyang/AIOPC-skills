@@ -41,6 +41,8 @@ Technical, content, backlinks, local and AI search.
 - **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — Analyze Search Console data.
 - **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — Design site architecture.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

@@ -52,6 +52,8 @@ Concrete servers and runtimes. Install one, prove it on a real task, then add an
 - **[Claude Code](https://github.com/anthropics/claude-code)** `Tool` — Terminal agent that reads, edits and runs code.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Tool` — Open-source AI software engineer.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)

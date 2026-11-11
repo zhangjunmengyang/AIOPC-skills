@@ -29,6 +29,8 @@ Native posts, lead discovery and ads.
 - **[reddit-marketing](https://www.skills.sh/social-media-skills/skills/reddit-marketing)** — Reddit marketing.
 - **[reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation)** — Reddit automation.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

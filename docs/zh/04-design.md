@@ -185,6 +185,9 @@
 - **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — WCAG 2.2 全站审计。
 - **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — 按基线修复无障碍问题。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

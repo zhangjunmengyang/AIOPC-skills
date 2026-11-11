@@ -29,6 +29,8 @@
 - **[reddit-marketing](https://www.skills.sh/social-media-skills/skills/reddit-marketing)** — Reddit 营销。
 - **[reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation)** — Reddit 自动化。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

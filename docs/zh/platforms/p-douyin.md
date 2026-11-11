@@ -38,6 +38,8 @@
 - **[dbs-deconstruct](https://www.skills.sh/dontbesilent2025/dbskill/dbs-deconstruct)** — 爆款拆解。
 - **[dbs-resonate](https://www.skills.sh/dontbesilent2025/dbskill/dbs-resonate)** — 共鸣设计。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

@@ -31,6 +31,8 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 - **[wewrite-wechat-ai-publishing](https://www.skills.sh/reason-machines/trending-skills/wewrite-wechat-ai-publishing)** — AI-assisted WeChat publishing.
 - **[wechat-message-sender](https://www.skills.sh/cloudsen/eliteforge-skills/wechat-message-sender)** — Send WeChat messages.
 
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../../README.md)

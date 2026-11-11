@@ -90,6 +90,9 @@
 - **[founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales)** — 创始人销售。
 - **[ai-product-strategy](https://www.skills.sh/refoundai/lenny-skills/ai-product-strategy)** — AI 产品战略。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

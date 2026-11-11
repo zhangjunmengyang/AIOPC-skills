@@ -80,6 +80,9 @@
 - **[music-to-video](https://www.skills.sh/heygen-com/hyperframes/music-to-video)** — 把音乐生成可视化视频。
 - **[edge-tts](https://www.skills.sh/aahl/skills/edge-tts)** — 微软 Edge 语音合成。
 
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

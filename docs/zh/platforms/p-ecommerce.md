@@ -62,6 +62,8 @@
 - **[shopify-loyalty-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-loyalty-program)** — Shopify 会员。
 - **[shopify-cart-abandonment](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-cart-abandonment)** — Shopify 弃购。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

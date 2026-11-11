@@ -37,6 +37,8 @@
 - **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote 封面。
 - **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — 小红书运营。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../../README.zh.md)

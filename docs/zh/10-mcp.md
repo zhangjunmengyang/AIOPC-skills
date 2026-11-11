@@ -52,6 +52,8 @@
 - **[Claude Code](https://github.com/anthropics/claude-code)** `Tool` — 终端 Agent，读代码、改代码、跑命令。
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Tool` — 开源 AI 软件开发智能体。
 
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
 ---
 
 [← 返回总览](../../README.zh.md)

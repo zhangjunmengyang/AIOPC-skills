@@ -115,6 +115,9 @@ From requirement to deploy, by engineering stage.
 - **[develop-design-rationale](https://www.skills.sh/product-on-purpose/pm-skills/develop-design-rationale)** — Document design rationale.
 - **[deliver-release-notes](https://www.skills.sh/product-on-purpose/pm-skills/deliver-release-notes)** — Write release notes.
 
+
+> Index page: summaries are editorial notes; read the full content at the source link.
+
 ---
 
 [← Back to index](../../README.md)
