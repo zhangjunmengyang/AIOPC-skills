@@ -25,6 +25,10 @@
 - **[customer-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/customer-research)** — Customer research.
 - **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — Customer journey.
 - **[prioritize](https://www.skills.sh/whawkinsiv/solo-founder-skills/prioritize)** — Prioritize.
+- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — Is this an app.
+- **[brand](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand)** — Brand.
+- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Domain name.
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — First customers.
 
 ### Finance & legal
 
@@ -47,6 +51,10 @@
 - **[optimize](https://www.skills.sh/whawkinsiv/solo-founder-skills/optimize)** — Optimization.
 - **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — Security.
 - **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — Monitoring.
+- **[scope](https://www.skills.sh/whawkinsiv/solo-founder-skills/scope)** — Scope.
+- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — Security.
+- **[replit-claude-code-prompting](https://www.skills.sh/whawkinsiv/solo-founder-skills/replit-claude-code-prompting)** — Replit/Claude Code prompting.
+- **[skill-audit-loop](https://www.skills.sh/whawkinsiv/solo-founder-skills/skill-audit-loop)** — Skill audit loop.
 
 ### Marketing & content
 
@@ -70,6 +78,7 @@
 - **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — Retention.
 - **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — User feedback.
 - **[community](https://www.skills.sh/whawkinsiv/solo-founder-skills/community)** — Community.
+- **[sales](https://www.skills.sh/whawkinsiv/solo-founder-skills/sales)** — Sales.
 
 ### Design & UX
 
@@ -80,6 +89,9 @@
 - **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — Visual polish.
 - **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — Brand identity generator.
 - **[motion-polish](https://www.skills.sh/whawkinsiv/solo-founder-skills/motion-polish)** — Motion polish.
+- **[accessibility](https://www.skills.sh/whawkinsiv/solo-founder-skills/accessibility)** — Accessibility.
+- **[navigation](https://www.skills.sh/whawkinsiv/solo-founder-skills/navigation)** — Navigation.
+- **[onboarding](https://www.skills.sh/whawkinsiv/solo-founder-skills/onboarding)** — Onboarding.
 
 ### Ops & support
 

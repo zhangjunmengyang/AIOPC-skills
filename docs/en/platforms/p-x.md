@@ -33,6 +33,7 @@ Posts, threads, algorithm optimization and automation.
 - **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
 - **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
+- **[twitter](https://www.skills.sh/resciencelab/opc-skills/twitter)** — X publishing.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

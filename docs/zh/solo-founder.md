@@ -25,6 +25,10 @@
 - **[customer-research](https://www.skills.sh/whawkinsiv/solo-founder-skills/customer-research)** — 客户研究。
 - **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — 用户旅程。
 - **[prioritize](https://www.skills.sh/whawkinsiv/solo-founder-skills/prioritize)** — 优先级排序。
+- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — 这是不是一个 App。
+- **[brand](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand)** — 品牌。
+- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — 域名。
+- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — 首批客户。
 
 ### 财务与法务
 
@@ -47,6 +51,10 @@
 - **[optimize](https://www.skills.sh/whawkinsiv/solo-founder-skills/optimize)** — 性能优化。
 - **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — 安全加固。
 - **[monitor](https://www.skills.sh/whawkinsiv/solo-founder-skills/monitor)** — 监控。
+- **[scope](https://www.skills.sh/whawkinsiv/solo-founder-skills/scope)** — 范围控制。
+- **[security](https://www.skills.sh/whawkinsiv/solo-founder-skills/security)** — 安全。
+- **[replit-claude-code-prompting](https://www.skills.sh/whawkinsiv/solo-founder-skills/replit-claude-code-prompting)** — Replit/Claude Code 提示。
+- **[skill-audit-loop](https://www.skills.sh/whawkinsiv/solo-founder-skills/skill-audit-loop)** — Skill 审计循环。
 
 ### 营销与内容
 
@@ -70,6 +78,7 @@
 - **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — 留存。
 - **[feedback](https://www.skills.sh/whawkinsiv/solo-founder-skills/feedback)** — 用户反馈。
 - **[community](https://www.skills.sh/whawkinsiv/solo-founder-skills/community)** — 社区运营。
+- **[sales](https://www.skills.sh/whawkinsiv/solo-founder-skills/sales)** — 销售。
 
 ### 设计与体验
 
@@ -80,6 +89,9 @@
 - **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — 视觉打磨。
 - **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — 品牌识别生成。
 - **[motion-polish](https://www.skills.sh/whawkinsiv/solo-founder-skills/motion-polish)** — 动效打磨。
+- **[accessibility](https://www.skills.sh/whawkinsiv/solo-founder-skills/accessibility)** — 可访问性。
+- **[navigation](https://www.skills.sh/whawkinsiv/solo-founder-skills/navigation)** — 导航。
+- **[onboarding](https://www.skills.sh/whawkinsiv/solo-founder-skills/onboarding)** — 用户引导。
 
 ### 运营与支持
 

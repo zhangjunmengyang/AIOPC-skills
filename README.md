@@ -72,7 +72,7 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 - 🚀 **[Starting Up](docs/en/01-startup.md)** · 36 skills — Idea, validation, business model and positioning — decide what to build first.
 - ✍️ **[Copywriting](docs/en/02-writing.md)** · 55 skills — Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold email, landing pages, ecommerce, app stores.
 - 🛠️ **[Product & Engineering](docs/en/03-product.md)** · 49 skills — From requirement to deploy, by engineering stage.
-- 🎨 **[Design & Frontend](docs/en/04-design.md)** · 107 skills — Design is a big block: style, type, components, motion, Figma and frontend.
+- 🎨 **[Design & Frontend](docs/en/04-design.md)** · 189 skills — Design is a big block: style, type, components, motion, Figma and frontend.
 - 📣 **[Marketing & Growth](docs/en/05-marketing.md)** · 103 skills — Visibility, understanding, conversion — one skill per job.
 - 💼 **[Sales, Support & Ops](docs/en/06-ops.md)** · 54 skills — Sales and delivery as repeatable actions.
 - 🎬 **[Content Production](docs/en/07-content.md)** · 26 skills — Images, video, slides, docs and audio — by deliverable.
@@ -89,6 +89,17 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 - 🧑‍💼 **[Founder Packs, by capability](docs/en/founder-packs.md)** — 56 skills from five founder packs, re-grouped by capability.
 - 🧭 **[Lenny's product & growth skills](docs/en/lenny.md)** — 45 selected from 148, re-grouped by product, growth, sales, team and decisions.
 - 🗺️ **[Competitive landscape](docs/en/landscape.md)** — the OPC and founder packs we track.
+- 🏷️ **[Naming](docs/en/naming.md)** — brand names, app names, domains and product titles, in Chinese and English.
+
+---
+
+## 📚 Full catalogs
+
+- 🧠 **[Marketing & sales](docs/en/full-marketing.md)** — 641 skills, names + links.
+- 🎨 **[Design](docs/en/full-design.md)** — 330 skills, names + links.
+- 🛠️ **[Product & startup](docs/en/full-product.md)** — 448 skills, names + links.
+- 💼 **[Ops, legal & finance](docs/en/full-ops.md)** — 656 skills, names + links.
+- 🎬 **[Content & data](docs/en/full-content.md)** — 53 skills, names + links.
 
 ---
 

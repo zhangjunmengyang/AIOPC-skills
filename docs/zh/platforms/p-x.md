@@ -33,6 +33,7 @@
 - **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — 钩子文案。
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — 社媒内容策略。
 - **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — 多平台发布。
+- **[twitter](https://www.skills.sh/resciencelab/opc-skills/twitter)** — X 发布。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 

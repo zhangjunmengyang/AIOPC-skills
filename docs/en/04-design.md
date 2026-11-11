@@ -32,7 +32,7 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 
 ## All skills
 
-[Visual styles](#s1) · [Type, color & layout](#s2) · [UX patterns](#s3) · [Design systems](#s4) · [Critique & research](#s5) · [Motion & 3D](#s6) · [Page design](#s7) · [Figma](#s8) · [UI & visual](#s9) · [Frontend implementation](#s10) · [Accessibility](#s11)
+[Visual styles](#s1) · [Type, color & layout](#s2) · [UX patterns](#s3) · [Design systems](#s4) · [Critique & research](#s5) · [Motion & 3D](#s6) · [Page design](#s7) · [Figma](#s8) · [UI & visual](#s9) · [Frontend implementation](#s10) · [Accessibility](#s11) · [Logo / 品牌识别](#s12) · [排版](#s13) · [色彩](#s14) · [图标](#s15) · [布局](#s16) · [UX / 可用性](#s17) · [动效](#s18) · [设计系统](#s19)
 
 <a id="s1"></a>
 ### Visual styles
@@ -184,6 +184,120 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 - **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 audit patterns.
 - **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — Full WCAG 2.2 accessibility audit.
 - **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
+
+<a id="s12"></a>
+### Logo / 品牌识别
+
+- **[logo-design](https://www.skills.sh/kaankiziltug/logo-design-skill/logo-design)** — Logo design.
+- **[logo-design-guide](https://www.skills.sh/inference-sh/skills/logo-design-guide)** — Logo design guide.
+- **[logo-generator](https://www.skills.sh/kostja94/marketing-skills/logo-generator)** — Logo generator.
+- **[logo-designer](https://www.skills.sh/neonwatty/logo-designer-skill/logo-designer)** — Logo designer.
+- **[svg-logo-designer](https://www.skills.sh/rknall/claude-skills/svg-logo-designer)** — SVG logo designer.
+- **[mascot-logo-reconstruction](https://www.skills.sh/roble3/cc-blender-skill/mascot-logo-reconstruction)** — Mascot logo reconstruction.
+- **[logo-animation](https://www.skills.sh/iart-ai/motion-design-skills/logo-animation)** — Logo animation.
+- **[animated-readme-logo](https://www.skills.sh/stark-ai-de/agent-skills/animated-readme-logo)** — Animated README logo.
+- **[muapi-logo-branding](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-branding)** — Logo branding.
+- **[muapi-logo-creator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-creator)** — Logo creator.
+- **[muapi-logo-generator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-generator)** — Logo generator.
+- **[muapi-3d-logo-animation](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-3d-logo-animation)** — 3D logo animation.
+- **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator (OPC).
+- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
+- **[brand-identity-generator](https://www.skills.sh/whawkinsiv/solo-founder-skills/brand-identity-generator)** — Brand identity generator.
+- **[brand-guidelines](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-guidelines)** — Brand guidelines.
+- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
+- **[brand-strategy](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-strategy)** — Brand strategy.
+- **[brand-positioning](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-positioning)** — Brand positioning.
+- **[brand-story](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-story)** — Brand story.
+- **[brand-audit](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-audit)** — Brand audit.
+- **[brand-architecture](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-architecture)** — Brand architecture.
+- **[rebranding](https://www.skills.sh/arnabbagxd/brand-building-skills/rebranding)** — Rebranding.
+- **[competitor-branding](https://www.skills.sh/arnabbagxd/brand-building-skills/competitor-branding)** — Competitor branding.
+- **[brand-packaging](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-packaging)** — Brand packaging.
+
+<a id="s13"></a>
+### 排版
+
+- **[ui-typography](https://www.skills.sh/bencium/bencium-marketplace/ui-typography)** — UI typography.
+- **[modular-scale-typography](https://www.skills.sh/dembrandt/dembrandt-skills/modular-scale-typography)** — Modular type scale.
+- **[kinetic-typography](https://www.skills.sh/iart-ai/kinetic-typography-skills/kinetic-typography)** — Kinetic typography.
+- **[better-typography](https://www.skills.sh/jakubkrehel/skills/better-typography)** — Better typography.
+- **[typography-audit](https://www.skills.sh/mblode/agent-skills/typography-audit)** — Typography audit.
+- **[font-pairing-suggester](https://www.skills.sh/onewave-ai/claude-skills/font-pairing-suggester)** — Font pairing.
+- **[critique-typography](https://www.skills.sh/owl-listener/designer-skills/critique-typography)** — Typography critique.
+- **[web-typography](https://www.skills.sh/wondelai/skills/web-typography)** — Web typography.
+- **[slug-font-rendering](https://www.skills.sh/reason-machines/trending-skills/slug-font-rendering)** — Font rendering.
+- **[layer-typography](https://www.skills.sh/layerai/skills/layer-typography)** — Layer typography.
+
+<a id="s14"></a>
+### 色彩
+
+- **[color-accessibility](https://www.skills.sh/aj-geddes/useful-ai-prompts/color-accessibility)** — Color accessibility.
+- **[algorithmic-color-palette](https://www.skills.sh/dembrandt/dembrandt-skills/algorithmic-color-palette)** — Algorithmic palettes.
+- **[color-palette](https://www.skills.sh/jezweb/claude-skills/color-palette)** — Color palette.
+- **[color-expert](https://www.skills.sh/meodai/skill.color-expert/color-expert)** — Color expert.
+- **[color-palette-extractor](https://www.skills.sh/onewave-ai/claude-skills/color-palette-extractor)** — Palette extractor.
+- **[critique-color](https://www.skills.sh/owl-listener/designer-skills/critique-color)** — Color critique.
+- **[better-colors](https://www.skills.sh/jakubkrehel/skills/better-colors)** — Better colors.
+- **[status-colors-and-errors](https://www.skills.sh/dembrandt/dembrandt-skills/status-colors-and-errors)** — Status and error colors.
+- **[color-mode-and-theme](https://www.skills.sh/dembrandt/dembrandt-skills/color-mode-and-theme)** — Color mode and theme.
+
+<a id="s15"></a>
+### 图标
+
+- **[ios-icon-gen](https://www.skills.sh/affaan-m/ecc/ios-icon-gen)** — iOS icon generator.
+- **[icon-retrieval](https://www.skills.sh/antvis/chart-visualization-skills/icon-retrieval)** — Icon retrieval.
+- **[app-icon-optimization](https://www.skills.sh/appeeky/aso-skills/app-icon-optimization)** — App icon optimization.
+- **[better-icons](https://www.skills.sh/better-auth/better-icons/better-icons)** — Better icons.
+- **[favicon](https://www.skills.sh/brianlovin/agent-config/favicon)** — Favicon.
+- **[favicon-gen](https://www.skills.sh/jezweb/claude-skills/favicon-gen)** — Favicon generator.
+- **[icon-set-generator](https://www.skills.sh/jezweb/claude-skills/icon-set-generator)** — Icon set generator.
+- **[svg-icon-generator](https://www.skills.sh/jeremylongshore/tons-of-skills-marketplace/svg-icon-generator)** — SVG icon generator.
+- **[suggest-lucide-icons](https://www.skills.sh/nweii/agent-stuff/suggest-lucide-icons)** — Suggest Lucide icons.
+- **[add-icon](https://www.skills.sh/fortawesome/fontawesome-agent-tools/add-icon)** — Add icon.
+
+<a id="s16"></a>
+### 布局
+
+- **[layout-analyzer](https://www.skills.sh/claude-office-skills/skills/layout-analyzer)** — Layout analyzer.
+- **[better-layout](https://www.skills.sh/jakubkrehel/skills/better-layout)** — Better layout.
+- **[layout-paradigms-and-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/layout-paradigms-and-consistency)** — Layout paradigms.
+- **[tailwindcss-advanced-layouts](https://www.skills.sh/josiahsiegel/claude-plugin-marketplace/tailwindcss-advanced-layouts)** — Tailwind layouts.
+
+<a id="s17"></a>
+### UX / 可用性
+
+- **[ux-designer](https://www.skills.sh/aj-geddes/claude-code-bmad-skills/ux-designer)** — UX designer.
+- **[ux-research-discovery-testing](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing)** — UX research and testing.
+- **[ux-usability-foundations](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-usability-foundations)** — Usability foundations.
+- **[ux-audit](https://www.skills.sh/jezweb/claude-skills/ux-audit)** — UX audit.
+- **[ux-friction](https://www.skills.sh/dylantarre/animation-principles/ux-friction)** — UX friction.
+- **[nielsen-usability-heuristics](https://www.skills.sh/dembrandt/dembrandt-skills/nielsen-usability-heuristics)** — Nielsen heuristics.
+- **[user-flows-and-guided-paths](https://www.skills.sh/dembrandt/dembrandt-skills/user-flows-and-guided-paths)** — User flows.
+- **[wireframe-prototyping](https://www.skills.sh/aj-geddes/useful-ai-prompts/wireframe-prototyping)** — Wireframe prototyping.
+- **[prototype](https://www.skills.sh/adobe/skills/prototype)** — Prototyping.
+
+<a id="s18"></a>
+### 动效
+
+- **[motion-foundations](https://www.skills.sh/affaan-m/ecc/motion-foundations)** — Motion foundations.
+- **[motion-patterns](https://www.skills.sh/affaan-m/ecc/motion-patterns)** — Motion patterns.
+- **[motion-ui](https://www.skills.sh/affaan-m/ecc/motion-ui)** — UI motion.
+- **[motion-dev-animations](https://www.skills.sh/199-biotechnologies/motion-dev-animations-skill/motion-dev-animations)** — Motion dev animations.
+- **[framer-motion](https://www.skills.sh/athevon/genjutsu/framer-motion)** — Framer Motion.
+- **[framer-motion-scroll](https://www.skills.sh/c-jeril/framer-motion-skills/framer-motion-scroll)** — Framer Motion scroll.
+- **[gsap-react](https://www.skills.sh/bbeierle12/skill-mcp-claude/gsap-react)** — GSAP React.
+- **[threejs-animation](https://www.skills.sh/cesartevisual/threejs-skills/threejs-animation)** — Three.js animation.
+- **[threejs-interaction](https://www.skills.sh/cesartevisual/threejs-skills/threejs-interaction)** — Three.js interaction.
+- **[threejs-lighting](https://www.skills.sh/cesartevisual/threejs-skills/threejs-lighting)** — Three.js lighting.
+
+<a id="s19"></a>
+### 设计系统
+
+- **[design-system-creation](https://www.skills.sh/aj-geddes/useful-ai-prompts/design-system-creation)** — Design system creation.
+- **[ui-design-system](https://www.skills.sh/alirezarezvani/claude-skills/ui-design-system)** — UI design system.
+- **[component-family-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/component-family-consistency)** — Component consistency.
+- **[design-system](https://www.skills.sh/affaan-m/ecc/design-system)** — Design system.
+- **[create-design-system-rules](https://www.skills.sh/figma/mcp-server-guide/create-design-system-rules)** — Design system rules.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.
