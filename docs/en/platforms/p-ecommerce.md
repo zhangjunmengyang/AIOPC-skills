@@ -4,6 +4,8 @@
 
 Product research, listings, SEO, pricing and checkout.
 
+> **Playbook:** Product → listing → traffic → conversion → repeat purchase
+
 ---
 
 ## ⭐ Top picks

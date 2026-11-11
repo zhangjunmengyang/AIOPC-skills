@@ -4,6 +4,8 @@
 
 Native posts, lead discovery and ads.
 
+> **Playbook:** Pick subreddit → genuine answers → soft share → leads
+
 ---
 
 ## ⭐ Top picks

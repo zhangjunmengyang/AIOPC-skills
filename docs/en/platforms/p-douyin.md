@@ -4,6 +4,8 @@
 
 Hooks, scripts, titles and covers, extraction and chapter navigation.
 
+> **Playbook:** Topic → hook → script → shoot/edit → publish/review
+
 ---
 
 ## ⭐ Top picks

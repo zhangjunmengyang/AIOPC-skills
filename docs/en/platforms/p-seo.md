@@ -4,6 +4,8 @@
 
 Technical, content, backlinks, local and AI search.
 
+> **Playbook:** Keywords → content → technical → backlinks → monitoring
+
 ---
 
 ## ⭐ Top picks

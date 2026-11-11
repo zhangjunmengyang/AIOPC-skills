@@ -12,7 +12,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#贡献)
 [![Last Updated](https://img.shields.io/badge/updated-2026--11--11-blue.svg)](#)
-[![Skills](https://img.shields.io/badge/skills-500%2B-7C5CFF.svg)](#)
+[![Skills](https://img.shields.io/badge/skills-600-7C5CFF.svg)](#)
 [![English](https://img.shields.io/badge/English-README.md-lightgrey)](README.md)
 
 </div>

@@ -4,6 +4,8 @@
 
 Posts, threads, algorithm optimization and automation.
 
+> **Playbook:** Positioning → post/thread → engagement → review
+
 ---
 
 ## ⭐ Top picks

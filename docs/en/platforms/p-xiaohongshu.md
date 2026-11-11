@@ -4,6 +4,8 @@
 
 Covers, titles, copy, publishing and review — one loop.
 
+> **Playbook:** Topic → title/cover → copy/images → publish → review
+
 ---
 
 ## ⭐ Top picks

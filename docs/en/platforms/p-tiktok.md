@@ -4,6 +4,8 @@
 
 Content, scripts, captions and ads.
 
+> **Playbook:** Product/topic → script → shoot/edit → publish → ads/creators
+
 ---
 
 ## ⭐ Top picks

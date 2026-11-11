@@ -4,6 +4,8 @@
 
 Store listing, keywords, localization and pricing.
 
+> **Playbook:** Keywords → screenshots → description → review → metrics
+
 ---
 
 ## ⭐ Top picks

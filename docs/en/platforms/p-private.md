@@ -4,6 +4,8 @@
 
 Community, email list and podcast — turn traffic into a reachable asset.
 
+> **Playbook:** Acquire → capture → content → convert → repeat
+
 ---
 
 ## ⭐ Top picks

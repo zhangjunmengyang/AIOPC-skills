@@ -4,6 +4,8 @@
 
 Search, Shorts, thumbnails and ads.
 
+> **Playbook:** Topic → script → shoot/edit → thumbnail/title → publish/ads
+
 ---
 
 ## ⭐ Top picks

@@ -4,6 +4,8 @@
 
 Professional content, ghostwriting, outreach and ads.
 
+> **Playbook:** Persona → case post → engagement/outreach → conversion
+
 ---
 
 ## ⭐ Top picks

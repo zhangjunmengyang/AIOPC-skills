@@ -4,6 +4,8 @@
 
 Long-form, layout, illustrations, publishing and group-chat summaries.
 
+> **Playbook:** Topic/research → long-form → layout/images → publish → private-domain follow-up
+
 ---
 
 ## ⭐ Top picks
