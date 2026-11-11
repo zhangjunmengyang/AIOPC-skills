@@ -14,494 +14,501 @@
 
 </div>
 
-一人公司 / 超级个体的 AI 工具箱。收集能直接装进 **Claude Code**、**Cursor**、**n8n** 等工具里的 Skills、MCP servers 和开源项目。
+一人公司 / 超级个体的 AI 工具箱。每条只留「名称 + 一句话 + 链接」，**按具体任务分类**，不堆合集。只收有具体步骤、模板或脚本的技能，纯 prompt 包装不收。
 
-每条只保留「名称 + 一句话 + 链接」，不写长评测。**先收藏超级大全，再按当前任务拿一个，跑通后再加第二个。**
-
-> A curated index of Skills, MCP servers and open-source tools for one-person companies and AI agents.
-> One line per item. Start with the mega-lists, then pick one tool for the job at hand.
-
-链接核验于 **2026-11-11**；star 数不写，避免过时。欢迎 PR，格式见[文末](#contribute)。
+链接核验于 **2026-11-11**。skills.sh 页面里有安装命令；MCP / Tool 条目直接看仓库 README。欢迎 PR，格式见[文末](#contribute)。
 
 ---
 
-## 🗺️ 快速导航 · Quick Nav
+## 🗺️ 快速导航
 
-| | 分区 | 你会找到 |
-|---|---|---|
-| 🧭 | [超级大全](#mega) | 18 个总目录，先收藏 |
-| 🧩 | [Skills 按任务](#skills) | 产品、营销、内容、数据、销售、OPC |
-| 🔌 | [MCP 按接入](#mcp) | 文件、浏览器、数据库、协作、开发 |
-| ⚙️ | [自动化](#automation) | n8n、Dify、Coze、流程模板 |
-| 🤖 | [Agent 框架](#agent) | 框架、编程 Agent、浏览器操作 |
-| 📚 | [知识库 / RAG](#rag) | RAGFlow、Dify、LlamaIndex |
-| 🧪 | [评测 / 可观测](#eval) | Promptfoo、Langfuse |
-| 🎓 | [学习 / 课程](#learn) | 微软、OpenAI、Anthropic |
-| 🇨🇳 | [中文资源](#cn) | 中文 MCP、Skills、导航站 |
+| | 分区 | 条数 | 你会找到 |
+|---|---|---|---|
+| 🧩 | [一、写作与表达](#writing) | 44 | 从“像 AI 写的”到“像人写的” |
+| 📣 | [二、营销与增长](#marketing) | 47 | 按“被看见 → 被理解 → 被购买”拆开 |
+| 🎨 | [三、设计与前端](#design) | 22 | 不是“让 AI 画个图” |
+| 🎬 | [四、内容生产](#content) | 25 | 图、视频、PPT、文档、音频 |
+| 🔎 | [五、数据与研究](#data) | 13 | 找资料、抓数据、做分析、盯变化。 |
+| 🛠️ | [六、产品与研发](#product) | 23 | 从需求到上线 |
+| 💼 | [七、销售、客服与运营](#ops) | 14 | 把“卖”和“交付”拆成可复用动作。 |
+| 📈 | [八、OPC / 商业](#opc) | 20 | 定价、财务、营销规划 |
+| 🔌 | [MCP 与运行时](#mcp) | 19 | 服务器、自动化、编程 Agent |
 
-**类型标记：** `Skill` 可装进 Claude Code / Cursor · `MCP` Model Context Protocol server · `Tool` 独立工具 / 平台 · `List` 合集 · `Framework` 开发框架 · `Course` 课程。
+**条目标记：** 每条都是具体任务技能；`MCP` 为 Model Context Protocol server，`Tool` 为独立工具。
 
 ---
 
-<a id="mega"></a>
-## 🧭 先收藏：超级大全 · Awesome Lists
+<a id="writing"></a>
+## 一、写作与表达
 
-- **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `List` — MCP 服务器总目录，按用途分几十类。
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** `List` — 官方参考 server：文件、fetch、git、memory、sqlite。
-- **[anthropics/skills](https://github.com/anthropics/skills)** `List` — 官方 Agent Skills 仓库，格式与示例。
-- **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** `List` — 最大的 Claude 技能清单之一。
-- **[agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** `List` — 近 3000 个技能的总目录，按关键词搜。
-- **[awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** `List` — 官方与社区技能合集，偏工程。
-- **[skills.sh](https://skills.sh)** `List` — 技能目录与安装排行。
-- **[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** `List` — Claude Code 的 commands、hooks、skills、工具大全。
-- **[superpowers](https://github.com/obra/superpowers)** `Skill` — 一套很火的 Claude Code 技能框架。
-- **[awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** `List` — 上百个专业子代理，按角色分。
-- **[awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)** `List` — AI Agent 项目大全。
-- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `List` — 100+ 可运行的 Agent / RAG 应用示例。
-- **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)** `List` — 大模型论文、模型、工具总览。
-- **[awesome-rag](https://github.com/awesome-rag/awesome-rag)** `List` — RAG 论文、框架、评测合集。
-- **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)** `List` — 最大的通用提示词库。
-- **[awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)** `List` — Cursor 规则大全。
-- **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** `List` — superpowers 中文版。
-- **[AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)** `List` — 中文 AI 编程教程与资源合集。
+从“像 AI 写的”到“像人写的”，再到能卖货、能发布。
 
-> 大全只用来「搜关键词」，不要从头读到尾。找到一个能解决当前任务的仓库，立刻拿真实材料试一次。
+### 说人话 / 去 AI 味
+
+- **[humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh)** — 中文去 AI 味，保留原意和语气。
+- **[humanizer](https://www.skills.sh/blader/humanizer/humanizer)** — 英文去 AI 味，识别 55 种模式。
+- **[no-ai-slop](https://www.skills.sh/petergyang/no-ai-slop/no-ai-slop)** — 去 AI 腔，保留个人声音。
+- **[avoid-ai-writing](https://www.skills.sh/conorbronsdon/avoid-ai-writing/avoid-ai-writing)** — 审计并重写 AI 写作痕迹。
+- **[antislop-copywriting](https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-copywriting)** — 反 AI 文案规则，偏代码代理。
+- **[grammar-check](https://www.skills.sh/phuryn/pm-skills/grammar-check)** — 语法、逻辑和流畅度检查。
+
+### 转化文案
+
+- **[copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting)** — 转化文案写作。
+- **[copy-editing](https://www.skills.sh/coreyhaines31/marketingskills/copy-editing)** — 营销文案逐轮编辑。
+- **[landing-page-copywriter](https://www.skills.sh/onewave-ai/claude-skills/landing-page-copywriter)** — 落地页文案，一页一个动作。
+- **[copywriting-hooks](https://www.skills.sh/samber/cc-skills/copywriting-hooks)** — 写让人想读第二句的钩子。
+- **[copywriting-tone-of-voice-creator](https://www.skills.sh/samber/cc-skills/copywriting-tone-of-voice-creator)** — 把品牌语气做成可执行规则。
+- **[ads-copywriter](https://www.skills.sh/claude-office-skills/skills/ads-copywriter)** — 多平台广告文案与 A/B 变体。
+- **[ogilvy-copywriting](https://www.skills.sh/boraoztunc/skills/ogilvy-copywriting)** — 奥格威式销售文案原则。
+- **[ad-copy-variants](https://www.skills.sh/mbfinotti/advertising-skills/ad-copy-variants)** — 一个卖点生成多组可测变体。
+- **[conversational-ad-copy](https://www.skills.sh/mbfinotti/advertising-skills/conversational-ad-copy)** — AI 回答/搜索里的对话式广告。
+
+### 长文 / 博客
+
+- **[edit-article](https://www.skills.sh/mattpocock/skills/edit-article)** — 按标题结构重编文章。
+- **[article-writing](https://www.skills.sh/affaan-m/ecc/article-writing)** — 有观点、像真人写的长文。
+- **[blog](https://www.skills.sh/agricidaniel/claude-blog/blog)** — 为排名和 AI 引用写博客。
+- **[blog-factcheck](https://www.skills.sh/agricidaniel/claude-blog/blog-factcheck)** — 博客事实核查。
+- **[blog-seo-check](https://www.skills.sh/agricidaniel/claude-blog/blog-seo-check)** — 发布前博客 SEO 检查。
+- **[engineering-blog-post](https://www.skills.sh/samber/developer-relations-skills/engineering-blog-post)** — 工程博客写作与编辑。
+- **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack 代写与增长。
+- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — LinkedIn 高转化代写。
+
+### 标题 / 开头
+
+- **[dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook)** — 短视频开头诊断与优化。
+- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — 小红书标题公式，75 种。
+- **[cold-email-subject-line-tester](https://www.skills.sh/mbfinotti/sales-skills/cold-email-subject-line-tester)** — 冷邮件标题评分与 A/B。
+- **[ad-hook-analyzer](https://www.skills.sh/mbfinotti/advertising-skills/ad-hook-analyzer)** — 批量分析视频广告开头。
+
+### 品牌 / 语气 / 界面文案
+
+- **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — 从真实材料建立品牌语气档案。
+- **[brand-voice-enforcement](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-voice-enforcement)** — 把已有品牌规范套到所有销售/营销内容。
+- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名策略与候选筛选。
+- **[brand-guidelines](https://www.skills.sh/alirezarezvani/claude-skills/brand-guidelines)** — 品牌视觉与表达规范。
+- **[ux-copy](https://www.skills.sh/anthropics/knowledge-work-plugins/ux-copy)** — 界面文案与错误提示。
+
+### 中文平台
+
+- **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — 一键发布到公众号草稿箱。
+- **[baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images)** — 小红书图文卡片组。
+- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Markdown 转公众号 HTML。
+- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — 小红书先研究再写再发。
+- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — 公众号四步写作流程。
+
+### 翻译 / 本地化
+
+- **[baoyu-translate](https://www.skills.sh/jimliu/baoyu-skills/baoyu-translate)** — 高质量翻译与润色。
+- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
+- **[mkdocs-translations](https://www.skills.sh/github/awesome-copilot/mkdocs-translations)** — 把文档站翻译成目标语言。
+- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — App Store 订阅名称与描述本地化。
+
+### 脚本 / 故事
+
+- **[dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow)** — 短视频逐字稿衔接与留存检查。
+- **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — AI 生成分镜。
+- **[chinese-novelist](https://www.skills.sh/penglonghuang/chinese-novelist-skill/chinese-novelist)** — 中文小说创作，冲突与悬念。
 
 [↑ 回到顶部](#top)
 
 ---
 
-<a id="skills"></a>
-## 🧩 Skills：按任务找 · Skills by Task
-
-> 每条是「一个具体任务 → 一个能直接用的 Skill / 仓库」。先挑最接近的一行；没有完全匹配的，去上面的超级大全搜关键词。
-
-<a id="product"></a>
-### 产品与研发 · Product & Engineering
-
-- **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** `Skill` — 多角色需求拆解与 PRD。
-- **[GitHub Spec Kit](https://github.com/github/spec-kit)** `Skill` — 规格驱动开发。
-- **[DeepWiki](https://github.com/AsyncFuncAI/deepwiki-open)** `Tool` — 自动生成仓库文档，快速读懂代码库。
-- **[PR-Agent](https://github.com/qodo-ai/pr-agent)** `Tool` — 自动审 PR、给修改建议。
-- **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** `MCP` — 浏览器自动化与测试。
-- **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** `MCP` — 调试真实浏览器、看网络与性能。
-- **[Context7](https://github.com/upstash/context7)** `MCP` — 给 AI 注入最新库文档，减少过时 API。
-- **[Next.js SaaS Starter](https://github.com/nextjs/saas-starter)** `Tool` — 全栈 SaaS 起步模板。
-- **[Open SaaS](https://github.com/wasp-lang/open-saas)** `Tool` — 开源 SaaS 模板。
-- **[Superdesign](https://github.com/superdesigndev/superdesign)** `Tool` — AI 设计画布，适合做页面与组件。
-- **[Coolify](https://github.com/coollabsio/coolify)** `Tool` — 自托管 PaaS，部署自己的服务。
-- **[Dokploy](https://github.com/Dokploy/dokploy)** `Tool` — 轻量 PaaS，Heroku 替代。
-
 <a id="marketing"></a>
-### 营销与获客 · Marketing & Growth
+## 二、营销与增长
 
-<a id="geo"></a>
-#### GEO / AI 搜索优化 · GEO
+按“被看见 → 被理解 → 被购买”拆开，每一格只放能直接用的。
 
-- **[gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills)** `Skill` — 网站 AEO / GEO 优化技能包。
-- **[geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill)** `Skill` — GEO 审计与优化引擎。
-- **[GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill)** `Skill` — 中文 GEO 内容优化。
-- **[GEOInflow](https://github.com/yaojingang/GEOInflow)** `Tool` — AI 爬虫与引用分析。
-- **[elmo](https://github.com/elmohq/elmo)** `Tool` — 开源 AEO / GEO 监测平台。
-- **[llms.txt](https://llmstxt.org/)** `Tool` — 给 AI 爬虫的站点索引。
-- **[GEO 原始论文](https://arxiv.org/abs/2311.09735)** `List` — 生成式引擎优化（KDD 2024）的方法与实验。
-- **[Google AI Features](https://developers.google.com/search/docs/appearance/ai-features)** `Tool` — AI 搜索/摘要的抓取与展示规则。
-- **[Profound](https://www.tryprofound.com/)** `Tool` — AI 搜索可见度监测。
+### GEO / AI 搜索
 
-<a id="seo"></a>
-#### SEO
+- **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — SEO + GEO 优化全流程。
+- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — 让内容被 AI 搜索引用。
+- **[seo-aeo-best-practices](https://www.skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices)** — 同时优化 SEO 和 AEO。
+- **[bencium-aeo](https://www.skills.sh/bencium/bencium-marketplace/bencium-aeo)** — AEO 内容优化。
 
-- **[claude-seo](https://github.com/AgriciDaniel/claude-seo)** `Skill` — 26 个子技能，覆盖 SEO 全流程。
-- **[open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** `MCP` — 免费 SEO MCP 与技能。
-- **[backlink_skills](https://github.com/flaqai/backlink_skills)** `Skill` — 免费外链提交技能包。
-- **[pseo-next](https://github.com/agamm/pseo-next)** `Tool` — 程序化 SEO 页面模板。
-- **[bisibility](https://github.com/CorgiCorner/bisibility)** `Tool` — 开源 SEO 排名与关键词平台。
-- **[Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)** `Tool` — 官方入门，先把基础做对。
-- **[Unlighthouse](https://github.com/harlan-zw/unlighthouse)** `Tool` — 全站跑 Lighthouse，找性能与 SEO 问题。
-- **[Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)** `Tool` — 把性能检查放进 CI。
-- **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** `Tool` — 爬站审计标题、描述、链接与错误。
-- **[Google Search Console](https://search.google.com/search-console/about)** `Tool` — 收录、曝光、关键词数据。
-- **[Ahrefs: Programmatic SEO](https://ahrefs.com/blog/programmatic-seo/)** `List` — 模板 × 数据 × 独特价值。
+### SEO
 
-<a id="landing"></a>
-#### 落地页 / 营销页 · Landing Pages
+- **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — 全站 SEO 审计。
+- **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — 模板×数据批量生成页面。
+- **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — 结构化数据标记。
+- **[keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research)** — 关键词机会研究。
+- **[seo-coach](https://www.skills.sh/every-app/open-seo/seo-coach)** — 按站点情况给 SEO 建议。
+- **[firecrawl-seo-audit](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit)** — 抓网页做证据型 SEO 审计。
+- **[link-prospecting](https://www.skills.sh/every-app/open-seo/link-prospecting)** — 找真实外链机会。
 
-- **[aipage.dev](https://github.com/zinedkaloc/aipage.dev)** `Tool` — 开源 AI 落地页生成器。
-- **[uitripled](https://github.com/moumen-soliman/uitripled)** `Tool` — 可复用落地页 UI 区块。
-- **[StarFunnel](https://github.com/unfolding-io/StarFunnel)** `Tool` — Astro 落地页搭建器。
-- **[OpenUI](https://github.com/wandb/openui)** `Tool` — 描述即生成 UI 页面。
-- **[local-business-builder](https://github.com/savvity/local-business-builder)** `Skill` — 本地商家建站 Claude 插件。
-- **[Danny Postma: Landing Page Pipeline](https://www.dannypostma.com/landing-page)** `List` — 研究 → 文案 → 设计 → 上线。
-- **[Julian Shapiro: Landing Page Copywriting](https://www.julian.com/guide/startup/landing-pages)** `List` — 首屏结构与文案长文。
-- **[Marketing Examples](https://marketingexamples.com/)** `List` — 真实落地页与表达案例。
-- **[Framer](https://www.framer.com/)** `Tool` — 快速搭营销页。
-- **[Carrd](https://carrd.co/)** `Tool` — 极简单页。
+### 落地页 / 漏斗 / CRO
 
-<a id="copy"></a>
-#### 文案 / 品牌语气 · Copy & Voice
+- **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)** — 落地页转化审计。
+- **[sales-funnel-blueprint](https://www.skills.sh/autonnel/autonnel-skills/sales-funnel-blueprint)** — 可执行的漏斗页面蓝图。
+- **[funnel-platform-picker](https://www.skills.sh/autonnel/autonnel-skills/funnel-platform-picker)** — 按案例选漏斗平台。
+- **[server-side-conversion-tracking](https://www.skills.sh/autonnel/autonnel-skills/server-side-conversion-tracking)** — 服务端转化追踪。
+- **[self-hosted-funnel-launch](https://www.skills.sh/autonnel/autonnel-skills/self-hosted-funnel-launch)** — 自托管漏斗从零上线。
+- **[cro](https://www.skills.sh/coreyhaines31/marketingskills/cro)** — 转化率优化。
+- **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer 设计与包装。
+- **[page-cro](https://www.skills.sh/coreyhaines31/marketingskills/page-cro)** — 单页转化优化。
+- **[onboarding-cro](https://www.skills.sh/coreyhaines31/marketingskills/onboarding-cro)** — 新手引导转化。
 
-- **[marketingskills](https://github.com/coreyhaines31/marketingskills)** `Skill` — 营销文案与 CRO 技能集。
-- **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** `Tool` — 带方法论的 AI 文案工具。
-- **[Brand-building-skills](https://github.com/arnabbagxd/Brand-building-skills)** `Skill` — 品牌定位与语气技能。
-- **[Vale](https://github.com/vale-cli/vale)** `Tool` — 品牌文风规则检查器。
-- **[中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)** `List` — 中文排版规范。
-- **[Copyhackers: Review Mining](https://copyhackers.com/write-copy-amazon-review-mining/)** `List` — 从评论里挖客户原话。
-- **[Mailchimp: Voice & Tone](https://styleguide.mailchimp.com/voice-and-tone/)** `List` — 品牌语气与场景化表达。
+### 社媒
 
-<a id="social"></a>
-#### 社媒 / 邮件 / 广告 / PR · Social, Email, Ads, PR
+- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — 社媒内容策略。
+- **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — 多平台发布。
+- **[twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation)** — X 自动化。
+- **[twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer)** — 按 X 算法优化内容。
+- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok 内容与投放。
+- **[reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads)** — 从 Reddit 找 B2B 线索。
 
-- **[Postiz](https://github.com/gitroomhq/postiz-app)** `Tool` — 开源社媒排期与多平台发布。
-- **[Mixpost](https://github.com/inovector/mixpost)** `Tool` — 自托管社媒管理。
-- **[social-media-agent](https://github.com/langchain-ai/social-media-agent)** `Tool` — 社媒选题策展智能体。
-- **[xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)** `MCP` — 小红书 MCP 发布工具。
-- **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** `MCP` — 社媒数据抓取 MCP。
-- **[BillionMail](https://github.com/Billionmail/BillionMail)** `Tool` — 自托管邮件营销服务器。
-- **[Dittofeed](https://github.com/dittofeed/dittofeed)** `Tool` — 生命周期消息自动化。
-- **[Sendportal](https://github.com/mettle/sendportal)** `Tool` — 自托管 Newsletter 平台。
-- **[sellbird](https://github.com/ethanplusai/sellbird)** `Tool` — 开源冷邮件外呼平台。
-- **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** `Skill` — 冷邮件评分与写作技能。
-- **[React Email](https://github.com/resend/react-email)** `Tool` — 用 React 写邮件模板。
-- **[Resend](https://github.com/resend/resend-node)** `Tool` — 发邮件 API。
-- **[Listmonk](https://github.com/knadh/listmonk)** `Tool` — 开源自托管 newsletter。
-- **[Mautic](https://github.com/mautic/mautic)** `Tool` — 开源邮件自动化。
-- **[Really Good Emails](https://www.reallygoodemails.com/)** `List` — 按生命周期找邮件样本。
-- **[google-ads-mcp](https://github.com/googleads/google-ads-mcp)** `MCP` — Google Ads 官方 MCP。
-- **[meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp)** `MCP` — Meta 广告投放 MCP。
-- **[google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)** `MCP` — GA4 官方数据 MCP。
-- **[meta-ads-analyzer](https://github.com/mathiaschu/meta-ads-analyzer)** `MCP` — Meta 广告诊断技能。
-- **[adloop](https://github.com/kLOsk/adloop)** `MCP` — 跨平台广告优化 MCP。
-- **[Google Skillshop](https://skillshop.withgoogle.com/)** `Course` — Google Ads 官方免费课程。
-- **[Meta Blueprint](https://www.facebook.com/business/learn)** `Course` — Meta 广告官方课程。
-- **[Featured News 标准](https://news.featured.com/standards)** `List` — 媒体采纳专家观点的标准。
+### 邮件
+
+- **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)** — 冷邮件写作。
+- **[emails](https://www.skills.sh/coreyhaines31/marketingskills/emails)** — 邮件序列设计。
+- **[deliverability-qa](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/deliverability-qa)** — 发信前送达率检查。
+- **[newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner)** — Newsletter 变现与增长闭环。
+
+### 广告
+
+- **[ads](https://www.skills.sh/coreyhaines31/marketingskills/ads)** — 付费广告策略。
+- **[ad-creative](https://www.skills.sh/coreyhaines31/marketingskills/ad-creative)** — 广告创意生成。
+- **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — 广告创意 brief。
+
+### PR / 合作 / 推荐
+
+- **[public-relations](https://www.skills.sh/coreyhaines31/marketingskills/public-relations)** — 媒体公关与 earned media。
+- **[influencer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/influencer-marketing)** — 达人 / 创作者营销。
+- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — 推荐与联盟计划。
+- **[influencer-campaign-brief](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-campaign-brief)** — 达人合作创意 brief。
+- **[affiliate-disclosure-compliance](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-disclosure-compliance)** — 联盟/达人披露合规检查。
+
+### 竞品 / 市场研究
+
+- **[competitor-profiling](https://www.skills.sh/coreyhaines31/marketingskills/competitor-profiling)** — 竞品档案。
+- **[competitors](https://www.skills.sh/coreyhaines31/marketingskills/competitors)** — 竞品与替代方案页面。
+- **[market-research](https://www.skills.sh/affaan-m/ecc/market-research)** — 支持决策的市场研究。
+- **[firecrawl-market-research](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-market-research)** — 抓取式市场研究。
+
+### 发布 / ASO
+
+- **[launch](https://www.skills.sh/coreyhaines31/marketingskills/launch)** — 产品发布策略。
+- **[launch-strategy](https://www.skills.sh/coreyhaines31/marketingskills/launch-strategy)** — SaaS 发布与功能公告策略。
+- **[shipping-and-launch](https://www.skills.sh/addyosmani/agent-skills/shipping-and-launch)** — 带质量门禁的发布。
+- **[product-hunt-launch](https://www.skills.sh/101-skills/superpowers/product-hunt-launch)** — Product Hunt 发布。
+- **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — 应用商店 ASO 审计。
+
+[↑ 回到顶部](#top)
+
+---
+
+<a id="design"></a>
+## 三、设计与前端
+
+不是“让 AI 画个图”，是从视觉概念到能上线的界面。
+
+### UI / 视觉
+
+- **[frontend-design](https://www.skills.sh/anthropics/skills/frontend-design)** — 高质量前端界面设计。
+- **[huashu-design](https://www.skills.sh/alchaincyf/huashu-design/huashu-design)** — 中文 HTML 设计，先提案。
+- **[mobile-app-ui-design](https://www.skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design)** — 移动 App UI/UX。
+- **[web-design-engineer](https://www.skills.sh/conardli/garden-skills/web-design-engineer)** — 像设计工程师一样做网页。
+- **[canvas-design](https://www.skills.sh/anthropics/skills/canvas-design)** — 视觉风格与设计哲学。
+- **[design-lab](https://www.skills.sh/0xdesign/design-plugin/design-lab)** — 设计实验与变体。
+
+### 设计系统
+
+- **[extract-design-system](https://www.skills.sh/arvindrk/extract-design-system/extract-design-system)** — 从现有网站逆向设计系统。
+- **[expo-design-system](https://www.skills.sh/expo/skills/expo-design-system)** — Expo 统一设计系统。
+- **[figma-create-design-system-rules](https://www.skills.sh/openai/skills/figma-create-design-system-rules)** — 生成设计系统规则。
+- **[figma-generate-design](https://www.skills.sh/figma/mcp-server-guide/figma-generate-design)** — 从设计系统生成页面。
+
+### Figma
+
+- **[figma-use](https://www.skills.sh/figma/mcp-server-guide/figma-use)** — 用 Figma Plugin API 操作画布。
+- **[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)** — 把设计稿实现成代码。
+
+### 前端实现
+
+- **[frontend-ui-engineering](https://www.skills.sh/addyosmani/agent-skills/frontend-ui-engineering)** — 生产级 UI 工程。
+- **[react-patterns](https://www.skills.sh/affaan-m/ecc/react-patterns)** — React 18/19 模式。
+- **[react-performance](https://www.skills.sh/affaan-m/ecc/react-performance)** — React/Next 性能。
+- **[swiftui-expert-skill](https://www.skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill)** — SwiftUI 专家规则。
+
+### 可访问性
+
+- **[better-accessibility](https://www.skills.sh/jakubkrehel/skills/better-accessibility)** — 语义、键盘、焦点修复。
+- **[fixing-accessibility](https://www.skills.sh/ibelick/ui-skills/fixing-accessibility)** — 系统修复可访问性问题。
+- **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 审计。
+
+### 动效 / 3D
+
+- **[threejs-shaders](https://www.skills.sh/cloudai-x/threejs-skills/threejs-shaders)** — Three.js 着色器。
+- **[remotion-render](https://www.skills.sh/101-skills/superpowers/remotion-render)** — Remotion 视频渲染。
+- **[transitions-polish](https://www.skills.sh/jakubantalik/transitions.dev/transitions-polish)** — 过渡动效打磨。
+
+[↑ 回到顶部](#top)
+
+---
 
 <a id="content"></a>
-### 内容与设计 · Content & Design
+## 四、内容生产
 
-- **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Tool` — 节点式图片生成 / 编辑工作流。
-- **[Penpot](https://github.com/penpot/penpot)** `Tool` — 开源 UI / 品牌设计平台。
-- **[Penpot MCP](https://github.com/penpot/penpot-mcp)** `MCP` — Penpot 官方设计 MCP。
-- **[Figma Context MCP](https://github.com/GLips/Figma-Context-MCP)** `MCP` — 把 Figma 设计稿给编码代理。
-- **[MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP)** `MCP` — 官方图像 / 视频生成 MCP。
-- **[Remotion](https://github.com/remotion-dev/remotion)** `Tool` — 用 React 做视频。
-- **[video-use](https://github.com/browser-use/video-use)** `Tool` — 用编码代理剪视频。
-- **[OpenCut](https://github.com/OpenCut-app/OpenCut)** `Tool` — 开源剪映替代。
-- **[VideoLingo](https://github.com/Huanshere/VideoLingo)** `Tool` — 字幕翻译配音一条龙。
-- **[VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)** `Tool` — LLM 字幕生成与校正。
-- **[Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** `Tool` — 开源数字人视频工具。
-- **[WhisperX](https://github.com/m-bain/whisperX)** `Tool` — 转写、对齐与说话人分离。
-- **[presenton](https://github.com/presenton/presenton)** `Tool` — 开源 AI PPT 生成器。
-- **[Presentation AI](https://github.com/allweonedev/presentation-ai)** `Tool` — Gamma 开源替代。
-- **[Office PowerPoint MCP](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server)** `MCP` — PPT 读写 MCP 服务。
-- **[Slidev](https://github.com/slidevjs/slidev)** `Tool` — Markdown 做幻灯片。
-- **[Marp](https://github.com/marp-team/marp)** `Tool` — Markdown 转 PPT。
-- **[PptxGenJS](https://github.com/gitbrent/PptxGenJS)** `Tool` — 代码生成 PPTX。
-- **[docxtemplater](https://github.com/open-xml-templating/docxtemplater)** `Tool` — 模板批量生成 Word / PPT。
-- **[Carbone](https://github.com/carboneio/carbone)** `Tool` — JSON 转 PDF / Word 报告。
-- **[Lucide](https://github.com/lucide-icons/lucide)** `Tool` — 开源图标集。
-- **[awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** `List` — 设计系统参考。
+图、视频、PPT、文档、音频，按最终交付物分。
+
+### 图片
+
+- **[image](https://www.skills.sh/coreyhaines31/marketingskills/image)** — 营销图片制作。
+- **[product-photography](https://www.skills.sh/101-skills/superpowers/product-photography)** — 产品摄影。
+- **[ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation)** — 多模型 AI 图片生成。
+- **[gpt-image](https://www.skills.sh/101-skills/superpowers/gpt-image)** — GPT 图片生成。
+- **[image-enhancer](https://www.skills.sh/composiohq/awesome-claude-skills/image-enhancer)** — 图片/截图增强。
+
+### 视频
+
+- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — 多模型 AI 视频生成。
+- **[image-to-video](https://www.skills.sh/gencraft-labs/skills/image-to-video)** — 图生视频。
+- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI 视频编辑。
+- **[video-use](https://www.skills.sh/browser-use/video-use/video-use)** — 编码代理剪视频。
+- **[dbs-video-extract](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-extract)** — 短视频信息提取。
+- **[dbs-video-navigation](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-navigation)** — 视频章节导航。
+
+### 演示 / PPT
+
+- **[slideshow](https://www.skills.sh/heygen-com/hyperframes/slideshow)** — HTML 演示/幻灯片。
+- **[slides](https://www.skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/slides)** — 数据可视化演示。
+- **[ppt-master](https://www.skills.sh/hugohe3/ppt-master/ppt-master)** — 路由式 PPT 工作流。
+- **[html-ppt](https://www.skills.sh/lewislulu/html-ppt-skill/html-ppt)** — HTML PPT 工作室。
+- **[baoyu-slide-deck](https://www.skills.sh/jimliu/baoyu-skills/baoyu-slide-deck)** — 幻灯片组生成。
+- **[pptx](https://www.skills.sh/anthropics/skills/pptx)** — PPTX 创建/编辑/分析。
+
+### 文档 / 表格
+
+- **[docx](https://www.skills.sh/anthropics/skills/docx)** — DOCX 创建/编辑/分析。
+- **[pdf](https://www.skills.sh/anthropics/skills/pdf)** — PDF 处理。
+- **[excel-automation](https://www.skills.sh/claude-office-skills/skills/excel-automation)** — Excel 自动化。
+
+### 音频
+
+- **[hyperframes-audio](https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio)** — 音频/配乐/音效。
+- **[ai-music](https://www.skills.sh/gencraft-labs/skills/ai-music)** — AI 音乐生成。
+- **[music](https://www.skills.sh/elevenlabs/skills/music)** — ElevenLabs 文本生成音乐。
+- **[music-to-video](https://www.skills.sh/heygen-com/hyperframes/music-to-video)** — 把音乐生成可视化视频。
+- **[edge-tts](https://www.skills.sh/aahl/skills/edge-tts)** — 微软 Edge 语音合成。
+
+[↑ 回到顶部](#top)
+
+---
 
 <a id="data"></a>
-### 数据与研究 · Data & Research
+## 五、数据与研究
 
-- **[Exa](https://github.com/exa-labs/exa-py)** `Tool` — 语义搜索 API。
-- **[Tavily](https://github.com/tavily-ai/tavily-python)** `Tool` — 为 Agent 设计的搜索 API。
-- **[tavily-mcp](https://github.com/tavily-ai/tavily-mcp)** `MCP` — 实时搜索与抓取 MCP。
-- **[SearXNG](https://github.com/searxng/searxng)** `Tool` — 开源元搜索引擎。
-- **[Firecrawl](https://github.com/firecrawl/firecrawl)** `Tool` — 网页抓取、爬站、深度研究。
-- **[firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** `MCP` — 官方抓取与搜索 MCP。
-- **[Crawl4AI](https://github.com/unclecode/crawl4ai)** `Tool` — 开源 LLM 爬虫。
-- **[Scrapling](https://github.com/D4Vinci/Scrapling)** `Tool` — 高抗封锁抓取框架。
-- **[Jina Reader](https://github.com/jina-ai/reader)** `Tool` — 网页转 Markdown。
-- **[Crawlee](https://github.com/apify/crawlee)** `Tool` — 爬虫框架。
-- **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** `Tool` — 竞品 / 页面变化监控。
-- **[Serper](https://serper.dev)** `Tool` — Google 搜索 API。
-- **[Metabase](https://github.com/metabase/metabase)** `Tool` — 开源 BI 与看板。
-- **[Vanna](https://github.com/vanna-ai/vanna)** `Tool` — 自然语言查 SQL。
-- **[WrenAI](https://github.com/Canner/WrenAI)** `Tool` — 受控 Text-to-SQL 平台。
-- **[SQLBot](https://github.com/dataease/SQLBot)** `Tool` — 中文智能问数系统。
-- **[Evidence](https://github.com/evidence-dev/evidence)** `Tool` — SQL 驱动的 BI 报告。
-- **[DuckDB](https://github.com/duckdb/duckdb)** `Tool` — 本地分析型数据库。
-- **[PandasAI](https://github.com/Sinaptik-AI/pandas-ai)** `Tool` — 用自然语言分析表格。
-- **[NocoDB](https://github.com/nocodb/nocodb)** `Tool` — Airtable 开源替代。
-- **[Teable](https://github.com/teableio/teable)** `Tool` — 多维表格 / 数据库。
-- **[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)** `List` — 抓取资源大全。
+找资料、抓数据、做分析、盯变化。
 
-<a id="sales"></a>
-### 销售、客服与运营 · Sales, Support & Ops
+### 搜索 / 深度研究
 
-- **[Twenty](https://github.com/twentyhq/twenty)** `Tool` — AI 原生开源 CRM。
-- **[twenty-crm-mcp-server](https://github.com/mhenry3164/twenty-crm-mcp-server)** `MCP` — Twenty CRM 的 MCP。
-- **[Krayin](https://github.com/krayin/laravel-crm)** `Tool` — Laravel 开源 CRM。
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** `Tool` — 全渠道客服台。
-- **[Zammad](https://github.com/zammad/zammad)** `Tool` — 开源工单帮助台。
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** `Tool` — 开源发票与账单。
-- **[Crater](https://github.com/crater-invoice-inc/crater)** `Tool` — 开源发票与账单。
-- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** `Tool` — 自托管发票管理。
-- **[DocuSeal](https://github.com/docusealco/docuseal)** `Tool` — 开源电子签。
-- **[Documenso](https://github.com/documenso/documenso)** `Tool` — 开源 DocuSign 替代。
-- **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** `Skill` — 合同审阅与风险技能。
-- **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** `Skill` — CUAD 合同风险审查。
-- **[devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)** `MCP` — 中国法律数据 MCP。
-- **[Plane](https://github.com/makeplane/plane)** `Tool` — 开源项目管理。
-- **[OpenProject](https://github.com/opf/openproject)** `Tool` — 开源项目管理平台。
-- **[Cal.com](https://github.com/calcom/cal.com)** `Tool` — 开源预约 / 日程。
-- **[OpenCATS](https://github.com/opencats/OpenCATS)** `Tool` — 开源招聘 ATS。
-- **[nueno](https://github.com/nueno-co/nueno)** `Tool` — 现代开源 ATS。
-- **[OpenResume](https://github.com/xitanggg/open-resume)** `Tool` — 简历生成与解析。
-- **[Outline](https://github.com/outline/outline)** `Tool` — 团队知识库。
-- **[Docmost](https://github.com/docmost/docmost)** `Tool` — 开源文档协作。
+- **[web-search](https://www.skills.sh/101-skills/superpowers/web-search)** — 网页搜索与提取。
+- **[deep-research](https://www.skills.sh/199-biotechnologies/claude-deep-research-skill/deep-research)** — 带引用的深度研究报告。
+- **[anysearch](https://www.skills.sh/anysearch-ai/anysearch-skill/anysearch)** — 统一实时搜索。
+- **[exa-search](https://www.skills.sh/affaan-m/ecc/exa-search)** — Exa 语义搜索。
+- **[academic-search](https://www.skills.sh/claude-office-skills/skills/academic-search)** — 学术文献搜索。
+
+### 抓取 / 浏览器
+
+- **[agent-browser](https://www.skills.sh/101-skills/superpowers/agent-browser)** — 代理浏览器。
+- **[browser-use](https://www.skills.sh/browser-use/browser-use/browser-use)** — 浏览器直接控制。
+- **[firecrawl](https://www.skills.sh/firecrawl/cli/firecrawl)** — 抓取/搜索/交互网页。
+- **[browser-act](https://www.skills.sh/browser-act/skills/browser-act)** — 浏览器自动化 CLI。
+
+### 分析 / 看板
+
+- **[data-analysis](https://www.skills.sh/claude-office-skills/skills/data-analysis)** — 表格数据分析。
+- **[build-dashboard](https://www.skills.sh/anthropics/knowledge-work-plugins/build-dashboard)** — 交互式仪表盘。
+- **[data-visualization](https://www.skills.sh/anthropics/knowledge-work-plugins/data-visualization)** — 图表选择与可视化成图。
+
+### 监控
+
+- **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — 网页变化监控与通知。
+
+[↑ 回到顶部](#top)
+
+---
+
+<a id="product"></a>
+## 六、产品与研发
+
+从需求到上线，按工程阶段拆。
+
+### 需求 / PRD
+
+- **[bmad-prd](https://www.skills.sh/bmad-code-org/bmad-method/bmad-prd)** — 多角色 PRD 工作流。
+- **[bmad-spec](https://www.skills.sh/bmad-code-org/bmad-method/bmad-spec)** — 规格内核。
+- **[prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development)** — 结构化 PRD 流程。
+- **[spec-driven-development](https://www.skills.sh/addyosmani/agent-skills/spec-driven-development)** — 先写规格再写代码。
+- **[idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine)** — 把粗糙想法打磨成可执行概念。
+
+### 架构
+
+- **[bmad-architecture](https://www.skills.sh/bmad-code-org/bmad-method/bmad-architecture)** — 架构 spine。
+- **[architecture-blueprint-generator](https://www.skills.sh/github/awesome-copilot/architecture-blueprint-generator)** — 项目架构蓝图。
+- **[system-design](https://www.skills.sh/anthropics/knowledge-work-plugins/system-design)** — 系统设计与架构决策。
+- **[api-design](https://www.skills.sh/affaan-m/ecc/api-design)** — API 设计约定。
+
+### 测试
+
+- **[webapp-testing](https://www.skills.sh/anthropics/skills/webapp-testing)** — Web 应用测试。
+- **[test-driven-development](https://www.skills.sh/addyosmani/agent-skills/test-driven-development)** — 先写失败测试。
+- **[browser-testing-with-devtools](https://www.skills.sh/addyosmani/agent-skills/browser-testing-with-devtools)** — 用 DevTools 做浏览器测试。
+
+### 审查 / 安全
+
+- **[code-review-and-quality](https://www.skills.sh/addyosmani/agent-skills/code-review-and-quality)** — 多维度代码审查。
+- **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — 安全优先的开发。
+- **[security-audit](https://www.skills.sh/cloudflare/security-audit-skill/security-audit)** — 找真实信任边界漏洞。
+
+### 部署 / CI
+
+- **[ci-cd-and-automation](https://www.skills.sh/addyosmani/agent-skills/ci-cd-and-automation)** — CI/CD 质量门禁。
+- **[deploy-checklist](https://www.skills.sh/anthropics/knowledge-work-plugins/deploy-checklist)** — 部署前检查。
+- **[docker-patterns](https://www.skills.sh/affaan-m/ecc/docker-patterns)** — Docker/Compose 生产实践。
+- **[aws-deployment](https://www.skills.sh/aws/agent-toolkit-for-aws/aws-deployment)** — AWS CI/CD 部署。
+
+### 调试 / 性能
+
+- **[debugging-and-error-recovery](https://www.skills.sh/addyosmani/agent-skills/debugging-and-error-recovery)** — 系统化调试。
+- **[performance-optimization](https://www.skills.sh/addyosmani/agent-skills/performance-optimization)** — 先测量再优化。
+- **[debug](https://www.skills.sh/anthropics/knowledge-work-plugins/debug)** — 结构化调试流程。
+- **[debug-optimize-lcp](https://www.skills.sh/chromedevtools/chrome-devtools-mcp/debug-optimize-lcp)** — 定位并优化 LCP。
+
+[↑ 回到顶部](#top)
+
+---
+
+<a id="ops"></a>
+## 七、销售、客服与运营
+
+把“卖”和“交付”拆成可复用动作。
+
+### 销售 / 客户
+
+- **[sales-enablement](https://www.skills.sh/coreyhaines31/marketingskills/sales-enablement)** — B2B 销售赋能。
+- **[prospecting](https://www.skills.sh/coreyhaines31/marketingskills/prospecting)** — 建合格线索名单。
+- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — 客户研究。
+- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — 客户健康分。
+- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — 流失信号。
+
+### 合同 / 合规
+
+- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — 技术合同文档。
+- **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — 雇佣合同模板。
+- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS 合规。
+
+### 招聘
+
+- **[resume-ats-optimizer](https://www.skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer)** — 简历 ATS 优化。
+- **[resume-bullet-writer](https://www.skills.sh/paramchoudhary/resumeskills/resume-bullet-writer)** — 简历要点写作。
+- **[tailored-resume-generator](https://www.skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator)** — 按 JD 定制简历。
+
+### 项目 / 任务
+
+- **[planning-and-task-breakdown](https://www.skills.sh/addyosmani/agent-skills/planning-and-task-breakdown)** — 任务拆解。
+- **[task-management](https://www.skills.sh/anthropics/knowledge-work-plugins/task-management)** — 任务管理。
+- **[lark-task](https://www.skills.sh/larksuite/cli/lark-task)** — 飞书任务。
+
+[↑ 回到顶部](#top)
+
+---
 
 <a id="opc"></a>
-### OPC / 一人公司专用 · OPC
+## 八、OPC / 商业
 
-- **[Easy Chen 一人企业方法论](https://github.com/easychen/opc-methodology)** `Skill` — 赛道、资产池、画布与 9 个业务 Skill。
-- **[iamtouchskyer/opc](https://github.com/iamtouchskyer/opc)** `Skill` — 21 个角色、6 种流程、脚本化 gate 的评审流水线。
-- **[validate-opc-project](https://github.com/luqi67677/validate-opc-project)** `Skill` — 五角色审查 + 正反证 + 停止线。
-- **[opcspace/opcstartup-skill](https://github.com/opcspace/opcstartup-skill)** `Skill` — 0-6 阶段、百日计划、12 个模板。
-- **[slavingia/skills](https://github.com/slavingia/skills)** `Skill` — 《极简创业》的 9 步技能库。
+定价、财务、营销规划，一人公司的经营动作。
+
+### 定价 / 变现
+
+- **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS 定价策略。
+- **[pricing-strategy](https://www.skills.sh/coreyhaines31/marketingskills/pricing-strategy)** — 定价与变现策略。
+- **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — 移动 App 变现。
+- **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — 开发者工具定价。
+- **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — 开发者工具商业模式。
+
+### 财务 / 指标
+
+- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — 3-5 年财务模型。
+- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — 创业指标体系。
+- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — 收入 KPI 框架。
+- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — 收入漏斗设计。
+
+### 营销规划
+
+- **[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)** — 营销计划。
+- **[marketing-ideas](https://www.skills.sh/coreyhaines31/marketingskills/marketing-ideas)** — 100+ 营销点子。
+- **[marketing-psychology](https://www.skills.sh/coreyhaines31/marketingskills/marketing-psychology)** — 营销心理与心智模型。
+- **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — 社区营销。
+- **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — 联合营销。
+- **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — 产品营销上下文。
+
+### OPC 专属仓库
+
+- **[Easy Chen 一人企业方法论](https://github.com/easychen/opc-methodology)** — 赛道、资产池、画布与 9 个业务 Skill。
+- **[iamtouchskyer/opc](https://github.com/iamtouchskyer/opc)** — 21 个角色、6 种流程、脚本化 gate 的评审流水线。
+- **[validate-opc-project](https://github.com/luqi67677/validate-opc-project)** — 五角色审查 + 正反证 + 停止线。
+- **[opcspace/opcstartup-skill](https://github.com/opcspace/opcstartup-skill)** — 0-6 阶段、百日计划、12 个模板。
+- **[slavingia/skills](https://github.com/slavingia/skills)** — 《极简创业》的 9 步技能库。
 
 [↑ 回到顶部](#top)
 
 ---
 
 <a id="mcp"></a>
-## 🔌 MCP：按接入对象找 · MCP by Integration
+## 九、MCP 与运行时
 
-> MCP 是给 AI 接工具的通用接口。先装 1 个文件 / 浏览器 / 数据库 server，跑通一个真实任务，再加第二个。
+具体 server 和运行时；先装一个，跑通再加。
 
-<a id="mcp-registry"></a>
-### 大全与注册表 · Directories
-
-- **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** `List` — 最大的 MCP 服务器合集。
-- **[官方参考 servers](https://github.com/modelcontextprotocol/servers)** `List` — 文件、fetch、git、memory、sqlite 官方实现。
-- **[MCP 官方文档](https://modelcontextprotocol.io)** `List` — 协议规范与接入指南。
-- **[官方 Registry](https://registry.modelcontextprotocol.io)** `List` — 官方服务器注册与发现。
-- **[Glama](https://glama.ai/mcp/servers)** `List` — 超大规模 MCP 注册表。
-- **[PulseMCP](https://www.pulsemcp.com)** `List` — 每日更新的全量目录。
-- **[mcp.so](https://mcp.so)** `List` — 老牌 MCP 目录站。
-- **[Smithery](https://smithery.ai)** `List` — 一键安装托管 MCP，现已并入 Arcade。
-- **[Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `List` — 中文 MCP 资源精选。
-- **[MCP 中文入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)** `Course` — 从 0 搭第一个 MCP server。
-
-<a id="mcp-code"></a>
-### 文件、代码、终端 · Files, Code & Terminal
-
-- **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MCP` — 受控读写本地文件。
-- **[Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** `MCP` — 读取、搜索、操作 Git 仓库。
-- **[GitHub](https://github.com/github/github-mcp-server)** `MCP` — Issue、PR、代码搜索、Actions。
-- **[Serena](https://github.com/oraios/serena)** `MCP` — 语义检索与代码编辑，适合大仓库。
-- **[Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP)** `MCP` — 终端命令与文件编辑控制。
-- **[Context7](https://github.com/upstash/context7)** `MCP` — 注入最新库文档。
-- **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** `MCP` — 分步反思式推理。
-
-<a id="mcp-browser"></a>
-### 浏览器与网页 · Browser & Web
-
-- **[Playwright](https://github.com/microsoft/playwright-mcp)** `MCP` — 浏览器自动化、点击、截图、跑测试。
-- **[Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)** `MCP` — 调试真实浏览器。
-- **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** `MCP` — 抓网页转 Markdown。
-- **[Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server)** `MCP` — 网页抓取、爬站、深度研究。
-- **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** `MCP` — 云端浏览器，适合大规模 / 反爬场景。
-
-<a id="mcp-db"></a>
-### 数据库与数据 · Databases
-
-- **[Postgres MCP Pro](https://github.com/crystaldba/postgres-mcp)** `MCP` — Postgres 读写、索引与调优建议。
-- **[DBHub](https://github.com/bytebase/dbhub)** `MCP` — 通用数据库网关，支持 SQLite / MySQL / Postgres。
-- **[Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** `MCP` — 知识图谱式持久记忆。
-- **[AntV Chart](https://github.com/antvis/mcp-server-chart)** `MCP` — 25+ 种图表生成。
-
-<a id="mcp-collab"></a>
-### 协作与办公 · Collaboration
-
-- **[Slack](https://github.com/korotovsky/slack-mcp-server)** `MCP` — 读频道、搜消息、发消息。
-- **[Notion](https://github.com/makenotion/notion-mcp-server)** `MCP` — 读写页面、数据库、评论。
-- **[Figma](https://github.com/GLips/Figma-Context-MCP)** `MCP` — 把 Figma 布局、组件和样式给 AI。
-- **[飞书 OpenAPI](https://github.com/larksuite/lark-openapi-mcp)** `MCP` — 飞书文档 / 表格 / 消息接入。
-
-<a id="mcp-dev"></a>
-### 客户端与开发框架 · Clients & SDKs
-
-- **[Python SDK](https://github.com/modelcontextprotocol/python-sdk)** `Framework` — 官方 Python 开发包。
-- **[TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** `Framework` — 官方 TypeScript 开发包。
-- **[FastMCP](https://github.com/PrefectHQ/fastmcp)** `Framework` — Python 快速构建 MCP server。
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** `Framework` — 全栈 MCP 应用框架。
-- **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** `Tool` — 调试、测试 MCP server。
-- **[Cherry Studio](https://github.com/CherryHQ/cherry-studio)** `Tool` — 支持 MCP 的桌面客户端。
-
-[↑ 回到顶部](#top)
-
----
-
-<a id="automation"></a>
-## ⚙️ 自动化与工作流 · Automation
-
-> 先把一个重复流程手工跑通，再考虑自动化；不要用工具掩盖一个本来就不该做的流程。
-
-- **[n8n](https://github.com/n8n-io/n8n)** `Tool` — 开源可视化工作流，可自托管、接 MCP。
-- **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** `List` — 几千个现成 n8n 工作流模板。
-- **[awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)** `List` — 按场景分类的 n8n 模板合集。
-- **[n8n 官方模板](https://n8n.io/workflows/)** `List` — 官方工作流模板社区。
-- **[Make 模板](https://www.make.com/en/templates)** `List` — 3500+ 应用集成模板。
-- **[Zapier 模板](https://zapier.com/templates)** `List` — 海量集成工作流模板。
+- **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** `MCP` — 浏览器自动化、点击、截图、跑测试。
+- **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** `MCP` — 调试真实浏览器，看网络与性能。
+- **[Context7](https://github.com/upstash/context7)** `MCP` — 给 AI 注入最新库文档。
+- **[GitHub MCP](https://github.com/github/github-mcp-server)** `MCP` — Issue、PR、代码搜索、Actions。
+- **[Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** `MCP` — 受控读写本地文件。
+- **[Postgres MCP Pro](https://github.com/crystaldba/postgres-mcp)** `MCP` — Postgres 读写、索引与调优。
+- **[Notion MCP](https://github.com/makenotion/notion-mcp-server)** `MCP` — 读写页面、数据库和评论。
+- **[Figma MCP](https://github.com/GLips/Figma-Context-MCP)** `MCP` — 把 Figma 布局和组件给 AI。
+- **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** `MCP` — 网页抓取、爬站、深度研究。
+- **[Tavily MCP](https://github.com/tavily-ai/tavily-mcp)** `MCP` — 实时搜索与抓取。
+- **[Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)** `MCP` — 知识图谱式持久记忆。
+- **[Slack MCP](https://github.com/korotovsky/slack-mcp-server)** `MCP` — 读频道、搜消息、发消息。
+- **[飞书 OpenAPI MCP](https://github.com/larksuite/lark-openapi-mcp)** `MCP` — 飞书文档、表格、消息接入。
+- **[n8n](https://github.com/n8n-io/n8n)** `Tool` — 开源可视化工作流，可自托管。
 - **[Activepieces](https://github.com/activepieces/activepieces)** `Tool` — 开源 Zapier 替代。
-- **[Windmill](https://github.com/windmill-labs/windmill)** `Tool` — 代码优先的工作流 / 脚本平台。
 - **[Dify](https://github.com/langgenius/dify)** `Tool` — 可视化 LLM 应用与工作流。
-- **[Coze Studio](https://github.com/coze-dev/coze-studio)** `Tool` — 字节开源的低代码 Bot / Agent 平台。
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** `Tool` — 拖拽式 LLM 流程与 Agent。
-- **[Langflow](https://github.com/langflow-ai/langflow)** `Tool` — 可视化 LangChain 流程编排。
-- **[Botpress](https://github.com/botpress/botpress)** `Tool` — 对话式 Bot 平台。
-
-[↑ 回到顶部](#top)
-
----
-
-<a id="agent"></a>
-## 🤖 Agent 框架与编程 Agent · Agent Frameworks
-
-> 先用现成的编程 Agent，再考虑自己搭框架；大多数人不需要从零写 Agent。
-
-<a id="agent-framework"></a>
-### 通用框架 · Frameworks
-
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** `Framework` — 状态图编排可恢复、可人工介入的 Agent。
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** `Framework` — 角色扮演式多智能体协作。
-- **[AutoGen](https://github.com/microsoft/autogen)** `Framework` — 微软多智能体对话与编程框架。
-- **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** `Framework` — 轻量多智能体工作流。
-- **[Google ADK](https://github.com/google/adk-python)** `Framework` — 谷歌代码优先 Agent 工具包。
-- **[Mastra](https://github.com/mastra-ai/mastra)** `Framework` — TypeScript 优先的 Agent 框架。
-- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** `Framework` — 类型安全的 Python Agent。
-- **[Agno](https://github.com/agno-agi/agno)** `Framework` — 高性能全栈 Agent 平台。
-- **[Vercel AI SDK](https://github.com/vercel/ai)** `Framework` — 前端友好的 AI 工具包。
-- **[LangChain](https://github.com/langchain-ai/langchain)** `Framework` — 最主流的 LLM 应用框架。
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** `Framework` — 微软企业级 LLM 集成。
-
-<a id="agent-coding"></a>
-### 编程 Agent / IDE · Coding Agents
-
+- **[Coze Studio](https://github.com/coze-dev/coze-studio)** `Tool` — 低代码 Bot/Agent 平台。
 - **[Claude Code](https://github.com/anthropics/claude-code)** `Tool` — 终端 Agent，读代码、改代码、跑命令。
-- **[Codex CLI](https://github.com/openai/codex)** `Tool` — OpenAI 终端编码 Agent。
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `Tool` — 谷歌终端 Agent。
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Tool` — 开源 AI 软件开发智能体，可自托管。
-- **[Cline](https://github.com/cline/cline)** `Tool` — IDE 内自主编码 Agent。
-- **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** `Tool` — 多角色 / 多模式开发团队。
-- **[Aider](https://github.com/Aider-AI/aider)** `Tool` — 终端 AI 结对编程，git 集成好。
-- **[Continue](https://github.com/continuedev/continue)** `Tool` — 可定制的开源编码助手。
-- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** `Tool` — 自动修复 GitHub Issue。
-- **[Goose](https://github.com/block/goose)** `Tool` — 可扩展本地自动化 Agent。
-
-<a id="agent-browser"></a>
-### 浏览器 / 电脑操作 · Browser & Computer Use
-
-- **[browser-use](https://github.com/browser-use/browser-use)** `Tool` — 让 AI 直接操作浏览器。
-- **[Stagehand](https://github.com/browserbase/stagehand)** `Tool` — 自然语言驱动网页自动化。
-- **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** `MCP` — 用 MCP 控制 Playwright。
-- **[Skyvern](https://github.com/Skyvern-AI/skyvern)** `Tool` — 视觉驱动浏览器工作流。
-- **[E2B](https://github.com/e2b-dev/E2B)** `Tool` — Agent 安全沙箱。
-- **[Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts)** `Tool` — Claude 控制桌面 / 电脑示例。
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** `Tool` — 开源 AI 软件开发智能体。
 
 [↑ 回到顶部](#top)
 
 ---
 
-<a id="rag"></a>
-## 📚 知识库 / RAG · RAG
+<a id="more"></a>
+## 十、找更多
 
-- **[RAGFlow](https://github.com/infiniflow/ragflow)** `Tool` — 深度文档理解 RAG 引擎，适合中文文档。
-- **[Dify](https://github.com/langgenius/dify)** `Tool` — 可视化 LLM 应用 / 知识库平台。
-- **[FastGPT](https://github.com/labring/FastGPT)** `Tool` — 知识库问答与工作流编排。
-- **[LlamaIndex](https://github.com/run-llama/llama_index)** `Framework` — 文档处理与 RAG 框架。
-- **[LightRAG](https://github.com/HKUDS/LightRAG)** `Framework` — 轻量图增强检索。
-- **[GraphRAG](https://github.com/microsoft/graphrag)** `Framework` — 微软图结构 RAG。
-- **[Milvus](https://github.com/milvus-io/milvus)** `Tool` — 云原生向量数据库。
-- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** `Tool` — 开箱即用的本地知识库 / 桌面 Agent。
-- **[Khoj](https://github.com/khoj-ai/khoj)** `Tool` — 可自托管的个人 AI 第二大脑。
-- **[Haystack](https://github.com/deepset-ai/haystack)** `Framework` — 生产级 RAG / 搜索框架。
+只留 4 个入口，够用即可；不要从这里开始读。
 
-[↑ 回到顶部](#top)
-
----
-
-<a id="eval"></a>
-## 🧪 评测、可观测与安全 · Evals & Observability
-
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** `Tool` — 比较提示词 / 模型输出，可做红队。
-- **[Langfuse](https://github.com/langfuse/langfuse)** `Tool` — 开源 LLM 可观测、评测与提示管理。
-- **[DeepEval](https://github.com/confident-ai/deepeval)** `Tool` — 像写单测一样评测 LLM 输出。
-- **[Braintrust](https://github.com/braintrustdata/braintrust-sdk)** `Tool` — 评测、数据集、实验追踪。
-- **[Helicone](https://github.com/Helicone/helicone)** `Tool` — LLM 请求日志、成本与延迟监控。
-- **[OpenAI Evals](https://github.com/openai/evals)** `Tool` — 官方评测框架与样例。
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** `Tool` — 开源 LLM 追踪、评测与可视化。
-
-[↑ 回到顶部](#top)
-
----
-
-<a id="learn"></a>
-## 🎓 学习 / 课程 / Cookbook · Learning
-
-- **[ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** `Course` — 微软 18 课 Agent 入门，带代码。
-- **[generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** `Course` — 微软 21 课生成式 AI 入门。
-- **[OpenAI Cookbook](https://github.com/openai/openai-cookbook)** `Course` — OpenAI API 官方示例与配方。
-- **[Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook)** `Course` — Claude 用法、工具调用、RAG 示例。
-- **[HF Agents Course](https://github.com/huggingface/agents-course)** `Course` — HuggingFace 智能体课程。
-- **[LangChain Academy](https://github.com/langchain-ai/langchain-academy)** `Course` — LangGraph 官方课程。
-- **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** `Course` — 提示工程权威指南。
-- **[Anthropic 提示词教程](https://github.com/anthropics/prompt-eng-interactive-tutorial)** `Course` — 官方互动式提示词教程。
-
-[↑ 回到顶部](#top)
-
----
-
-<a id="cn"></a>
-## 🇨🇳 中文资源与工具导航 · Chinese Resources
-
-<a id="cn-resources"></a>
-### 中文资源 · Chinese
-
-- **[Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** `List` — 中文 MCP 服务器与教程精选。
-- **[MCP 中文入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)** `Course` — 从 0 搭第一个 MCP server。
-- **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** `List` — superpowers 技能框架中文版。
-- **[AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh)** `List` — 中文 AI 编程教程与工具合集。
-- **[claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn)** `List` — Claude Code 中文指南。
-- **[everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh)** `List` — Claude Code 生态中文翻译。
-- **[飞书 OpenAPI MCP](https://github.com/larksuite/lark-openapi-mcp)** `MCP` — 飞书文档 / 表格 / 消息接入。
-- **[ModelScope MCP 广场](https://modelscope.cn/mcp)** `List` — 魔搭中文 MCP 市场。
-- **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** `List` — 中文 Agent 学习地图。
-- **[Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM)** `List` — 中文大模型资源大全。
-- **[中文提示词大全](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)** `List` — 中文提示词合集。
-- **[WaytoAGI](https://waytoagi.com)** `List` — 中文 AI 知识库社区。
-- **[AI 工具集](https://www.ai-bot.cn)** `List` — 中文 AI 工具导航。
-
-<a id="cn-directories"></a>
-### AI 工具导航站 · AI Directories
-
-- **[Futurepedia](https://futurepedia.io)** `List` — 老牌 AI 工具目录。
-- **[There's An AI For That](https://theresanaiforthat.com)** `List` — 按任务描述找 AI 工具。
-- **[Toolify](https://www.toolify.ai)** `List` — 海量 AI 工具目录与排行。
-- **[FutureTools](https://www.futuretools.io)** `List` — 工具收录与测评。
-- **[AI Tools Directory](https://aitoolsdirectory.com)** `List` — 分类式 AI 工具目录。
-- **[awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)** `List` — GitHub 上的 AI 工具清单。
-- **[awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)** `List` — 生成式 AI 资源大全。
-
-[↑ 回到顶部](#top)
+- **[skills.sh](https://skills.sh)** — 技能目录与安装排行
+- **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** — MCP 服务器总目录
+- **[anthropics/skills](https://github.com/anthropics/skills)** — 官方 Agent Skills
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — 官方参考 servers
 
 ---
 
 <a id="contribute"></a>
-## 🤝 贡献 · Contributing
+## 贡献
 
-欢迎 PR 补充。格式尽量保持一致：
+欢迎 PR。格式保持一致：
 
 ```markdown
-- **[名称](链接)** `类型` — 一句话说明。
+- **[名称](链接)** — 一句话说明。
 ```
 
-- 类型：`Skill` / `MCP` / `Tool` / `List` / `Framework` / `Course`
-- 一句话控制在 20 字左右，说清「解决什么问题」，不写营销语。
-- 优先收录原始仓库、官方文档、可直接运行的项目；不收录纯引流页和镜像站。
-- 提交前请自己打开链接确认可访问，并在 PR 里说明它补了哪个场景。
+- 只收“具体任务 + 具体产物”的技能，不收纯 prompt 包装和引流页。
+- 一句话说清解决什么问题，不写营销语。
+- 提交前自己打开链接确认可访问。
 
 > 本清单只做索引，版权归各项目作者。链接与项目状态会变化，使用前请自行核验。
 
