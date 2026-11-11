@@ -6,6 +6,10 @@ Twelve stages from self-audit to asset building, 21 capabilities and the 10 most
 
 > Companion deck: [OPC Sharing](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — macro framing, 2C/2B routes, cases and talk outline.
 
+<img src="../../assets/opc-workflow.svg" alt="OPC workflow" width="100%" />
+
+<p align="center"><sub>One map: 12 stages / 3 routes / 3 loops / private assets · <a href="../../assets/opc-workflow.png">Download PNG</a></sub></p>
+
 ---
 
 ## 12 stages

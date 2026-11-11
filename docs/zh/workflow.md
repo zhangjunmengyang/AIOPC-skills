@@ -6,6 +6,10 @@
 
 > 配套讲稿：[OPC 分享](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — 宏观认知、2C/2B 路线、案例、分享大纲。
 
+<img src="../../assets/opc-workflow.svg" alt="OPC workflow" width="100%" />
+
+<p align="center"><sub>一张图：12 个阶段 / 3 条路线 / 3 个循环 / 私有资产 · <a href="../../assets/opc-workflow.png">下载 PNG</a></sub></p>
+
 ---
 
 ## 12 阶段
