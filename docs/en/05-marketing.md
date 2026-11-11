@@ -8,22 +8,22 @@ Visibility, understanding, conversion — one skill per job.
 
 ## ⭐ Top picks
 
-**[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)**
+**[ai-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md)**
 
 - *Why:* Review content structure, sources and crawlability for AI search.
 - *First use:* Rewrite one article for AI-search structure.
 
-**[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)**
+**[seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md)**
 
 - *Why:* Check technical SEO, page content and indexing issues, then prioritize findings.
 - *First use:* Audit your site and fix the top three issues.
 
-**[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)**
+**[landing-page-conversion-audit](https://github.com/autonnel/autonnel-skills/blob/HEAD/landing-page-conversion-audit/SKILL.md)**
 
 - *Why:* Review messaging, calls to action and trust signals for potential conversion barriers.
 - *First use:* Audit your landing page and rewrite the hero.
 
-**[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)**
+**[cold-email](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md)**
 
 - *Why:* Draft outreach using the prospect’s background and business needs.
 - *First use:* Write ten one-to-one emails; do not batch-send.
@@ -37,150 +37,150 @@ Visibility, understanding, conversion — one skill per job.
 <a id="s1"></a>
 ### GEO / AI search
 
-- **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
-- **[seo-aeo-best-practices](https://www.skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices)** — Optimize for both SEO and answer engines.
-- **[bencium-aeo](https://www.skills.sh/bencium/bencium-marketplace/bencium-aeo)** — Answer Engine Optimization for content.
+- **[seo-geo](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/seo-geo/SKILL.md)** — Combined SEO and GEO optimization.
+- **[ai-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md)** — Review content structure, sources and crawlability for AI search.
+- **[seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/blob/HEAD/skills/seo-aeo-best-practices/SKILL.md)** — Optimize for both SEO and answer engines.
+- **[bencium-aeo](https://github.com/bencium/bencium-marketplace/blob/HEAD/bencium-aeo/skills/bencium-aeo/SKILL.md)** — Answer Engine Optimization for content.
 
 <a id="s2"></a>
 ### SEO
 
-- **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — Full-site SEO audit.
-- **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — Template × data page generation.
-- **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — Structured data and schema markup.
-- **[keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research)** — Keyword opportunity research.
-- **[seo-coach](https://www.skills.sh/every-app/open-seo/seo-coach)** — Site-specific SEO coaching.
-- **[firecrawl-seo-audit](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit)** — Evidence-based SEO audit by crawling.
-- **[link-prospecting](https://www.skills.sh/every-app/open-seo/link-prospecting)** — Find realistic link opportunities.
-- **[seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content)** — Write SEO content.
-- **[seo-sitemap](https://www.skills.sh/agricidaniel/claude-seo/seo-sitemap)** — Audit and generate sitemaps.
-- **[seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical)** — Run a technical SEO audit.
-- **[seo-backlinks](https://www.skills.sh/agricidaniel/claude-seo/seo-backlinks)** — Analyze backlinks.
-- **[seo-schema](https://www.skills.sh/agricidaniel/claude-seo/seo-schema)** — Implement schema markup.
-- **[seo-page](https://www.skills.sh/agricidaniel/claude-seo/seo-page)** — Optimize a single page.
-- **[seo-competitor-pages](https://www.skills.sh/agricidaniel/claude-seo/seo-competitor-pages)** — Build competitor comparison pages.
-- **[youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo)** — Optimize for YouTube search.
-- **[local-seo](https://www.skills.sh/kostja94/marketing-skills/local-seo)** — Optimize local SEO.
-- **[entity-seo](https://www.skills.sh/kostja94/marketing-skills/entity-seo)** — Build entity SEO.
-- **[parasite-seo](https://www.skills.sh/kostja94/marketing-skills/parasite-seo)** — Run parasite SEO.
+- **[seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md)** — Full-site SEO audit.
+- **[programmatic-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/programmatic-seo/SKILL.md)** — Template × data page generation.
+- **[schema](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/schema/SKILL.md)** — Structured data and schema markup.
+- **[keyword-research](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/keyword-research/SKILL.md)** — Keyword opportunity research.
+- **[seo-coach](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/seo-coach/SKILL.md)** — Site-specific SEO coaching.
+- **[firecrawl-seo-audit](https://github.com/firecrawl/firecrawl-workflows/blob/HEAD/skills/firecrawl-seo-audit/SKILL.md)** — Evidence-based SEO audit by crawling.
+- **[link-prospecting](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/link-prospecting/SKILL.md)** — Find realistic link opportunities.
+- **[seo-content](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content/SKILL.md)** — Write SEO content.
+- **[seo-sitemap](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-sitemap/SKILL.md)** — Audit and generate sitemaps.
+- **[seo-technical](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-technical/SKILL.md)** — Run a technical SEO audit.
+- **[seo-backlinks](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-backlinks/SKILL.md)** — Analyze backlinks.
+- **[seo-schema](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-schema/SKILL.md)** — Implement schema markup.
+- **[seo-page](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-page/SKILL.md)** — Optimize a single page.
+- **[seo-competitor-pages](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-competitor-pages/SKILL.md)** — Build competitor comparison pages.
+- **[youtube-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/youtube/SKILL.md)** — Optimize for YouTube search.
+- **[local-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/local/SKILL.md)** — Optimize local SEO.
+- **[entity-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/entity-seo/SKILL.md)** — Build entity SEO.
+- **[parasite-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/parasite-seo/SKILL.md)** — Run parasite SEO.
 
 <a id="s3"></a>
 ### Content strategy
 
-- **[content-strategy](https://www.skills.sh/coreyhaines31/marketingskills/content-strategy)** — Plan a content strategy.
-- **[content-pillars](https://www.skills.sh/social-media-skills/skills/content-pillars)** — Define content pillars.
-- **[content-calendar](https://www.skills.sh/social-media-skills/skills/content-calendar)** — Build a content calendar.
-- **[podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing)** — Market with podcasts.
-- **[article-content](https://www.skills.sh/kostja94/marketing-skills/article-content)** — Write article content.
-- **[medium-posts](https://www.skills.sh/kostja94/marketing-skills/medium-posts)** — Write Medium posts.
+- **[content-strategy](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md)** — Plan a content strategy.
+- **[content-pillars](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-pillars/SKILL.md)** — Define content pillars.
+- **[content-calendar](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-calendar/SKILL.md)** — Build a content calendar.
+- **[podcast-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/podcast/SKILL.md)** — Market with podcasts.
+- **[article-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/article/SKILL.md)** — Write article content.
+- **[medium-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/medium/SKILL.md)** — Write Medium posts.
 
 <a id="s4"></a>
 ### Social
 
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
-- **[twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation)** — X/Twitter automation.
-- **[twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer)** — Optimize posts for the X algorithm.
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok content and ads.
-- **[reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads)** — Find B2B leads on Reddit.
-- **[linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts)** — Write LinkedIn posts.
-- **[twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts)** — Write X posts.
-- **[reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts)** — Write Reddit posts.
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — Write TikTok captions.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[youtube-shorts](https://www.skills.sh/social-media-skills/skills/youtube-shorts)** — Script YouTube Shorts.
-- **[instagram-growth](https://www.skills.sh/social-media-skills/skills/instagram-growth)** — Grow on Instagram.
-- **[pinterest-posts](https://www.skills.sh/social-media-skills/skills/pinterest-posts)** — Write Pinterest posts.
-- **[carousel-writer](https://www.skills.sh/social-media-skills/skills/carousel-writer)** — Write carousel posts.
-- **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — Write captions.
-- **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
-- **[viral-reverse-engineering](https://www.skills.sh/social-media-skills/skills/viral-reverse-engineering)** — Reverse-engineer viral posts.
-- **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
-- **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
-- **[instagram-seo](https://www.skills.sh/social-media-skills/skills/instagram-seo)** — Optimize Instagram search.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[social-publisher](https://github.com/claude-office-skills/skills/blob/HEAD/social-publisher/SKILL.md)** — Multi-platform social publishing.
+- **[twitter-automation](https://github.com/101-skills/superpowers/blob/HEAD/tools/social/twitter-automation/SKILL.md)** — X/Twitter automation.
+- **[twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/twitter-algorithm-optimizer/SKILL.md)** — Optimize posts for the X algorithm.
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok content and ads.
+- **[reddit-leads](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-leads/SKILL.md)** — Find B2B leads on Reddit.
+- **[linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md)** — Write LinkedIn posts.
+- **[twitter-x-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/x/SKILL.md)** — Write X posts.
+- **[reddit-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/reddit/SKILL.md)** — Write Reddit posts.
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — Write TikTok captions.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[youtube-shorts](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-shorts/SKILL.md)** — Script YouTube Shorts.
+- **[instagram-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-growth/SKILL.md)** — Grow on Instagram.
+- **[pinterest-posts · repository entry](https://github.com/social-media-skills/skills)** — Write Pinterest posts.
+- **[carousel-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/carousel-writer/SKILL.md)** — Write carousel posts.
+- **[caption-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/caption-writer/SKILL.md)** — Write captions.
+- **[hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md)** — Write hooks.
+- **[viral-reverse-engineering](https://github.com/social-media-skills/skills/blob/HEAD/skills/viral-reverse-engineering/SKILL.md)** — Reverse-engineer viral posts.
+- **[audience-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/audience-research/SKILL.md)** — Research your audience.
+- **[thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md)** — Design thumbnails.
+- **[instagram-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-seo/SKILL.md)** — Optimize Instagram search.
 
 <a id="s5"></a>
 ### Landing pages, funnels & CRO
 
-- **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)** — Audit a landing page for potential conversion barriers.
-- **[sales-funnel-blueprint](https://www.skills.sh/autonnel/autonnel-skills/sales-funnel-blueprint)** — Build-ready sales funnel spec.
-- **[funnel-platform-picker](https://www.skills.sh/autonnel/autonnel-skills/funnel-platform-picker)** — Pick a funnel platform from the case.
-- **[server-side-conversion-tracking](https://www.skills.sh/autonnel/autonnel-skills/server-side-conversion-tracking)** — Server-side conversion tracking.
-- **[self-hosted-funnel-launch](https://www.skills.sh/autonnel/autonnel-skills/self-hosted-funnel-launch)** — Launch a self-hosted funnel from zero.
-- **[cro](https://www.skills.sh/coreyhaines31/marketingskills/cro)** — Conversion rate optimization.
-- **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer design and packaging.
-- **[onboarding](https://www.skills.sh/coreyhaines31/marketingskills/onboarding)** — Onboarding and activation CRO.
+- **[landing-page-conversion-audit](https://github.com/autonnel/autonnel-skills/blob/HEAD/landing-page-conversion-audit/SKILL.md)** — Audit a landing page for potential conversion barriers.
+- **[sales-funnel-blueprint](https://github.com/autonnel/autonnel-skills/blob/HEAD/sales-funnel-blueprint/SKILL.md)** — Build-ready sales funnel spec.
+- **[funnel-platform-picker](https://github.com/autonnel/autonnel-skills/blob/HEAD/funnel-platform-picker/SKILL.md)** — Pick a funnel platform from the case.
+- **[server-side-conversion-tracking](https://github.com/autonnel/autonnel-skills/blob/HEAD/server-side-conversion-tracking/SKILL.md)** — Server-side conversion tracking.
+- **[self-hosted-funnel-launch](https://github.com/autonnel/autonnel-skills/blob/HEAD/self-hosted-funnel-launch/SKILL.md)** — Launch a self-hosted funnel from zero.
+- **[cro](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cro/SKILL.md)** — Conversion rate optimization.
+- **[offers](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/offers/SKILL.md)** — Offer design and packaging.
+- **[onboarding](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/onboarding/SKILL.md)** — Onboarding and activation CRO.
 
 <a id="s6"></a>
 ### Growth & conversion
 
-- **[lead-magnets](https://www.skills.sh/coreyhaines31/marketingskills/lead-magnets)** — Design lead magnets.
-- **[churn-prevention](https://www.skills.sh/coreyhaines31/marketingskills/churn-prevention)** — Reduce churn.
-- **[free-tools](https://www.skills.sh/coreyhaines31/marketingskills/free-tools)** — Grow with free tools.
-- **[signup](https://www.skills.sh/coreyhaines31/marketingskills/signup)** — Optimize signup conversion.
-- **[paywalls](https://www.skills.sh/coreyhaines31/marketingskills/paywalls)** — Design paywalls.
-- **[popups](https://www.skills.sh/coreyhaines31/marketingskills/popups)** — Design conversion popups.
-- **[sms](https://www.skills.sh/coreyhaines31/marketingskills/sms)** — Run SMS campaigns.
-- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — Build a referral program.
-- **[ab-testing](https://www.skills.sh/coreyhaines31/marketingskills/ab-testing)** — Run A/B tests.
-- **[conversion-tracking](https://www.skills.sh/coreyhaines31/marketingskills/conversion-tracking)** — Track conversions.
+- **[lead-magnets](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/lead-magnets/SKILL.md)** — Design lead magnets.
+- **[churn-prevention](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/churn-prevention/SKILL.md)** — Reduce churn.
+- **[free-tools](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/free-tools/SKILL.md)** — Grow with free tools.
+- **[signup](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/signup/SKILL.md)** — Optimize signup conversion.
+- **[paywalls](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/paywalls/SKILL.md)** — Design paywalls.
+- **[popups](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/popups/SKILL.md)** — Design conversion popups.
+- **[sms](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sms/SKILL.md)** — Run SMS campaigns.
+- **[referrals](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/referrals/SKILL.md)** — Build a referral program.
+- **[ab-testing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ab-testing/SKILL.md)** — Run A/B tests.
+- **[conversion-tracking](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/conversion-tracking/SKILL.md)** — Track conversions.
 
 <a id="s7"></a>
 ### Email
 
-- **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)** — Cold email writing.
-- **[emails](https://www.skills.sh/coreyhaines31/marketingskills/emails)** — Email sequence design.
-- **[deliverability-qa](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/deliverability-qa)** — Pre-send email deliverability checks.
-- **[newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner)** — Newsletter monetization and growth loops.
+- **[cold-email](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md)** — Cold email writing.
+- **[emails](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/emails/SKILL.md)** — Email sequence design.
+- **[deliverability-qa](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/setup/deliverability-qa/SKILL.md)** — Pre-send email deliverability checks.
+- **[newsletter-monetization-planner](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/nurture/newsletter-monetization-planner/SKILL.md)** — Newsletter monetization and growth loops.
 
 <a id="s8"></a>
 ### Ads
 
-- **[ads](https://www.skills.sh/coreyhaines31/marketingskills/ads)** — Paid ads strategy.
-- **[ad-creative](https://www.skills.sh/coreyhaines31/marketingskills/ad-creative)** — Performance ad creative.
-- **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — Performance creative brief.
-- **[google-ads-api-quickstart](https://www.skills.sh/google/skills/google-ads-api-quickstart)** — Go from zero to a working Google Ads API call.
-- **[google-ads-api-account-diagnostics](https://www.skills.sh/google/skills/google-ads-api-account-diagnostics)** — Diagnose Google Ads account performance.
+- **[ads](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ads/SKILL.md)** — Paid ads strategy.
+- **[ad-creative](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ad-creative/SKILL.md)** — Performance ad creative.
+- **[ad-creative-brief](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-brief/SKILL.md)** — Performance creative brief.
+- **[google-ads-api-quickstart](https://github.com/google/skills/blob/HEAD/skills/ads/google-ads-api-quickstart/SKILL.md)** — Go from zero to a working Google Ads API call.
+- **[google-ads-api-account-diagnostics](https://github.com/google/skills/blob/HEAD/skills/ads/google-ads-api-account-diagnostics/SKILL.md)** — Diagnose Google Ads account performance.
 
 <a id="s9"></a>
 ### PR, partnerships & referrals
 
-- **[public-relations](https://www.skills.sh/coreyhaines31/marketingskills/public-relations)** — PR and earned media.
-- **[influencer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/influencer-marketing)** — Influencer and creator marketing.
-- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — Referral and affiliate programs.
-- **[influencer-campaign-brief](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-campaign-brief)** — Creative brief for an influencer campaign.
-- **[affiliate-disclosure-compliance](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-disclosure-compliance)** — Affiliate and influencer disclosure compliance.
+- **[public-relations](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/public-relations/SKILL.md)** — PR and earned media.
+- **[influencer-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/influencer-marketing/SKILL.md)** — Influencer and creator marketing.
+- **[referrals](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/referrals/SKILL.md)** — Referral and affiliate programs.
+- **[influencer-campaign-brief](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-campaign-brief/SKILL.md)** — Creative brief for an influencer campaign.
+- **[affiliate-disclosure-compliance](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-disclosure-compliance/SKILL.md)** — Affiliate and influencer disclosure compliance.
 
 <a id="s10"></a>
 ### Launch & ASO
 
-- **[launch](https://www.skills.sh/coreyhaines31/marketingskills/launch)** — Product launch strategy.
-- **[shipping-and-launch](https://www.skills.sh/addyosmani/agent-skills/shipping-and-launch)** — Ship with quality gates.
-- **[product-hunt-launch](https://www.skills.sh/101-skills/superpowers/product-hunt-launch)** — Product Hunt launch playbook.
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
+- **[launch](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/launch/SKILL.md)** — Product launch strategy.
+- **[shipping-and-launch](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/shipping-and-launch/SKILL.md)** — Ship with quality gates.
+- **[product-hunt-launch](https://github.com/101-skills/superpowers/blob/HEAD/guides/product/product-hunt-launch/SKILL.md)** — Product Hunt launch playbook.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
 
 <a id="s11"></a>
 ### Directories, links & analytics
 
-- **[directory-submissions](https://www.skills.sh/coreyhaines31/marketingskills/directory-submissions)** — Submit to directories.
-- **[link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building)** — Build backlinks.
-- **[reverse-engineer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/reverse-engineer-marketing)** — Reverse-engineer a marketing funnel.
-- **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — Analyze marketing performance.
-- **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — Attribute conversions.
-- **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — Design site architecture.
-- **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — Analyze Search Console data.
+- **[directory-submissions](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/directory-submissions/SKILL.md)** — Submit to directories.
+- **[link-building](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/link-building/SKILL.md)** — Build backlinks.
+- **[reverse-engineer-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/reverse-engineer-marketing/SKILL.md)** — Reverse-engineer a marketing funnel.
+- **[analytics](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md)** — Analyze marketing performance.
+- **[attribution](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md)** — Attribute conversions.
+- **[site-architecture](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/site-architecture/SKILL.md)** — Design site architecture.
+- **[google-search-console](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/google-search-console/SKILL.md)** — Analyze Search Console data.
 
 <a id="s12"></a>
 ### Ecommerce marketing
 
-- **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
-- **[ecommerce-growth-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-growth-strategy)** — Build an ecommerce growth plan.
-- **[etsy-seo](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seo)** — Optimize Etsy SEO.
-- **[ecommerce-landing-page](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-landing-page)** — Build ecommerce landing pages.
-- **[ecommerce-competitor-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-competitor-analysis)** — Analyze ecommerce competitors.
-- **[market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis)** — Find market gaps.
-- **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — Analyze product reviews.
-- **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — Optimize checkout.
+- **[product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md)** — Write product descriptions.
+- **[ecommerce-growth-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-growth-strategy/SKILL.md)** — Build an ecommerce growth plan.
+- **[etsy-seo](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seo/SKILL.md)** — Optimize Etsy SEO.
+- **[ecommerce-landing-page](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-landing-page/SKILL.md)** — Build ecommerce landing pages.
+- **[ecommerce-competitor-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-competitor-analysis/SKILL.md)** — Analyze ecommerce competitors.
+- **[market-gap-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/market-gap-analysis/SKILL.md)** — Find market gaps.
+- **[product-review-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-review-analysis/SKILL.md)** — Analyze product reviews.
+- **[checkout-optimization · repository entry](https://github.com/nexscope-ai/ecommerce-skills)** — Optimize checkout.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.

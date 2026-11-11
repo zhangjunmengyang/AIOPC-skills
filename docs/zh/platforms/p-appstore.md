@@ -8,37 +8,37 @@
 
 | 步骤 | 先用 |
 |---|---|
-| 关键词 | [aso](https://www.skills.sh/coreyhaines31/marketingskills/aso) |
-| 截图 | [app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots) |
-| 本地化 | [asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata) |
-| 定价 | [asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing) |
-| 数据 | [asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics) |
+| 关键词 | [aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md) |
+| 截图 | [app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md) |
+| 本地化 | [asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md) |
+| 定价 | [asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md) |
+| 数据 | [asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md) |
 
 ---
 
 ## ⭐ 先试这几个
 
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — 应用商店 ASO 审计。
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
-- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — App Store 订阅名称与描述本地化。
-- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — 。
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — 应用商店 ASO 审计。
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — App Store 元数据本地化。
+- **[asc-subscription-localization](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-subscription-localization/SKILL.md)** — App Store 订阅名称与描述本地化。
+- **[asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md)** — 。
 
 ---
 
 ## 全部技能
 
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — 应用商店 ASO 审计。
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
-- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — App Store 订阅名称与描述本地化。
-- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — 。
-- **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — 营销分析。
-- **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — 归因。
-- **[app-store-optimization](https://www.skills.sh/alirezarezvani/claude-skills/app-store-optimization)** — App Store 优化。
-- **[android-aso](https://www.skills.sh/appeeky/aso-skills/android-aso)** — Android ASO。
-- **[app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots)** — 商店截图。
-- **[seasonal-aso](https://www.skills.sh/appeeky/aso-skills/seasonal-aso)** — 季节性 ASO。
-- **[asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics)** — ASC 指标。
-- **[app-store-featured](https://www.skills.sh/appeeky/aso-skills/app-store-featured)** — 商店推荐。
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — 应用商店 ASO 审计。
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — App Store 元数据本地化。
+- **[asc-subscription-localization](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-subscription-localization/SKILL.md)** — App Store 订阅名称与描述本地化。
+- **[asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md)** — 。
+- **[analytics](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md)** — 营销分析。
+- **[attribution](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md)** — 归因。
+- **[app-store-optimization](https://github.com/alirezarezvani/claude-skills/blob/HEAD/marketing-skill/skills/app-store-optimization/SKILL.md)** — App Store 优化。
+- **[android-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/android-aso/SKILL.md)** — Android ASO。
+- **[app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md)** — 商店截图。
+- **[seasonal-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/seasonal-aso/SKILL.md)** — 季节性 ASO。
+- **[asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md)** — ASC 指标。
+- **[app-store-featured](https://github.com/appeeky/aso-skills/blob/HEAD/skills/app-store-featured/SKILL.md)** — 商店推荐。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 

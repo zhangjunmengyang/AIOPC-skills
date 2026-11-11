@@ -4,669 +4,681 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 
 ## coreyhaines31/marketingskills · 5
 
-- **[revops](https://www.skills.sh/coreyhaines31/marketingskills/revops)**
-- **[video](https://www.skills.sh/coreyhaines31/marketingskills/video)**
-- **[marketing-loops](https://www.skills.sh/coreyhaines31/marketingskills/marketing-loops)**
-- **[marketing-council](https://www.skills.sh/coreyhaines31/marketingskills/marketing-council)**
-- **[events](https://www.skills.sh/coreyhaines31/marketingskills/events)**
+- **[revops](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/revops/SKILL.md)**
+- **[video](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/video/SKILL.md)**
+- **[marketing-loops](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-loops/SKILL.md)**
+- **[marketing-council](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-council/SKILL.md)**
+- **[events](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/events/SKILL.md)**
+
 
 ## jimliu/baoyu-skills · 20
 
-- **[baoyu-image-gen](https://www.skills.sh/jimliu/baoyu-skills/baoyu-image-gen)**
-- **[baoyu-infographic](https://www.skills.sh/jimliu/baoyu-skills/baoyu-infographic)**
-- **[baoyu-markdown-to-html](https://www.skills.sh/jimliu/baoyu-skills/baoyu-markdown-to-html)**
-- **[baoyu-cover-image](https://www.skills.sh/jimliu/baoyu-skills/baoyu-cover-image)**
-- **[baoyu-article-illustrator](https://www.skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator)**
-- **[baoyu-url-to-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown)**
-- **[baoyu-comic](https://www.skills.sh/jimliu/baoyu-skills/baoyu-comic)**
-- **[baoyu-post-to-x](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-x)**
-- **[baoyu-compress-image](https://www.skills.sh/jimliu/baoyu-skills/baoyu-compress-image)**
-- **[baoyu-format-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-format-markdown)**
-- **[baoyu-danger-x-to-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-danger-x-to-markdown)**
-- **[baoyu-danger-gemini-web](https://www.skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web)**
-- **[release-skills](https://www.skills.sh/jimliu/baoyu-skills/release-skills)**
-- **[baoyu-youtube-transcript](https://www.skills.sh/jimliu/baoyu-skills/baoyu-youtube-transcript)**
-- **[baoyu-post-to-weibo](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-weibo)**
-- **[baoyu-diagram](https://www.skills.sh/jimliu/baoyu-skills/baoyu-diagram)**
-- **[baoyu-imagine](https://www.skills.sh/jimliu/baoyu-skills/baoyu-imagine)**
-- **[baoyu-electron-extract](https://www.skills.sh/jimliu/baoyu-skills/baoyu-electron-extract)**
-- **[baoyu-image-cards](https://www.skills.sh/jimliu/baoyu-skills/baoyu-image-cards)**
-- **[baoyu-gemini-web](https://www.skills.sh/jimliu/baoyu-skills/baoyu-gemini-web)**
+- **[baoyu-image-gen](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-image-gen/SKILL.md)**
+- **[baoyu-infographic](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-infographic/SKILL.md)**
+- **[baoyu-markdown-to-html](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-markdown-to-html/SKILL.md)**
+- **[baoyu-cover-image](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-cover-image/SKILL.md)**
+- **[baoyu-article-illustrator](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-article-illustrator/SKILL.md)**
+- **[baoyu-url-to-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-url-to-markdown/SKILL.md)**
+- **[baoyu-comic](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-comic/SKILL.md)**
+- **[baoyu-post-to-x](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-x/SKILL.md)**
+- **[baoyu-compress-image](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-compress-image/SKILL.md)**
+- **[baoyu-format-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-format-markdown/SKILL.md)**
+- **[baoyu-danger-x-to-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-danger-x-to-markdown/SKILL.md)**
+- **[baoyu-danger-gemini-web](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-danger-gemini-web/SKILL.md)**
+- **[release-skills](https://github.com/jimliu/baoyu-skills/blob/HEAD/.claude/skills/release-skills/SKILL.md)**
+- **[baoyu-youtube-transcript](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-youtube-transcript/SKILL.md)**
+- **[baoyu-post-to-weibo](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-weibo/SKILL.md)**
+- **[baoyu-diagram](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-diagram/SKILL.md)**
+- **[baoyu-imagine · repository entry](https://github.com/jimliu/baoyu-skills)**
+- **[baoyu-electron-extract](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-electron-extract/SKILL.md)**
+- **[baoyu-image-cards · repository entry](https://github.com/jimliu/baoyu-skills)**
+- **[baoyu-gemini-web · repository entry](https://github.com/jimliu/baoyu-skills)**
+
 
 ## dontbesilent2025/dbskill · 29
 
-- **[dbs-benchmark](https://www.skills.sh/dontbesilent2025/dbskill/dbs-benchmark)**
-- **[dbs-action](https://www.skills.sh/dontbesilent2025/dbskill/dbs-action)**
-- **[dbs-ai-check](https://www.skills.sh/dontbesilent2025/dbskill/dbs-ai-check)**
-- **[dbs-chatroom](https://www.skills.sh/dontbesilent2025/dbskill/dbs-chatroom)**
-- **[dbs-chatroom-austrian](https://www.skills.sh/dontbesilent2025/dbskill/dbs-chatroom-austrian)**
-- **[dbs-save](https://www.skills.sh/dontbesilent2025/dbskill/dbs-save)**
-- **[dbs-restore](https://www.skills.sh/dontbesilent2025/dbskill/dbs-restore)**
-- **[dbs-goal](https://www.skills.sh/dontbesilent2025/dbskill/dbs-goal)**
-- **[dbs-learning](https://www.skills.sh/dontbesilent2025/dbskill/dbs-learning)**
-- **[dbs-good-question](https://www.skills.sh/dontbesilent2025/dbskill/dbs-good-question)**
-- **[dbs-agent-migration](https://www.skills.sh/dontbesilent2025/dbskill/dbs-agent-migration)**
-- **[dbs-decision](https://www.skills.sh/dontbesilent2025/dbskill/dbs-decision)**
-- **[dbs-slowisfast](https://www.skills.sh/dontbesilent2025/dbskill/dbs-slowisfast)**
-- **[dbs-update](https://www.skills.sh/dontbesilent2025/dbskill/dbs-update)**
-- **[dbs-knowledge](https://www.skills.sh/dontbesilent2025/dbskill/dbs-knowledge)**
-- **[dbs-standard-answer](https://www.skills.sh/dontbesilent2025/dbskill/dbs-standard-answer)**
-- **[dbs-content-risk-check](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-risk-check)**
-- **[dbs-install-skill](https://www.skills.sh/dontbesilent2025/dbskill/dbs-install-skill)**
-- **[dbs-skill-maker](https://www.skills.sh/dontbesilent2025/dbskill/dbs-skill-maker)**
-- **[dbs-bridge](https://www.skills.sh/dontbesilent2025/dbskill/dbs-bridge)**
-- **[dbs-skill-cleaner](https://www.skills.sh/dontbesilent2025/dbskill/dbs-skill-cleaner)**
-- **[dbs-theory-grounding](https://www.skills.sh/dontbesilent2025/dbskill/dbs-theory-grounding)**
-- **[dbs-content-value](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-value)**
-- **[dbs-human-dispatch](https://www.skills.sh/dontbesilent2025/dbskill/dbs-human-dispatch)**
-- **[chatroom-austrian](https://www.skills.sh/dontbesilent2025/dbskill/chatroom-austrian)**
-- **[dbskill-upgrade](https://www.skills.sh/dontbesilent2025/dbskill/dbskill-upgrade)**
-- **[dbs-unblock](https://www.skills.sh/dontbesilent2025/dbskill/dbs-unblock)**
-- **[dbs-sync-to-dondon](https://www.skills.sh/dontbesilent2025/dbskill/dbs-sync-to-dondon)**
-- **[dbs-speak-human](https://www.skills.sh/dontbesilent2025/dbskill/dbs-speak-human)**
+- **[dbs-benchmark](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-benchmark/SKILL.md)**
+- **[dbs-action](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-action/SKILL.md)**
+- **[dbs-ai-check](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-ai-check/SKILL.md)**
+- **[dbs-chatroom](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-chatroom/SKILL.md)**
+- **[dbs-chatroom-austrian](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-chatroom-austrian/SKILL.md)**
+- **[dbs-save](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-save/SKILL.md)**
+- **[dbs-restore](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-restore/SKILL.md)**
+- **[dbs-goal](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-goal/SKILL.md)**
+- **[dbs-learning](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-learning/SKILL.md)**
+- **[dbs-good-question](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-good-question/SKILL.md)**
+- **[dbs-agent-migration · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-decision](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-decision/SKILL.md)**
+- **[dbs-slowisfast · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-update](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-update/SKILL.md)**
+- **[dbs-knowledge](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-knowledge/SKILL.md)**
+- **[dbs-standard-answer](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-standard-answer/SKILL.md)**
+- **[dbs-content-risk-check](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-risk-check/SKILL.md)**
+- **[dbs-install-skill](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-install-skill/SKILL.md)**
+- **[dbs-skill-maker](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-skill-maker/SKILL.md)**
+- **[dbs-bridge · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-skill-cleaner · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-theory-grounding](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-theory-grounding/SKILL.md)**
+- **[dbs-content-value](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-value/SKILL.md)**
+- **[dbs-human-dispatch](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-human-dispatch/SKILL.md)**
+- **[chatroom-austrian · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbskill-upgrade · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-unblock · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-sync-to-dondon](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-sync-to-dondon/SKILL.md)**
+- **[dbs-speak-human](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-speak-human/SKILL.md)**
+
 
 ## mbfinotti/advertising-skills · 27
 
-- **[ad-creative-fatigue](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-fatigue)**
-- **[ad-creative-test-plan](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-test-plan)**
-- **[ad-account-diagnostic](https://www.skills.sh/mbfinotti/advertising-skills/ad-account-diagnostic)**
-- **[ad-swipe-file](https://www.skills.sh/mbfinotti/advertising-skills/ad-swipe-file)**
-- **[ad-spend-guardrails](https://www.skills.sh/mbfinotti/advertising-skills/ad-spend-guardrails)**
-- **[ad-conversion-tracking](https://www.skills.sh/mbfinotti/advertising-skills/ad-conversion-tracking)**
-- **[paid-media-scaling](https://www.skills.sh/mbfinotti/advertising-skills/paid-media-scaling)**
-- **[ad-audience-targeting](https://www.skills.sh/mbfinotti/advertising-skills/ad-audience-targeting)**
-- **[ad-spend-allocation](https://www.skills.sh/mbfinotti/advertising-skills/ad-spend-allocation)**
-- **[paid-landing-page-audit](https://www.skills.sh/mbfinotti/advertising-skills/paid-landing-page-audit)**
-- **[ad-budget-pacing](https://www.skills.sh/mbfinotti/advertising-skills/ad-budget-pacing)**
-- **[lookalike-audience-seeds](https://www.skills.sh/mbfinotti/advertising-skills/lookalike-audience-seeds)**
-- **[ad-negative-keywords](https://www.skills.sh/mbfinotti/advertising-skills/ad-negative-keywords)**
-- **[cac-roas-benchmark](https://www.skills.sh/mbfinotti/advertising-skills/cac-roas-benchmark)**
-- **[retargeting-funnel](https://www.skills.sh/mbfinotti/advertising-skills/retargeting-funnel)**
-- **[advertising-kickoff](https://www.skills.sh/mbfinotti/advertising-skills/advertising-kickoff)**
-- **[ad-platform-selection](https://www.skills.sh/mbfinotti/advertising-skills/ad-platform-selection)**
-- **[ad-attribution-gap](https://www.skills.sh/mbfinotti/advertising-skills/ad-attribution-gap)**
-- **[advertising-hiring](https://www.skills.sh/mbfinotti/advertising-skills/advertising-hiring)**
-- **[ad-buyer-group-mapper](https://www.skills.sh/mbfinotti/advertising-skills/ad-buyer-group-mapper)**
-- **[advertising-career](https://www.skills.sh/mbfinotti/advertising-skills/advertising-career)**
-- **[advertising-radar](https://www.skills.sh/mbfinotti/advertising-skills/advertising-radar)**
-- **[ad-bidding-strategy](https://www.skills.sh/mbfinotti/advertising-skills/ad-bidding-strategy)**
-- **[ugc-ad-scripts](https://www.skills.sh/mbfinotti/advertising-skills/ugc-ad-scripts)**
-- **[ad-format-fit](https://www.skills.sh/mbfinotti/advertising-skills/ad-format-fit)**
-- **[ad-campaign-consolidation](https://www.skills.sh/mbfinotti/advertising-skills/ad-campaign-consolidation)**
-- **[thought-leadership-ads](https://www.skills.sh/mbfinotti/advertising-skills/thought-leadership-ads)**
+- **[ad-creative-fatigue](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-fatigue/SKILL.md)**
+- **[ad-creative-test-plan](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-test-plan/SKILL.md)**
+- **[ad-account-diagnostic](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-account-diagnostic/SKILL.md)**
+- **[ad-swipe-file](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-swipe-file/SKILL.md)**
+- **[ad-spend-guardrails](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-spend-guardrails/SKILL.md)**
+- **[ad-conversion-tracking](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-conversion-tracking/SKILL.md)**
+- **[paid-media-scaling](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/paid-media-scaling/SKILL.md)**
+- **[ad-audience-targeting](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-audience-targeting/SKILL.md)**
+- **[ad-spend-allocation](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-spend-allocation/SKILL.md)**
+- **[paid-landing-page-audit](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/paid-landing-page-audit/SKILL.md)**
+- **[ad-budget-pacing](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-budget-pacing/SKILL.md)**
+- **[lookalike-audience-seeds](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/lookalike-audience-seeds/SKILL.md)**
+- **[ad-negative-keywords](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-negative-keywords/SKILL.md)**
+- **[cac-roas-benchmark](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/cac-roas-benchmark/SKILL.md)**
+- **[retargeting-funnel](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/retargeting-funnel/SKILL.md)**
+- **[advertising-kickoff](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-kickoff/SKILL.md)**
+- **[ad-platform-selection](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-platform-selection/SKILL.md)**
+- **[ad-attribution-gap](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-attribution-gap/SKILL.md)**
+- **[advertising-hiring](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-hiring/SKILL.md)**
+- **[ad-buyer-group-mapper](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-buyer-group-mapper/SKILL.md)**
+- **[advertising-career](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-career/SKILL.md)**
+- **[advertising-radar](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-radar/SKILL.md)**
+- **[ad-bidding-strategy](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-bidding-strategy/SKILL.md)**
+- **[ugc-ad-scripts](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ugc-ad-scripts/SKILL.md)**
+- **[ad-format-fit](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-format-fit/SKILL.md)**
+- **[ad-campaign-consolidation](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-campaign-consolidation/SKILL.md)**
+- **[thought-leadership-ads](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/thought-leadership-ads/SKILL.md)**
+
 
 ## mbfinotti/sales-skills · 25
 
-- **[sales-icp-definition](https://www.skills.sh/mbfinotti/sales-skills/sales-icp-definition)**
-- **[sales-pipeline-coverage-modeling](https://www.skills.sh/mbfinotti/sales-skills/sales-pipeline-coverage-modeling)**
-- **[sales-account-tiering](https://www.skills.sh/mbfinotti/sales-skills/sales-account-tiering)**
-- **[sales-market-sizing](https://www.skills.sh/mbfinotti/sales-skills/sales-market-sizing)**
-- **[sales-kickoff](https://www.skills.sh/mbfinotti/sales-skills/sales-kickoff)**
-- **[sales-radar](https://www.skills.sh/mbfinotti/sales-skills/sales-radar)**
-- **[sales-career](https://www.skills.sh/mbfinotti/sales-skills/sales-career)**
-- **[sales-objection-handling](https://www.skills.sh/mbfinotti/sales-skills/sales-objection-handling)**
-- **[sales-discovery-questions](https://www.skills.sh/mbfinotti/sales-skills/sales-discovery-questions)**
-- **[sales-outbound-sequence](https://www.skills.sh/mbfinotti/sales-skills/sales-outbound-sequence)**
-- **[sales-outreach-personalization](https://www.skills.sh/mbfinotti/sales-skills/sales-outreach-personalization)**
-- **[sales-call-review](https://www.skills.sh/mbfinotti/sales-skills/sales-call-review)**
-- **[sales-motion](https://www.skills.sh/mbfinotti/sales-skills/sales-motion)**
-- **[sales-quota-setting](https://www.skills.sh/mbfinotti/sales-skills/sales-quota-setting)**
-- **[sales-meeting-recap](https://www.skills.sh/mbfinotti/sales-skills/sales-meeting-recap)**
-- **[sales-org-structure](https://www.skills.sh/mbfinotti/sales-skills/sales-org-structure)**
-- **[sales-comp-design](https://www.skills.sh/mbfinotti/sales-skills/sales-comp-design)**
-- **[sales-account-segmentation](https://www.skills.sh/mbfinotti/sales-skills/sales-account-segmentation)**
-- **[cold-email-deliverability](https://www.skills.sh/mbfinotti/sales-skills/cold-email-deliverability)**
-- **[deal-champion-mapping](https://www.skills.sh/mbfinotti/sales-skills/deal-champion-mapping)**
-- **[cold-call-opener](https://www.skills.sh/mbfinotti/sales-skills/cold-call-opener)**
-- **[negotiation-concession-planner](https://www.skills.sh/mbfinotti/sales-skills/negotiation-concession-planner)**
-- **[meddpicc-scorecard](https://www.skills.sh/mbfinotti/sales-skills/meddpicc-scorecard)**
-- **[deal-red-flags](https://www.skills.sh/mbfinotti/sales-skills/deal-red-flags)**
-- **[deal-value-calc](https://www.skills.sh/mbfinotti/sales-skills/deal-value-calc)**
+- **[sales-icp-definition](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-icp-definition/SKILL.md)**
+- **[sales-pipeline-coverage-modeling](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-pipeline-coverage-modeling/SKILL.md)**
+- **[sales-account-tiering](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-account-tiering/SKILL.md)**
+- **[sales-market-sizing](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-market-sizing/SKILL.md)**
+- **[sales-kickoff](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-kickoff/SKILL.md)**
+- **[sales-radar](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-radar/SKILL.md)**
+- **[sales-career](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-career/SKILL.md)**
+- **[sales-objection-handling](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-objection-handling/SKILL.md)**
+- **[sales-discovery-questions](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-discovery-questions/SKILL.md)**
+- **[sales-outbound-sequence](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-outbound-sequence/SKILL.md)**
+- **[sales-outreach-personalization](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-outreach-personalization/SKILL.md)**
+- **[sales-call-review](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-call-review/SKILL.md)**
+- **[sales-motion](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-motion/SKILL.md)**
+- **[sales-quota-setting](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-quota-setting/SKILL.md)**
+- **[sales-meeting-recap](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-meeting-recap/SKILL.md)**
+- **[sales-org-structure](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-org-structure/SKILL.md)**
+- **[sales-comp-design](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-comp-design/SKILL.md)**
+- **[sales-account-segmentation](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-account-segmentation/SKILL.md)**
+- **[cold-email-deliverability](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-email-deliverability/SKILL.md)**
+- **[deal-champion-mapping](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-champion-mapping/SKILL.md)**
+- **[cold-call-opener](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-call-opener/SKILL.md)**
+- **[negotiation-concession-planner](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/negotiation-concession-planner/SKILL.md)**
+- **[meddpicc-scorecard](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/meddpicc-scorecard/SKILL.md)**
+- **[deal-red-flags](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-red-flags/SKILL.md)**
+- **[deal-value-calc](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-value-calc/SKILL.md)**
+
 
 ## mbfinotti/revops-skills · 12
 
-- **[sales-pipeline-hygiene](https://www.skills.sh/mbfinotti/revops-skills/sales-pipeline-hygiene)**
-- **[revops-kickoff](https://www.skills.sh/mbfinotti/revops-skills/revops-kickoff)**
-- **[pipeline-stage-definition-audit](https://www.skills.sh/mbfinotti/revops-skills/pipeline-stage-definition-audit)**
-- **[revops-career](https://www.skills.sh/mbfinotti/revops-skills/revops-career)**
-- **[revops-radar](https://www.skills.sh/mbfinotti/revops-skills/revops-radar)**
-- **[sales-forecast-diagnostic](https://www.skills.sh/mbfinotti/revops-skills/sales-forecast-diagnostic)**
-- **[revops-hiring](https://www.skills.sh/mbfinotti/revops-skills/revops-hiring)**
-- **[revops-stack-rationalization](https://www.skills.sh/mbfinotti/revops-skills/revops-stack-rationalization)**
-- **[sales-to-cs-handoff](https://www.skills.sh/mbfinotti/revops-skills/sales-to-cs-handoff)**
-- **[lead-scoring](https://www.skills.sh/mbfinotti/revops-skills/lead-scoring)**
-- **[lead-routing](https://www.skills.sh/mbfinotti/revops-skills/lead-routing)**
-- **[deal-desk-approval](https://www.skills.sh/mbfinotti/revops-skills/deal-desk-approval)**
+- **[sales-pipeline-hygiene](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-pipeline-hygiene/SKILL.md)**
+- **[revops-kickoff](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-kickoff/SKILL.md)**
+- **[pipeline-stage-definition-audit](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/pipeline-stage-definition-audit/SKILL.md)**
+- **[revops-career](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-career/SKILL.md)**
+- **[revops-radar](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-radar/SKILL.md)**
+- **[sales-forecast-diagnostic](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-forecast-diagnostic/SKILL.md)**
+- **[revops-hiring](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-hiring/SKILL.md)**
+- **[revops-stack-rationalization](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-stack-rationalization/SKILL.md)**
+- **[sales-to-cs-handoff](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-to-cs-handoff/SKILL.md)**
+- **[lead-scoring](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/lead-scoring/SKILL.md)**
+- **[lead-routing](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/lead-routing/SKILL.md)**
+- **[deal-desk-approval](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/deal-desk-approval/SKILL.md)**
+
 
 ## mbfinotti/partnerships-skills · 28
 
-- **[affiliate-payout-audit](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-payout-audit)**
-- **[affiliate-performance-dashboard](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-performance-dashboard)**
-- **[alliance-prioritization](https://www.skills.sh/mbfinotti/partnerships-skills/alliance-prioritization)**
-- **[affiliate-program-terms](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-program-terms)**
-- **[affiliate-fraud-detection](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-fraud-detection)**
-- **[affiliate-recruitment-outreach](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-recruitment-outreach)**
-- **[affiliate-onboarding-sequence](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-onboarding-sequence)**
-- **[affiliate-commission-structure](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-commission-structure)**
-- **[partner-ecosystem-expansion](https://www.skills.sh/mbfinotti/partnerships-skills/partner-ecosystem-expansion)**
-- **[partnerships-kickoff](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-kickoff)**
-- **[partnerships-hiring](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-hiring)**
-- **[partner-performance](https://www.skills.sh/mbfinotti/partnerships-skills/partner-performance)**
-- **[partner-channel-conflict](https://www.skills.sh/mbfinotti/partnerships-skills/partner-channel-conflict)**
-- **[partner-tiering](https://www.skills.sh/mbfinotti/partnerships-skills/partner-tiering)**
-- **[partner-economics](https://www.skills.sh/mbfinotti/partnerships-skills/partner-economics)**
-- **[partner-marketplace-strategy](https://www.skills.sh/mbfinotti/partnerships-skills/partner-marketplace-strategy)**
-- **[partnerships-career](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-career)**
-- **[partner-channel-program](https://www.skills.sh/mbfinotti/partnerships-skills/partner-channel-program)**
-- **[influencer-discovery-brief](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-discovery-brief)**
-- **[partner-enablement](https://www.skills.sh/mbfinotti/partnerships-skills/partner-enablement)**
-- **[partner-ecosystem](https://www.skills.sh/mbfinotti/partnerships-skills/partner-ecosystem)**
-- **[referral-abuse-guardrails](https://www.skills.sh/mbfinotti/partnerships-skills/referral-abuse-guardrails)**
-- **[influencer-measurement-framework](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-measurement-framework)**
-- **[referral-incentive-design](https://www.skills.sh/mbfinotti/partnerships-skills/referral-incentive-design)**
-- **[co-selling-strategy](https://www.skills.sh/mbfinotti/partnerships-skills/co-selling-strategy)**
-- **[influencer-negotiation-playbook](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-negotiation-playbook)**
-- **[influencer-outreach](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-outreach)**
-- **[joint-gtm-planning](https://www.skills.sh/mbfinotti/partnerships-skills/joint-gtm-planning)**
+- **[affiliate-payout-audit](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-payout-audit/SKILL.md)**
+- **[affiliate-performance-dashboard](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-performance-dashboard/SKILL.md)**
+- **[alliance-prioritization](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/alliance-prioritization/SKILL.md)**
+- **[affiliate-program-terms](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-program-terms/SKILL.md)**
+- **[affiliate-fraud-detection](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-fraud-detection/SKILL.md)**
+- **[affiliate-recruitment-outreach](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-recruitment-outreach/SKILL.md)**
+- **[affiliate-onboarding-sequence](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-onboarding-sequence/SKILL.md)**
+- **[affiliate-commission-structure](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-commission-structure/SKILL.md)**
+- **[partner-ecosystem-expansion](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-ecosystem-expansion/SKILL.md)**
+- **[partnerships-kickoff](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-kickoff/SKILL.md)**
+- **[partnerships-hiring](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-hiring/SKILL.md)**
+- **[partner-performance](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-performance/SKILL.md)**
+- **[partner-channel-conflict](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-channel-conflict/SKILL.md)**
+- **[partner-tiering](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-tiering/SKILL.md)**
+- **[partner-economics](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-economics/SKILL.md)**
+- **[partner-marketplace-strategy](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-marketplace-strategy/SKILL.md)**
+- **[partnerships-career](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-career/SKILL.md)**
+- **[partner-channel-program](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-channel-program/SKILL.md)**
+- **[influencer-discovery-brief](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-discovery-brief/SKILL.md)**
+- **[partner-enablement](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-enablement/SKILL.md)**
+- **[partner-ecosystem](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-ecosystem/SKILL.md)**
+- **[referral-abuse-guardrails](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/referral-abuse-guardrails/SKILL.md)**
+- **[influencer-measurement-framework](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-measurement-framework/SKILL.md)**
+- **[referral-incentive-design](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/referral-incentive-design/SKILL.md)**
+- **[co-selling-strategy](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/co-selling-strategy/SKILL.md)**
+- **[influencer-negotiation-playbook](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-negotiation-playbook/SKILL.md)**
+- **[influencer-outreach](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-outreach/SKILL.md)**
+- **[joint-gtm-planning](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/joint-gtm-planning/SKILL.md)**
+
 
 ## agricidaniel/claude-seo · 24
 
-- **[seo-audit](https://www.skills.sh/agricidaniel/claude-seo/seo-audit)**
-- **[seo-local](https://www.skills.sh/agricidaniel/claude-seo/seo-local)**
-- **[seo-geo](https://www.skills.sh/agricidaniel/claude-seo/seo-geo)**
-- **[seo-images](https://www.skills.sh/agricidaniel/claude-seo/seo-images)**
-- **[seo-plan](https://www.skills.sh/agricidaniel/claude-seo/seo-plan)**
-- **[seo-hreflang](https://www.skills.sh/agricidaniel/claude-seo/seo-hreflang)**
-- **[seo-cluster](https://www.skills.sh/agricidaniel/claude-seo/seo-cluster)**
-- **[seo-programmatic](https://www.skills.sh/agricidaniel/claude-seo/seo-programmatic)**
-- **[seo-google](https://www.skills.sh/agricidaniel/claude-seo/seo-google)**
-- **[seo-maps](https://www.skills.sh/agricidaniel/claude-seo/seo-maps)**
-- **[seo-dataforseo](https://www.skills.sh/agricidaniel/claude-seo/seo-dataforseo)**
-- **[seo-image-gen](https://www.skills.sh/agricidaniel/claude-seo/seo-image-gen)**
-- **[seo-content-brief](https://www.skills.sh/agricidaniel/claude-seo/seo-content-brief)**
-- **[seo-drift](https://www.skills.sh/agricidaniel/claude-seo/seo-drift)**
-- **[seo-sxo](https://www.skills.sh/agricidaniel/claude-seo/seo-sxo)**
-- **[seo-flow](https://www.skills.sh/agricidaniel/claude-seo/seo-flow)**
-- **[seo-agentic](https://www.skills.sh/agricidaniel/claude-seo/seo-agentic)**
-- **[seo-firecrawl](https://www.skills.sh/agricidaniel/claude-seo/seo-firecrawl)**
-- **[seo-unlighthouse](https://www.skills.sh/agricidaniel/claude-seo/seo-unlighthouse)**
-- **[seo-bing](https://www.skills.sh/agricidaniel/claude-seo/seo-bing)**
-- **[seo-profound](https://www.skills.sh/agricidaniel/claude-seo/seo-profound)**
-- **[seo-ahrefs](https://www.skills.sh/agricidaniel/claude-seo/seo-ahrefs)**
-- **[seo-seranking](https://www.skills.sh/agricidaniel/claude-seo/seo-seranking)**
-- **[seo-matomo](https://www.skills.sh/agricidaniel/claude-seo/seo-matomo)**
+- **[seo-audit](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-audit/SKILL.md)**
+- **[seo-local](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-local/SKILL.md)**
+- **[seo-geo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-geo/SKILL.md)**
+- **[seo-images](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-images/SKILL.md)**
+- **[seo-plan](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-plan/SKILL.md)**
+- **[seo-hreflang](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-hreflang/SKILL.md)**
+- **[seo-cluster](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-cluster/SKILL.md)**
+- **[seo-programmatic](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-programmatic/SKILL.md)**
+- **[seo-google](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-google/SKILL.md)**
+- **[seo-maps](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-maps/SKILL.md)**
+- **[seo-dataforseo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-dataforseo/SKILL.md)**
+- **[seo-image-gen](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-image-gen/SKILL.md)**
+- **[seo-content-brief](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content-brief/SKILL.md)**
+- **[seo-drift](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-drift/SKILL.md)**
+- **[seo-sxo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-sxo/SKILL.md)**
+- **[seo-flow](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-flow/SKILL.md)**
+- **[seo-agentic](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-agentic/SKILL.md)**
+- **[seo-firecrawl](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/firecrawl/skills/seo-firecrawl/SKILL.md)**
+- **[seo-unlighthouse](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/unlighthouse/skills/seo-unlighthouse/SKILL.md)**
+- **[seo-bing](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/bing-webmaster/skills/seo-bing/SKILL.md)**
+- **[seo-profound](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/profound/skills/seo-profound/SKILL.md)**
+- **[seo-ahrefs](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/ahrefs/skills/seo-ahrefs/SKILL.md)**
+- **[seo-seranking](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/seranking/skills/seo-seranking/SKILL.md)**
+- **[seo-matomo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/matomo/skills/seo-matomo/SKILL.md)**
+
 
 ## agricidaniel/claude-blog · 30
 
-- **[blog-analyze](https://www.skills.sh/agricidaniel/claude-blog/blog-analyze)**
-- **[blog-audit](https://www.skills.sh/agricidaniel/claude-blog/blog-audit)**
-- **[blog-brief](https://www.skills.sh/agricidaniel/claude-blog/blog-brief)**
-- **[blog-geo](https://www.skills.sh/agricidaniel/claude-blog/blog-geo)**
-- **[blog-calendar](https://www.skills.sh/agricidaniel/claude-blog/blog-calendar)**
-- **[blog-chart](https://www.skills.sh/agricidaniel/claude-blog/blog-chart)**
-- **[blog-write](https://www.skills.sh/agricidaniel/claude-blog/blog-write)**
-- **[blog-image](https://www.skills.sh/agricidaniel/claude-blog/blog-image)**
-- **[blog-cannibalization](https://www.skills.sh/agricidaniel/claude-blog/blog-cannibalization)**
-- **[blog-audio](https://www.skills.sh/agricidaniel/claude-blog/blog-audio)**
-- **[blog-outline](https://www.skills.sh/agricidaniel/claude-blog/blog-outline)**
-- **[blog-rewrite](https://www.skills.sh/agricidaniel/claude-blog/blog-rewrite)**
-- **[blog-repurpose](https://www.skills.sh/agricidaniel/claude-blog/blog-repurpose)**
-- **[blog-google](https://www.skills.sh/agricidaniel/claude-blog/blog-google)**
-- **[blog-schema](https://www.skills.sh/agricidaniel/claude-blog/blog-schema)**
-- **[blog-persona](https://www.skills.sh/agricidaniel/claude-blog/blog-persona)**
-- **[blog-strategy](https://www.skills.sh/agricidaniel/claude-blog/blog-strategy)**
-- **[blog-notebooklm](https://www.skills.sh/agricidaniel/claude-blog/blog-notebooklm)**
-- **[blog-cluster](https://www.skills.sh/agricidaniel/claude-blog/blog-cluster)**
-- **[blog-multilingual](https://www.skills.sh/agricidaniel/claude-blog/blog-multilingual)**
-- **[blog-brand](https://www.skills.sh/agricidaniel/claude-blog/blog-brand)**
-- **[blog-flow](https://www.skills.sh/agricidaniel/claude-blog/blog-flow)**
-- **[blog-localize](https://www.skills.sh/agricidaniel/claude-blog/blog-localize)**
-- **[blog-locale-audit](https://www.skills.sh/agricidaniel/claude-blog/blog-locale-audit)**
-- **[blog-taxonomy](https://www.skills.sh/agricidaniel/claude-blog/blog-taxonomy)**
-- **[blog-discourse](https://www.skills.sh/agricidaniel/claude-blog/blog-discourse)**
-- **[blog-translate](https://www.skills.sh/agricidaniel/claude-blog/blog-translate)**
-- **[blog-style](https://www.skills.sh/agricidaniel/claude-blog/blog-style)**
-- **[blog-decay](https://www.skills.sh/agricidaniel/claude-blog/blog-decay)**
-- **[claude-blog-brain](https://www.skills.sh/agricidaniel/claude-blog/claude-blog-brain)**
+- **[blog-analyze](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-analyze/SKILL.md)**
+- **[blog-audit](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-audit/SKILL.md)**
+- **[blog-brief](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-brief/SKILL.md)**
+- **[blog-geo](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-geo/SKILL.md)**
+- **[blog-calendar](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-calendar/SKILL.md)**
+- **[blog-chart](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-chart/SKILL.md)**
+- **[blog-write](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-write/SKILL.md)**
+- **[blog-image](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-image/SKILL.md)**
+- **[blog-cannibalization](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-cannibalization/SKILL.md)**
+- **[blog-audio](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-audio/SKILL.md)**
+- **[blog-outline](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-outline/SKILL.md)**
+- **[blog-rewrite](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-rewrite/SKILL.md)**
+- **[blog-repurpose](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-repurpose/SKILL.md)**
+- **[blog-google](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-google/SKILL.md)**
+- **[blog-schema](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-schema/SKILL.md)**
+- **[blog-persona](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-persona/SKILL.md)**
+- **[blog-strategy](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-strategy/SKILL.md)**
+- **[blog-notebooklm](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-notebooklm/SKILL.md)**
+- **[blog-cluster](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-cluster/SKILL.md)**
+- **[blog-multilingual](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-multilingual/SKILL.md)**
+- **[blog-brand](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-brand/SKILL.md)**
+- **[blog-flow](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-flow/SKILL.md)**
+- **[blog-localize](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-localize/SKILL.md)**
+- **[blog-locale-audit](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-locale-audit/SKILL.md)**
+- **[blog-taxonomy](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-taxonomy/SKILL.md)**
+- **[blog-discourse](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-discourse/SKILL.md)**
+- **[blog-translate](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-translate/SKILL.md)**
+- **[blog-style](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-style/SKILL.md)**
+- **[blog-decay](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-decay/SKILL.md)**
+- **[claude-blog-brain · repository entry](https://github.com/AgriciDaniel/claude-blog)**
+
 
 ## agricidaniel/claude-ads · 30
 
-- **[ads-meta](https://www.skills.sh/agricidaniel/claude-ads/ads-meta)**
-- **[ads-google](https://www.skills.sh/agricidaniel/claude-ads/ads-google)**
-- **[ads-creative](https://www.skills.sh/agricidaniel/claude-ads/ads-creative)**
-- **[ads-competitor](https://www.skills.sh/agricidaniel/claude-ads/ads-competitor)**
-- **[ads-audit](https://www.skills.sh/agricidaniel/claude-ads/ads-audit)**
-- **[ads-budget](https://www.skills.sh/agricidaniel/claude-ads/ads-budget)**
-- **[ads-plan](https://www.skills.sh/agricidaniel/claude-ads/ads-plan)**
-- **[ads-landing](https://www.skills.sh/agricidaniel/claude-ads/ads-landing)**
-- **[ads-create](https://www.skills.sh/agricidaniel/claude-ads/ads-create)**
-- **[ads-generate](https://www.skills.sh/agricidaniel/claude-ads/ads-generate)**
-- **[ads-dna](https://www.skills.sh/agricidaniel/claude-ads/ads-dna)**
-- **[ads-microsoft](https://www.skills.sh/agricidaniel/claude-ads/ads-microsoft)**
-- **[ads-photoshoot](https://www.skills.sh/agricidaniel/claude-ads/ads-photoshoot)**
-- **[ads-apple](https://www.skills.sh/agricidaniel/claude-ads/ads-apple)**
-- **[ads-math](https://www.skills.sh/agricidaniel/claude-ads/ads-math)**
-- **[ads-test](https://www.skills.sh/agricidaniel/claude-ads/ads-test)**
-- **[ads-attribution](https://www.skills.sh/agricidaniel/claude-ads/ads-attribution)**
-- **[ads-server-side-tracking](https://www.skills.sh/agricidaniel/claude-ads/ads-server-side-tracking)**
-- **[ads-amazon](https://www.skills.sh/agricidaniel/claude-ads/ads-amazon)**
-- **[ads-optimize](https://www.skills.sh/agricidaniel/claude-ads/ads-optimize)**
-- **[ads-report](https://www.skills.sh/agricidaniel/claude-ads/ads-report)**
-- **[ads-monitor](https://www.skills.sh/agricidaniel/claude-ads/ads-monitor)**
-- **[ads-setup](https://www.skills.sh/agricidaniel/claude-ads/ads-setup)**
-- **[ads-launch](https://www.skills.sh/agricidaniel/claude-ads/ads-launch)**
-- **[ads-research](https://www.skills.sh/agricidaniel/claude-ads/ads-research)**
-- **[ads-validate](https://www.skills.sh/agricidaniel/claude-ads/ads-validate)**
-- **[ads-pinterest](https://www.skills.sh/agricidaniel/claude-ads/ads-pinterest)**
-- **[ads-snapchat](https://www.skills.sh/agricidaniel/claude-ads/ads-snapchat)**
-- **[ads-reddit](https://www.skills.sh/agricidaniel/claude-ads/ads-reddit)**
-- **[ads-x](https://www.skills.sh/agricidaniel/claude-ads/ads-x)**
+- **[ads-meta](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-meta/SKILL.md)**
+- **[ads-google](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-google/SKILL.md)**
+- **[ads-creative](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-creative/SKILL.md)**
+- **[ads-competitor](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-competitor/SKILL.md)**
+- **[ads-audit](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-audit/SKILL.md)**
+- **[ads-budget](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-budget/SKILL.md)**
+- **[ads-plan](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-plan/SKILL.md)**
+- **[ads-landing](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-landing/SKILL.md)**
+- **[ads-create](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-create/SKILL.md)**
+- **[ads-generate](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-generate/SKILL.md)**
+- **[ads-dna](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-dna/SKILL.md)**
+- **[ads-microsoft](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-microsoft/SKILL.md)**
+- **[ads-photoshoot](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-photoshoot/SKILL.md)**
+- **[ads-apple](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-apple/SKILL.md)**
+- **[ads-math](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-math/SKILL.md)**
+- **[ads-test](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-test/SKILL.md)**
+- **[ads-attribution](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-attribution/SKILL.md)**
+- **[ads-server-side-tracking](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-server-side-tracking/SKILL.md)**
+- **[ads-amazon](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-amazon/SKILL.md)**
+- **[ads-optimize](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-optimize/SKILL.md)**
+- **[ads-report](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-report/SKILL.md)**
+- **[ads-monitor](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-monitor/SKILL.md)**
+- **[ads-setup](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-setup/SKILL.md)**
+- **[ads-launch](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-launch/SKILL.md)**
+- **[ads-research](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-research/SKILL.md)**
+- **[ads-validate](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-validate/SKILL.md)**
+- **[ads-pinterest](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-pinterest/SKILL.md)**
+- **[ads-snapchat](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-snapchat/SKILL.md)**
+- **[ads-reddit](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-reddit/SKILL.md)**
+- **[ads-x](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-x/SKILL.md)**
+
 
 ## kostja94/marketing-skills · 225
 
-- **[copywriting](https://www.skills.sh/kostja94/marketing-skills/copywriting)**
-- **[video-marketing](https://www.skills.sh/kostja94/marketing-skills/video-marketing)**
-- **[analytics-tracking](https://www.skills.sh/kostja94/marketing-skills/analytics-tracking)**
-- **[translation](https://www.skills.sh/kostja94/marketing-skills/translation)**
-- **[visual-content](https://www.skills.sh/kostja94/marketing-skills/visual-content)**
-- **[meta-ads](https://www.skills.sh/kostja94/marketing-skills/meta-ads)**
-- **[programmatic-seo](https://www.skills.sh/kostja94/marketing-skills/programmatic-seo)**
-- **[pinterest-posts](https://www.skills.sh/kostja94/marketing-skills/pinterest-posts)**
-- **[branding](https://www.skills.sh/kostja94/marketing-skills/branding)**
-- **[grokipedia-recommendations](https://www.skills.sh/kostja94/marketing-skills/grokipedia-recommendations)**
-- **[github](https://www.skills.sh/kostja94/marketing-skills/github)**
-- **[landing-page-generator](https://www.skills.sh/kostja94/marketing-skills/landing-page-generator)**
-- **[google-ads](https://www.skills.sh/kostja94/marketing-skills/google-ads)**
-- **[legal-page-generator](https://www.skills.sh/kostja94/marketing-skills/legal-page-generator)**
-- **[terms-page-generator](https://www.skills.sh/kostja94/marketing-skills/terms-page-generator)**
-- **[privacy-page-generator](https://www.skills.sh/kostja94/marketing-skills/privacy-page-generator)**
-- **[keyword-research](https://www.skills.sh/kostja94/marketing-skills/keyword-research)**
-- **[conversion-optimization](https://www.skills.sh/kostja94/marketing-skills/conversion-optimization)**
-- **[brand-visual-generator](https://www.skills.sh/kostja94/marketing-skills/brand-visual-generator)**
-- **[cookie-policy-page-generator](https://www.skills.sh/kostja94/marketing-skills/cookie-policy-page-generator)**
-- **[tiktok-ads](https://www.skills.sh/kostja94/marketing-skills/tiktok-ads)**
-- **[competitor-research](https://www.skills.sh/kostja94/marketing-skills/competitor-research)**
-- **[content-strategy](https://www.skills.sh/kostja94/marketing-skills/content-strategy)**
-- **[carousel](https://www.skills.sh/kostja94/marketing-skills/carousel)**
-- **[generative-engine-optimization](https://www.skills.sh/kostja94/marketing-skills/generative-engine-optimization)**
-- **[seo-strategy](https://www.skills.sh/kostja94/marketing-skills/seo-strategy)**
-- **[schema-markup](https://www.skills.sh/kostja94/marketing-skills/schema-markup)**
-- **[website-structure](https://www.skills.sh/kostja94/marketing-skills/website-structure)**
-- **[robots-txt](https://www.skills.sh/kostja94/marketing-skills/robots-txt)**
-- **[affiliate-marketing](https://www.skills.sh/kostja94/marketing-skills/affiliate-marketing)**
-- **[content-optimization](https://www.skills.sh/kostja94/marketing-skills/content-optimization)**
-- **[paid-ads-strategy](https://www.skills.sh/kostja94/marketing-skills/paid-ads-strategy)**
-- **[meta-description](https://www.skills.sh/kostja94/marketing-skills/meta-description)**
-- **[refund-page-generator](https://www.skills.sh/kostja94/marketing-skills/refund-page-generator)**
-- **[influencer-marketing](https://www.skills.sh/kostja94/marketing-skills/influencer-marketing)**
-- **[hero-generator](https://www.skills.sh/kostja94/marketing-skills/hero-generator)**
-- **[shipping-page-generator](https://www.skills.sh/kostja94/marketing-skills/shipping-page-generator)**
-- **[seo-monitoring](https://www.skills.sh/kostja94/marketing-skills/seo-monitoring)**
-- **[growth-funnel](https://www.skills.sh/kostja94/marketing-skills/growth-funnel)**
-- **[title-tag](https://www.skills.sh/kostja94/marketing-skills/title-tag)**
-- **[indexing](https://www.skills.sh/kostja94/marketing-skills/indexing)**
-- **[xml-sitemap](https://www.skills.sh/kostja94/marketing-skills/xml-sitemap)**
-- **[indie-hacker-strategy](https://www.skills.sh/kostja94/marketing-skills/indie-hacker-strategy)**
-- **[content-marketing](https://www.skills.sh/kostja94/marketing-skills/content-marketing)**
-- **[open-graph](https://www.skills.sh/kostja94/marketing-skills/open-graph)**
-- **[email-marketing](https://www.skills.sh/kostja94/marketing-skills/email-marketing)**
-- **[traffic-analysis](https://www.skills.sh/kostja94/marketing-skills/traffic-analysis)**
-- **[link-building](https://www.skills.sh/kostja94/marketing-skills/link-building)**
-- **[blog-page-generator](https://www.skills.sh/kostja94/marketing-skills/blog-page-generator)**
-- **[cold-start-strategy](https://www.skills.sh/kostja94/marketing-skills/cold-start-strategy)**
-- **[homepage-generator](https://www.skills.sh/kostja94/marketing-skills/homepage-generator)**
-- **[products-page-generator](https://www.skills.sh/kostja94/marketing-skills/products-page-generator)**
-- **[image-optimization](https://www.skills.sh/kostja94/marketing-skills/image-optimization)**
-- **[gtm-strategy](https://www.skills.sh/kostja94/marketing-skills/gtm-strategy)**
-- **[eeat-signals](https://www.skills.sh/kostja94/marketing-skills/eeat-signals)**
-- **[canonical-tag](https://www.skills.sh/kostja94/marketing-skills/canonical-tag)**
-- **[faq-page-generator](https://www.skills.sh/kostja94/marketing-skills/faq-page-generator)**
-- **[linkedin-ads](https://www.skills.sh/kostja94/marketing-skills/linkedin-ads)**
-- **[product-launch](https://www.skills.sh/kostja94/marketing-skills/product-launch)**
-- **[cta-generator](https://www.skills.sh/kostja94/marketing-skills/cta-generator)**
-- **[internal-links](https://www.skills.sh/kostja94/marketing-skills/internal-links)**
-- **[backlink-analysis](https://www.skills.sh/kostja94/marketing-skills/backlink-analysis)**
-- **[localization-strategy](https://www.skills.sh/kostja94/marketing-skills/localization-strategy)**
-- **[page-metadata](https://www.skills.sh/kostja94/marketing-skills/page-metadata)**
-- **[community-forum](https://www.skills.sh/kostja94/marketing-skills/community-forum)**
-- **[ai-traffic-tracking](https://www.skills.sh/kostja94/marketing-skills/ai-traffic-tracking)**
-- **[retention-strategy](https://www.skills.sh/kostja94/marketing-skills/retention-strategy)**
-- **[indexnow](https://www.skills.sh/kostja94/marketing-skills/indexnow)**
-- **[site-crawlability](https://www.skills.sh/kostja94/marketing-skills/site-crawlability)**
-- **[seo-audit](https://www.skills.sh/kostja94/marketing-skills/seo-audit)**
-- **[affiliate-page-generator](https://www.skills.sh/kostja94/marketing-skills/affiliate-page-generator)**
-- **[core-web-vitals](https://www.skills.sh/kostja94/marketing-skills/core-web-vitals)**
-- **[heading-structure](https://www.skills.sh/kostja94/marketing-skills/heading-structure)**
-- **[article-page-generator](https://www.skills.sh/kostja94/marketing-skills/article-page-generator)**
-- **[pricing-page-generator](https://www.skills.sh/kostja94/marketing-skills/pricing-page-generator)**
-- **[about-page-generator](https://www.skills.sh/kostja94/marketing-skills/about-page-generator)**
-- **[rebranding-strategy](https://www.skills.sh/kostja94/marketing-skills/rebranding-strategy)**
-- **[footer-generator](https://www.skills.sh/kostja94/marketing-skills/footer-generator)**
-- **[url-structure](https://www.skills.sh/kostja94/marketing-skills/url-structure)**
-- **[testimonials-generator](https://www.skills.sh/kostja94/marketing-skills/testimonials-generator)**
-- **[featured-snippet](https://www.skills.sh/kostja94/marketing-skills/featured-snippet)**
-- **[twitter-cards](https://www.skills.sh/kostja94/marketing-skills/twitter-cards)**
-- **[favicon-generator](https://www.skills.sh/kostja94/marketing-skills/favicon-generator)**
-- **[contact-page-generator](https://www.skills.sh/kostja94/marketing-skills/contact-page-generator)**
-- **[integrated-marketing](https://www.skills.sh/kostja94/marketing-skills/integrated-marketing)**
-- **[serp-features](https://www.skills.sh/kostja94/marketing-skills/serp-features)**
-- **[display-ads](https://www.skills.sh/kostja94/marketing-skills/display-ads)**
-- **[404-page-generator](https://www.skills.sh/kostja94/marketing-skills/404-page-generator)**
-- **[mobile-friendly](https://www.skills.sh/kostja94/marketing-skills/mobile-friendly)**
-- **[directory-submission](https://www.skills.sh/kostja94/marketing-skills/directory-submission)**
-- **[creator-program](https://www.skills.sh/kostja94/marketing-skills/creator-program)**
-- **[alternatives-page-generator](https://www.skills.sh/kostja94/marketing-skills/alternatives-page-generator)**
-- **[category-page-generator](https://www.skills.sh/kostja94/marketing-skills/category-page-generator)**
-- **[research-sources](https://www.skills.sh/kostja94/marketing-skills/research-sources)**
-- **[top-banner-generator](https://www.skills.sh/kostja94/marketing-skills/top-banner-generator)**
-- **[url-slug-generator](https://www.skills.sh/kostja94/marketing-skills/url-slug-generator)**
-- **[pmf-strategy](https://www.skills.sh/kostja94/marketing-skills/pmf-strategy)**
-- **[navigation-menu-generator](https://www.skills.sh/kostja94/marketing-skills/navigation-menu-generator)**
-- **[app-ads](https://www.skills.sh/kostja94/marketing-skills/app-ads)**
-- **[brand-protection](https://www.skills.sh/kostja94/marketing-skills/brand-protection)**
-- **[card](https://www.skills.sh/kostja94/marketing-skills/card)**
-- **[media-kit-page-generator](https://www.skills.sh/kostja94/marketing-skills/media-kit-page-generator)**
-- **[trust-badges-generator](https://www.skills.sh/kostja94/marketing-skills/trust-badges-generator)**
-- **[breadcrumb-generator](https://www.skills.sh/kostja94/marketing-skills/breadcrumb-generator)**
-- **[distribution-channels](https://www.skills.sh/kostja94/marketing-skills/distribution-channels)**
-- **[grid](https://www.skills.sh/kostja94/marketing-skills/grid)**
-- **[social-share-generator](https://www.skills.sh/kostja94/marketing-skills/social-share-generator)**
-- **[sidebar-generator](https://www.skills.sh/kostja94/marketing-skills/sidebar-generator)**
-- **[employee-generated-content](https://www.skills.sh/kostja94/marketing-skills/employee-generated-content)**
-- **[docs-page-generator](https://www.skills.sh/kostja94/marketing-skills/docs-page-generator)**
-- **[customer-stories-page-generator](https://www.skills.sh/kostja94/marketing-skills/customer-stories-page-generator)**
-- **[features-page-generator](https://www.skills.sh/kostja94/marketing-skills/features-page-generator)**
-- **[showcase-page-generator](https://www.skills.sh/kostja94/marketing-skills/showcase-page-generator)**
-- **[referral-program](https://www.skills.sh/kostja94/marketing-skills/referral-program)**
-- **[popup-generator](https://www.skills.sh/kostja94/marketing-skills/popup-generator)**
-- **[use-cases-page-generator](https://www.skills.sh/kostja94/marketing-skills/use-cases-page-generator)**
-- **[contest-page-generator](https://www.skills.sh/kostja94/marketing-skills/contest-page-generator)**
-- **[video-optimization](https://www.skills.sh/kostja94/marketing-skills/video-optimization)**
-- **[services-page-generator](https://www.skills.sh/kostja94/marketing-skills/services-page-generator)**
-- **[native-ads](https://www.skills.sh/kostja94/marketing-skills/native-ads)**
-- **[glossary-page-generator](https://www.skills.sh/kostja94/marketing-skills/glossary-page-generator)**
-- **[disclosure-page-generator](https://www.skills.sh/kostja94/marketing-skills/disclosure-page-generator)**
-- **[tools-page-generator](https://www.skills.sh/kostja94/marketing-skills/tools-page-generator)**
-- **[changelog-page-generator](https://www.skills.sh/kostja94/marketing-skills/changelog-page-generator)**
-- **[careers-page-generator](https://www.skills.sh/kostja94/marketing-skills/careers-page-generator)**
-- **[integrations-page-generator](https://www.skills.sh/kostja94/marketing-skills/integrations-page-generator)**
-- **[download-page-generator](https://www.skills.sh/kostja94/marketing-skills/download-page-generator)**
-- **[toc-generator](https://www.skills.sh/kostja94/marketing-skills/toc-generator)**
-- **[directory-listing-ads](https://www.skills.sh/kostja94/marketing-skills/directory-listing-ads)**
-- **[feedback-page-generator](https://www.skills.sh/kostja94/marketing-skills/feedback-page-generator)**
-- **[startups-page-generator](https://www.skills.sh/kostja94/marketing-skills/startups-page-generator)**
-- **[status-page-generator](https://www.skills.sh/kostja94/marketing-skills/status-page-generator)**
-- **[masonry](https://www.skills.sh/kostja94/marketing-skills/masonry)**
-- **[resources-page-generator](https://www.skills.sh/kostja94/marketing-skills/resources-page-generator)**
-- **[product-hunt-launch](https://www.skills.sh/kostja94/marketing-skills/product-hunt-launch)**
-- **[solutions-page-generator](https://www.skills.sh/kostja94/marketing-skills/solutions-page-generator)**
-- **[list](https://www.skills.sh/kostja94/marketing-skills/list)**
-- **[template-page-generator](https://www.skills.sh/kostja94/marketing-skills/template-page-generator)**
-- **[ctv-ads](https://www.skills.sh/kostja94/marketing-skills/ctv-ads)**
-- **[brand-monitoring](https://www.skills.sh/kostja94/marketing-skills/brand-monitoring)**
-- **[migration-page-generator](https://www.skills.sh/kostja94/marketing-skills/migration-page-generator)**
-- **[press-coverage-page-generator](https://www.skills.sh/kostja94/marketing-skills/press-coverage-page-generator)**
-- **[tab-accordion](https://www.skills.sh/kostja94/marketing-skills/tab-accordion)**
-- **[public-relations](https://www.skills.sh/kostja94/marketing-skills/public-relations)**
-- **[signup-login-page-generator](https://www.skills.sh/kostja94/marketing-skills/signup-login-page-generator)**
-- **[open-source-strategy](https://www.skills.sh/kostja94/marketing-skills/open-source-strategy)**
-- **[education-program](https://www.skills.sh/kostja94/marketing-skills/education-program)**
-- **[rendering-strategies](https://www.skills.sh/kostja94/marketing-skills/rendering-strategies)**
-- **[api-page-generator](https://www.skills.sh/kostja94/marketing-skills/api-page-generator)**
-- **[pricing-strategy](https://www.skills.sh/kostja94/marketing-skills/pricing-strategy)**
-- **[discount-marketing-strategy](https://www.skills.sh/kostja94/marketing-skills/discount-marketing-strategy)**
-- **[multi-domain-brand-seo](https://www.skills.sh/kostja94/marketing-skills/multi-domain-brand-seo)**
-- **[comparison-table-generator](https://www.skills.sh/kostja94/marketing-skills/comparison-table-generator)**
-- **[howto-section-generator](https://www.skills.sh/kostja94/marketing-skills/howto-section-generator)**
-- **[github-seo](https://www.skills.sh/kostja94/marketing-skills/github-seo)**
-- **[pr-marketing](https://www.skills.sh/kostja94/marketing-skills/pr-marketing)**
-- **[keyword-discovery](https://www.skills.sh/kostja94/marketing-skills/keyword-discovery)**
-- **[keyword-mapping](https://www.skills.sh/kostja94/marketing-skills/keyword-mapping)**
-- **[keyword-opportunity](https://www.skills.sh/kostja94/marketing-skills/keyword-opportunity)**
-- **[keyword-clustering](https://www.skills.sh/kostja94/marketing-skills/keyword-clustering)**
-- **[content-marketing-strategy](https://www.skills.sh/kostja94/marketing-skills/content-marketing-strategy)**
-- **[outbound-links](https://www.skills.sh/kostja94/marketing-skills/outbound-links)**
-- **[components-footer](https://www.skills.sh/kostja94/marketing-skills/components-footer)**
-- **[seo-technical-indexing](https://www.skills.sh/kostja94/marketing-skills/seo-technical-indexing)**
-- **[seo-off-page-link-building](https://www.skills.sh/kostja94/marketing-skills/seo-off-page-link-building)**
-- **[analytics-ai-traffic](https://www.skills.sh/kostja94/marketing-skills/analytics-ai-traffic)**
-- **[pages-terms](https://www.skills.sh/kostja94/marketing-skills/pages-terms)**
-- **[pages-privacy](https://www.skills.sh/kostja94/marketing-skills/pages-privacy)**
-- **[components-hero](https://www.skills.sh/kostja94/marketing-skills/components-hero)**
-- **[pages-contact](https://www.skills.sh/kostja94/marketing-skills/pages-contact)**
-- **[components-testimonials](https://www.skills.sh/kostja94/marketing-skills/components-testimonials)**
-- **[strategies-localization](https://www.skills.sh/kostja94/marketing-skills/strategies-localization)**
-- **[seo-content-keyword-research](https://www.skills.sh/kostja94/marketing-skills/seo-content-keyword-research)**
-- **[seo-on-page-metadata](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-metadata)**
-- **[strategies-geo](https://www.skills.sh/kostja94/marketing-skills/strategies-geo)**
-- **[components-navigation-menu](https://www.skills.sh/kostja94/marketing-skills/components-navigation-menu)**
-- **[seo-content-content-strategy](https://www.skills.sh/kostja94/marketing-skills/seo-content-content-strategy)**
-- **[seo-technical-crawlability](https://www.skills.sh/kostja94/marketing-skills/seo-technical-crawlability)**
-- **[platforms-x](https://www.skills.sh/kostja94/marketing-skills/platforms-x)**
-- **[platforms-linkedin](https://www.skills.sh/kostja94/marketing-skills/platforms-linkedin)**
-- **[pages-media-kit](https://www.skills.sh/kostja94/marketing-skills/pages-media-kit)**
-- **[pages-glossary](https://www.skills.sh/kostja94/marketing-skills/pages-glossary)**
-- **[pages-cookie-policy](https://www.skills.sh/kostja94/marketing-skills/pages-cookie-policy)**
-- **[seo-on-page-internal-links](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-internal-links)**
-- **[channels-referral](https://www.skills.sh/kostja94/marketing-skills/channels-referral)**
-- **[seo-technical-canonical](https://www.skills.sh/kostja94/marketing-skills/seo-technical-canonical)**
-- **[components-logo](https://www.skills.sh/kostja94/marketing-skills/components-logo)**
-- **[components-toc](https://www.skills.sh/kostja94/marketing-skills/components-toc)**
-- **[pages-features](https://www.skills.sh/kostja94/marketing-skills/pages-features)**
-- **[seo-technical-indexnow](https://www.skills.sh/kostja94/marketing-skills/seo-technical-indexnow)**
-- **[seo-on-page-url-structure](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-url-structure)**
-- **[pages-blog](https://www.skills.sh/kostja94/marketing-skills/pages-blog)**
-- **[pages-customer-stories](https://www.skills.sh/kostja94/marketing-skills/pages-customer-stories)**
-- **[pages-404](https://www.skills.sh/kostja94/marketing-skills/pages-404)**
-- **[pages-refund](https://www.skills.sh/kostja94/marketing-skills/pages-refund)**
-- **[seo-on-page-schema](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-schema)**
-- **[seo-on-page-heading](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-heading)**
-- **[platforms-tiktok](https://www.skills.sh/kostja94/marketing-skills/platforms-tiktok)**
-- **[analytics-traffic](https://www.skills.sh/kostja94/marketing-skills/analytics-traffic)**
-- **[pages-services](https://www.skills.sh/kostja94/marketing-skills/pages-services)**
-- **[seo-off-page-backlink-analysis](https://www.skills.sh/kostja94/marketing-skills/seo-off-page-backlink-analysis)**
-- **[channels-creator-program](https://www.skills.sh/kostja94/marketing-skills/channels-creator-program)**
-- **[pages-home](https://www.skills.sh/kostja94/marketing-skills/pages-home)**
-- **[channels-affiliate](https://www.skills.sh/kostja94/marketing-skills/channels-affiliate)**
-- **[pages-category-pages](https://www.skills.sh/kostja94/marketing-skills/pages-category-pages)**
-- **[pages-affiliate-program](https://www.skills.sh/kostja94/marketing-skills/pages-affiliate-program)**
-- **[pages-legal](https://www.skills.sh/kostja94/marketing-skills/pages-legal)**
-- **[pages-about](https://www.skills.sh/kostja94/marketing-skills/pages-about)**
-- **[pages-faq](https://www.skills.sh/kostja94/marketing-skills/pages-faq)**
-- **[pages-shipping](https://www.skills.sh/kostja94/marketing-skills/pages-shipping)**
-- **[platforms-reddit](https://www.skills.sh/kostja94/marketing-skills/platforms-reddit)**
-- **[components-cta](https://www.skills.sh/kostja94/marketing-skills/components-cta)**
-- **[pages-products](https://www.skills.sh/kostja94/marketing-skills/pages-products)**
-- **[pages-resources](https://www.skills.sh/kostja94/marketing-skills/pages-resources)**
-- **[seo-technical-sitemap](https://www.skills.sh/kostja94/marketing-skills/seo-technical-sitemap)**
-- **[pages-pricing](https://www.skills.sh/kostja94/marketing-skills/pages-pricing)**
-- **[channels-influencer](https://www.skills.sh/kostja94/marketing-skills/channels-influencer)**
-- **[pages-careers](https://www.skills.sh/kostja94/marketing-skills/pages-careers)**
-- **[seo-technical-robots](https://www.skills.sh/kostja94/marketing-skills/seo-technical-robots)**
-- **[components-newsletter-signup](https://www.skills.sh/kostja94/marketing-skills/components-newsletter-signup)**
-- **[components-trust-badges](https://www.skills.sh/kostja94/marketing-skills/components-trust-badges)**
-- **[platforms-grokipedia](https://www.skills.sh/kostja94/marketing-skills/platforms-grokipedia)**
-- **[seo-content-optimization](https://www.skills.sh/kostja94/marketing-skills/seo-content-optimization)**
-- **[components-breadcrumb](https://www.skills.sh/kostja94/marketing-skills/components-breadcrumb)**
-- **[analytics-google-search-console](https://www.skills.sh/kostja94/marketing-skills/analytics-google-search-console)**
+- **[copywriting](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/copywriting/SKILL.md)**
+- **[video-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/video/SKILL.md)**
+- **[analytics-tracking](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/tracking/SKILL.md)**
+- **[translation](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/translation/SKILL.md)**
+- **[visual-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/visual-content/SKILL.md)**
+- **[meta-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/meta-ads/SKILL.md)**
+- **[programmatic-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/programmatic-seo/SKILL.md)**
+- **[pinterest-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/pinterest/SKILL.md)**
+- **[branding](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/branding/SKILL.md)**
+- **[grokipedia-recommendations](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/grokipedia/SKILL.md)**
+- **[github](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/github/SKILL.md)**
+- **[landing-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/landing-page/SKILL.md)**
+- **[google-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/google-ads/SKILL.md)**
+- **[legal-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/legal/SKILL.md)**
+- **[terms-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/terms/SKILL.md)**
+- **[privacy-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/privacy/SKILL.md)**
+- **[keyword-research](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-research/SKILL.md)**
+- **[conversion-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/conversion/SKILL.md)**
+- **[brand-visual-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/brand-visual/SKILL.md)**
+- **[cookie-policy-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/cookie-policy/SKILL.md)**
+- **[tiktok-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/tiktok-ads/SKILL.md)**
+- **[competitor-research](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/competitor-research/SKILL.md)**
+- **[content-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/content-strategy/SKILL.md)**
+- **[carousel](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/carousel/SKILL.md)**
+- **[generative-engine-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/geo/SKILL.md)**
+- **[seo-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/seo/SKILL.md)**
+- **[schema-markup](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/schema/SKILL.md)**
+- **[website-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/website-structure/SKILL.md)**
+- **[robots-txt](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/robots/SKILL.md)**
+- **[affiliate-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/affiliate-marketing/SKILL.md)**
+- **[content-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/content-optimization/SKILL.md)**
+- **[paid-ads-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/paid-ads/SKILL.md)**
+- **[meta-description](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/description/SKILL.md)**
+- **[refund-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/refund/SKILL.md)**
+- **[influencer-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/influencer-marketing/SKILL.md)**
+- **[hero-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/hero/SKILL.md)**
+- **[shipping-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/shipping/SKILL.md)**
+- **[seo-monitoring](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/seo-monitoring/SKILL.md)**
+- **[growth-funnel](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/growth-funnel/SKILL.md)**
+- **[title-tag](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/title/SKILL.md)**
+- **[indexing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/indexing/SKILL.md)**
+- **[xml-sitemap](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/sitemap/SKILL.md)**
+- **[indie-hacker-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/indie-hacker/SKILL.md)**
+- **[content-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/content-marketing/SKILL.md)**
+- **[open-graph](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/open-graph/SKILL.md)**
+- **[email-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/owned/email-marketing/SKILL.md)**
+- **[traffic-analysis](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/sources/traffic/SKILL.md)**
+- **[link-building](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/off-page/link-building/SKILL.md)**
+- **[blog-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/blog/SKILL.md)**
+- **[cold-start-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/cold-start/SKILL.md)**
+- **[homepage-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/home/SKILL.md)**
+- **[products-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/products/SKILL.md)**
+- **[image-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/image-optimization/SKILL.md)**
+- **[gtm-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/gtm/SKILL.md)**
+- **[eeat-signals](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/eeat-signals/SKILL.md)**
+- **[canonical-tag](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/canonical/SKILL.md)**
+- **[faq-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/faq/SKILL.md)**
+- **[linkedin-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/linkedin-ads/SKILL.md)**
+- **[product-launch](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/product-launch/SKILL.md)**
+- **[cta-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/cta/SKILL.md)**
+- **[internal-links](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/internal-links/SKILL.md)**
+- **[backlink-analysis](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/off-page/backlink-analysis/SKILL.md)**
+- **[localization-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/localization/SKILL.md)**
+- **[page-metadata](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/metadata/SKILL.md)**
+- **[community-forum](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/community-forum/SKILL.md)**
+- **[ai-traffic-tracking](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/sources/ai-traffic/SKILL.md)**
+- **[retention-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/retention/SKILL.md)**
+- **[indexnow](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/indexnow/SKILL.md)**
+- **[site-crawlability](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/crawlability/SKILL.md)**
+- **[seo-audit](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/seo-audit/SKILL.md)**
+- **[affiliate-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/affiliate-program/SKILL.md)**
+- **[core-web-vitals](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/core-web-vitals/SKILL.md)**
+- **[heading-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/heading/SKILL.md)**
+- **[article-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/article/SKILL.md)**
+- **[pricing-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/pricing/SKILL.md)**
+- **[about-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/about/SKILL.md)**
+- **[rebranding-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/rebranding/SKILL.md)**
+- **[footer-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/footer/SKILL.md)**
+- **[url-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/url-structure/SKILL.md)**
+- **[testimonials-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/testimonials/SKILL.md)**
+- **[featured-snippet](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/featured-snippet/SKILL.md)**
+- **[twitter-cards](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/twitter-cards/SKILL.md)**
+- **[favicon-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/favicon/SKILL.md)**
+- **[contact-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/contact/SKILL.md)**
+- **[integrated-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/integrated-marketing/SKILL.md)**
+- **[serp-features](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/serp-features/SKILL.md)**
+- **[display-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/display-ads/SKILL.md)**
+- **[404-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/404/SKILL.md)**
+- **[mobile-friendly](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/mobile-friendly/SKILL.md)**
+- **[directory-submission](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/directory-submission/SKILL.md)**
+- **[creator-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/creator-program/SKILL.md)**
+- **[alternatives-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/alternatives/SKILL.md)**
+- **[category-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/category-pages/SKILL.md)**
+- **[research-sources](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/research-sources/SKILL.md)**
+- **[top-banner-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/top-banner/SKILL.md)**
+- **[url-slug-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/url-slug/SKILL.md)**
+- **[pmf-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/pmf/SKILL.md)**
+- **[navigation-menu-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/navigation-menu/SKILL.md)**
+- **[app-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/app-ads/SKILL.md)**
+- **[brand-protection](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/brand-protection/SKILL.md)**
+- **[card](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/card/SKILL.md)**
+- **[media-kit-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/media-kit/SKILL.md)**
+- **[trust-badges-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/trust-badges/SKILL.md)**
+- **[breadcrumb-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/breadcrumb/SKILL.md)**
+- **[distribution-channels](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/distribution/distribution-channels/SKILL.md)**
+- **[grid](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/grid/SKILL.md)**
+- **[social-share-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/social-share/SKILL.md)**
+- **[sidebar-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/sidebar/SKILL.md)**
+- **[employee-generated-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/owned/employee-generated-content/SKILL.md)**
+- **[docs-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/docs/SKILL.md)**
+- **[customer-stories-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/customer-stories/SKILL.md)**
+- **[features-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/features/SKILL.md)**
+- **[showcase-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/showcase/SKILL.md)**
+- **[referral-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/referral-program/SKILL.md)**
+- **[popup-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/popup/SKILL.md)**
+- **[use-cases-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/use-cases/SKILL.md)**
+- **[contest-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/contest/SKILL.md)**
+- **[video-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/video-optimization/SKILL.md)**
+- **[services-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/services/SKILL.md)**
+- **[native-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/native-ads/SKILL.md)**
+- **[glossary-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/glossary/SKILL.md)**
+- **[disclosure-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/disclosure/SKILL.md)**
+- **[tools-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/tools/SKILL.md)**
+- **[changelog-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/changelog/SKILL.md)**
+- **[careers-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/careers/SKILL.md)**
+- **[integrations-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/integrations/SKILL.md)**
+- **[download-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/download/SKILL.md)**
+- **[toc-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/toc/SKILL.md)**
+- **[directory-listing-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/directory-listing-ads/SKILL.md)**
+- **[feedback-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/feedback/SKILL.md)**
+- **[startups-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/startups/SKILL.md)**
+- **[status-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/status/SKILL.md)**
+- **[masonry](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/masonry/SKILL.md)**
+- **[resources-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/resources/SKILL.md)**
+- **[product-hunt-launch](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/product-hunt-launch/SKILL.md)**
+- **[solutions-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/solutions/SKILL.md)**
+- **[list](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/list/SKILL.md)**
+- **[template-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/template-page/SKILL.md)**
+- **[ctv-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/ctv-ads/SKILL.md)**
+- **[brand-monitoring](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/brand-monitoring/SKILL.md)**
+- **[migration-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/migration/SKILL.md)**
+- **[press-coverage-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/press-coverage/SKILL.md)**
+- **[tab-accordion](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/tab-accordion/SKILL.md)**
+- **[public-relations](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/public-relations/SKILL.md)**
+- **[signup-login-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/signup-login/SKILL.md)**
+- **[open-source-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/open-source/SKILL.md)**
+- **[education-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/education-program/SKILL.md)**
+- **[rendering-strategies](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/rendering-strategies/SKILL.md)**
+- **[api-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/api/SKILL.md)**
+- **[pricing-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/pricing/pricing-strategy/SKILL.md)**
+- **[discount-marketing-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/pricing/discount-marketing/SKILL.md)**
+- **[multi-domain-brand-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/multi-domain-brand-seo/SKILL.md)**
+- **[comparison-table-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/comparison-table/SKILL.md)**
+- **[howto-section-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/howto-section/SKILL.md)**
+- **[github-seo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pr-marketing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[keyword-discovery](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-discovery/SKILL.md)**
+- **[keyword-mapping](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-mapping/SKILL.md)**
+- **[keyword-opportunity](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-opportunity/SKILL.md)**
+- **[keyword-clustering](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-clustering/SKILL.md)**
+- **[content-marketing-strategy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[outbound-links](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/outbound-links/SKILL.md)**
+- **[components-footer · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-indexing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-off-page-link-building · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-ai-traffic · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-terms · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-privacy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-hero · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-contact · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-testimonials · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[strategies-localization · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-keyword-research · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-metadata · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[strategies-geo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-navigation-menu · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-content-strategy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-crawlability · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-x · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-linkedin · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-media-kit · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-glossary · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-cookie-policy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-internal-links · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-referral · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-canonical · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-logo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-toc · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-features · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-indexnow · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-url-structure · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-blog · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-customer-stories · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-404 · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-refund · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-schema · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-heading · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-tiktok · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-traffic · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-services · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-off-page-backlink-analysis · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-creator-program · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-home · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-affiliate · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-category-pages · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-affiliate-program · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-legal · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-about · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-faq · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-shipping · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-reddit · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-cta · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-products · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-resources · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-sitemap · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-pricing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-influencer · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-careers · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-robots · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-newsletter-signup · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-trust-badges · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-grokipedia · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-optimization · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-breadcrumb · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-google-search-console · repository entry](https://github.com/kostja94/marketing-skills)**
+
 
 ## social-media-skills/skills · 88
 
-- **[reels-script](https://www.skills.sh/social-media-skills/skills/reels-script)**
-- **[brand-profile](https://www.skills.sh/social-media-skills/skills/brand-profile)**
-- **[voice-builder](https://www.skills.sh/social-media-skills/skills/voice-builder)**
-- **[scripting-and-storyboarding](https://www.skills.sh/social-media-skills/skills/scripting-and-storyboarding)**
-- **[storytelling-and-narrative](https://www.skills.sh/social-media-skills/skills/storytelling-and-narrative)**
-- **[capcut](https://www.skills.sh/social-media-skills/skills/capcut)**
-- **[analytics-and-reporting](https://www.skills.sh/social-media-skills/skills/analytics-and-reporting)**
-- **[captions-and-clipping](https://www.skills.sh/social-media-skills/skills/captions-and-clipping)**
-- **[instagram-reels-publishing](https://www.skills.sh/social-media-skills/skills/instagram-reels-publishing)**
-- **[competitor-analysis](https://www.skills.sh/social-media-skills/skills/competitor-analysis)**
-- **[tiktok-growth](https://www.skills.sh/social-media-skills/skills/tiktok-growth)**
-- **[design-and-templates](https://www.skills.sh/social-media-skills/skills/design-and-templates)**
-- **[cross-platform-repurposing](https://www.skills.sh/social-media-skills/skills/cross-platform-repurposing)**
-- **[social-strategy](https://www.skills.sh/social-media-skills/skills/social-strategy)**
-- **[trend-jacking](https://www.skills.sh/social-media-skills/skills/trend-jacking)**
-- **[profile-optimization](https://www.skills.sh/social-media-skills/skills/profile-optimization)**
-- **[hashtag-strategy](https://www.skills.sh/social-media-skills/skills/hashtag-strategy)**
-- **[idea-generation-and-ideation](https://www.skills.sh/social-media-skills/skills/idea-generation-and-ideation)**
-- **[batch-content-plan](https://www.skills.sh/social-media-skills/skills/batch-content-plan)**
-- **[content-audit](https://www.skills.sh/social-media-skills/skills/content-audit)**
-- **[youtube-publishing-and-metadata](https://www.skills.sh/social-media-skills/skills/youtube-publishing-and-metadata)**
-- **[platform-specs-and-validation](https://www.skills.sh/social-media-skills/skills/platform-specs-and-validation)**
-- **[story-writer](https://www.skills.sh/social-media-skills/skills/story-writer)**
-- **[reply-and-comment-writer](https://www.skills.sh/social-media-skills/skills/reply-and-comment-writer)**
-- **[goals-and-kpis](https://www.skills.sh/social-media-skills/skills/goals-and-kpis)**
-- **[engagement-routine](https://www.skills.sh/social-media-skills/skills/engagement-routine)**
-- **[youtube-long-form](https://www.skills.sh/social-media-skills/skills/youtube-long-form)**
-- **[ai-voiceover](https://www.skills.sh/social-media-skills/skills/ai-voiceover)**
-- **[talking-head-and-piece-to-camera](https://www.skills.sh/social-media-skills/skills/talking-head-and-piece-to-camera)**
-- **[content-research-and-sourcing](https://www.skills.sh/social-media-skills/skills/content-research-and-sourcing)**
-- **[writing-style-and-tone](https://www.skills.sh/social-media-skills/skills/writing-style-and-tone)**
-- **[image-prompt](https://www.skills.sh/social-media-skills/skills/image-prompt)**
-- **[facebook-strategy](https://www.skills.sh/social-media-skills/skills/facebook-strategy)**
-- **[linkedin-post-writer](https://www.skills.sh/social-media-skills/skills/linkedin-post-writer)**
-- **[educational-content-and-how-to](https://www.skills.sh/social-media-skills/skills/educational-content-and-how-to)**
-- **[experimentation-and-ab-testing](https://www.skills.sh/social-media-skills/skills/experimentation-and-ab-testing)**
-- **[social-selling-and-dm](https://www.skills.sh/social-media-skills/skills/social-selling-and-dm)**
-- **[community-management](https://www.skills.sh/social-media-skills/skills/community-management)**
-- **[social-seo](https://www.skills.sh/social-media-skills/skills/social-seo)**
-- **[veo-3](https://www.skills.sh/social-media-skills/skills/veo-3)**
-- **[behind-the-scenes-and-founder](https://www.skills.sh/social-media-skills/skills/behind-the-scenes-and-founder)**
-- **[scheduling-and-queue](https://www.skills.sh/social-media-skills/skills/scheduling-and-queue)**
-- **[ai-video](https://www.skills.sh/social-media-skills/skills/ai-video)**
-- **[threads-growth](https://www.skills.sh/social-media-skills/skills/threads-growth)**
-- **[tiktok-video-publishing](https://www.skills.sh/social-media-skills/skills/tiktok-video-publishing)**
-- **[quote-cards-and-text-graphics](https://www.skills.sh/social-media-skills/skills/quote-cards-and-text-graphics)**
-- **[creator-monetization](https://www.skills.sh/social-media-skills/skills/creator-monetization)**
-- **[link-in-bio-and-traffic](https://www.skills.sh/social-media-skills/skills/link-in-bio-and-traffic)**
-- **[social-proof-and-testimonials](https://www.skills.sh/social-media-skills/skills/social-proof-and-testimonials)**
-- **[content-recycling](https://www.skills.sh/social-media-skills/skills/content-recycling)**
-- **[pinterest-pin-design](https://www.skills.sh/social-media-skills/skills/pinterest-pin-design)**
-- **[threads-post](https://www.skills.sh/social-media-skills/skills/threads-post)**
-- **[campaign-and-launch-planning](https://www.skills.sh/social-media-skills/skills/campaign-and-launch-planning)**
-- **[ai-music-and-sound](https://www.skills.sh/social-media-skills/skills/ai-music-and-sound)**
-- **[pinterest-seo](https://www.skills.sh/social-media-skills/skills/pinterest-seo)**
-- **[meme-and-culture](https://www.skills.sh/social-media-skills/skills/meme-and-culture)**
-- **[facebook-groups](https://www.skills.sh/social-media-skills/skills/facebook-groups)**
-- **[seasonal-and-moment-marketing](https://www.skills.sh/social-media-skills/skills/seasonal-and-moment-marketing)**
-- **[tiktok-photo-mode](https://www.skills.sh/social-media-skills/skills/tiktok-photo-mode)**
-- **[nano-banana](https://www.skills.sh/social-media-skills/skills/nano-banana)**
-- **[infographic-and-data-viz](https://www.skills.sh/social-media-skills/skills/infographic-and-data-viz)**
-- **[ugc-and-influencer](https://www.skills.sh/social-media-skills/skills/ugc-and-influencer)**
-- **[before-after-and-transformation](https://www.skills.sh/social-media-skills/skills/before-after-and-transformation)**
-- **[thread-writer](https://www.skills.sh/social-media-skills/skills/thread-writer)**
-- **[collabs-and-cross-promotion](https://www.skills.sh/social-media-skills/skills/collabs-and-cross-promotion)**
-- **[canva](https://www.skills.sh/social-media-skills/skills/canva)**
-- **[lead-magnets-and-funnels](https://www.skills.sh/social-media-skills/skills/lead-magnets-and-funnels)**
-- **[ai-image-editing](https://www.skills.sh/social-media-skills/skills/ai-image-editing)**
-- **[pinterest-growth](https://www.skills.sh/social-media-skills/skills/pinterest-growth)**
-- **[contrarian-and-opinion](https://www.skills.sh/social-media-skills/skills/contrarian-and-opinion)**
-- **[x-growth](https://www.skills.sh/social-media-skills/skills/x-growth)**
-- **[crisis-and-moderation](https://www.skills.sh/social-media-skills/skills/crisis-and-moderation)**
-- **[text-post-and-microblog](https://www.skills.sh/social-media-skills/skills/text-post-and-microblog)**
-- **[opus-clip](https://www.skills.sh/social-media-skills/skills/opus-clip)**
-- **[interactive-content](https://www.skills.sh/social-media-skills/skills/interactive-content)**
-- **[kling](https://www.skills.sh/social-media-skills/skills/kling)**
-- **[heygen](https://www.skills.sh/social-media-skills/skills/heygen)**
-- **[data-and-original-research](https://www.skills.sh/social-media-skills/skills/data-and-original-research)**
-- **[suno](https://www.skills.sh/social-media-skills/skills/suno)**
-- **[livestream-and-realtime](https://www.skills.sh/social-media-skills/skills/livestream-and-realtime)**
-- **[runway](https://www.skills.sh/social-media-skills/skills/runway)**
-- **[ai-search-optimization](https://www.skills.sh/social-media-skills/skills/ai-search-optimization)**
-- **[descript](https://www.skills.sh/social-media-skills/skills/descript)**
-- **[listicle-and-roundup](https://www.skills.sh/social-media-skills/skills/listicle-and-roundup)**
-- **[ideogram](https://www.skills.sh/social-media-skills/skills/ideogram)**
-- **[flux](https://www.skills.sh/social-media-skills/skills/flux)**
-- **[luma](https://www.skills.sh/social-media-skills/skills/luma)**
-- **[synthesia](https://www.skills.sh/social-media-skills/skills/synthesia)**
+- **[reels-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/reels-script/SKILL.md)**
+- **[brand-profile](https://github.com/social-media-skills/skills/blob/HEAD/skills/brand-profile/SKILL.md)**
+- **[voice-builder](https://github.com/social-media-skills/skills/blob/HEAD/skills/voice-builder/SKILL.md)**
+- **[scripting-and-storyboarding](https://github.com/social-media-skills/skills/blob/HEAD/skills/scripting-and-storyboarding/SKILL.md)**
+- **[storytelling-and-narrative](https://github.com/social-media-skills/skills/blob/HEAD/skills/storytelling-and-narrative/SKILL.md)**
+- **[capcut](https://github.com/social-media-skills/skills/blob/HEAD/skills/capcut/SKILL.md)**
+- **[analytics-and-reporting](https://github.com/social-media-skills/skills/blob/HEAD/skills/analytics-and-reporting/SKILL.md)**
+- **[captions-and-clipping](https://github.com/social-media-skills/skills/blob/HEAD/skills/captions-and-clipping/SKILL.md)**
+- **[instagram-reels-publishing](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-reels-publishing/SKILL.md)**
+- **[competitor-analysis](https://github.com/social-media-skills/skills/blob/HEAD/skills/competitor-analysis/SKILL.md)**
+- **[tiktok-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-growth/SKILL.md)**
+- **[design-and-templates](https://github.com/social-media-skills/skills/blob/HEAD/skills/design-and-templates/SKILL.md)**
+- **[cross-platform-repurposing](https://github.com/social-media-skills/skills/blob/HEAD/skills/cross-platform-repurposing/SKILL.md)**
+- **[social-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-strategy/SKILL.md)**
+- **[trend-jacking](https://github.com/social-media-skills/skills/blob/HEAD/skills/trend-jacking/SKILL.md)**
+- **[profile-optimization](https://github.com/social-media-skills/skills/blob/HEAD/skills/profile-optimization/SKILL.md)**
+- **[hashtag-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/hashtag-strategy/SKILL.md)**
+- **[idea-generation-and-ideation](https://github.com/social-media-skills/skills/blob/HEAD/skills/idea-generation-and-ideation/SKILL.md)**
+- **[batch-content-plan](https://github.com/social-media-skills/skills/blob/HEAD/skills/batch-content-plan/SKILL.md)**
+- **[content-audit](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-audit/SKILL.md)**
+- **[youtube-publishing-and-metadata](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-publishing-and-metadata/SKILL.md)**
+- **[platform-specs-and-validation](https://github.com/social-media-skills/skills/blob/HEAD/skills/platform-specs-and-validation/SKILL.md)**
+- **[story-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/story-writer/SKILL.md)**
+- **[reply-and-comment-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/reply-and-comment-writer/SKILL.md)**
+- **[goals-and-kpis](https://github.com/social-media-skills/skills/blob/HEAD/skills/goals-and-kpis/SKILL.md)**
+- **[engagement-routine](https://github.com/social-media-skills/skills/blob/HEAD/skills/engagement-routine/SKILL.md)**
+- **[youtube-long-form](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-long-form/SKILL.md)**
+- **[ai-voiceover](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-voiceover/SKILL.md)**
+- **[talking-head-and-piece-to-camera](https://github.com/social-media-skills/skills/blob/HEAD/skills/talking-head-and-piece-to-camera/SKILL.md)**
+- **[content-research-and-sourcing](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-research-and-sourcing/SKILL.md)**
+- **[writing-style-and-tone](https://github.com/social-media-skills/skills/blob/HEAD/skills/writing-style-and-tone/SKILL.md)**
+- **[image-prompt](https://github.com/social-media-skills/skills/blob/HEAD/skills/image-prompt/SKILL.md)**
+- **[facebook-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/facebook-strategy/SKILL.md)**
+- **[linkedin-post-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-post-writer/SKILL.md)**
+- **[educational-content-and-how-to](https://github.com/social-media-skills/skills/blob/HEAD/skills/educational-content-and-how-to/SKILL.md)**
+- **[experimentation-and-ab-testing](https://github.com/social-media-skills/skills/blob/HEAD/skills/experimentation-and-ab-testing/SKILL.md)**
+- **[social-selling-and-dm](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-selling-and-dm/SKILL.md)**
+- **[community-management](https://github.com/social-media-skills/skills/blob/HEAD/skills/community-management/SKILL.md)**
+- **[social-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-seo/SKILL.md)**
+- **[veo-3](https://github.com/social-media-skills/skills/blob/HEAD/skills/veo-3/SKILL.md)**
+- **[behind-the-scenes-and-founder](https://github.com/social-media-skills/skills/blob/HEAD/skills/behind-the-scenes-and-founder/SKILL.md)**
+- **[scheduling-and-queue](https://github.com/social-media-skills/skills/blob/HEAD/skills/scheduling-and-queue/SKILL.md)**
+- **[ai-video](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-video/SKILL.md)**
+- **[threads-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/threads-growth/SKILL.md)**
+- **[tiktok-video-publishing](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-video-publishing/SKILL.md)**
+- **[quote-cards-and-text-graphics](https://github.com/social-media-skills/skills/blob/HEAD/skills/quote-cards-and-text-graphics/SKILL.md)**
+- **[creator-monetization](https://github.com/social-media-skills/skills/blob/HEAD/skills/creator-monetization/SKILL.md)**
+- **[link-in-bio-and-traffic](https://github.com/social-media-skills/skills/blob/HEAD/skills/link-in-bio-and-traffic/SKILL.md)**
+- **[social-proof-and-testimonials](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-proof-and-testimonials/SKILL.md)**
+- **[content-recycling](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-recycling/SKILL.md)**
+- **[pinterest-pin-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-pin-design/SKILL.md)**
+- **[threads-post](https://github.com/social-media-skills/skills/blob/HEAD/skills/threads-post/SKILL.md)**
+- **[campaign-and-launch-planning](https://github.com/social-media-skills/skills/blob/HEAD/skills/campaign-and-launch-planning/SKILL.md)**
+- **[ai-music-and-sound](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-music-and-sound/SKILL.md)**
+- **[pinterest-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-seo/SKILL.md)**
+- **[meme-and-culture](https://github.com/social-media-skills/skills/blob/HEAD/skills/meme-and-culture/SKILL.md)**
+- **[facebook-groups](https://github.com/social-media-skills/skills/blob/HEAD/skills/facebook-groups/SKILL.md)**
+- **[seasonal-and-moment-marketing](https://github.com/social-media-skills/skills/blob/HEAD/skills/seasonal-and-moment-marketing/SKILL.md)**
+- **[tiktok-photo-mode](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-photo-mode/SKILL.md)**
+- **[nano-banana](https://github.com/social-media-skills/skills/blob/HEAD/skills/nano-banana/SKILL.md)**
+- **[infographic-and-data-viz](https://github.com/social-media-skills/skills/blob/HEAD/skills/infographic-and-data-viz/SKILL.md)**
+- **[ugc-and-influencer](https://github.com/social-media-skills/skills/blob/HEAD/skills/ugc-and-influencer/SKILL.md)**
+- **[before-after-and-transformation](https://github.com/social-media-skills/skills/blob/HEAD/skills/before-after-and-transformation/SKILL.md)**
+- **[thread-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/thread-writer/SKILL.md)**
+- **[collabs-and-cross-promotion](https://github.com/social-media-skills/skills/blob/HEAD/skills/collabs-and-cross-promotion/SKILL.md)**
+- **[canva](https://github.com/social-media-skills/skills/blob/HEAD/skills/canva/SKILL.md)**
+- **[lead-magnets-and-funnels](https://github.com/social-media-skills/skills/blob/HEAD/skills/lead-magnets-and-funnels/SKILL.md)**
+- **[ai-image-editing](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-image-editing/SKILL.md)**
+- **[pinterest-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-growth/SKILL.md)**
+- **[contrarian-and-opinion](https://github.com/social-media-skills/skills/blob/HEAD/skills/contrarian-and-opinion/SKILL.md)**
+- **[x-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/x-growth/SKILL.md)**
+- **[crisis-and-moderation](https://github.com/social-media-skills/skills/blob/HEAD/skills/crisis-and-moderation/SKILL.md)**
+- **[text-post-and-microblog](https://github.com/social-media-skills/skills/blob/HEAD/skills/text-post-and-microblog/SKILL.md)**
+- **[opus-clip](https://github.com/social-media-skills/skills/blob/HEAD/skills/opus-clip/SKILL.md)**
+- **[interactive-content](https://github.com/social-media-skills/skills/blob/HEAD/skills/interactive-content/SKILL.md)**
+- **[kling](https://github.com/social-media-skills/skills/blob/HEAD/skills/kling/SKILL.md)**
+- **[heygen](https://github.com/social-media-skills/skills/blob/HEAD/skills/heygen/SKILL.md)**
+- **[data-and-original-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/data-and-original-research/SKILL.md)**
+- **[suno](https://github.com/social-media-skills/skills/blob/HEAD/skills/suno/SKILL.md)**
+- **[livestream-and-realtime](https://github.com/social-media-skills/skills/blob/HEAD/skills/livestream-and-realtime/SKILL.md)**
+- **[runway](https://github.com/social-media-skills/skills/blob/HEAD/skills/runway/SKILL.md)**
+- **[ai-search-optimization](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-search-optimization/SKILL.md)**
+- **[descript](https://github.com/social-media-skills/skills/blob/HEAD/skills/descript/SKILL.md)**
+- **[listicle-and-roundup](https://github.com/social-media-skills/skills/blob/HEAD/skills/listicle-and-roundup/SKILL.md)**
+- **[ideogram](https://github.com/social-media-skills/skills/blob/HEAD/skills/ideogram/SKILL.md)**
+- **[flux](https://github.com/social-media-skills/skills/blob/HEAD/skills/flux/SKILL.md)**
+- **[luma](https://github.com/social-media-skills/skills/blob/HEAD/skills/luma/SKILL.md)**
+- **[synthesia](https://github.com/social-media-skills/skills/blob/HEAD/skills/synthesia/SKILL.md)**
+
 
 ## nexscope-ai/ecommerce-skills · 85
 
-- **[cross-border-ecommerce](https://www.skills.sh/nexscope-ai/ecommerce-skills/cross-border-ecommerce)**
-- **[dropshipping-product-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/dropshipping-product-research)**
-- **[ecommerce-keyword-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-keyword-research)**
-- **[product-page-seo](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-page-seo)**
-- **[ecommerce-marketing-strategy-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-marketing-strategy-builder)**
-- **[ecommerce-social-media-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-social-media-marketing)**
-- **[ecommerce-checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-checkout-optimization)**
-- **[tiktok-shop-product-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-product-research)**
-- **[competitor-price-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitor-price-analysis)**
-- **[ecommerce-content-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-content-marketing)**
-- **[shopify-dropshipping](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-dropshipping)**
-- **[ecommerce-ppc-strategy-planner](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-ppc-strategy-planner)**
-- **[tiktok-shop-trending-products](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-trending-products)**
-- **[ecommerce-email-marketing-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder)**
-- **[ecommerce-business-plan](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-business-plan)**
-- **[ecommerce-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-branding)**
-- **[shopify-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-marketing)**
-- **[product-launch-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-launch-strategy)**
-- **[tiktok-shop-listing-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-listing-optimization)**
-- **[etsy-product-description](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-product-description)**
-- **[google-shopping-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/google-shopping-optimization)**
-- **[ecommerce-returns-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-returns-management)**
-- **[competitor-price-tracker](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitor-price-tracker)**
-- **[shopify-theme-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-theme-optimization)**
-- **[brand-monitoring](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-monitoring)**
-- **[tiktok-shop-cross-border](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-cross-border)**
-- **[ecommerce-shipping-rates](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-shipping-rates)**
-- **[social-media-monitor](https://www.skills.sh/nexscope-ai/ecommerce-skills/social-media-monitor)**
-- **[ecommerce-personalization](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-personalization)**
-- **[sales-tracking-tool](https://www.skills.sh/nexscope-ai/ecommerce-skills/sales-tracking-tool)**
-- **[warehouse-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/warehouse-optimization)**
-- **[shopify-inventory-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-inventory-management)**
-- **[shopify-product-photography-guide](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-product-photography-guide)**
-- **[review-monitoring](https://www.skills.sh/nexscope-ai/ecommerce-skills/review-monitoring)**
-- **[tiktok-shop-pricing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-pricing)**
-- **[shopify-google-channel](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-google-channel)**
-- **[shopify-facebook-instagram-shop](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-facebook-instagram-shop)**
-- **[tiktok-shop-customer-service](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-customer-service)**
-- **[etsy-advertising](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-advertising)**
-- **[shopify-app-recommendations](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-app-recommendations)**
-- **[etsy-seasonal-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seasonal-strategy)**
-- **[etsy-social-media-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-social-media-marketing)**
-- **[etsy-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-branding)**
-- **[shopify-tax-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-tax-compliance)**
-- **[tiktok-shop-fulfillment](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-fulfillment)**
-- **[tiktok-shop-conversion](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-conversion)**
-- **[tiktok-shop-creator-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-creator-management)**
-- **[walmart-listing-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/walmart-listing-optimization)**
-- **[shopify-wholesale-channel](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-wholesale-channel)**
-- **[tiktok-shop-inventory](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-inventory)**
-- **[shopify-subscription-setup](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-subscription-setup)**
-- **[tiktok-shop-promotions](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-promotions)**
-- **[shopify-migration](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-migration)**
-- **[tiktok-shop-returns](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-returns)**
-- **[etsy-offsite-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-offsite-ads)**
-- **[etsy-multi-shop](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-multi-shop)**
-- **[tiktok-shop-shipping](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-shipping)**
-- **[tiktok-shop-reviews](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-reviews)**
-- **[etsy-custom-orders](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-custom-orders)**
-- **[etsy-shipping-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shipping-strategy)**
-- **[tiktok-shop-seller-guide](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-seller-guide)**
-- **[competitive-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitive-pricing-strategy)**
-- **[price-optimization-tool](https://www.skills.sh/nexscope-ai/ecommerce-skills/price-optimization-tool)**
-- **[dynamic-pricing-ecommerce](https://www.skills.sh/nexscope-ai/ecommerce-skills/dynamic-pricing-ecommerce)**
-- **[profit-margin-calculator-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-shopify)**
-- **[profit-margin-calculator-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-amazon)**
-- **[profit-margin-calculator-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-tiktok)**
-- **[product-differentiation-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-shopify)**
-- **[amazon-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/amazon-review-checker)**
-- **[supply-chain-optimization-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-shopify)**
-- **[product-differentiation-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-amazon)**
-- **[product-differentiation-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-tiktok)**
-- **[brand-protection-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-amazon)**
-- **[product-differentiation-ebay](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-ebay)**
-- **[brand-protection-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-shopify)**
-- **[supply-chain-optimization-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-tiktok)**
-- **[brand-protection-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-tiktok)**
-- **[supply-chain-optimization-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-walmart)**
-- **[profit-margin-calculator-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-walmart)**
-- **[supply-chain-optimization-amazon-lite](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-amazon-lite)**
-- **[ebay-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/ebay-review-checker)**
-- **[walmart-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/walmart-review-checker)**
-- **[brand-protection-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-walmart)**
-- **[brand-protection-ebay](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-ebay)**
-- **[ecommerce-advertising](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-advertising)**
+- **[cross-border-ecommerce](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/cross-border-ecommerce/SKILL.md)**
+- **[dropshipping-product-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/dropshipping-product-research/SKILL.md)**
+- **[ecommerce-keyword-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-keyword-research/SKILL.md)**
+- **[product-page-seo](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-page-seo/SKILL.md)**
+- **[ecommerce-marketing-strategy-builder](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-marketing-strategy-builder/SKILL.md)**
+- **[ecommerce-social-media-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-social-media-marketing/SKILL.md)**
+- **[ecommerce-checkout-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-checkout-optimization/SKILL.md)**
+- **[tiktok-shop-product-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-product-research/SKILL.md)**
+- **[competitor-price-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitor-price-analysis/SKILL.md)**
+- **[ecommerce-content-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-content-marketing/SKILL.md)**
+- **[shopify-dropshipping](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-dropshipping/SKILL.md)**
+- **[ecommerce-ppc-strategy-planner](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-ppc-strategy-planner/SKILL.md)**
+- **[tiktok-shop-trending-products](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-trending-products/SKILL.md)**
+- **[ecommerce-email-marketing-builder](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-email-marketing-builder/SKILL.md)**
+- **[ecommerce-business-plan](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-business-plan/SKILL.md)**
+- **[ecommerce-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-branding/SKILL.md)**
+- **[shopify-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-marketing/SKILL.md)**
+- **[product-launch-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-launch-strategy/SKILL.md)**
+- **[tiktok-shop-listing-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-listing-optimization/SKILL.md)**
+- **[etsy-product-description](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-product-description/SKILL.md)**
+- **[google-shopping-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/google-shopping-optimization/SKILL.md)**
+- **[ecommerce-returns-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-returns-management/SKILL.md)**
+- **[competitor-price-tracker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitor-price-tracker/SKILL.md)**
+- **[shopify-theme-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-theme-optimization/SKILL.md)**
+- **[brand-monitoring](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-monitoring/SKILL.md)**
+- **[tiktok-shop-cross-border](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-cross-border/SKILL.md)**
+- **[ecommerce-shipping-rates](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-shipping-rates/SKILL.md)**
+- **[social-media-monitor](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/social-media-monitor/SKILL.md)**
+- **[ecommerce-personalization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-personalization/SKILL.md)**
+- **[sales-tracking-tool](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/sales-tracking-tool/SKILL.md)**
+- **[warehouse-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/warehouse-optimization/SKILL.md)**
+- **[shopify-inventory-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-inventory-management/SKILL.md)**
+- **[shopify-product-photography-guide](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-product-photography-guide/SKILL.md)**
+- **[review-monitoring](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-monitoring/SKILL.md)**
+- **[tiktok-shop-pricing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-pricing/SKILL.md)**
+- **[shopify-google-channel](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-google-channel/SKILL.md)**
+- **[shopify-facebook-instagram-shop](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-facebook-instagram-shop/SKILL.md)**
+- **[tiktok-shop-customer-service](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-customer-service/SKILL.md)**
+- **[etsy-advertising](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-advertising/SKILL.md)**
+- **[shopify-app-recommendations](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-app-recommendations/SKILL.md)**
+- **[etsy-seasonal-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seasonal-strategy/SKILL.md)**
+- **[etsy-social-media-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-social-media-marketing/SKILL.md)**
+- **[etsy-shop-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shop-branding/SKILL.md)**
+- **[shopify-tax-compliance](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-tax-compliance/SKILL.md)**
+- **[tiktok-shop-fulfillment](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-fulfillment/SKILL.md)**
+- **[tiktok-shop-conversion](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-conversion/SKILL.md)**
+- **[tiktok-shop-creator-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-creator-management/SKILL.md)**
+- **[walmart-listing-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/walmart-listing-optimization/SKILL.md)**
+- **[shopify-wholesale-channel](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-wholesale-channel/SKILL.md)**
+- **[tiktok-shop-inventory](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-inventory/SKILL.md)**
+- **[shopify-subscription-setup](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-subscription-setup/SKILL.md)**
+- **[tiktok-shop-promotions](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-promotions/SKILL.md)**
+- **[shopify-migration](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-migration/SKILL.md)**
+- **[tiktok-shop-returns](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-returns/SKILL.md)**
+- **[etsy-offsite-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-offsite-ads/SKILL.md)**
+- **[etsy-multi-shop](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-multi-shop/SKILL.md)**
+- **[tiktok-shop-shipping](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-shipping/SKILL.md)**
+- **[tiktok-shop-reviews](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-reviews/SKILL.md)**
+- **[etsy-custom-orders](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-custom-orders/SKILL.md)**
+- **[etsy-shipping-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shipping-strategy/SKILL.md)**
+- **[tiktok-shop-seller-guide](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-seller-guide/SKILL.md)**
+- **[competitive-pricing-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitive-pricing-strategy/SKILL.md)**
+- **[price-optimization-tool](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/price-optimization-tool/SKILL.md)**
+- **[dynamic-pricing-ecommerce](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/dynamic-pricing-ecommerce/SKILL.md)**
+- **[profit-margin-calculator-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-shopify/SKILL.md)**
+- **[profit-margin-calculator-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-amazon/SKILL.md)**
+- **[profit-margin-calculator-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-tiktok/SKILL.md)**
+- **[product-differentiation-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-shopify/SKILL.md)**
+- **[amazon-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/amazon-review-checker/SKILL.md)**
+- **[supply-chain-optimization-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-shopify/SKILL.md)**
+- **[product-differentiation-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-amazon/SKILL.md)**
+- **[product-differentiation-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-tiktok/SKILL.md)**
+- **[brand-protection-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-amazon/SKILL.md)**
+- **[product-differentiation-ebay](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-ebay/SKILL.md)**
+- **[brand-protection-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-shopify/SKILL.md)**
+- **[supply-chain-optimization-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-tiktok/SKILL.md)**
+- **[brand-protection-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-tiktok/SKILL.md)**
+- **[supply-chain-optimization-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-walmart/SKILL.md)**
+- **[profit-margin-calculator-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-walmart/SKILL.md)**
+- **[supply-chain-optimization-amazon-lite · repository entry](https://github.com/nexscope-ai/ecommerce-skills)**
+- **[ebay-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/ebay-review-checker/SKILL.md)**
+- **[walmart-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/walmart-review-checker/SKILL.md)**
+- **[brand-protection-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-walmart/SKILL.md)**
+- **[brand-protection-ebay](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-ebay/SKILL.md)**
+- **[ecommerce-advertising · repository entry](https://github.com/nexscope-ai/ecommerce-skills)**
 
 [← Back to index](../../README.md)

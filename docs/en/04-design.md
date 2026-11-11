@@ -8,22 +8,22 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 
 ## ⭐ Top picks
 
-**[frontend-design](https://www.skills.sh/anthropics/skills/frontend-design)**
+**[frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md)**
 
 - *Why:* Distinctive UI, not a template.
 - *First use:* Redo one core page of your product with it.
 
-**[design-token](https://www.skills.sh/owl-listener/designer-skills/design-token)**
+**[design-token](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/design-token/SKILL.md)**
 
 - *Why:* Turn color, spacing and type into reusable tokens.
 - *First use:* Extract ten tokens from an existing page into one sheet.
 
-**[design-critique](https://www.skills.sh/owl-listener/designer-skills/design-critique)**
+**[design-critique](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-critique/SKILL.md)**
 
 - *Why:* Replace “I don’t like it” with structured critique.
 - *First use:* Run one page through it and list five concrete issues.
 
-**[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)**
+**[figma-implement-design](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-implement-design/SKILL.md)**
 
 - *Why:* Turn a Figma design into working code.
 - *First use:* Take one component from Figma to code end to end.
@@ -37,266 +37,265 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 <a id="s1"></a>
 ### Visual styles
 
-- **[minimal](https://www.skills.sh/bergside/awesome-design-skills/minimal)** — Minimal visual style.
-- **[editorial](https://www.skills.sh/bergside/awesome-design-skills/editorial)** — Editorial magazine style.
-- **[bento](https://www.skills.sh/bergside/awesome-design-skills/bento)** — Bento grid layout style.
-- **[glassmorphism](https://www.skills.sh/bergside/awesome-design-skills/glassmorphism)** — Glassmorphism visual style.
-- **[neobrutalism](https://www.skills.sh/bergside/awesome-design-skills/neobrutalism)** — Neobrutalist visual style.
-- **[premium](https://www.skills.sh/bergside/awesome-design-skills/premium)** — Premium, high-end visual style.
-- **[enterprise](https://www.skills.sh/bergside/awesome-design-skills/enterprise)** — Enterprise-grade visual style.
-- **[professional](https://www.skills.sh/bergside/awesome-design-skills/professional)** — Professional, trustworthy style.
-- **[storytelling](https://www.skills.sh/bergside/awesome-design-skills/storytelling)** — Narrative-driven visual style.
-- **[shadcn](https://www.skills.sh/bergside/awesome-design-skills/shadcn)** — shadcn/ui visual style.
+- **[minimal](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/minimal/SKILL.md)** — Minimal visual style.
+- **[editorial](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/editorial/SKILL.md)** — Editorial magazine style.
+- **[bento](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/bento/SKILL.md)** — Bento grid layout style.
+- **[glassmorphism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/glassmorphism/SKILL.md)** — Glassmorphism visual style.
+- **[neobrutalism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/neobrutalism/SKILL.md)** — Neobrutalist visual style.
+- **[premium](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/premium/SKILL.md)** — Premium, high-end visual style.
+- **[enterprise](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/enterprise/SKILL.md)** — Enterprise-grade visual style.
+- **[professional](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/professional/SKILL.md)** — Professional, trustworthy style.
+- **[storytelling](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/storytelling/SKILL.md)** — Narrative-driven visual style.
+- **[shadcn](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/shadcn/SKILL.md)** — shadcn/ui visual style.
 
 <a id="s2"></a>
 ### Type, color & layout
 
-- **[typography-scale](https://www.skills.sh/owl-listener/designer-skills/typography-scale)** — Build a modular type scale.
-- **[color-system](https://www.skills.sh/owl-listener/designer-skills/color-system)** — Build an accessible color system.
-- **[spacing-system](https://www.skills.sh/owl-listener/designer-skills/spacing-system)** — Define a spacing scale.
-- **[layout-grid](https://www.skills.sh/owl-listener/designer-skills/layout-grid)** — Design a responsive grid.
-- **[icon-system](https://www.skills.sh/owl-listener/designer-skills/icon-system)** — Build a consistent icon system.
-- **[visual-hierarchy](https://www.skills.sh/owl-listener/designer-skills/visual-hierarchy)** — Establish visual hierarchy.
-- **[responsive-design](https://www.skills.sh/owl-listener/designer-skills/responsive-design)** — Design responsive layouts.
-- **[dark-mode-design](https://www.skills.sh/owl-listener/designer-skills/dark-mode-design)** — Design dark mode.
-- **[theming-system](https://www.skills.sh/owl-listener/designer-skills/theming-system)** — Build a theme system.
-- **[readable-measure](https://www.skills.sh/owl-listener/designer-skills/readable-measure)** — Set readable line lengths.
+- **[typography-scale](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/typography-scale/SKILL.md)** — Build a modular type scale.
+- **[color-system](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/color-system/SKILL.md)** — Build an accessible color system.
+- **[spacing-system](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/spacing-system/SKILL.md)** — Define a spacing scale.
+- **[layout-grid](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/layout-grid/SKILL.md)** — Design a responsive grid.
+- **[icon-system](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/icon-system/SKILL.md)** — Build a consistent icon system.
+- **[visual-hierarchy](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/visual-hierarchy/SKILL.md)** — Establish visual hierarchy.
+- **[responsive-design](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/responsive-design/SKILL.md)** — Design responsive layouts.
+- **[dark-mode-design](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/dark-mode-design/SKILL.md)** — Design dark mode.
+- **[theming-system](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/theming-system/SKILL.md)** — Build a theme system.
+- **[readable-measure](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/readable-measure/SKILL.md)** — Set readable line lengths.
 
 <a id="s3"></a>
 ### UX patterns
 
-- **[user-flow-diagram](https://www.skills.sh/owl-listener/designer-skills/user-flow-diagram)** — Draw user flows.
-- **[wireframe-spec](https://www.skills.sh/owl-listener/designer-skills/wireframe-spec)** — Write a wireframe spec.
-- **[micro-interaction-spec](https://www.skills.sh/owl-listener/designer-skills/micro-interaction-spec)** — Specify micro-interactions.
-- **[loading-states](https://www.skills.sh/owl-listener/designer-skills/loading-states)** — Design loading states.
-- **[error-handling-ux](https://www.skills.sh/owl-listener/designer-skills/error-handling-ux)** — Design error handling and recovery.
-- **[state-machine](https://www.skills.sh/owl-listener/designer-skills/state-machine)** — Model UI state machines.
-- **[form-design](https://www.skills.sh/owl-listener/designer-skills/form-design)** — Design forms that convert.
-- **[navigation-patterns](https://www.skills.sh/owl-listener/designer-skills/navigation-patterns)** — Choose navigation patterns.
-- **[onboarding-design](https://www.skills.sh/owl-listener/designer-skills/onboarding-design)** — Design onboarding.
-- **[information-architecture](https://www.skills.sh/owl-listener/designer-skills/information-architecture)** — Structure information architecture.
-- **[search-ux](https://www.skills.sh/owl-listener/designer-skills/search-ux)** — Design search experiences.
-- **[feedback-patterns](https://www.skills.sh/owl-listener/designer-skills/feedback-patterns)** — Design feedback patterns.
+- **[user-flow-diagram](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/user-flow-diagram/SKILL.md)** — Draw user flows.
+- **[wireframe-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/wireframe-spec/SKILL.md)** — Write a wireframe spec.
+- **[micro-interaction-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/micro-interaction-spec/SKILL.md)** — Specify micro-interactions.
+- **[loading-states](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/loading-states/SKILL.md)** — Design loading states.
+- **[error-handling-ux](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/error-handling-ux/SKILL.md)** — Design error handling and recovery.
+- **[state-machine](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/state-machine/SKILL.md)** — Model UI state machines.
+- **[form-design](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/form-design/SKILL.md)** — Design forms that convert.
+- **[navigation-patterns](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/navigation-patterns/SKILL.md)** — Choose navigation patterns.
+- **[onboarding-design](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/onboarding-design/SKILL.md)** — Design onboarding.
+- **[information-architecture](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/information-architecture/SKILL.md)** — Structure information architecture.
+- **[search-ux](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/search-ux/SKILL.md)** — Design search experiences.
+- **[feedback-patterns](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/feedback-patterns/SKILL.md)** — Design feedback patterns.
 
 <a id="s4"></a>
 ### Design systems
 
-- **[design-token](https://www.skills.sh/owl-listener/designer-skills/design-token)** — Define design tokens.
-- **[design-token-audit](https://www.skills.sh/owl-listener/designer-skills/design-token-audit)** — Audit design tokens.
-- **[component-spec](https://www.skills.sh/owl-listener/designer-skills/component-spec)** — Write component specs.
-- **[pattern-library](https://www.skills.sh/owl-listener/designer-skills/pattern-library)** — Build a pattern library.
-- **[design-system-governance](https://www.skills.sh/owl-listener/designer-skills/design-system-governance)** — Govern a design system.
-- **[design-system-adoption](https://www.skills.sh/owl-listener/designer-skills/design-system-adoption)** — Drive design-system adoption.
-- **[naming-convention](https://www.skills.sh/owl-listener/designer-skills/naming-convention)** — Set naming conventions.
-- **[handoff-spec](https://www.skills.sh/owl-listener/designer-skills/handoff-spec)** — Write a design handoff spec.
-- **[extract-design-system](https://www.skills.sh/arvindrk/extract-design-system/extract-design-system)** — Reverse-engineer a design system from a site.
-- **[expo-design-system](https://www.skills.sh/expo/skills/expo-design-system)** — One visual system across Expo screens.
-- **[figma-create-design-system-rules](https://www.skills.sh/openai/skills/figma-create-design-system-rules)** — Generate design-system rules.
-- **[figma-generate-design](https://www.skills.sh/figma/mcp-server-guide/figma-generate-design)** — Generate screens from a design system.
+- **[design-token](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/design-token/SKILL.md)** — Define design tokens.
+- **[design-token-audit](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-token-audit/SKILL.md)** — Audit design tokens.
+- **[component-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/component-spec/SKILL.md)** — Write component specs.
+- **[pattern-library](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/pattern-library/SKILL.md)** — Build a pattern library.
+- **[design-system-governance](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/design-system-governance/SKILL.md)** — Govern a design system.
+- **[design-system-adoption](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-system-adoption/SKILL.md)** — Drive design-system adoption.
+- **[naming-convention](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/naming-convention/SKILL.md)** — Set naming conventions.
+- **[handoff-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/handoff-spec/SKILL.md)** — Write a design handoff spec.
+- **[extract-design-system](https://github.com/arvindrk/extract-design-system/blob/HEAD/skills/extract-design-system/SKILL.md)** — Reverse-engineer a design system from a site.
+- **[expo-design-system](https://github.com/expo/skills/blob/HEAD/plugins/expo/skills/expo-design-system/SKILL.md)** — One visual system across Expo screens.
+- **[figma-create-design-system-rules](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-create-design-system-rules/SKILL.md)** — Generate design-system rules.
+- **[figma-generate-design](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-design/SKILL.md)** — Generate screens from a design system.
 
 <a id="s5"></a>
 ### Critique & research
 
-- **[design-critique](https://www.skills.sh/owl-listener/designer-skills/design-critique)** — Facilitate a design critique.
-- **[design-qa-checklist](https://www.skills.sh/owl-listener/designer-skills/design-qa-checklist)** — Run a design QA checklist.
-- **[heuristic-evaluation](https://www.skills.sh/owl-listener/designer-skills/heuristic-evaluation)** — Run a heuristic evaluation.
-- **[usability-test-plan](https://www.skills.sh/owl-listener/designer-skills/usability-test-plan)** — Plan a usability test.
-- **[accessibility-test-plan](https://www.skills.sh/owl-listener/designer-skills/accessibility-test-plan)** — Plan accessibility testing.
-- **[a-b-test-design](https://www.skills.sh/owl-listener/designer-skills/a-b-test-design)** — Design an A/B test.
-- **[card-sort-analysis](https://www.skills.sh/owl-listener/designer-skills/card-sort-analysis)** — Analyze card-sort results.
-- **[interview-script](https://www.skills.sh/owl-listener/designer-skills/interview-script)** — Write a user interview script.
-- **[summarize-interview](https://www.skills.sh/owl-listener/designer-skills/summarize-interview)** — Summarize interviews.
-- **[journey-map](https://www.skills.sh/owl-listener/designer-skills/journey-map)** — Build a customer journey map.
-- **[service-blueprint](https://www.skills.sh/owl-listener/designer-skills/service-blueprint)** — Build a service blueprint.
+- **[design-critique](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-critique/SKILL.md)** — Facilitate a design critique.
+- **[design-qa-checklist](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-qa-checklist/SKILL.md)** — Run a design QA checklist.
+- **[heuristic-evaluation](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/heuristic-evaluation/SKILL.md)** — Run a heuristic evaluation.
+- **[usability-test-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/usability-test-plan/SKILL.md)** — Plan a usability test.
+- **[accessibility-test-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/accessibility-test-plan/SKILL.md)** — Plan accessibility testing.
+- **[a-b-test-design](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/a-b-test-design/SKILL.md)** — Design an A/B test.
+- **[card-sort-analysis](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/card-sort-analysis/SKILL.md)** — Analyze card-sort results.
+- **[interview-script](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/interview-script/SKILL.md)** — Write a user interview script.
+- **[summarize-interview](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/summarize-interview/SKILL.md)** — Summarize interviews.
+- **[journey-map](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/journey-map/SKILL.md)** — Build a customer journey map.
+- **[service-blueprint](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/service-blueprint/SKILL.md)** — Build a service blueprint.
 
 <a id="s6"></a>
 ### Motion & 3D
 
-- **[build-awwwards-quality-sites](https://www.skills.sh/mengto/skills/build-awwwards-quality-sites)** — Build an Awwwards-quality site.
-- **[cinematic-scroll-storytelling](https://www.skills.sh/mengto/skills/cinematic-scroll-storytelling)** — Build cinematic scroll storytelling.
-- **[animation-on-scroll](https://www.skills.sh/mengto/skills/animation-on-scroll)** — Add scroll-triggered animation.
-- **[animation-systems](https://www.skills.sh/mengto/skills/animation-systems)** — Design a motion system.
-- **[gsap](https://www.skills.sh/mengto/skills/gsap)** — Animate with GSAP.
-- **[gsap-scrolltrigger-storytelling](https://www.skills.sh/mengto/skills/gsap-scrolltrigger-storytelling)** — Build ScrollTrigger narratives.
-- **[beautiful-shadows](https://www.skills.sh/mengto/skills/beautiful-shadows)** — Craft layered shadows.
-- **[no-ai-design-slop](https://www.skills.sh/mengto/skills/no-ai-design-slop)** — Remove generic AI design tells.
-- **[progressive-blur](https://www.skills.sh/mengto/skills/progressive-blur)** — Add progressive blur effects.
-- **[masked-reveal](https://www.skills.sh/mengto/skills/masked-reveal)** — Build masked reveal transitions.
-- **[glass-dark-ui](https://www.skills.sh/mengto/skills/glass-dark-ui)** — Build dark glass UI.
-- **[scroll-world-storytelling](https://www.skills.sh/mengto/skills/scroll-world-storytelling)** — Build a scroll-driven world.
-- **[threejs-shaders](https://www.skills.sh/cloudai-x/threejs-skills/threejs-shaders)** — Three.js shaders.
-- **[threejs-fundamentals](https://www.skills.sh/cloudai-x/threejs-skills/threejs-fundamentals)** — Three.js scenes and rendering basics.
-- **[remotion-render](https://www.skills.sh/101-skills/superpowers/remotion-render)** — Render video with Remotion.
-- **[transitions-polish](https://www.skills.sh/jakubantalik/transitions.dev/transitions-polish)** — Polish transitions and motion.
+- **[build-awwwards-quality-sites](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/build-awwwards-quality-sites/SKILL.md)** — Build an Awwwards-quality site.
+- **[cinematic-scroll-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/cinematic-scroll-storytelling/SKILL.md)** — Build cinematic scroll storytelling.
+- **[animation-on-scroll](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/animation-on-scroll/SKILL.md)** — Add scroll-triggered animation.
+- **[animation-systems](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/animation-systems/SKILL.md)** — Design a motion system.
+- **[gsap](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/gsap/SKILL.md)** — Animate with GSAP.
+- **[gsap-scrolltrigger-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md)** — Build ScrollTrigger narratives.
+- **[beautiful-shadows](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/beautiful-shadows/SKILL.md)** — Craft layered shadows.
+- **[no-ai-design-slop](https://github.com/mengto/skills/blob/HEAD/agent-skills/ui/no-ai-design-slop/SKILL.md)** — Remove generic AI design tells.
+- **[progressive-blur](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/progressive-blur/SKILL.md)** — Add progressive blur effects.
+- **[masked-reveal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/masked-reveal/SKILL.md)** — Build masked reveal transitions.
+- **[glass-dark-ui](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/glass-dark-ui/SKILL.md)** — Build dark glass UI.
+- **[scroll-world-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/scroll-world-storytelling/SKILL.md)** — Build a scroll-driven world.
+- **[threejs-shaders](https://github.com/CloudAI-X/threejs-skills/blob/HEAD/skills/threejs-shaders/SKILL.md)** — Three.js shaders.
+- **[threejs-fundamentals](https://github.com/CloudAI-X/threejs-skills/blob/HEAD/skills/threejs-fundamentals/SKILL.md)** — Three.js scenes and rendering basics.
+- **[remotion-render](https://github.com/101-skills/superpowers/blob/HEAD/tools/video/remotion-render/SKILL.md)** — Render video with Remotion.
+- **[transitions-polish](https://github.com/Jakubantalik/transitions.dev/blob/HEAD/skills/transitions-polish/SKILL.md)** — Polish transitions and motion.
 
 <a id="s7"></a>
 ### Page design
 
-- **[landing-page](https://www.skills.sh/mengto/skills/landing-page)** — Design a high-conversion landing page.
-- **[pricing-page](https://www.skills.sh/mengto/skills/pricing-page)** — Design a pricing page.
-- **[tailwind-design-system](https://www.skills.sh/wshobson/agents/tailwind-design-system)** — Build a Tailwind design system.
-- **[brand-landingpage](https://www.skills.sh/wshobson/agents/brand-landingpage)** — Build a brand landing page.
-- **[mobile-android-design](https://www.skills.sh/wshobson/agents/mobile-android-design)** — Design Android screens.
-- **[mobile-ios-design](https://www.skills.sh/wshobson/agents/mobile-ios-design)** — Design iOS screens.
+- **[landing-page](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/landing-page/SKILL.md)** — Design a high-conversion landing page.
+- **[pricing-page](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/pricing-page/SKILL.md)** — Design a pricing page.
+- **[tailwind-design-system](https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md)** — Build a Tailwind design system.
+- **[brand-landingpage](https://github.com/wshobson/agents/blob/HEAD/plugins/brand-landingpage/skills/brand-landingpage/SKILL.md)** — Build a brand landing page.
+- **[mobile-android-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/mobile-android-design/SKILL.md)** — Design Android screens.
+- **[mobile-ios-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/mobile-ios-design/SKILL.md)** — Design iOS screens.
 
 <a id="s8"></a>
 ### Figma
 
-- **[figma-use](https://www.skills.sh/figma/mcp-server-guide/figma-use)** — Operate Figma through the Plugin API.
-- **[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)** — Turn Figma designs into code.
-- **[figma-code-connect](https://www.skills.sh/figma/mcp-server-guide/figma-code-connect)** — Map Figma components to code components.
-- **[figma-create-new-file](https://www.skills.sh/figma/mcp-server-guide/figma-create-new-file)** — Create Figma Design, FigJam or Slides files.
-- **[figma-generate-library](https://www.skills.sh/figma/mcp-server-guide/figma-generate-library)** — Generate a Figma design library.
-- **[figma-design-to-code](https://www.skills.sh/figma/mcp-server-guide/figma-design-to-code)** — Turn Figma designs into code.
-- **[figma-generate-diagram](https://www.skills.sh/figma/mcp-server-guide/figma-generate-diagram)** — Generate Figma diagrams.
-- **[figma-use-figjam](https://www.skills.sh/figma/mcp-server-guide/figma-use-figjam)** — Operate FigJam boards.
-- **[figma-use-slides](https://www.skills.sh/figma/mcp-server-guide/figma-use-slides)** — Build Figma Slides decks.
-- **[figma-implement-motion](https://www.skills.sh/figma/mcp-server-guide/figma-implement-motion)** — Implement Figma motion.
-- **[figma-swiftui](https://www.skills.sh/figma/mcp-server-guide/figma-swiftui)** — Turn Figma into SwiftUI.
-- **[figma-spec](https://www.skills.sh/figma/mcp-server-guide/figma-spec)** — Write a Figma spec.
+- **[figma-use](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use/SKILL.md)** — Operate Figma through the Plugin API.
+- **[figma-implement-design](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-implement-design/SKILL.md)** — Turn Figma designs into code.
+- **[figma-code-connect](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-code-connect/SKILL.md)** — Create and maintain Code Connect templates mapping design components to code.
+- **[figma-create-new-file](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-create-new-file/SKILL.md)** — Create Figma Design, FigJam or Slides files.
+- **[figma-generate-library](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-library/SKILL.md)** — Generate a Figma design library.
+- **[figma-design-to-code](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-design-to-code/SKILL.md)** — Turn Figma designs into code.
+- **[figma-generate-diagram](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-diagram/SKILL.md)** — Generate Figma diagrams.
+- **[figma-use-figjam](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use-figjam/SKILL.md)** — Operate FigJam boards.
+- **[figma-use-slides](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use-slides/SKILL.md)** — Build Figma Slides decks.
+- **[figma-implement-motion](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-implement-motion/SKILL.md)** — Implement Figma motion.
+- **[figma-swiftui](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-swiftui/SKILL.md)** — Turn Figma into SwiftUI.
+- **[figma-spec](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-spec/SKILL.md)** — Write a Figma spec.
 
 <a id="s9"></a>
 ### UI & visual
 
-- **[frontend-design](https://www.skills.sh/anthropics/skills/frontend-design)** — Distinctive, production-grade frontend design.
-- **[huashu-design](https://www.skills.sh/alchaincyf/huashu-design/huashu-design)** — Chinese HTML design with proposal-first workflow.
-- **[mobile-app-ui-design](https://www.skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design)** — Mobile app UI/UX design.
-- **[web-design-engineer](https://www.skills.sh/conardli/garden-skills/web-design-engineer)** — Design-engineering for the web.
-- **[canvas-design](https://www.skills.sh/anthropics/skills/canvas-design)** — Visual style and design philosophy.
-- **[design-lab](https://www.skills.sh/0xdesign/design-plugin/design-lab)** — Design experiments and variants.
-- **[theme-factory](https://www.skills.sh/anthropics/skills/theme-factory)** — Generate UI themes.
-- **[web-artifacts-builder](https://www.skills.sh/anthropics/skills/web-artifacts-builder)** — Build web artifacts.
-- **[algorithmic-art](https://www.skills.sh/anthropics/skills/algorithmic-art)** — Generate algorithmic art.
+- **[frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md)** — Distinctive, production-grade frontend design.
+- **[huashu-design](https://github.com/alchaincyf/huashu-design/blob/HEAD/SKILL.md)** — Chinese HTML design with proposal-first workflow.
+- **[mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design/blob/HEAD/SKILL.md)** — Mobile app UI/UX design.
+- **[web-design-engineer](https://github.com/ConardLi/garden-skills/blob/HEAD/skills/web-design-engineer/SKILL.md)** — Design-engineering for the web.
+- **[canvas-design](https://github.com/anthropics/skills/blob/HEAD/skills/canvas-design/SKILL.md)** — Visual style and design philosophy.
+- **[design-lab](https://github.com/0xdesign/design-plugin/blob/HEAD/design-and-refine/skills/design-lab/SKILL.md)** — Design experiments and variants.
+- **[theme-factory](https://github.com/anthropics/skills/blob/HEAD/skills/theme-factory/SKILL.md)** — Generate UI themes.
+- **[web-artifacts-builder](https://github.com/anthropics/skills/blob/HEAD/skills/web-artifacts-builder/SKILL.md)** — Build web artifacts.
+- **[algorithmic-art](https://github.com/anthropics/skills/blob/HEAD/skills/algorithmic-art/SKILL.md)** — Generate algorithmic art.
 
 <a id="s10"></a>
 ### Frontend implementation
 
-- **[frontend-ui-engineering](https://www.skills.sh/addyosmani/agent-skills/frontend-ui-engineering)** — Production-quality UI engineering.
-- **[react-patterns](https://www.skills.sh/affaan-m/ecc/react-patterns)** — Idiomatic React 18/19 patterns.
-- **[react-performance](https://www.skills.sh/affaan-m/ecc/react-performance)** — React and Next.js performance.
-- **[swiftui-expert-skill](https://www.skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill)** — SwiftUI expert operating rules.
+- **[frontend-ui-engineering](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/frontend-ui-engineering/SKILL.md)** — Production-quality UI engineering.
+- **[react-patterns](https://github.com/affaan-m/ECC/blob/HEAD/skills/react-patterns/SKILL.md)** — Idiomatic React 18/19 patterns.
+- **[react-performance](https://github.com/affaan-m/ECC/blob/HEAD/skills/react-performance/SKILL.md)** — React and Next.js performance.
+- **[swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/blob/HEAD/skills/swiftui-expert-skill/SKILL.md)** — SwiftUI expert operating rules.
 
 <a id="s11"></a>
 ### Accessibility
 
-- **[better-accessibility](https://www.skills.sh/jakubkrehel/skills/better-accessibility)** — Fix semantics, keyboard and focus.
-- **[fixing-accessibility](https://www.skills.sh/ibelick/ui-skills/fixing-accessibility)** — Systematically fix accessibility issues.
-- **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 audit patterns.
-- **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — Full WCAG 2.2 accessibility audit.
-- **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
+- **[better-accessibility](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-accessibility/SKILL.md)** — Fix semantics, keyboard and focus.
+- **[fixing-accessibility](https://github.com/ibelick/ui-skills/blob/HEAD/skills/fixing-accessibility/SKILL.md)** — Systematically fix accessibility issues.
+- **[wcag-audit-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/accessibility-compliance/skills/wcag-audit-patterns/SKILL.md)** — WCAG 2.2 audit patterns.
+- **[accessibility-audit](https://github.com/AccessLint/skills/blob/HEAD/plugins/accesslint/skills/accessibility-audit/SKILL.md)** — Full WCAG 2.2 accessibility audit.
+- **[accessibility-fix](https://github.com/AccessLint/skills/blob/HEAD/plugins/accesslint/skills/accessibility-fix/SKILL.md)** — Fix accessibility issues from a baseline.
 
 <a id="s12"></a>
 ### Logo & brand identity
 
-- **[logo-design](https://www.skills.sh/kaankiziltug/logo-design-skill/logo-design)** — Logo design.
-- **[logo-design-guide](https://www.skills.sh/inference-sh/skills/logo-design-guide)** — Logo design guide.
-- **[logo-generator](https://www.skills.sh/kostja94/marketing-skills/logo-generator)** — Logo generator.
-- **[logo-designer](https://www.skills.sh/neonwatty/logo-designer-skill/logo-designer)** — Logo designer.
-- **[svg-logo-designer](https://www.skills.sh/rknall/claude-skills/svg-logo-designer)** — SVG logo designer.
-- **[mascot-logo-reconstruction](https://www.skills.sh/roble3/cc-blender-skill/mascot-logo-reconstruction)** — Mascot logo reconstruction.
-- **[logo-animation](https://www.skills.sh/iart-ai/motion-design-skills/logo-animation)** — Logo animation.
-- **[animated-readme-logo](https://www.skills.sh/stark-ai-de/agent-skills/animated-readme-logo)** — Animated README logo.
-- **[muapi-logo-branding](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-branding)** — Logo branding.
-- **[muapi-logo-creator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-creator)** — Logo creator.
-- **[muapi-logo-generator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-generator)** — Logo generator.
-- **[muapi-3d-logo-animation](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-3d-logo-animation)** — 3D logo animation.
-- **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator (OPC).
-- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
-- **[brand-guidelines](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-guidelines)** — Brand guidelines.
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
-- **[brand-strategy](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-strategy)** — Brand strategy.
-- **[brand-positioning](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-positioning)** — Brand positioning.
-- **[brand-story](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-story)** — Brand story.
-- **[brand-audit](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-audit)** — Brand audit.
-- **[brand-architecture](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-architecture)** — Brand architecture.
-- **[rebranding](https://www.skills.sh/arnabbagxd/brand-building-skills/rebranding)** — Rebranding.
-- **[competitor-branding](https://www.skills.sh/arnabbagxd/brand-building-skills/competitor-branding)** — Competitor branding.
-- **[brand-packaging](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-packaging)** — Brand packaging.
+- **[logo-design](https://github.com/kaankiziltug/logo-design-skill/blob/HEAD/skills/logo-design/SKILL.md)** — Logo design.
+- **[logo-design-guide](https://github.com/inference-sh/skills/blob/HEAD/guides/design/logo-design-guide/SKILL.md)** — Logo design guide.
+- **[logo-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/logo/SKILL.md)** — Logo generator.
+- **[logo-designer](https://github.com/neonwatty/logo-designer-skill/blob/HEAD/skills/logo-designer/SKILL.md)** — Logo designer.
+- **[svg-logo-designer](https://github.com/rknall/claude-skills/blob/HEAD/svg-logo-designer/SKILL.md)** — SVG logo designer.
+- **[mascot-logo-reconstruction](https://github.com/roble3/cc-blender-skill/blob/HEAD/plugin/skills/mascot-logo-reconstruction/SKILL.md)** — Mascot logo reconstruction.
+- **[logo-animation](https://github.com/iart-ai/motion-design-skills/blob/HEAD/skills/logo-animation/SKILL.md)** — Logo animation.
+- **[animated-readme-logo](https://github.com/stark-ai-de/agent-skills/blob/HEAD/skills/engineering-workflows/animated-readme-logo/SKILL.md)** — Animated README logo.
+- **[muapi-logo-branding · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Logo branding.
+- **[muapi-logo-creator](https://github.com/samuraigpt/generative-media-skills/blob/HEAD/.opencode/skills/muapi-logo-creator/SKILL.md)** — Logo creator.
+- **[muapi-logo-generator · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Logo generator.
+- **[muapi-3d-logo-animation · repository entry](https://github.com/samuraigpt/generative-media-skills)** — 3D logo animation.
+- **[logo-creator](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/logo-creator/SKILL.md)** — Logo creator (OPC).
+- **[brand-identity](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-identity/SKILL.md)** — Brand identity.
+- **[brand-guidelines](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-guidelines/SKILL.md)** — Brand guidelines.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming.
+- **[brand-strategy](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-strategy/SKILL.md)** — Brand strategy.
+- **[brand-positioning](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-positioning/SKILL.md)** — Brand positioning.
+- **[brand-story](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-story/SKILL.md)** — Brand story.
+- **[brand-audit](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-audit/SKILL.md)** — Brand audit.
+- **[brand-architecture](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-architecture/SKILL.md)** — Brand architecture.
+- **[rebranding](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/rebranding/SKILL.md)** — Rebranding.
+- **[competitor-branding](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/competitor-branding/SKILL.md)** — Competitor branding.
+- **[brand-packaging](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-packaging/SKILL.md)** — Brand packaging.
 
 <a id="s13"></a>
 ### Typography
 
-- **[ui-typography](https://www.skills.sh/bencium/bencium-marketplace/ui-typography)** — UI typography.
-- **[modular-scale-typography](https://www.skills.sh/dembrandt/dembrandt-skills/modular-scale-typography)** — Modular type scale.
-- **[kinetic-typography](https://www.skills.sh/iart-ai/kinetic-typography-skills/kinetic-typography)** — Kinetic typography.
-- **[better-typography](https://www.skills.sh/jakubkrehel/skills/better-typography)** — Better typography.
-- **[typography-audit](https://www.skills.sh/mblode/agent-skills/typography-audit)** — Typography audit.
-- **[font-pairing-suggester](https://www.skills.sh/onewave-ai/claude-skills/font-pairing-suggester)** — Font pairing.
-- **[critique-typography](https://www.skills.sh/owl-listener/designer-skills/critique-typography)** — Typography critique.
-- **[web-typography](https://www.skills.sh/wondelai/skills/web-typography)** — Web typography.
-- **[slug-font-rendering](https://www.skills.sh/reason-machines/trending-skills/slug-font-rendering)** — Font rendering.
-- **[layer-typography](https://www.skills.sh/layerai/skills/layer-typography)** — Layer typography.
+- **[ui-typography · repository entry](https://github.com/bencium/bencium-marketplace)** — UI typography.
+- **[modular-scale-typography](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/modular-scale-typography/SKILL.md)** — Modular type scale.
+- **[kinetic-typography](https://github.com/iart-ai/kinetic-typography-skills/blob/HEAD/skills/kinetic-typography/SKILL.md)** — Kinetic typography.
+- **[better-typography](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-typography/SKILL.md)** — Better typography.
+- **[typography-audit](https://github.com/mblode/agent-skills/blob/HEAD/skills/typography-audit/SKILL.md)** — Typography audit.
+- **[font-pairing-suggester](https://github.com/onewave-ai/claude-skills/blob/HEAD/font-pairing-suggester/SKILL.md)** — Font pairing.
+- **[critique-typography](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-typography/SKILL.md)** — Typography critique.
+- **[web-typography](https://github.com/wondelai/skills/blob/HEAD/web-typography/SKILL.md)** — Web typography.
+- **[slug-font-rendering](https://github.com/reason-machines/trending-skills/blob/HEAD/skills/slug-font-rendering/SKILL.md)** — Font rendering.
+- **[layer-typography](https://github.com/layerai/skills/blob/HEAD/plugins/layer/skills/layer-typography/SKILL.md)** — Layer typography.
 
 <a id="s14"></a>
 ### Color
 
-- **[color-accessibility](https://www.skills.sh/aj-geddes/useful-ai-prompts/color-accessibility)** — Color accessibility.
-- **[algorithmic-color-palette](https://www.skills.sh/dembrandt/dembrandt-skills/algorithmic-color-palette)** — Algorithmic palettes.
-- **[color-palette](https://www.skills.sh/jezweb/claude-skills/color-palette)** — Color palette.
-- **[color-expert](https://www.skills.sh/meodai/skill.color-expert/color-expert)** — Color expert.
-- **[color-palette-extractor](https://www.skills.sh/onewave-ai/claude-skills/color-palette-extractor)** — Palette extractor.
-- **[critique-color](https://www.skills.sh/owl-listener/designer-skills/critique-color)** — Color critique.
-- **[better-colors](https://www.skills.sh/jakubkrehel/skills/better-colors)** — Better colors.
-- **[status-colors-and-errors](https://www.skills.sh/dembrandt/dembrandt-skills/status-colors-and-errors)** — Status and error colors.
-- **[color-mode-and-theme](https://www.skills.sh/dembrandt/dembrandt-skills/color-mode-and-theme)** — Color mode and theme.
+- **[color-accessibility](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/color-accessibility/SKILL.md)** — Color accessibility.
+- **[algorithmic-color-palette](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/algorithmic-color-palette/SKILL.md)** — Algorithmic palettes.
+- **[color-palette](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/color-palette/SKILL.md)** — Color palette.
+- **[color-expert](https://github.com/meodai/skill.color-expert/blob/HEAD/SKILL.md)** — Color expert.
+- **[color-palette-extractor](https://github.com/onewave-ai/claude-skills/blob/HEAD/color-palette-extractor/SKILL.md)** — Palette extractor.
+- **[critique-color](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-color/SKILL.md)** — Color critique.
+- **[better-colors](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-colors/SKILL.md)** — Better colors.
+- **[status-colors-and-errors](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/status-colors-and-errors/SKILL.md)** — Status and error colors.
+- **[color-mode-and-theme](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/color-mode-and-theme/SKILL.md)** — Color mode and theme.
 
 <a id="s15"></a>
 ### Icons
 
-- **[ios-icon-gen](https://www.skills.sh/affaan-m/ecc/ios-icon-gen)** — iOS icon generator.
-- **[icon-retrieval](https://www.skills.sh/antvis/chart-visualization-skills/icon-retrieval)** — Icon retrieval.
-- **[app-icon-optimization](https://www.skills.sh/appeeky/aso-skills/app-icon-optimization)** — App icon optimization.
-- **[better-icons](https://www.skills.sh/better-auth/better-icons/better-icons)** — Better icons.
-- **[favicon](https://www.skills.sh/brianlovin/agent-config/favicon)** — Favicon.
-- **[favicon-gen](https://www.skills.sh/jezweb/claude-skills/favicon-gen)** — Favicon generator.
-- **[icon-set-generator](https://www.skills.sh/jezweb/claude-skills/icon-set-generator)** — Icon set generator.
-- **[svg-icon-generator](https://www.skills.sh/jeremylongshore/tons-of-skills-marketplace/svg-icon-generator)** — SVG icon generator.
-- **[suggest-lucide-icons](https://www.skills.sh/nweii/agent-stuff/suggest-lucide-icons)** — Suggest Lucide icons.
-- **[add-icon](https://www.skills.sh/fortawesome/fontawesome-agent-tools/add-icon)** — Add icon.
+- **[ios-icon-gen](https://github.com/affaan-m/ECC/blob/HEAD/skills/ios-icon-gen/SKILL.md)** — iOS icon generator.
+- **[icon-retrieval](https://github.com/antvis/chart-visualization-skills/blob/HEAD/skills/icon-retrieval/SKILL.md)** — Icon retrieval.
+- **[app-icon-optimization](https://github.com/appeeky/aso-skills/blob/HEAD/skills/app-icon-optimization/SKILL.md)** — App icon optimization.
+- **[better-icons](https://github.com/better-auth/better-icons/blob/HEAD/skills/SKILL.md)** — Better icons.
+- **[favicon-gen](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/favicon-gen/SKILL.md)** — Favicon generator.
+- **[icon-set-generator](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/icon-set-generator/SKILL.md)** — Icon set generator.
+- **[svg-icon-generator · repository entry](https://github.com/jeremylongshore/tons-of-skills-marketplace)** — SVG icon generator.
+- **[suggest-lucide-icons](https://github.com/nweii/agent-stuff/blob/HEAD/skills/suggest-lucide-icons/SKILL.md)** — Suggest Lucide icons.
+- **[add-icon](https://github.com/FortAwesome/fontawesome-agent-tools/blob/HEAD/plugins/icons/skills/add-icon/SKILL.md)** — Add icon.
 
 <a id="s16"></a>
 ### Layout
 
-- **[layout-analyzer](https://www.skills.sh/claude-office-skills/skills/layout-analyzer)** — Layout analyzer.
-- **[better-layout](https://www.skills.sh/jakubkrehel/skills/better-layout)** — Better layout.
-- **[layout-paradigms-and-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/layout-paradigms-and-consistency)** — Layout paradigms.
-- **[tailwindcss-advanced-layouts](https://www.skills.sh/josiahsiegel/claude-plugin-marketplace/tailwindcss-advanced-layouts)** — Tailwind layouts.
+- **[layout-analyzer](https://github.com/claude-office-skills/skills/blob/HEAD/layout-analyzer/SKILL.md)** — Layout analyzer.
+- **[better-layout](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-layout/SKILL.md)** — Better layout.
+- **[layout-paradigms-and-consistency](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/layout-paradigms-and-consistency/SKILL.md)** — Layout paradigms.
+- **[tailwindcss-advanced-layouts](https://github.com/josiahsiegel/claude-plugin-marketplace/blob/HEAD/plugins/tailwindcss-master/skills/tailwindcss-advanced-layouts/SKILL.md)** — Tailwind layouts.
 
 <a id="s17"></a>
 ### UX & usability
 
-- **[ux-designer](https://www.skills.sh/aj-geddes/claude-code-bmad-skills/ux-designer)** — UX designer.
-- **[ux-research-discovery-testing](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing)** — UX research and testing.
-- **[ux-usability-foundations](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-usability-foundations)** — Usability foundations.
-- **[ux-audit](https://www.skills.sh/jezweb/claude-skills/ux-audit)** — UX audit.
-- **[ux-friction](https://www.skills.sh/dylantarre/animation-principles/ux-friction)** — UX friction.
-- **[nielsen-usability-heuristics](https://www.skills.sh/dembrandt/dembrandt-skills/nielsen-usability-heuristics)** — Nielsen heuristics.
-- **[user-flows-and-guided-paths](https://www.skills.sh/dembrandt/dembrandt-skills/user-flows-and-guided-paths)** — User flows.
-- **[wireframe-prototyping](https://www.skills.sh/aj-geddes/useful-ai-prompts/wireframe-prototyping)** — Wireframe prototyping.
-- **[prototype](https://www.skills.sh/adobe/skills/prototype)** — Prototyping.
+- **[ux-designer · repository entry](https://github.com/aj-geddes/claude-code-bmad-skills)** — UX designer.
+- **[ux-research-discovery-testing](https://github.com/hueyexe/frontend-agent-skills/blob/HEAD/ux-research-discovery-testing/SKILL.md)** — UX research and testing.
+- **[ux-usability-foundations](https://github.com/hueyexe/frontend-agent-skills/blob/HEAD/ux-usability-foundations/SKILL.md)** — Usability foundations.
+- **[ux-audit](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/dev-tools/skills/ux-audit/SKILL.md)** — UX audit.
+- **[ux-friction](https://github.com/dylantarre/animation-principles/blob/HEAD/skills/12-by-problem-type/ux-friction/SKILL.md)** — UX friction.
+- **[nielsen-usability-heuristics](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/nielsen-usability-heuristics/SKILL.md)** — Nielsen heuristics.
+- **[user-flows-and-guided-paths](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/user-flows-and-guided-paths/SKILL.md)** — User flows.
+- **[wireframe-prototyping](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/wireframe-prototyping/SKILL.md)** — Wireframe prototyping.
+- **[prototype](https://github.com/adobe/skills/blob/HEAD/plugins/stardust/skills/prototype/SKILL.md)** — Prototyping.
 
 <a id="s18"></a>
 ### Motion
 
-- **[motion-foundations](https://www.skills.sh/affaan-m/ecc/motion-foundations)** — Motion foundations.
-- **[motion-patterns](https://www.skills.sh/affaan-m/ecc/motion-patterns)** — Motion patterns.
-- **[motion-ui](https://www.skills.sh/affaan-m/ecc/motion-ui)** — UI motion.
-- **[motion-dev-animations](https://www.skills.sh/199-biotechnologies/motion-dev-animations-skill/motion-dev-animations)** — Motion dev animations.
-- **[framer-motion](https://www.skills.sh/athevon/genjutsu/framer-motion)** — Framer Motion.
-- **[framer-motion-scroll](https://www.skills.sh/c-jeril/framer-motion-skills/framer-motion-scroll)** — Framer Motion scroll.
-- **[gsap-react](https://www.skills.sh/bbeierle12/skill-mcp-claude/gsap-react)** — GSAP React.
-- **[threejs-animation](https://www.skills.sh/cesartevisual/threejs-skills/threejs-animation)** — Three.js animation.
-- **[threejs-interaction](https://www.skills.sh/cesartevisual/threejs-skills/threejs-interaction)** — Three.js interaction.
-- **[threejs-lighting](https://www.skills.sh/cesartevisual/threejs-skills/threejs-lighting)** — Three.js lighting.
+- **[motion-foundations](https://github.com/affaan-m/ECC/blob/HEAD/skills/motion-foundations/SKILL.md)** — Motion foundations.
+- **[motion-patterns](https://github.com/affaan-m/ECC/blob/HEAD/skills/motion-patterns/SKILL.md)** — Motion patterns.
+- **[motion-ui · repository entry](https://github.com/affaan-m/ECC)** — UI motion.
+- **[motion-dev-animations](https://github.com/199-biotechnologies/motion-dev-animations-skill/blob/HEAD/SKILL.md)** — Motion dev animations.
+- **[framer-motion](https://github.com/AThevon/genjutsu/blob/HEAD/skills/_jutsu/framer-motion/SKILL.md)** — Framer Motion.
+- **[framer-motion-scroll](https://github.com/C-Jeril/framer-motion-skills/blob/HEAD/skills/framer-motion-scroll/SKILL.md)** — Framer Motion scroll.
+- **[gsap-react](https://github.com/Bbeierle12/Skill-MCP-Claude/blob/HEAD/skills/gsap-react/SKILL.md)** — GSAP React.
+- **[threejs-animation](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-animation/SKILL.md)** — Three.js animation.
+- **[threejs-interaction](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-interaction/SKILL.md)** — Three.js interaction.
+- **[threejs-lighting](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-lighting/SKILL.md)** — Three.js lighting.
 
 <a id="s19"></a>
 ### Design systems
 
-- **[design-system-creation](https://www.skills.sh/aj-geddes/useful-ai-prompts/design-system-creation)** — Design system creation.
-- **[ui-design-system](https://www.skills.sh/alirezarezvani/claude-skills/ui-design-system)** — UI design system.
-- **[component-family-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/component-family-consistency)** — Component consistency.
-- **[design-system](https://www.skills.sh/affaan-m/ecc/design-system)** — Design system.
-- **[create-design-system-rules](https://www.skills.sh/figma/mcp-server-guide/create-design-system-rules)** — Design system rules.
+- **[design-system-creation](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/design-system-creation/SKILL.md)** — Design system creation.
+- **[ui-design-system](https://github.com/alirezarezvani/claude-skills/blob/HEAD/product-team/skills/ui-design-system/SKILL.md)** — UI design system.
+- **[component-family-consistency](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/component-family-consistency/SKILL.md)** — Component consistency.
+- **[design-system](https://github.com/affaan-m/ECC/blob/HEAD/skills/design-system/SKILL.md)** — Design system.
+- **[create-design-system-rules](https://github.com/figma/mcp-server-guide/blob/HEAD/figma-power/steering/create-design-system-rules.md)** — Design system rules.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.

@@ -8,39 +8,39 @@
 
 | 步骤 | 先用 |
 |---|---|
-| 选品/选题 | [tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy) |
-| 脚本 | [tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script) |
-| 文案 | [tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions) |
-| 广告 | [tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads) |
-| 达人 | [tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing) |
+| 选品/选题 | [tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md) |
+| 脚本 | [tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md) |
+| 文案 | [tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md) |
+| 广告 | [tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md) |
+| 达人 | [tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md) |
 
 ---
 
 ## ⭐ 先试这几个
 
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok 内容与投放。
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — TikTok 脚本。
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — TikTok 文案。
-- **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — TikTok 广告审计。
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok 内容与投放。
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — TikTok 脚本。
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — TikTok 文案。
+- **[ads-tiktok](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-tiktok/SKILL.md)** — TikTok 广告审计。
 
 ---
 
 ## 全部技能
 
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok 内容与投放。
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — TikTok 脚本。
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — TikTok 文案。
-- **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — TikTok 广告审计。
-- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI 视频编辑。
-- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — 多模型 AI 视频生成。
-- **[tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy)** — TikTok Shop 内容策略。
-- **[tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads)** — TikTok Shop 广告。
-- **[tiktok-shop-affiliate-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-affiliate-program)** — TikTok Shop 联盟。
-- **[tiktok-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-analytics)** — TikTok Shop 分析。
-- **[tiktok-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-branding)** — TikTok Shop 品牌。
-- **[tiktok-shop-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance)** — TikTok Shop 合规。
-- **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok 达人市场。
-- **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok 达人营销。
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok 内容与投放。
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — TikTok 脚本。
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — TikTok 文案。
+- **[ads-tiktok](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-tiktok/SKILL.md)** — TikTok 广告审计。
+- **[video-edit](https://github.com/gencraft-labs/skills/blob/HEAD/video-edit/SKILL.md)** — AI 视频编辑。
+- **[ai-video-generation](https://github.com/gencraft-labs/skills/blob/HEAD/ai-video-generation/SKILL.md)** — 多模型 AI 视频生成。
+- **[tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md)** — TikTok Shop 内容策略。
+- **[tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md)** — TikTok Shop 广告。
+- **[tiktok-shop-affiliate-program](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-affiliate-program/SKILL.md)** — TikTok Shop 联盟。
+- **[tiktok-shop-analytics](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-analytics/SKILL.md)** — TikTok Shop 分析。
+- **[tiktok-shop-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-branding/SKILL.md)** — TikTok Shop 品牌。
+- **[tiktok-shop-compliance](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-compliance/SKILL.md)** — TikTok Shop 合规。
+- **[tiktok-creator-marketplace](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-creator-marketplace/SKILL.md)** — TikTok 达人市场。
+- **[tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md)** — TikTok 达人营销。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 

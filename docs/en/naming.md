@@ -22,9 +22,9 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 
 ## ⭐ Top picks
 
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Product naming
-- **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — Domain name brainstormer
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — Product naming
+- **[domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/domain-name-brainstormer/SKILL.md)** — Domain name brainstormer
 
 ---
 
@@ -32,22 +32,22 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 
 ### Brand and product names
 
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Product naming.
-- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming.
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — Product naming.
+- **[brand-identity](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-identity/SKILL.md)** — Brand identity.
 
 ### Domains and online identity
 
-- **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — Domain name brainstormer.
-- **[domain-selection](https://www.skills.sh/kostja94/marketing-skills/domain-selection)** — Domain selection.
-- **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — Domain hunter.
-- **[domain-architecture](https://www.skills.sh/kostja94/marketing-skills/domain-architecture)** — Domain architecture.
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Domain name.
+- **[domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/domain-name-brainstormer/SKILL.md)** — Domain name brainstormer.
+- **[domain-selection](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-selection/SKILL.md)** — Domain selection.
+- **[domain-hunter](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/domain-hunter/SKILL.md)** — Domain hunter.
+- **[domain-architecture](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-architecture/SKILL.md)** — Domain architecture.
+- **[domain-name](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/domain-name/SKILL.md)** — Domain name.
 
 ### Titles and product listings
 
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Product title optimization.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas.
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — Product title optimization.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.
@@ -55,4 +55,3 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 ---
 
 [← Back to index](../../README.md)
-

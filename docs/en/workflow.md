@@ -104,90 +104,90 @@ Assets to keep building include customer lists, content libraries, code and prod
 <a id="legal"></a>
 ### Legal & compliance
 
-- **[entity-compliance](https://www.skills.sh/anthropics/claude-for-legal/entity-compliance)** — Entity compliance.
-- **[saas-msa-review](https://www.skills.sh/anthropics/claude-for-legal/saas-msa-review)** — SaaS MSA review.
-- **[nda-review](https://www.skills.sh/anthropics/claude-for-legal/nda-review)** — NDA review.
-- **[dpa-review](https://www.skills.sh/anthropics/claude-for-legal/dpa-review)** — DPA review.
-- **[vendor-agreement-review](https://www.skills.sh/anthropics/claude-for-legal/vendor-agreement-review)** — Vendor agreement.
-- **[ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review)** — IP clause review.
-- **[marketing-claims-review](https://www.skills.sh/anthropics/claude-for-legal/marketing-claims-review)** — Marketing claims review.
-- **[hiring-review](https://www.skills.sh/anthropics/claude-for-legal/hiring-review)** — Hiring review.
-- **[policy-drafting](https://www.skills.sh/anthropics/claude-for-legal/policy-drafting)** — Policy drafting.
-- **[pia-generation](https://www.skills.sh/anthropics/claude-for-legal/pia-generation)** — Privacy impact assessment.
-- **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)** — DSAR response.
-- **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)** — Launch review.
-- **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)** — OSS license review.
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — Review employee dismissal, severance arrangements and final-pay requirements.
-- **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — Legal risk assessment.
-- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI compliance.
+- **[entity-compliance](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/entity-compliance/SKILL.md)** — Entity compliance.
+- **[saas-msa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/saas-msa-review/SKILL.md)** — SaaS MSA review.
+- **[nda-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/nda-review/SKILL.md)** — NDA review.
+- **[dpa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dpa-review/SKILL.md)** — DPA review.
+- **[vendor-agreement-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/vendor-agreement-review/SKILL.md)** — Vendor agreement.
+- **[ip-clause-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/ip-clause-review/SKILL.md)** — IP clause review.
+- **[marketing-claims-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md)** — Marketing claims review.
+- **[hiring-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/hiring-review/SKILL.md)** — Hiring review.
+- **[policy-drafting](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/policy-drafting/SKILL.md)** — Policy drafting.
+- **[pia-generation](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/pia-generation/SKILL.md)** — Privacy impact assessment.
+- **[dsar-response](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dsar-response/SKILL.md)** — DSAR response.
+- **[launch-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/launch-review/SKILL.md)** — Launch review.
+- **[oss-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/oss-review/SKILL.md)** — OSS license review.
+- **[termination-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/termination-review/SKILL.md)** — Review employee dismissal, severance arrangements and final-pay requirements.
+- **[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)** — Legal risk assessment.
+- **[pci-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/pci-compliance/SKILL.md)** — PCI compliance.
 
 <a id="finance"></a>
 ### Finance & tax
 
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — Unit economics.
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — 3-statement model.
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — Financial plan.
-- **[dcf-model](https://www.skills.sh/anthropics/financial-services/dcf-model)** — DCF model.
-- **[comps-analysis](https://www.skills.sh/anthropics/financial-services/comps-analysis)** — Comps analysis.
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — Deal screening.
-- **[model-update](https://www.skills.sh/anthropics/financial-services/model-update)** — Model update.
-- **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)** — Variance commentary.
-- **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)** — GL reconciliation.
-- **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)** — Accrual schedule.
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Financial planning.
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Payments.
-- **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — Founder CFO.
-- **[pricing-strategist](https://www.skills.sh/ognjengt/founder-skills/pricing-strategist)** — Pricing strategist.
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — Revenue KPIs.
-- **[revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage)** — Revenue leakage.
-- **[revenue-reporting](https://www.skills.sh/mbfinotti/revops-skills/revenue-reporting)** — Revenue reporting.
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — Financial modeling.
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — Startup metrics.
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — Unit economics.
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — 3-statement model.
+- **[financial-plan · repository entry](https://github.com/anthropics/financial-services)** — Financial plan.
+- **[dcf-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/dcf-model/SKILL.md)** — DCF model.
+- **[comps-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/comps-analysis/SKILL.md)** — Comps analysis.
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — Deal screening.
+- **[model-update](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/model-update/SKILL.md)** — Model update.
+- **[variance-commentary](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/variance-commentary/SKILL.md)** — Variance commentary.
+- **[gl-recon](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/gl-reconciler/skills/gl-recon/SKILL.md)** — GL reconciliation.
+- **[accrual-schedule](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/accrual-schedule/SKILL.md)** — Accrual schedule.
+- **[finances](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/finances/SKILL.md)** — Financial planning.
+- **[payments](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/payments/SKILL.md)** — Payments.
+- **[founder-cfo](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-cfo/SKILL.md)** — Founder CFO.
+- **[pricing-strategist](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/pricing-strategist/SKILL.md)** — Pricing strategist.
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — Revenue KPIs.
+- **[revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md)** — Revenue leakage.
+- **[revenue-reporting](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-reporting/SKILL.md)** — Revenue reporting.
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — Financial modeling.
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — Startup metrics.
 
 <a id="founder-os"></a>
 ### Founder OS
 
-- **[personal-productivity](https://www.skills.sh/refoundai/lenny-skills/personal-productivity)** — Personal productivity.
-- **[energy-management](https://www.skills.sh/refoundai/lenny-skills/energy-management)** — Energy management.
-- **[time-energy-management](https://www.skills.sh/refoundai/lenny-skills/time-energy-management)** — Time and energy.
-- **[managing-imposter-syndrome](https://www.skills.sh/refoundai/lenny-skills/managing-imposter-syndrome)** — Imposter syndrome.
-- **[having-difficult-conversations](https://www.skills.sh/refoundai/lenny-skills/having-difficult-conversations)** — Difficult conversations.
-- **[giving-feedback](https://www.skills.sh/refoundai/lenny-skills/giving-feedback)** — Giving feedback.
-- **[high-stakes-decisions](https://www.skills.sh/refoundai/lenny-skills/high-stakes-decisions)** — High-stakes decisions.
-- **[running-decision-processes](https://www.skills.sh/refoundai/lenny-skills/running-decision-processes)** — Decision processes.
-- **[planning-under-uncertainty](https://www.skills.sh/refoundai/lenny-skills/planning-under-uncertainty)** — Planning under uncertainty.
-- **[systems-thinking](https://www.skills.sh/refoundai/lenny-skills/systems-thinking)** — Systems thinking.
-- **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — Trade-offs.
-- **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — Founder psychology.
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Focus.
+- **[personal-productivity · repository entry](https://github.com/refoundai/lenny-skills)** — Personal productivity.
+- **[energy-management · repository entry](https://github.com/refoundai/lenny-skills)** — Energy management.
+- **[time-energy-management](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/time-energy-management/SKILL.md)** — Time and energy.
+- **[managing-imposter-syndrome · repository entry](https://github.com/refoundai/lenny-skills)** — Imposter syndrome.
+- **[having-difficult-conversations · repository entry](https://github.com/refoundai/lenny-skills)** — Difficult conversations.
+- **[giving-feedback](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/giving-feedback/SKILL.md)** — Giving feedback.
+- **[high-stakes-decisions](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/high-stakes-decisions/SKILL.md)** — High-stakes decisions.
+- **[running-decision-processes · repository entry](https://github.com/refoundai/lenny-skills)** — Decision processes.
+- **[planning-under-uncertainty · repository entry](https://github.com/refoundai/lenny-skills)** — Planning under uncertainty.
+- **[systems-thinking · repository entry](https://github.com/refoundai/lenny-skills)** — Systems thinking.
+- **[evaluating-trade-offs](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/evaluating-trade-offs/SKILL.md)** — Trade-offs.
+- **[founder-psychology](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-psychology/SKILL.md)** — Founder psychology.
+- **[focus](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/focus/SKILL.md)** — Focus.
 
 <a id="support"></a>
 ### Support & retention
 
-- **[user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding)** — User onboarding.
-- **[retention-engagement](https://www.skills.sh/refoundai/lenny-skills/retention-engagement)** — Retention.
-- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — Customer health score.
-- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — Churn signals.
-- **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR facilitator.
-- **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — Renewal manager.
-- **[cs-strategist](https://www.skills.sh/ncklrs/startup-os-skills/cs-strategist)** — CS strategist.
-- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — Support operations.
-- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — Onboarding specialist.
-- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — Lifecycle marketing.
-- **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — Community building.
-- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — Customer research.
+- **[user-onboarding · repository entry](https://github.com/refoundai/lenny-skills)** — User onboarding.
+- **[retention-engagement](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/retention-engagement/SKILL.md)** — Retention.
+- **[customer-health-score](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-health-score/SKILL.md)** — Customer health score.
+- **[customer-churn-signals](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-churn-signals/SKILL.md)** — Churn signals.
+- **[qbr-facilitator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/qbr-facilitator/SKILL.md)** — QBR facilitator.
+- **[renewal-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/renewal-manager/SKILL.md)** — Renewal manager.
+- **[cs-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/cs-strategist/SKILL.md)** — CS strategist.
+- **[support-operations](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/support-operations/SKILL.md)** — Support operations.
+- **[onboarding-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/onboarding-specialist/SKILL.md)** — Onboarding specialist.
+- **[customer-lifecycle-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/customer-lifecycle-marketer/SKILL.md)** — Lifecycle marketing.
+- **[community-building · repository entry](https://github.com/refoundai/lenny-skills)** — Community building.
+- **[customer-research](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md)** — Customer research.
 
 <a id="risk"></a>
 ### Risk & assets
 
-- **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — Security hardening.
-- **[security-audit](https://www.skills.sh/cloudflare/skills/security-audit)** — Security audit.
-- **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — Incident response.
-- **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — Grow sustainably.
-- **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — Company values.
-- **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — Minimalist review.
-- **[personal-brand-network](https://www.skills.sh/refoundai/lenny-skills/personal-brand-network)** — Personal brand network.
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — Revenue funnel.
+- **[security-and-hardening](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/security-and-hardening/SKILL.md)** — Security hardening.
+- **[security-audit · repository entry](https://github.com/cloudflare/skills)** — Security audit.
+- **[incident-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/incident-response/SKILL.md)** — Incident response.
+- **[grow-sustainably](https://github.com/slavingia/skills/blob/HEAD/skills/grow-sustainably/SKILL.md)** — Grow sustainably.
+- **[company-values](https://github.com/slavingia/skills/blob/HEAD/skills/company-values/SKILL.md)** — Company values.
+- **[minimalist-review](https://github.com/slavingia/skills/blob/HEAD/skills/minimalist-review/SKILL.md)** — Minimalist review.
+- **[personal-brand-network](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/personal-brand-network/SKILL.md)** — Personal brand network.
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — Revenue funnel.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.
@@ -195,4 +195,3 @@ Assets to keep building include customer lists, content libraries, code and prod
 ---
 
 [← Back to index](../../README.md)
-

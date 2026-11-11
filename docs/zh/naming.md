@@ -22,9 +22,9 @@
 
 ## ⭐ 先试这几个
 
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名策略
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — 产品命名
-- **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — 域名头脑风暴
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — 品牌命名策略
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — 产品命名
+- **[domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/domain-name-brainstormer/SKILL.md)** — 域名头脑风暴
 
 ---
 
@@ -32,22 +32,22 @@
 
 ### 品牌与产品名
 
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — 品牌命名策略。
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — 产品命名。
-- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — 品牌识别。
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — 品牌命名策略。
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — 产品命名。
+- **[brand-identity](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-identity/SKILL.md)** — 品牌识别。
 
 ### 域名与线上身份
 
-- **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — 域名头脑风暴。
-- **[domain-selection](https://www.skills.sh/kostja94/marketing-skills/domain-selection)** — 域名选择。
-- **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — 域名挖掘。
-- **[domain-architecture](https://www.skills.sh/kostja94/marketing-skills/domain-architecture)** — 域名架构。
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — 域名基础。
+- **[domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/domain-name-brainstormer/SKILL.md)** — 域名头脑风暴。
+- **[domain-selection](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-selection/SKILL.md)** — 域名选择。
+- **[domain-hunter](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/domain-hunter/SKILL.md)** — 域名挖掘。
+- **[domain-architecture](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-architecture/SKILL.md)** — 域名架构。
+- **[domain-name](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/domain-name/SKILL.md)** — 域名基础。
 
 ### 标题与商品名
 
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — 商品标题优化。
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — 小红书标题公式。
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — 商品标题优化。
+- **[dbs-xhs-title · 仓库入口](https://github.com/dontbesilent2025/dbskill)** — 小红书标题公式。
 
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
@@ -55,4 +55,3 @@
 ---
 
 [← 返回总览](../../README.zh.md)
-

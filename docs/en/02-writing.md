@@ -8,22 +8,22 @@ Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold e
 
 ## ⭐ Top picks
 
-**[humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh)**
+**[humanizer-zh](https://github.com/op7418/humanizer-zh/blob/HEAD/SKILL.md)**
 
 - *Why:* Chinese de-AI rewriting that keeps facts and tone.
 - *First use:* Run one of your drafts through it; change style, not facts.
 
-**[no-ai-slop](https://www.skills.sh/petergyang/no-ai-slop/no-ai-slop)**
+**[no-ai-slop](https://github.com/petergyang/no-ai-slop/blob/HEAD/skills/no-ai-slop/SKILL.md)**
 
 - *Why:* Remove AI slop while keeping the writer’s voice.
 - *First use:* Run an AI draft through it and compare before/after.
 
-**[copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting)**
+**[copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md)**
 
 - *Why:* Turn benefits into conversion copy.
 - *First use:* Write three hero-copy variants for one offer.
 
-**[landing-page-copywriter](https://www.skills.sh/onewave-ai/claude-skills/landing-page-copywriter)**
+**[landing-page-copywriter](https://github.com/onewave-ai/claude-skills/blob/HEAD/landing-page-copywriter/SKILL.md)**
 
 - *Why:* One page, one action.
 - *First use:* Write a landing page and remove every secondary CTA.
@@ -37,109 +37,108 @@ Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold e
 <a id="s1"></a>
 ### Plain language & de-AI
 
-- **[humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh)** — Chinese de-AI rewriting that keeps meaning and tone.
-- **[humanizer](https://www.skills.sh/blader/humanizer/humanizer)** — Remove AI writing patterns; scores 55 tells.
-- **[no-ai-slop](https://www.skills.sh/petergyang/no-ai-slop/no-ai-slop)** — Cut AI slop while preserving the writer’s voice.
-- **[avoid-ai-writing](https://www.skills.sh/conorbronsdon/avoid-ai-writing/avoid-ai-writing)** — Audit and rewrite machine-sounding text.
-- **[antislop-copywriting](https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-copywriting)** — Anti-slop rules for copy and text.
-- **[grammar-check](https://www.skills.sh/phuryn/pm-skills/grammar-check)** — Grammar, logic and flow checking.
+- **[humanizer-zh](https://github.com/op7418/humanizer-zh/blob/HEAD/SKILL.md)** — Chinese de-AI rewriting that keeps meaning and tone.
+- **[humanizer](https://github.com/blader/humanizer/blob/HEAD/SKILL.md)** — Remove AI writing patterns; scores 55 tells.
+- **[no-ai-slop](https://github.com/petergyang/no-ai-slop/blob/HEAD/skills/no-ai-slop/SKILL.md)** — Cut AI slop while preserving the writer’s voice.
+- **[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing/blob/HEAD/skills/avoid-ai-writing/SKILL.md)** — Audit and rewrite machine-sounding text.
+- **[antislop-copywriting](https://github.com/miqdadbadjuber/anti-slop/blob/HEAD/skills/antislop-copywriting/SKILL.md)** — Anti-slop rules for copy and text.
+- **[grammar-check](https://github.com/phuryn/pm-skills/blob/HEAD/pm-toolkit/skills/grammar-check/SKILL.md)** — Grammar, logic and flow checking.
 
 <a id="s2"></a>
 ### Xiaohongshu copy
 
-- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — Research, write and publish Xiaohongshu posts.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas, 75 patterns.
-- **[xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer)** — Diagnose a Xiaohongshu note.
+- **[write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md)** — Research, write and publish Xiaohongshu posts.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas, 75 patterns.
+- **[xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md)** — Diagnose a Xiaohongshu note.
 
 <a id="s3"></a>
 ### WeChat copy
 
-- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
-- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
-- **[md2wechat](https://www.skills.sh/geekjourneyx/md2wechat-skill/md2wechat)** — Convert Markdown to WeChat HTML.
+- **[dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md)** — Convert Markdown to WeChat-ready HTML.
+- **[md2wechat](https://github.com/geekjourneyx/md2wechat-skill/blob/HEAD/skills/md2wechat/SKILL.md)** — Convert Markdown to WeChat HTML.
 
 <a id="s4"></a>
 ### Short-video scripts
 
-- **[dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook)** — Diagnose and rewrite short-video openings.
-- **[dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow)** — Check short-video script flow and retention.
-- **[dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro)** — Write titles, covers and openings.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[short-form-video-script](https://www.skills.sh/social-media-skills/skills/short-form-video-script)** — Write short-form video scripts.
-- **[viral-hook-creator](https://www.skills.sh/ognjengt/founder-skills/viral-hook-creator)** — Generate viral hooks.
+- **[dbs-hook · repository entry](https://github.com/dontbesilent2025/dbskill)** — Diagnose and rewrite short-video openings.
+- **[dbs-script-flow](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-script-flow/SKILL.md)** — Check short-video script flow and retention.
+- **[dbs-title-cover-intro](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-title-cover-intro/SKILL.md)** — Write titles, covers and openings.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[short-form-video-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/short-form-video-script/SKILL.md)** — Write short-form video scripts.
+- **[viral-hook-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/viral-hook-creator/SKILL.md)** — Generate viral hooks.
 
 <a id="s5"></a>
 ### Ad copy
 
-- **[ads-copywriter](https://www.skills.sh/claude-office-skills/skills/ads-copywriter)** — Ad copy for Google, Meta, TikTok and LinkedIn.
-- **[ad-copy-variants](https://www.skills.sh/mbfinotti/advertising-skills/ad-copy-variants)** — Turn one value prop into testable variants.
-- **[conversational-ad-copy](https://www.skills.sh/mbfinotti/advertising-skills/conversational-ad-copy)** — Ads inside AI answers and search.
-- **[ad-hook-analyzer](https://www.skills.sh/mbfinotti/advertising-skills/ad-hook-analyzer)** — Rank video-ad openings before spending.
-- **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — Performance creative brief.
-- **[copywriting-hooks](https://www.skills.sh/samber/cc-skills/copywriting-hooks)** — Hooks that make readers want sentence two.
-- **[ogilvy-copywriting](https://www.skills.sh/boraoztunc/skills/ogilvy-copywriting)** — Ogilvy-style sales copy principles.
+- **[ads-copywriter](https://github.com/claude-office-skills/skills/blob/HEAD/ads-copywriter/SKILL.md)** — Ad copy for Google, Meta, TikTok and LinkedIn.
+- **[ad-copy-variants](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-copy-variants/SKILL.md)** — Turn one value prop into testable variants.
+- **[conversational-ad-copy](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/conversational-ad-copy/SKILL.md)** — Ads inside AI answers and search.
+- **[ad-hook-analyzer](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-hook-analyzer/SKILL.md)** — Rank video-ad openings before spending.
+- **[ad-creative-brief](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-brief/SKILL.md)** — Performance creative brief.
+- **[copywriting-hooks](https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-hooks/SKILL.md)** — Hooks that make readers want sentence two.
+- **[ogilvy-copywriting · repository entry](https://github.com/boraoztunc/skills)** — Ogilvy-style sales copy principles.
 
 <a id="s6"></a>
 ### Cold email & outreach
 
-- **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)** — Cold email writing.
-- **[cold-email-subject-line-tester](https://www.skills.sh/mbfinotti/sales-skills/cold-email-subject-line-tester)** — Score subject lines and design split tests.
-- **[emails](https://www.skills.sh/coreyhaines31/marketingskills/emails)** — Email sequence design.
-- **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — Write personalized outreach.
+- **[cold-email](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md)** — Cold email writing.
+- **[cold-email-subject-line-tester](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-email-subject-line-tester/SKILL.md)** — Score subject lines and design split tests.
+- **[emails](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/emails/SKILL.md)** — Email sequence design.
+- **[compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md)** — Write personalized outreach.
 
 <a id="s7"></a>
 ### Landing & sales pages
 
-- **[copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting)** — Conversion copywriting.
-- **[copy-editing](https://www.skills.sh/coreyhaines31/marketingskills/copy-editing)** — Pass-by-pass marketing copy editing.
-- **[landing-page-copywriter](https://www.skills.sh/onewave-ai/claude-skills/landing-page-copywriter)** — Landing copy that drives one action.
-- **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer design and packaging.
+- **[copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md)** — Conversion copywriting.
+- **[copy-editing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copy-editing/SKILL.md)** — Pass-by-pass marketing copy editing.
+- **[landing-page-copywriter](https://github.com/onewave-ai/claude-skills/blob/HEAD/landing-page-copywriter/SKILL.md)** — Landing copy that drives one action.
+- **[offers](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/offers/SKILL.md)** — Offer design and packaging.
 
 <a id="s8"></a>
 ### Product & UX copy
 
-- **[ux-copy](https://www.skills.sh/anthropics/knowledge-work-plugins/ux-copy)** — Interface copy and error messages.
+- **[ux-copy](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/ux-copy/SKILL.md)** — Interface copy and error messages.
 
 <a id="s9"></a>
 ### Brand & PR copy
 
-- **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — Build a durable voice profile from source material.
-- **[brand-voice-enforcement](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-voice-enforcement)** — Apply brand guidelines to all sales and marketing content.
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming strategy and candidate screening.
-- **[copywriting-tone-of-voice-creator](https://www.skills.sh/samber/cc-skills/copywriting-tone-of-voice-creator)** — Turn brand voice into operational rules.
-- **[public-relations](https://www.skills.sh/coreyhaines31/marketingskills/public-relations)** — PR and earned media.
+- **[brand-voice](https://github.com/affaan-m/ECC/blob/HEAD/skills/brand-voice/SKILL.md)** — Build a durable voice profile from source material.
+- **[brand-voice-enforcement](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/brand-voice/skills/brand-voice-enforcement/SKILL.md)** — Apply brand guidelines to all sales and marketing content.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming strategy and candidate screening.
+- **[copywriting-tone-of-voice-creator](https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-tone-of-voice-creator/SKILL.md)** — Turn brand voice into operational rules.
+- **[public-relations](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/public-relations/SKILL.md)** — PR and earned media.
 
 <a id="s10"></a>
 ### Ecommerce & store copy
 
-- **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Optimize product titles.
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
+- **[product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md)** — Write product descriptions.
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — Optimize product titles.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — Localize App Store metadata.
 
 <a id="s11"></a>
 ### Long-form & blogs
 
-- **[edit-article](https://www.skills.sh/mattpocock/skills/edit-article)** — Re-edit an article around its section structure.
-- **[article-writing](https://www.skills.sh/affaan-m/ecc/article-writing)** — Long-form writing with a real point of view.
-- **[blog](https://www.skills.sh/agricidaniel/claude-blog/blog)** — Blog engine for rankings and AI citations.
-- **[blog-factcheck](https://www.skills.sh/agricidaniel/claude-blog/blog-factcheck)** — Fact-check blog drafts.
-- **[blog-seo-check](https://www.skills.sh/agricidaniel/claude-blog/blog-seo-check)** — Post-writing SEO validation for blogs.
-- **[engineering-blog-post](https://www.skills.sh/samber/developer-relations-skills/engineering-blog-post)** — Write and edit engineering blog posts.
-- **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack ghostwriting and growth.
-- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — High-conversion LinkedIn ghostwriting.
+- **[edit-article · repository entry](https://github.com/mattpocock/skills)** — Re-edit an article around its section structure.
+- **[article-writing](https://github.com/affaan-m/ECC/blob/HEAD/skills/article-writing/SKILL.md)** — Long-form writing with a real point of view.
+- **[blog](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog/SKILL.md)** — Blog engine for rankings and AI citations.
+- **[blog-factcheck](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-factcheck/SKILL.md)** — Fact-check blog drafts.
+- **[blog-seo-check](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-seo-check/SKILL.md)** — Post-writing SEO validation for blogs.
+- **[engineering-blog-post](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/engineering-blog-post/SKILL.md)** — Write and edit engineering blog posts.
+- **[substack-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/substack-ghostwriting/SKILL.md)** — Substack ghostwriting and growth.
+- **[linkedin-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md)** — High-conversion LinkedIn ghostwriting.
 
 <a id="s12"></a>
 ### Translation & localization
 
-- **[baoyu-translate](https://www.skills.sh/jimliu/baoyu-skills/baoyu-translate)** — High-quality translation and polishing.
-- **[mkdocs-translations](https://www.skills.sh/github/awesome-copilot/mkdocs-translations)** — Translate documentation sites.
+- **[baoyu-translate](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-translate/SKILL.md)** — High-quality translation and polishing.
+- **[mkdocs-translations](https://github.com/github/awesome-copilot/blob/HEAD/skills/mkdocs-translations/SKILL.md)** — Translate documentation sites.
 
 <a id="s13"></a>
 ### Scripts & stories
 
-- **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — Generate visual storyboards with AI.
-- **[chinese-novelist](https://www.skills.sh/penglonghuang/chinese-novelist-skill/chinese-novelist)** — Chinese fiction writing with conflict and hooks.
+- **[storyboard-creation](https://github.com/101-skills/superpowers/blob/HEAD/guides/video/storyboard-creation/SKILL.md)** — Generate visual storyboards with AI.
+- **[chinese-novelist](https://github.com/penglonghuang/chinese-novelist-skill/blob/HEAD/SKILL.md)** — Chinese fiction writing with conflict and hooks.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.

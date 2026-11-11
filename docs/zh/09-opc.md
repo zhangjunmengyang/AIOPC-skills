@@ -8,22 +8,22 @@
 
 ## ⭐ 先试这几个
 
-**[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)**
+**[pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md)**
 
 - *为什么:* 定价是商业模式的一部分。
 - *第一次怎么用:* 用现有 offer 做三档价格。
 
-**[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)**
+**[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)**
 
 - *为什么:* 算清每单赚不赚钱。
 - *第一次怎么用:* 算一次 CAC、毛利、回本周期。
 
-**[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)**
+**[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)**
 
 - *为什么:* 做 3-5 年财务模型。
 - *第一次怎么用:* 建一个 12 个月现金流表。
 
-**[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)**
+**[marketing-plan](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-plan/SKILL.md)**
 
 - *为什么:* 把营销目标拆成渠道和动作。
 - *第一次怎么用:* 写一页 90 天营销计划。
@@ -37,36 +37,36 @@
 <a id="s1"></a>
 ### 定价 / 变现
 
-- **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS 定价策略。
-- **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — 移动 App 变现。
-- **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — 开发者工具定价。
-- **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — 开发者工具商业模式。
+- **[pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md)** — SaaS 定价策略。
+- **[monetization-strategy](https://github.com/appeeky/aso-skills/blob/HEAD/skills/monetization-strategy/SKILL.md)** — 移动 App 变现。
+- **[devtools-pricing-strategy](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-pricing-strategy/SKILL.md)** — 开发者工具定价。
+- **[devtools-business-model](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-business-model/SKILL.md)** — 开发者工具商业模式。
 
 <a id="s2"></a>
 ### 财务 / 指标
 
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — 3-5 年财务模型。
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — 创业指标体系。
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — 收入 KPI 框架。
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — 收入漏斗设计。
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — 单位经济。
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — 三表模型。
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — 财务计划。
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — 交易筛选。
-- **[foundation-okr-writer](https://www.skills.sh/product-on-purpose/pm-skills/foundation-okr-writer)** — OKR 写作。
-- **[metrics-definition](https://www.skills.sh/owl-listener/designer-skills/metrics-definition)** — 指标定义。
-- **[north-star-vision](https://www.skills.sh/owl-listener/designer-skills/north-star-vision)** — 北极星愿景。
-- **[design-impact-reporting](https://www.skills.sh/owl-listener/designer-skills/design-impact-reporting)** — 设计影响报告。
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — 3-5 年财务模型。
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — 创业指标体系。
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — 收入 KPI 框架。
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — 收入漏斗设计。
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — 单位经济。
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — 三表模型。
+- **[financial-plan · 仓库入口](https://github.com/anthropics/financial-services)** — 财务计划。
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — 交易筛选。
+- **[foundation-okr-writer](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-okr-writer/SKILL.md)** — OKR 写作。
+- **[metrics-definition](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/metrics-definition/SKILL.md)** — 指标定义。
+- **[north-star-vision](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/north-star-vision/SKILL.md)** — 北极星愿景。
+- **[design-impact-reporting](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-impact-reporting/SKILL.md)** — 设计影响报告。
 
 <a id="s3"></a>
 ### 营销规划
 
-- **[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)** — 营销计划。
-- **[marketing-ideas](https://www.skills.sh/coreyhaines31/marketingskills/marketing-ideas)** — 100+ 营销点子。
-- **[marketing-psychology](https://www.skills.sh/coreyhaines31/marketingskills/marketing-psychology)** — 营销心理与心智模型。
-- **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — 社区营销。
-- **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — 联合营销。
-- **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — 产品营销上下文。
+- **[marketing-plan](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-plan/SKILL.md)** — 营销计划。
+- **[marketing-ideas](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-ideas/SKILL.md)** — 100+ 营销点子。
+- **[marketing-psychology](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-psychology/SKILL.md)** — 营销心理与心智模型。
+- **[community-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md)** — 社区营销。
+- **[co-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/co-marketing/SKILL.md)** — 联合营销。
+- **[product-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/product-marketing/SKILL.md)** — 产品营销上下文。
 
 ### OPC 专属仓库
 

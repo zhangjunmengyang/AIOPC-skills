@@ -8,39 +8,39 @@ Content, scripts, captions and ads.
 
 | Step | Start with |
 |---|---|
-| Product/topic | [tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy) |
-| Script | [tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script) |
-| Captions | [tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions) |
-| Ads | [tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads) |
-| Creators | [tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing) |
+| Product/topic | [tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md) |
+| Script | [tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md) |
+| Captions | [tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md) |
+| Ads | [tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md) |
+| Creators | [tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md) |
 
 ---
 
 ## ⭐ Top picks
 
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok content and ads.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — Write TikTok captions.
-- **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — Audit TikTok ads.
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok content and ads.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — Write TikTok captions.
+- **[ads-tiktok](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-tiktok/SKILL.md)** — Audit TikTok ads.
 
 ---
 
 ## All skills
 
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok content and ads.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — Write TikTok captions.
-- **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — Audit TikTok ads.
-- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
-- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
-- **[tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy)** — TikTok Shop content strategy.
-- **[tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads)** — TikTok Shop ads.
-- **[tiktok-shop-affiliate-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-affiliate-program)** — TikTok Shop affiliate program.
-- **[tiktok-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-analytics)** — TikTok Shop analytics.
-- **[tiktok-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-branding)** — TikTok Shop branding.
-- **[tiktok-shop-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance)** — TikTok Shop compliance.
-- **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok creator marketplace.
-- **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok influencer marketing.
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok content and ads.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — Write TikTok captions.
+- **[ads-tiktok](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-tiktok/SKILL.md)** — Audit TikTok ads.
+- **[video-edit](https://github.com/gencraft-labs/skills/blob/HEAD/video-edit/SKILL.md)** — AI video editing.
+- **[ai-video-generation](https://github.com/gencraft-labs/skills/blob/HEAD/ai-video-generation/SKILL.md)** — Multi-model AI video generation.
+- **[tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md)** — TikTok Shop content strategy.
+- **[tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md)** — TikTok Shop ads.
+- **[tiktok-shop-affiliate-program](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-affiliate-program/SKILL.md)** — TikTok Shop affiliate program.
+- **[tiktok-shop-analytics](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-analytics/SKILL.md)** — TikTok Shop analytics.
+- **[tiktok-shop-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-branding/SKILL.md)** — TikTok Shop branding.
+- **[tiktok-shop-compliance](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-compliance/SKILL.md)** — TikTok Shop compliance.
+- **[tiktok-creator-marketplace](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-creator-marketplace/SKILL.md)** — TikTok creator marketplace.
+- **[tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md)** — TikTok influencer marketing.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

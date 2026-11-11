@@ -2,60 +2,56 @@
 
 Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
-## openai/skills · 53
+## openai/skills · 49
 
-- **[pdf](https://www.skills.sh/openai/skills/pdf)**
-- **[security-best-practices](https://www.skills.sh/openai/skills/security-best-practices)**
-- **[gh-fix-ci](https://www.skills.sh/openai/skills/gh-fix-ci)**
-- **[linear](https://www.skills.sh/openai/skills/linear)**
-- **[playwright](https://www.skills.sh/openai/skills/playwright)**
-- **[security-threat-model](https://www.skills.sh/openai/skills/security-threat-model)**
-- **[openai-docs](https://www.skills.sh/openai/skills/openai-docs)**
-- **[screenshot](https://www.skills.sh/openai/skills/screenshot)**
-- **[imagegen](https://www.skills.sh/openai/skills/imagegen)**
-- **[jupyter-notebook](https://www.skills.sh/openai/skills/jupyter-notebook)**
-- **[playwright-interactive](https://www.skills.sh/openai/skills/playwright-interactive)**
-- **[skill-creator](https://www.skills.sh/openai/skills/skill-creator)**
-- **[gh-address-comments](https://www.skills.sh/openai/skills/gh-address-comments)**
-- **[cloudflare-deploy](https://www.skills.sh/openai/skills/cloudflare-deploy)**
-- **[aspnet-core](https://www.skills.sh/openai/skills/aspnet-core)**
-- **[transcribe](https://www.skills.sh/openai/skills/transcribe)**
-- **[security-ownership-map](https://www.skills.sh/openai/skills/security-ownership-map)**
-- **[skill-installer](https://www.skills.sh/openai/skills/skill-installer)**
-- **[notion-research-documentation](https://www.skills.sh/openai/skills/notion-research-documentation)**
-- **[sentry](https://www.skills.sh/openai/skills/sentry)**
-- **[speech](https://www.skills.sh/openai/skills/speech)**
-- **[notion-knowledge-capture](https://www.skills.sh/openai/skills/notion-knowledge-capture)**
-- **[netlify-deploy](https://www.skills.sh/openai/skills/netlify-deploy)**
-- **[yeet](https://www.skills.sh/openai/skills/yeet)**
-- **[vercel-deploy](https://www.skills.sh/openai/skills/vercel-deploy)**
-- **[hatch-pet](https://www.skills.sh/openai/skills/hatch-pet)**
-- **[chatgpt-apps](https://www.skills.sh/openai/skills/chatgpt-apps)**
-- **[notion-spec-to-implementation](https://www.skills.sh/openai/skills/notion-spec-to-implementation)**
-- **[winui-app](https://www.skills.sh/openai/skills/winui-app)**
-- **[cli-creator](https://www.skills.sh/openai/skills/cli-creator)**
-- **[render-deploy](https://www.skills.sh/openai/skills/render-deploy)**
-- **[notion-meeting-intelligence](https://www.skills.sh/openai/skills/notion-meeting-intelligence)**
-- **[figma-use](https://www.skills.sh/openai/skills/figma-use)**
-- **[figma-generate-design](https://www.skills.sh/openai/skills/figma-generate-design)**
-- **[define-goal](https://www.skills.sh/openai/skills/define-goal)**
-- **[figma-code-connect-components](https://www.skills.sh/openai/skills/figma-code-connect-components)**
-- **[figma-generate-library](https://www.skills.sh/openai/skills/figma-generate-library)**
-- **[figma-create-new-file](https://www.skills.sh/openai/skills/figma-create-new-file)**
-- **[migrate-to-codex](https://www.skills.sh/openai/skills/migrate-to-codex)**
-- **[plugin-creator](https://www.skills.sh/openai/skills/plugin-creator)**
-- **[spreadsheet](https://www.skills.sh/openai/skills/spreadsheet)**
-- **[frontend-skill](https://www.skills.sh/openai/skills/frontend-skill)**
-- **[doc](https://www.skills.sh/openai/skills/doc)**
-- **[develop-web-game](https://www.skills.sh/openai/skills/develop-web-game)**
-- **[sora](https://www.skills.sh/openai/skills/sora)**
-- **[slides](https://www.skills.sh/openai/skills/slides)**
-- **[create-plan](https://www.skills.sh/openai/skills/create-plan)**
-- **[codex-readiness-unit-test](https://www.skills.sh/openai/skills/codex-readiness-unit-test)**
-- **[codex-readiness-integration-test](https://www.skills.sh/openai/skills/codex-readiness-integration-test)**
-- **[build-things](https://www.skills.sh/openai/skills/build-things)**
-- **[gitlab-address-comments](https://www.skills.sh/openai/skills/gitlab-address-comments)**
-- **[codex-wrapped](https://www.skills.sh/openai/skills/codex-wrapped)**
-- **[atlas](https://www.skills.sh/openai/skills/atlas)**
+- **[pdf](https://github.com/openai/skills/blob/HEAD/skills/.curated/pdf/SKILL.md)**
+- **[security-best-practices](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-best-practices/SKILL.md)**
+- **[gh-fix-ci](https://github.com/openai/skills/blob/HEAD/skills/.curated/gh-fix-ci/SKILL.md)**
+- **[linear](https://github.com/openai/skills/blob/HEAD/skills/.curated/linear/SKILL.md)**
+- **[playwright](https://github.com/openai/skills/blob/HEAD/skills/.curated/playwright/SKILL.md)**
+- **[security-threat-model](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-threat-model/SKILL.md)**
+- **[openai-docs](https://github.com/openai/skills/blob/HEAD/skills/.system/openai-docs/SKILL.md)**
+- **[screenshot](https://github.com/openai/skills/blob/HEAD/skills/.curated/screenshot/SKILL.md)**
+- **[imagegen](https://github.com/openai/skills/blob/HEAD/skills/.system/imagegen/SKILL.md)**
+- **[jupyter-notebook](https://github.com/openai/skills/blob/HEAD/skills/.curated/jupyter-notebook/SKILL.md)**
+- **[playwright-interactive](https://github.com/openai/skills/blob/HEAD/skills/.curated/playwright-interactive/SKILL.md)**
+- **[skill-creator](https://github.com/openai/skills/blob/HEAD/skills/.system/skill-creator/SKILL.md)**
+- **[gh-address-comments](https://github.com/openai/skills/blob/HEAD/skills/.curated/gh-address-comments/SKILL.md)**
+- **[cloudflare-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/cloudflare-deploy/SKILL.md)**
+- **[aspnet-core](https://github.com/openai/skills/blob/HEAD/skills/.curated/aspnet-core/SKILL.md)**
+- **[transcribe](https://github.com/openai/skills/blob/HEAD/skills/.curated/transcribe/SKILL.md)**
+- **[security-ownership-map](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-ownership-map/SKILL.md)**
+- **[skill-installer](https://github.com/openai/skills/blob/HEAD/skills/.system/skill-installer/SKILL.md)**
+- **[notion-research-documentation](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-research-documentation/SKILL.md)**
+- **[sentry](https://github.com/openai/skills/blob/HEAD/skills/.curated/sentry/SKILL.md)**
+- **[speech](https://github.com/openai/skills/blob/HEAD/skills/.curated/speech/SKILL.md)**
+- **[notion-knowledge-capture](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-knowledge-capture/SKILL.md)**
+- **[netlify-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/netlify-deploy/SKILL.md)**
+- **[yeet](https://github.com/openai/skills/blob/HEAD/skills/.curated/yeet/SKILL.md)**
+- **[vercel-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/vercel-deploy/SKILL.md)**
+- **[hatch-pet](https://github.com/openai/skills/blob/HEAD/skills/.curated/hatch-pet/SKILL.md)**
+- **[chatgpt-apps](https://github.com/openai/skills/blob/HEAD/skills/.curated/chatgpt-apps/SKILL.md)**
+- **[notion-spec-to-implementation](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-spec-to-implementation/SKILL.md)**
+- **[winui-app](https://github.com/openai/skills/blob/HEAD/skills/.curated/winui-app/SKILL.md)**
+- **[cli-creator](https://github.com/openai/skills/blob/HEAD/skills/.curated/cli-creator/SKILL.md)**
+- **[render-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/render-deploy/SKILL.md)**
+- **[notion-meeting-intelligence](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-meeting-intelligence/SKILL.md)**
+- **[figma-use](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-use/SKILL.md)**
+- **[figma-generate-design](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-generate-design/SKILL.md)**
+- **[define-goal](https://github.com/openai/skills/blob/HEAD/skills/.curated/define-goal/SKILL.md)**
+- **[figma-code-connect-components](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-code-connect-components/SKILL.md)**
+- **[figma-generate-library](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-generate-library/SKILL.md)**
+- **[figma-create-new-file](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-create-new-file/SKILL.md)**
+- **[migrate-to-codex](https://github.com/openai/skills/blob/HEAD/skills/.curated/migrate-to-codex/SKILL.md)**
+- **[plugin-creator](https://github.com/openai/skills/blob/HEAD/skills/.system/plugin-creator/SKILL.md)**
+- **[frontend-skill · repository entry](https://github.com/openai/skills)**
+- **[develop-web-game · repository entry](https://github.com/openai/skills)**
+- **[create-plan · repository entry](https://github.com/openai/skills)**
+- **[codex-readiness-unit-test · repository entry](https://github.com/openai/skills)**
+- **[codex-readiness-integration-test · repository entry](https://github.com/openai/skills)**
+- **[build-things · repository entry](https://github.com/openai/skills)**
+- **[gitlab-address-comments · repository entry](https://github.com/openai/skills)**
+- **[codex-wrapped · repository entry](https://github.com/openai/skills)**
+- **[atlas · repository entry](https://github.com/openai/skills)**
 
 [← Back to index](../../README.md)

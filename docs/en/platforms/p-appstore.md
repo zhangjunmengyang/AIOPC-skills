@@ -8,37 +8,37 @@ Store listing, keywords, localization and pricing.
 
 | Step | Start with |
 |---|---|
-| Keywords | [aso](https://www.skills.sh/coreyhaines31/marketingskills/aso) |
-| Screenshots | [app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots) |
-| Localization | [asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata) |
-| Pricing | [asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing) |
-| Metrics | [asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics) |
+| Keywords | [aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md) |
+| Screenshots | [app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md) |
+| Localization | [asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md) |
+| Pricing | [asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md) |
+| Metrics | [asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md) |
 
 ---
 
 ## ⭐ Top picks
 
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
-- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — Localize App Store subscription metadata.
-- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — Asc Ppp Pricing.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — Localize App Store metadata.
+- **[asc-subscription-localization](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-subscription-localization/SKILL.md)** — Localize App Store subscription metadata.
+- **[asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md)** — Asc Ppp Pricing.
 
 ---
 
 ## All skills
 
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
-- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — Localize App Store subscription metadata.
-- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — Asc Ppp Pricing.
-- **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — Analyze marketing performance.
-- **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — Attribute conversions.
-- **[app-store-optimization](https://www.skills.sh/alirezarezvani/claude-skills/app-store-optimization)** — App Store optimization.
-- **[android-aso](https://www.skills.sh/appeeky/aso-skills/android-aso)** — Android ASO.
-- **[app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots)** — App Store screenshots.
-- **[seasonal-aso](https://www.skills.sh/appeeky/aso-skills/seasonal-aso)** — Seasonal ASO.
-- **[asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics)** — App Store Connect metrics.
-- **[app-store-featured](https://www.skills.sh/appeeky/aso-skills/app-store-featured)** — App Store featuring.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — Localize App Store metadata.
+- **[asc-subscription-localization](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-subscription-localization/SKILL.md)** — Localize App Store subscription metadata.
+- **[asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md)** — Asc Ppp Pricing.
+- **[analytics](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md)** — Analyze marketing performance.
+- **[attribution](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md)** — Attribute conversions.
+- **[app-store-optimization](https://github.com/alirezarezvani/claude-skills/blob/HEAD/marketing-skill/skills/app-store-optimization/SKILL.md)** — App Store optimization.
+- **[android-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/android-aso/SKILL.md)** — Android ASO.
+- **[app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md)** — App Store screenshots.
+- **[seasonal-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/seasonal-aso/SKILL.md)** — Seasonal ASO.
+- **[asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md)** — App Store Connect metrics.
+- **[app-store-featured](https://github.com/appeeky/aso-skills/blob/HEAD/skills/app-store-featured/SKILL.md)** — App Store featuring.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

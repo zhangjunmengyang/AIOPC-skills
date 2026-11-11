@@ -49,6 +49,8 @@ def main():
     for path, text in contents.items():
         for url in targets(text):
             parsed = urlsplit(url)
+            if parsed.netloc.lower().removeprefix('www.') == 'skills.sh':
+                errors.append(f'{path.relative_to(ROOT)}: use the author repository or source file instead of an aggregator: {url}')
             if parsed.scheme or parsed.netloc:
                 continue
             dest = (path.parent / unquote(parsed.path)).resolve() if parsed.path else path
@@ -92,8 +94,11 @@ def main():
     if catalog['counts']['unique_urls'] != len(urls):
         errors.append('catalog.json: incorrect unique URL count')
     for item in rows:
-        if set(item['names']) != {'en', 'zh'} or set(item['sources']) != {'en', 'zh'}:
+        if set(item['entries']) != {'en', 'zh'} or set(item['sources']) != {'en', 'zh'}:
             errors.append(f'catalog.json: incomplete bilingual record: {item["url"]}')
+        for entries in item['entries'].values():
+            if not entries or any(not entry.get('name') for entry in entries):
+                errors.append(f'catalog.json: missing resource names: {item["url"]}')
     if errors:
         print('\n'.join(errors), file=sys.stderr)
         print(f'{len(errors)} integrity error(s).', file=sys.stderr)

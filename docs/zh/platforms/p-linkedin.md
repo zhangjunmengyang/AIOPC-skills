@@ -8,37 +8,37 @@
 
 | 步骤 | 先用 |
 |---|---|
-| 人设 | [linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding) |
-| 帖子 | [linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts) |
-| 写作 | [linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer) |
-| 外联 | [compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach) |
-| 广告 | [ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin) |
+| 人设 | [linkedin-personal-branding](https://github.com/schwepps/skills/blob/HEAD/linkedin-personal-branding/SKILL.md) |
+| 帖子 | [linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md) |
+| 写作 | [linkedin-writer](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/linkedin-writer/SKILL.md) |
+| 外联 | [compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md) |
+| 广告 | [ads-linkedin](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-linkedin/SKILL.md) |
 
 ---
 
 ## ⭐ 先试这几个
 
-- **[linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts)** — LinkedIn 帖子。
-- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — LinkedIn 高转化代写。
-- **[ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin)** — LinkedIn 广告审计。
-- **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — 个性化外联。
+- **[linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md)** — LinkedIn 帖子。
+- **[linkedin-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md)** — LinkedIn 高转化代写。
+- **[ads-linkedin](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-linkedin/SKILL.md)** — LinkedIn 广告审计。
+- **[compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md)** — 个性化外联。
 
 ---
 
 ## 全部技能
 
-- **[linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts)** — LinkedIn 帖子。
-- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — LinkedIn 高转化代写。
-- **[ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin)** — LinkedIn 广告审计。
-- **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — 个性化外联。
-- **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — 从真实材料建立品牌语气档案。
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — 社媒内容策略。
-- **[linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer)** — LinkedIn 写作。
-- **[linkedin-content](https://www.skills.sh/inference-sh/skills/linkedin-content)** — LinkedIn 内容。
-- **[linkedin-growth](https://www.skills.sh/social-media-skills/skills/linkedin-growth)** — LinkedIn 增长。
-- **[linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding)** — LinkedIn 个人品牌。
-- **[linkedin-profile-optimizer](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/linkedin-profile-optimizer)** — LinkedIn 主页优化。
-- **[linkedin-company-pages](https://www.skills.sh/social-media-skills/skills/linkedin-company-pages)** — LinkedIn 公司页。
+- **[linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md)** — LinkedIn 帖子。
+- **[linkedin-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md)** — LinkedIn 高转化代写。
+- **[ads-linkedin](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-linkedin/SKILL.md)** — LinkedIn 广告审计。
+- **[compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md)** — 个性化外联。
+- **[brand-voice](https://github.com/affaan-m/ECC/blob/HEAD/skills/brand-voice/SKILL.md)** — 从真实材料建立品牌语气档案。
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — 社媒内容策略。
+- **[linkedin-writer](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/linkedin-writer/SKILL.md)** — LinkedIn 写作。
+- **[linkedin-content](https://github.com/inference-sh/skills/blob/HEAD/guides/social/linkedin-content/SKILL.md)** — LinkedIn 内容。
+- **[linkedin-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-growth/SKILL.md)** — LinkedIn 增长。
+- **[linkedin-personal-branding](https://github.com/schwepps/skills/blob/HEAD/linkedin-personal-branding/SKILL.md)** — LinkedIn 个人品牌。
+- **[linkedin-profile-optimizer](https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/linkedin-profile-optimizer/SKILL.md)** — LinkedIn 主页优化。
+- **[linkedin-company-pages](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-company-pages/SKILL.md)** — LinkedIn 公司页。
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
 

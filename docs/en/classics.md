@@ -8,10 +8,10 @@ Classic business books and mental models as callable skills, grouped by judgment
 
 ## ⭐ Top picks
 
-- **[munger-perspective](https://www.skills.sh/alchaincyf/munger-skill/munger-perspective)** — Munger’s mental models.
-- **[lean-startup](https://www.skills.sh/getagentseal/founder-playbook/lean-startup)** — Lean Startup: build-measure-learn.
-- **[mom-test](https://www.skills.sh/getagentseal/founder-playbook/mom-test)** — The Mom Test: ask about the past.
-- **[100m-offers](https://www.skills.sh/getagentseal/founder-playbook/100m-offers)** — $100M Offers.
+- **[munger-perspective](https://github.com/alchaincyf/munger-skill/blob/HEAD/SKILL.md)** — Munger’s mental models.
+- **[lean-startup](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/lean-startup/SKILL.md)** — Lean Startup: build-measure-learn.
+- **[mom-test](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/mom-test/SKILL.md)** — The Mom Test: ask about the past.
+- **[100m-offers](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/100m-offers/SKILL.md)** — $100M Offers.
 
 ---
 
@@ -19,38 +19,38 @@ Classic business books and mental models as callable skills, grouped by judgment
 
 ### Mental models
 
-- **[munger-perspective](https://www.skills.sh/alchaincyf/munger-skill/munger-perspective)** — Munger’s mental models.
-- **[naval-perspective](https://www.skills.sh/alchaincyf/naval-skill/naval-perspective)** — Naval on wealth and leverage.
-- **[paul-graham-perspective](https://www.skills.sh/alchaincyf/paul-graham-skill/paul-graham-perspective)** — Paul Graham on startups and writing.
-- **[taleb-perspective](https://www.skills.sh/alchaincyf/taleb-skill/taleb-perspective)** — Taleb on antifragility.
+- **[munger-perspective](https://github.com/alchaincyf/munger-skill/blob/HEAD/SKILL.md)** — Munger’s mental models.
+- **[naval-perspective](https://github.com/alchaincyf/naval-skill/blob/HEAD/SKILL.md)** — Naval on wealth and leverage.
+- **[paul-graham-perspective](https://github.com/alchaincyf/paul-graham-skill/blob/HEAD/SKILL.md)** — Paul Graham on startups and writing.
+- **[taleb-perspective](https://github.com/alchaincyf/taleb-skill/blob/HEAD/SKILL.md)** — Taleb on antifragility.
 
 ### Startup & product
 
-- **[lean-startup](https://www.skills.sh/getagentseal/founder-playbook/lean-startup)** — Lean Startup: build-measure-learn.
-- **[mom-test](https://www.skills.sh/getagentseal/founder-playbook/mom-test)** — The Mom Test: ask about the past.
-- **[obviously-awesome](https://www.skills.sh/getagentseal/founder-playbook/obviously-awesome)** — Obviously Awesome positioning.
-- **[crossing-the-chasm](https://www.skills.sh/getagentseal/founder-playbook/crossing-the-chasm)** — Crossing the Chasm.
-- **[blue-ocean-strategy](https://www.skills.sh/getagentseal/founder-playbook/blue-ocean-strategy)** — Blue Ocean Strategy.
-- **[diagnose](https://www.skills.sh/getagentseal/founder-playbook/diagnose)** — Diagnose the business.
+- **[lean-startup](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/lean-startup/SKILL.md)** — Lean Startup: build-measure-learn.
+- **[mom-test](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/mom-test/SKILL.md)** — The Mom Test: ask about the past.
+- **[obviously-awesome](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/obviously-awesome/SKILL.md)** — Obviously Awesome positioning.
+- **[crossing-the-chasm](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/crossing-the-chasm/SKILL.md)** — Crossing the Chasm.
+- **[blue-ocean-strategy](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/blue-ocean-strategy/SKILL.md)** — Blue Ocean Strategy.
+- **[diagnose](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/diagnose/SKILL.md)** — Diagnose the business.
 
 ### Marketing
 
-- **[100m-offers](https://www.skills.sh/getagentseal/founder-playbook/100m-offers)** — $100M Offers.
-- **[100m-leads](https://www.skills.sh/getagentseal/founder-playbook/100m-leads)** — $100M Leads.
-- **[storybrand](https://www.skills.sh/getagentseal/founder-playbook/storybrand)** — StoryBrand messaging.
-- **[made-to-stick](https://www.skills.sh/getagentseal/founder-playbook/made-to-stick)** — Made to Stick.
-- **[influence](https://www.skills.sh/getagentseal/founder-playbook/influence)** — Influence principles.
-- **[traction](https://www.skills.sh/getagentseal/founder-playbook/traction)** — Traction channels.
+- **[100m-offers](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/100m-offers/SKILL.md)** — $100M Offers.
+- **[100m-leads](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/100m-leads/SKILL.md)** — $100M Leads.
+- **[storybrand](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/storybrand/SKILL.md)** — StoryBrand messaging.
+- **[made-to-stick](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/made-to-stick/SKILL.md)** — Made to Stick.
+- **[influence](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/influence/SKILL.md)** — Influence principles.
+- **[traction](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/traction/SKILL.md)** — Traction channels.
 
 ### Sales
 
-- **[spin-selling](https://www.skills.sh/getagentseal/founder-playbook/spin-selling)** — SPIN Selling.
-- **[four-steps](https://www.skills.sh/getagentseal/founder-playbook/four-steps)** — Four-step sales process.
+- **[spin-selling](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/spin-selling/SKILL.md)** — SPIN Selling.
+- **[four-steps](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/four-steps/SKILL.md)** — Four-step sales process.
 
 ### Pricing & business models
 
-- **[monetizing-innovation](https://www.skills.sh/getagentseal/founder-playbook/monetizing-innovation)** — Monetizing Innovation.
-- **[money-models](https://www.skills.sh/getagentseal/founder-playbook/money-models)** — Money Models.
+- **[monetizing-innovation](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/monetizing-innovation/SKILL.md)** — Monetizing Innovation.
+- **[money-models](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/money-models/SKILL.md)** — Money Models.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.
@@ -58,4 +58,3 @@ Classic business books and mental models as callable skills, grouped by judgment
 ---
 
 [← Back to index](../../README.md)
-

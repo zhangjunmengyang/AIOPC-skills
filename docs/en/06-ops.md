@@ -8,22 +8,22 @@ Sales and delivery as repeatable actions.
 
 ## ⭐ Top picks
 
-**[sales-enablement](https://www.skills.sh/coreyhaines31/marketingskills/sales-enablement)**
+**[sales-enablement](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sales-enablement/SKILL.md)**
 
 - *Why:* Turn sales materials, objections and next steps into a system.
 - *First use:* Write a one-page sales enablement sheet for your offer.
 
-**[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)**
+**[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)**
 
 - *Why:* Spot legal risk before signing or launching.
 - *First use:* Run a real contract through it and flag high-risk clauses.
 
-**[gws-docs](https://www.skills.sh/googleworkspace/cli/gws-docs)**
+**[gws-docs](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-docs/SKILL.md)**
 
 - *Why:* Let AI read and write Google Docs.
 - *First use:* Connect a test doc, edit one paragraph and verify.
 
-**[to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets)**
+**[to-tickets](https://github.com/mattpocock/skills/blob/HEAD/skills/engineering/to-tickets/SKILL.md)**
 
 - *Why:* Break a plan into executable tickets.
 - *First use:* Turn one project plan into ten tickets.
@@ -37,87 +37,87 @@ Sales and delivery as repeatable actions.
 <a id="s1"></a>
 ### Sales & customers
 
-- **[sales-enablement](https://www.skills.sh/coreyhaines31/marketingskills/sales-enablement)** — B2B sales enablement.
-- **[prospecting](https://www.skills.sh/coreyhaines31/marketingskills/prospecting)** — Build qualified prospect lists.
-- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — Customer research.
-- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — Customer health scoring.
-- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — Churn signals.
+- **[sales-enablement](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sales-enablement/SKILL.md)** — B2B sales enablement.
+- **[prospecting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/prospecting/SKILL.md)** — Build qualified prospect lists.
+- **[customer-research](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md)** — Customer research.
+- **[customer-health-score](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-health-score/SKILL.md)** — Customer health scoring.
+- **[customer-churn-signals](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-churn-signals/SKILL.md)** — Churn signals.
 
 <a id="s2"></a>
 ### Contracts, legal & compliance
 
-- **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — Employment contract templates.
-- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS compliance.
+- **[employment-contract-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/hr-legal-compliance/skills/employment-contract-templates/SKILL.md)** — Employment contract templates.
+- **[pci-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/pci-compliance/SKILL.md)** — PCI DSS compliance.
 - **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — Contract review and risk flags.
 - **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** — CUAD contract risk review.
-- **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — Assess legal risk.
-- **[saas-msa-review](https://www.skills.sh/anthropics/claude-for-legal/saas-msa-review)** — Review a SaaS MSA.
-- **[nda-review](https://www.skills.sh/anthropics/claude-for-legal/nda-review)** — Review an NDA.
-- **[dpa-review](https://www.skills.sh/anthropics/claude-for-legal/dpa-review)** — Review a DPA.
-- **[marketing-claims-review](https://www.skills.sh/anthropics/claude-for-legal/marketing-claims-review)** — Review marketing claims.
-- **[hiring-review](https://www.skills.sh/anthropics/claude-for-legal/hiring-review)** — Run a hiring compliance review.
+- **[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)** — Assess legal risk.
+- **[saas-msa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/saas-msa-review/SKILL.md)** — Review a SaaS MSA.
+- **[nda-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/nda-review/SKILL.md)** — Review an NDA.
+- **[dpa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dpa-review/SKILL.md)** — Review a DPA.
+- **[marketing-claims-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md)** — Review marketing claims.
+- **[hiring-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/hiring-review/SKILL.md)** — Run a hiring compliance review.
 
 <a id="s3"></a>
 ### Hiring
 
-- **[resume-ats-optimizer](https://www.skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer)** — ATS resume optimization.
-- **[resume-bullet-writer](https://www.skills.sh/paramchoudhary/resumeskills/resume-bullet-writer)** — Resume bullet writing.
-- **[tailored-resume-generator](https://www.skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator)** — Tailor a resume to a job description.
-- **[sales-hiring](https://www.skills.sh/mbfinotti/sales-skills/sales-hiring)** — Four artifacts for sales hiring.
+- **[resume-ats-optimizer](https://github.com/paramchoudhary/resumeskills/blob/HEAD/skills/resume-ats-optimizer/SKILL.md)** — ATS resume optimization.
+- **[resume-bullet-writer](https://github.com/paramchoudhary/resumeskills/blob/HEAD/skills/resume-bullet-writer/SKILL.md)** — Resume bullet writing.
+- **[tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/tailored-resume-generator/SKILL.md)** — Tailor a resume to a job description.
+- **[sales-hiring](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-hiring/SKILL.md)** — Four artifacts for sales hiring.
 
 <a id="s4"></a>
 ### Projects & tasks
 
-- **[planning-and-task-breakdown](https://www.skills.sh/addyosmani/agent-skills/planning-and-task-breakdown)** — Task breakdown and planning.
-- **[task-management](https://www.skills.sh/anthropics/knowledge-work-plugins/task-management)** — Task management.
-- **[to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets)** — Turn a plan or spec into tracer-bullet tickets.
-- **[lark-task](https://www.skills.sh/larksuite/cli/lark-task)** — Feishu/Lark tasks.
+- **[planning-and-task-breakdown](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/planning-and-task-breakdown/SKILL.md)** — Task breakdown and planning.
+- **[task-management](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/productivity/skills/task-management/SKILL.md)** — Task management.
+- **[to-tickets](https://github.com/mattpocock/skills/blob/HEAD/skills/engineering/to-tickets/SKILL.md)** — Turn a plan or spec into tracer-bullet tickets.
+- **[lark-task](https://github.com/larksuite/cli/blob/HEAD/skills/lark-task/SKILL.md)** — Feishu/Lark tasks.
 
 <a id="s5"></a>
 ### Google Workspace
 
-- **[gws-docs](https://www.skills.sh/googleworkspace/cli/gws-docs)** — Read and write Google Docs.
-- **[gws-slides](https://www.skills.sh/googleworkspace/cli/gws-slides)** — Build Google Slides decks.
-- **[gws-tasks](https://www.skills.sh/googleworkspace/cli/gws-tasks)** — Manage Google Tasks.
-- **[gws-gmail](https://www.skills.sh/googleworkspace/cli/gws-gmail)** — Triage and send Gmail.
-- **[gws-calendar](https://www.skills.sh/googleworkspace/cli/gws-calendar)** — Manage Google Calendar.
-- **[gws-drive](https://www.skills.sh/googleworkspace/cli/gws-drive)** — Organize Google Drive.
-- **[gws-admin-reports](https://www.skills.sh/googleworkspace/cli/gws-admin-reports)** — Pull Workspace admin reports.
-- **[gws-workflow-standup-report](https://www.skills.sh/googleworkspace/cli/gws-workflow-standup-report)** — Generate standup reports.
+- **[gws-docs](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-docs/SKILL.md)** — Read and write Google Docs.
+- **[gws-slides](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-slides/SKILL.md)** — Build Google Slides decks.
+- **[gws-tasks](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-tasks/SKILL.md)** — Manage Google Tasks.
+- **[gws-gmail](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail/SKILL.md)** — Triage and send Gmail.
+- **[gws-calendar](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-calendar/SKILL.md)** — Manage Google Calendar.
+- **[gws-drive](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-drive/SKILL.md)** — Organize Google Drive.
+- **[gws-admin-reports](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-admin-reports/SKILL.md)** — Pull Workspace admin reports.
+- **[gws-workflow-standup-report](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-standup-report/SKILL.md)** — Generate standup reports.
 
 <a id="s6"></a>
 ### Lark / Feishu
 
-- **[lark-doc](https://www.skills.sh/larksuite/cli/lark-doc)** — Read and write Lark docs.
-- **[lark-sheets](https://www.skills.sh/larksuite/cli/lark-sheets)** — Edit Lark sheets.
-- **[lark-slides](https://www.skills.sh/larksuite/cli/lark-slides)** — Build Lark slides.
-- **[lark-im](https://www.skills.sh/larksuite/cli/lark-im)** — Send Lark messages.
-- **[lark-calendar](https://www.skills.sh/larksuite/cli/lark-calendar)** — Manage Lark calendars.
-- **[lark-drive](https://www.skills.sh/larksuite/cli/lark-drive)** — Organize Lark Drive.
-- **[lark-base](https://www.skills.sh/larksuite/cli/lark-base)** — Work with Lark Base.
-- **[lark-approval](https://www.skills.sh/larksuite/cli/lark-approval)** — Run Lark approvals.
+- **[lark-doc](https://github.com/larksuite/cli/blob/HEAD/skills/lark-doc/SKILL.md)** — Read and write Lark docs.
+- **[lark-sheets](https://github.com/larksuite/cli/blob/HEAD/skills/lark-sheets/SKILL.md)** — Edit Lark sheets.
+- **[lark-slides](https://github.com/larksuite/cli/blob/HEAD/skills/lark-slides/SKILL.md)** — Build Lark slides.
+- **[lark-im](https://github.com/larksuite/cli/blob/HEAD/skills/lark-im/SKILL.md)** — Send Lark messages.
+- **[lark-calendar](https://github.com/larksuite/cli/blob/HEAD/skills/lark-calendar/SKILL.md)** — Manage Lark calendars.
+- **[lark-drive](https://github.com/larksuite/cli/blob/HEAD/skills/lark-drive/SKILL.md)** — Organize Lark Drive.
+- **[lark-base](https://github.com/larksuite/cli/blob/HEAD/skills/lark-base/SKILL.md)** — Work with Lark Base.
+- **[lark-approval](https://github.com/larksuite/cli/blob/HEAD/skills/lark-approval/SKILL.md)** — Run Lark approvals.
 
 <a id="s7"></a>
 ### Office docs
 
-- **[ppt-visual](https://www.skills.sh/claude-office-skills/skills/ppt-visual)** — Design visual decks.
-- **[pdf-extraction](https://www.skills.sh/claude-office-skills/skills/pdf-extraction)** — Extract PDF content.
-- **[smart-ocr](https://www.skills.sh/claude-office-skills/skills/smart-ocr)** — OCR scanned documents.
-- **[xlsx-manipulation](https://www.skills.sh/claude-office-skills/skills/xlsx-manipulation)** — Manipulate Excel files.
-- **[docx-manipulation](https://www.skills.sh/claude-office-skills/skills/docx-manipulation)** — Manipulate Word files.
-- **[calendar-automation](https://www.skills.sh/claude-office-skills/skills/calendar-automation)** — Automate scheduling.
-- **[cv-builder](https://www.skills.sh/claude-office-skills/skills/cv-builder)** — Build a CV.
-- **[proposal-writer](https://www.skills.sh/claude-office-skills/skills/proposal-writer)** — Write proposals.
-- **[chart-designer](https://www.skills.sh/claude-office-skills/skills/chart-designer)** — Design charts.
-- **[meeting-notes](https://www.skills.sh/claude-office-skills/skills/meeting-notes)** — Turn meetings into notes.
+- **[ppt-visual](https://github.com/claude-office-skills/skills/blob/HEAD/ppt-visual/SKILL.md)** — Design visual decks.
+- **[pdf-extraction](https://github.com/claude-office-skills/skills/blob/HEAD/pdf-extraction/SKILL.md)** — Extract PDF content.
+- **[smart-ocr](https://github.com/claude-office-skills/skills/blob/HEAD/smart-ocr/SKILL.md)** — OCR scanned documents.
+- **[xlsx-manipulation](https://github.com/claude-office-skills/skills/blob/HEAD/xlsx-manipulation/SKILL.md)** — Manipulate Excel files.
+- **[docx-manipulation](https://github.com/claude-office-skills/skills/blob/HEAD/docx-manipulation/SKILL.md)** — Manipulate Word files.
+- **[calendar-automation](https://github.com/claude-office-skills/skills/blob/HEAD/calendar-automation/SKILL.md)** — Automate scheduling.
+- **[cv-builder](https://github.com/claude-office-skills/skills/blob/HEAD/cv-builder/SKILL.md)** — Build a CV.
+- **[proposal-writer](https://github.com/claude-office-skills/skills/blob/HEAD/proposal-writer/SKILL.md)** — Write proposals.
+- **[chart-designer](https://github.com/claude-office-skills/skills/blob/HEAD/chart-designer/SKILL.md)** — Design charts.
+- **[meeting-notes](https://github.com/claude-office-skills/skills/blob/HEAD/meeting-notes/SKILL.md)** — Turn meetings into notes.
 
 <a id="s8"></a>
 ### Finance & RevOps
 
-- **[revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage)** — Find revenue leakage.
-- **[revenue-reporting](https://www.skills.sh/mbfinotti/revops-skills/revenue-reporting)** — Build revenue reports.
-- **[crm-data-governance](https://www.skills.sh/mbfinotti/revops-skills/crm-data-governance)** — Govern CRM data.
-- **[revenue-data-governance-strategy](https://www.skills.sh/mbfinotti/revops-skills/revenue-data-governance-strategy)** — Set revenue data governance.
+- **[revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md)** — Find revenue leakage.
+- **[revenue-reporting](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-reporting/SKILL.md)** — Build revenue reports.
+- **[crm-data-governance](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/crm-data-governance/SKILL.md)** — Govern CRM data.
+- **[revenue-data-governance-strategy](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-data-governance-strategy/SKILL.md)** — Set revenue data governance.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.

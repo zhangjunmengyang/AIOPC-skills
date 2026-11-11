@@ -104,90 +104,90 @@
 <a id="legal"></a>
 ### 法务与合规
 
-- **[entity-compliance](https://www.skills.sh/anthropics/claude-for-legal/entity-compliance)** — 主体与合规。
-- **[saas-msa-review](https://www.skills.sh/anthropics/claude-for-legal/saas-msa-review)** — SaaS 合同审阅。
-- **[nda-review](https://www.skills.sh/anthropics/claude-for-legal/nda-review)** — NDA 审阅。
-- **[dpa-review](https://www.skills.sh/anthropics/claude-for-legal/dpa-review)** — DPA 审阅。
-- **[vendor-agreement-review](https://www.skills.sh/anthropics/claude-for-legal/vendor-agreement-review)** — 供应商合同。
-- **[ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review)** — 知识产权条款。
-- **[marketing-claims-review](https://www.skills.sh/anthropics/claude-for-legal/marketing-claims-review)** — 营销声明审查。
-- **[hiring-review](https://www.skills.sh/anthropics/claude-for-legal/hiring-review)** — 招聘合规审查。
-- **[policy-drafting](https://www.skills.sh/anthropics/claude-for-legal/policy-drafting)** — 政策起草。
-- **[pia-generation](https://www.skills.sh/anthropics/claude-for-legal/pia-generation)** — 隐私影响评估。
-- **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)** — 数据主体请求。
-- **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)** — 上线合规审查。
-- **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)** — 开源许可证审查。
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — 员工解雇、遣散安排与最终工资支付审查。
-- **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — 法律风险评估。
-- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI 合规。
+- **[entity-compliance](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/entity-compliance/SKILL.md)** — 主体与合规。
+- **[saas-msa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/saas-msa-review/SKILL.md)** — SaaS 合同审阅。
+- **[nda-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/nda-review/SKILL.md)** — NDA 审阅。
+- **[dpa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dpa-review/SKILL.md)** — DPA 审阅。
+- **[vendor-agreement-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/vendor-agreement-review/SKILL.md)** — 供应商合同。
+- **[ip-clause-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/ip-clause-review/SKILL.md)** — 知识产权条款。
+- **[marketing-claims-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md)** — 营销声明审查。
+- **[hiring-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/hiring-review/SKILL.md)** — 招聘合规审查。
+- **[policy-drafting](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/policy-drafting/SKILL.md)** — 政策起草。
+- **[pia-generation](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/pia-generation/SKILL.md)** — 隐私影响评估。
+- **[dsar-response](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dsar-response/SKILL.md)** — 数据主体请求。
+- **[launch-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/launch-review/SKILL.md)** — 上线合规审查。
+- **[oss-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/oss-review/SKILL.md)** — 开源许可证审查。
+- **[termination-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/termination-review/SKILL.md)** — 员工解雇、遣散安排与最终工资支付审查。
+- **[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)** — 法律风险评估。
+- **[pci-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/pci-compliance/SKILL.md)** — PCI 合规。
 
 <a id="finance"></a>
 ### 财务与税务
 
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — 单位经济。
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — 三表模型。
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — 财务计划。
-- **[dcf-model](https://www.skills.sh/anthropics/financial-services/dcf-model)** — DCF 估值。
-- **[comps-analysis](https://www.skills.sh/anthropics/financial-services/comps-analysis)** — 可比公司分析。
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — 交易筛选。
-- **[model-update](https://www.skills.sh/anthropics/financial-services/model-update)** — 模型更新。
-- **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)** — 差异分析。
-- **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)** — 总账对账。
-- **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)** — 应计计划。
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — 财务规划。
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — 收款与支付。
-- **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — 创始人 CFO。
-- **[pricing-strategist](https://www.skills.sh/ognjengt/founder-skills/pricing-strategist)** — 定价策略。
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — 收入 KPI。
-- **[revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage)** — 收入漏损。
-- **[revenue-reporting](https://www.skills.sh/mbfinotti/revops-skills/revenue-reporting)** — 收入报告。
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — 3-5 年财务模型。
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — 创业指标。
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — 单位经济。
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — 三表模型。
+- **[financial-plan · 仓库入口](https://github.com/anthropics/financial-services)** — 财务计划。
+- **[dcf-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/dcf-model/SKILL.md)** — DCF 估值。
+- **[comps-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/comps-analysis/SKILL.md)** — 可比公司分析。
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — 交易筛选。
+- **[model-update](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/model-update/SKILL.md)** — 模型更新。
+- **[variance-commentary](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/variance-commentary/SKILL.md)** — 差异分析。
+- **[gl-recon](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/gl-reconciler/skills/gl-recon/SKILL.md)** — 总账对账。
+- **[accrual-schedule](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/accrual-schedule/SKILL.md)** — 应计计划。
+- **[finances](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/finances/SKILL.md)** — 财务规划。
+- **[payments](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/payments/SKILL.md)** — 收款与支付。
+- **[founder-cfo](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-cfo/SKILL.md)** — 创始人 CFO。
+- **[pricing-strategist](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/pricing-strategist/SKILL.md)** — 定价策略。
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — 收入 KPI。
+- **[revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md)** — 收入漏损。
+- **[revenue-reporting](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-reporting/SKILL.md)** — 收入报告。
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — 3-5 年财务模型。
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — 创业指标。
 
 <a id="founder-os"></a>
 ### 创始人 OS
 
-- **[personal-productivity](https://www.skills.sh/refoundai/lenny-skills/personal-productivity)** — 个人效率。
-- **[energy-management](https://www.skills.sh/refoundai/lenny-skills/energy-management)** — 精力管理。
-- **[time-energy-management](https://www.skills.sh/refoundai/lenny-skills/time-energy-management)** — 时间与精力。
-- **[managing-imposter-syndrome](https://www.skills.sh/refoundai/lenny-skills/managing-imposter-syndrome)** — 冒充者综合征。
-- **[having-difficult-conversations](https://www.skills.sh/refoundai/lenny-skills/having-difficult-conversations)** — 困难对话。
-- **[giving-feedback](https://www.skills.sh/refoundai/lenny-skills/giving-feedback)** — 给反馈。
-- **[high-stakes-decisions](https://www.skills.sh/refoundai/lenny-skills/high-stakes-decisions)** — 高风险决策。
-- **[running-decision-processes](https://www.skills.sh/refoundai/lenny-skills/running-decision-processes)** — 决策流程。
-- **[planning-under-uncertainty](https://www.skills.sh/refoundai/lenny-skills/planning-under-uncertainty)** — 不确定性下规划。
-- **[systems-thinking](https://www.skills.sh/refoundai/lenny-skills/systems-thinking)** — 系统思考。
-- **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — 权衡取舍。
-- **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — 创始人心理。
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — 专注。
+- **[personal-productivity · 仓库入口](https://github.com/refoundai/lenny-skills)** — 个人效率。
+- **[energy-management · 仓库入口](https://github.com/refoundai/lenny-skills)** — 精力管理。
+- **[time-energy-management](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/time-energy-management/SKILL.md)** — 时间与精力。
+- **[managing-imposter-syndrome · 仓库入口](https://github.com/refoundai/lenny-skills)** — 冒充者综合征。
+- **[having-difficult-conversations · 仓库入口](https://github.com/refoundai/lenny-skills)** — 困难对话。
+- **[giving-feedback](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/giving-feedback/SKILL.md)** — 给反馈。
+- **[high-stakes-decisions](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/high-stakes-decisions/SKILL.md)** — 高风险决策。
+- **[running-decision-processes · 仓库入口](https://github.com/refoundai/lenny-skills)** — 决策流程。
+- **[planning-under-uncertainty · 仓库入口](https://github.com/refoundai/lenny-skills)** — 不确定性下规划。
+- **[systems-thinking · 仓库入口](https://github.com/refoundai/lenny-skills)** — 系统思考。
+- **[evaluating-trade-offs](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/evaluating-trade-offs/SKILL.md)** — 权衡取舍。
+- **[founder-psychology](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-psychology/SKILL.md)** — 创始人心理。
+- **[focus](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/focus/SKILL.md)** — 专注。
 
 <a id="support"></a>
 ### 支持与留存
 
-- **[user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding)** — 用户引导。
-- **[retention-engagement](https://www.skills.sh/refoundai/lenny-skills/retention-engagement)** — 留存与参与。
-- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — 客户健康分。
-- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — 流失信号。
-- **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR 主持。
-- **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — 续费管理。
-- **[cs-strategist](https://www.skills.sh/ncklrs/startup-os-skills/cs-strategist)** — 客户成功策略。
-- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — 支持运营。
-- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — 引导专家。
-- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — 生命周期营销。
-- **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — 社区建设。
-- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — 客户研究。
+- **[user-onboarding · 仓库入口](https://github.com/refoundai/lenny-skills)** — 用户引导。
+- **[retention-engagement](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/retention-engagement/SKILL.md)** — 留存与参与。
+- **[customer-health-score](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-health-score/SKILL.md)** — 客户健康分。
+- **[customer-churn-signals](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-churn-signals/SKILL.md)** — 流失信号。
+- **[qbr-facilitator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/qbr-facilitator/SKILL.md)** — QBR 主持。
+- **[renewal-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/renewal-manager/SKILL.md)** — 续费管理。
+- **[cs-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/cs-strategist/SKILL.md)** — 客户成功策略。
+- **[support-operations](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/support-operations/SKILL.md)** — 支持运营。
+- **[onboarding-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/onboarding-specialist/SKILL.md)** — 引导专家。
+- **[customer-lifecycle-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/customer-lifecycle-marketer/SKILL.md)** — 生命周期营销。
+- **[community-building · 仓库入口](https://github.com/refoundai/lenny-skills)** — 社区建设。
+- **[customer-research](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md)** — 客户研究。
 
 <a id="risk"></a>
 ### 风险与资产
 
-- **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — 安全加固。
-- **[security-audit](https://www.skills.sh/cloudflare/skills/security-audit)** — 安全审计。
-- **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — 事故响应。
-- **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — 可持续增长。
-- **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — 公司价值观。
-- **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — 极简复盘。
-- **[personal-brand-network](https://www.skills.sh/refoundai/lenny-skills/personal-brand-network)** — 个人品牌网络。
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — 收入漏斗。
+- **[security-and-hardening](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/security-and-hardening/SKILL.md)** — 安全加固。
+- **[security-audit · 仓库入口](https://github.com/cloudflare/skills)** — 安全审计。
+- **[incident-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/incident-response/SKILL.md)** — 事故响应。
+- **[grow-sustainably](https://github.com/slavingia/skills/blob/HEAD/skills/grow-sustainably/SKILL.md)** — 可持续增长。
+- **[company-values](https://github.com/slavingia/skills/blob/HEAD/skills/company-values/SKILL.md)** — 公司价值观。
+- **[minimalist-review](https://github.com/slavingia/skills/blob/HEAD/skills/minimalist-review/SKILL.md)** — 极简复盘。
+- **[personal-brand-network](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/personal-brand-network/SKILL.md)** — 个人品牌网络。
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — 收入漏斗。
 
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
@@ -195,4 +195,3 @@
 ---
 
 [← 返回总览](../../README.zh.md)
-

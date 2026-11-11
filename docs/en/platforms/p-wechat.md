@@ -8,39 +8,35 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 
 | Step | Start with |
 |---|---|
-| Topic | [content-strategy](https://www.skills.sh/coreyhaines31/marketingskills/content-strategy) |
-| Long-form | [wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer) |
-| Layout | [dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html) |
-| Images | [huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image) |
-| Publish | [baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat) |
-| Group summary | [baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary) |
+| Topic | [content-strategy](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md) |
+| Layout | [dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md) |
+| Images | [huashu-wechat-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-wechat-image/SKILL.md) |
+| Publish | [baoyu-post-to-wechat](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md) |
+| Group summary | [baoyu-wechat-summary](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-wechat-summary/SKILL.md) |
 
 ---
 
 ## ⭐ Top picks
 
-- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
-- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
-- **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — Publish Markdown to WeChat drafts.
-- **[baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary)** — Baoyu Wechat Summary.
+- **[dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md)** — Convert Markdown to WeChat-ready HTML.
+- **[baoyu-post-to-wechat](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md)** — Publish Markdown to WeChat drafts.
+- **[baoyu-wechat-summary](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-wechat-summary/SKILL.md)** — Baoyu Wechat Summary.
 
 ---
 
 ## All skills
 
-- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
-- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
-- **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — Publish Markdown to WeChat drafts.
-- **[wechat-article-publisher](https://www.skills.sh/iamzifei/wechat-article-publisher-skill/wechat-article-publisher)** — Publish articles to WeChat.
-- **[md2wechat](https://www.skills.sh/geekjourneyx/md2wechat-skill/md2wechat)** — Convert Markdown to WeChat HTML.
-- **[baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary)** — Baoyu Wechat Summary.
-- **[huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image)** — WeChat article illustration workflow.
-- **[gzh-design](https://www.skills.sh/isjiamu/gzh-design-skill/gzh-design)** — WeChat layout design.
-- **[wechat-article-to-markdown](https://www.skills.sh/jackwener/wechat-article-to-markdown/wechat-article-to-markdown)** — WeChat article to Markdown.
-- **[wechat-article-search](https://www.skills.sh/wuchubuzai2018/expert-skills-hub/wechat-article-search)** — WeChat article search.
-- **[wechat-publisher](https://www.skills.sh/0731coderlee-sudo/wechat-publisher/wechat-publisher)** — WeChat publisher.
-- **[wewrite-wechat-ai-publishing](https://www.skills.sh/reason-machines/trending-skills/wewrite-wechat-ai-publishing)** — AI-assisted WeChat publishing.
-- **[wechat-message-sender](https://www.skills.sh/cloudsen/eliteforge-skills/wechat-message-sender)** — Send WeChat messages.
+- **[dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md)** — Convert Markdown to WeChat-ready HTML.
+- **[baoyu-post-to-wechat](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md)** — Publish Markdown to WeChat drafts.
+- **[wechat-article-publisher](https://github.com/iamzifei/wechat-article-publisher-skill/blob/HEAD/skills/wechat-article-publisher/SKILL.md)** — Publish articles to WeChat.
+- **[md2wechat](https://github.com/geekjourneyx/md2wechat-skill/blob/HEAD/skills/md2wechat/SKILL.md)** — Convert Markdown to WeChat HTML.
+- **[baoyu-wechat-summary](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-wechat-summary/SKILL.md)** — Baoyu Wechat Summary.
+- **[huashu-wechat-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-wechat-image/SKILL.md)** — WeChat article illustration workflow.
+- **[gzh-design](https://github.com/isjiamu/gzh-design-skill/blob/HEAD/SKILL.md)** — WeChat layout design.
+- **[wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown/blob/HEAD/SKILL.md)** — WeChat article to Markdown.
+- **[wechat-article-search](https://github.com/wuchubuzai2018/expert-skills-hub/blob/HEAD/skills/wechat-article-search/SKILL.md)** — WeChat article search.
+- **[wechat-publisher](https://github.com/0731coderlee-sudo/wechat-publisher/blob/HEAD/SKILL.md)** — WeChat publisher.
+- **[wewrite-wechat-ai-publishing](https://github.com/reason-machines/trending-skills/blob/HEAD/skills/wewrite-wechat-ai-publishing/SKILL.md)** — AI-assisted WeChat publishing.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

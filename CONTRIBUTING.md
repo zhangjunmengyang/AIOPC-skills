@@ -10,7 +10,8 @@
 
 新增或修改资源时：
 
-- 提供原项目、作者仓库或官方文档的链接。
+- 直接链接原项目、作者仓库或官方文档；技能优先链接已确认存在的 `SKILL.md` 或技能目录，不以 skills.sh 等聚合页作为资源入口。
+- 未定位到具体文件时，可链接已确认存在的作者仓库，并注明「仓库入口」；不能按技能名猜目录路径。合集链接无需此标注。
 - 用一句话说明具体用途，并放入对应任务分类。
 - 区分技能、工具和指南；确有使用限制时简短说明。
 - 保留原作者归属，不复制第三方教程全文。参见 [索引说明](NOTICE.md)。
@@ -43,7 +44,8 @@ Edit the introduction, fixed navigation and usage instructions in `templates/REA
 
 When adding or changing a resource:
 
-- Link to the original project, author repository or official documentation.
+- Link directly to the original project, author repository or official documentation. Prefer a confirmed `SKILL.md` or skill directory; do not use aggregators such as skills.sh as resource destinations.
+- If the file cannot be located, use a verified author repository and mark the resource "repository entry". Do not guess paths from skill names. Collection links need no marker.
 - Describe its specific use in one sentence and place it under the relevant task.
 - Distinguish skills, tools and guides; mention material usage limits briefly.
 - Preserve attribution and avoid copying entire third-party tutorials. See the [index notice](NOTICE.md).

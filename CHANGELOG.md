@@ -1,5 +1,14 @@
 # Changes / 更新记录
 
+## 2026-11-11 — Direct sources / 资源直达源码
+
+- 中英文 README、源文档和机器目录改为直链作者仓库、具体源码或官方文档，不再以 skills.sh 聚合页作为资源入口。
+- 核对 172 个仓库：2,682 个旧条目定位到具体源码，316 个暂未定位文件的条目标注为「仓库入口」，10 个合集直链仓库。移除 54 个明确失效、已删除、空模板或名称损坏的条目；核对依据保存在 [upstream-links.json](data/upstream-links.json)。
+- 按官方迁移记录更新 Figma、Lark 名称并合并重复条目。`catalog.json` 升级到 schema 2，用 `entries` 保留同一网址下的多个名称和用途。
+- 贡献规则要求原始来源优先；CI 拦截重新加入的 skills.sh 资源链接。
+
+Both READMEs, source documents and the machine catalog now link directly to author repositories, source files or official documentation. The audit covers 172 repositories: 2,682 old entries resolved to files, 316 are marked repository entries, and 10 collections link to repositories. Removed 54 unavailable, explicitly deleted, empty-template or malformed entries. Figma/Lark migrations follow upstream records. Catalog schema 2 preserves multiple named entries per URL, and CI rejects aggregator resource links.
+
 ## 2026-11-11 — Expanded catalog / 首页完整展开
 
 - 中英文 README 展开职能、平台、创始人专题和扩展条目；目录锚点都留在当前页面，没有折叠清单。

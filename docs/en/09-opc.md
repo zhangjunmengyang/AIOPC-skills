@@ -8,22 +8,22 @@ Pricing, finance and marketing for a one-person company.
 
 ## ⭐ Top picks
 
-**[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)**
+**[pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md)**
 
 - *Why:* Pricing is part of the business model.
 - *First use:* Create three price tiers for your offer.
 
-**[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)**
+**[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)**
 
 - *Why:* Know whether each order makes money.
 - *First use:* Calculate CAC, margin and payback.
 
-**[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)**
+**[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)**
 
 - *Why:* Build a 3-5 year financial model.
 - *First use:* Build a 12-month cash-flow sheet.
 
-**[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)**
+**[marketing-plan](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-plan/SKILL.md)**
 
 - *Why:* Turn marketing goals into channels and actions.
 - *First use:* Write a one-page 90-day marketing plan.
@@ -37,36 +37,36 @@ Pricing, finance and marketing for a one-person company.
 <a id="s1"></a>
 ### Pricing & monetization
 
-- **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS pricing strategy.
-- **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — Mobile app monetization.
-- **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — Developer-tool pricing.
-- **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — Developer-tool business models.
+- **[pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md)** — SaaS pricing strategy.
+- **[monetization-strategy](https://github.com/appeeky/aso-skills/blob/HEAD/skills/monetization-strategy/SKILL.md)** — Mobile app monetization.
+- **[devtools-pricing-strategy](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-pricing-strategy/SKILL.md)** — Developer-tool pricing.
+- **[devtools-business-model](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-business-model/SKILL.md)** — Developer-tool business models.
 
 <a id="s2"></a>
 ### Finance & metrics
 
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — 3-5 year financial models.
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — Startup metrics framework.
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — Revenue KPI framework.
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — Revenue funnel design.
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — Model unit economics.
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — Build a 3-statement model.
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — Build a financial plan.
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — Screen deals.
-- **[foundation-okr-writer](https://www.skills.sh/product-on-purpose/pm-skills/foundation-okr-writer)** — Write OKRs.
-- **[metrics-definition](https://www.skills.sh/owl-listener/designer-skills/metrics-definition)** — Define metrics.
-- **[north-star-vision](https://www.skills.sh/owl-listener/designer-skills/north-star-vision)** — Define a north-star vision.
-- **[design-impact-reporting](https://www.skills.sh/owl-listener/designer-skills/design-impact-reporting)** — Report design impact.
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — 3-5 year financial models.
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — Startup metrics framework.
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — Revenue KPI framework.
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — Revenue funnel design.
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — Model unit economics.
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — Build a 3-statement model.
+- **[financial-plan · repository entry](https://github.com/anthropics/financial-services)** — Build a financial plan.
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — Screen deals.
+- **[foundation-okr-writer](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-okr-writer/SKILL.md)** — Write OKRs.
+- **[metrics-definition](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/metrics-definition/SKILL.md)** — Define metrics.
+- **[north-star-vision](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/north-star-vision/SKILL.md)** — Define a north-star vision.
+- **[design-impact-reporting](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-impact-reporting/SKILL.md)** — Report design impact.
 
 <a id="s3"></a>
 ### Marketing planning
 
-- **[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)** — Marketing plan.
-- **[marketing-ideas](https://www.skills.sh/coreyhaines31/marketingskills/marketing-ideas)** — 100+ marketing ideas for SaaS.
-- **[marketing-psychology](https://www.skills.sh/coreyhaines31/marketingskills/marketing-psychology)** — Marketing psychology and mental models.
-- **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — Community-led marketing.
-- **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — Co-marketing partnerships.
-- **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — Product marketing context.
+- **[marketing-plan](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-plan/SKILL.md)** — Marketing plan.
+- **[marketing-ideas](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-ideas/SKILL.md)** — 100+ marketing ideas for SaaS.
+- **[marketing-psychology](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-psychology/SKILL.md)** — Marketing psychology and mental models.
+- **[community-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md)** — Community-led marketing.
+- **[co-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/co-marketing/SKILL.md)** — Co-marketing partnerships.
+- **[product-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/product-marketing/SKILL.md)** — Product marketing context.
 
 ### OPC repos
 

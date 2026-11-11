@@ -8,43 +8,43 @@ Covers, titles, copy, publishing and review — one loop.
 
 | Step | Start with |
 |---|---|
-| Topic | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
-| Title | [dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title) |
-| Cover/images | [baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images) |
-| Copy | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
-| Publish | [xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu) |
-| Review | [xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer) |
+| Topic | [write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md) |
+| Title | [dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill) |
+| Cover/images | [baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-xhs-images/SKILL.md) |
+| Copy | [write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md) |
+| Publish | [xiaohongshu](https://github.com/zhjiang22/openclaw-xhs/blob/HEAD/SKILL.md) |
+| Review | [xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md) |
 
 ---
 
 ## ⭐ Top picks
 
-- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — Research, write and publish Xiaohongshu posts.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas, 75 patterns.
-- **[baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images)** — Generate Xiaohongshu image-card series.
-- **[xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer)** — Diagnose a Xiaohongshu note.
+- **[write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md)** — Research, write and publish Xiaohongshu posts.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas, 75 patterns.
+- **[baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-xhs-images/SKILL.md)** — Generate Xiaohongshu image-card series.
+- **[xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md)** — Diagnose a Xiaohongshu note.
 
 ---
 
 ## All skills
 
-- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — Research, write and publish Xiaohongshu posts.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas, 75 patterns.
-- **[xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer)** — Diagnose a Xiaohongshu note.
-- **[xiaohongshu-images](https://www.skills.sh/iamzifei/xiaohongshu-images-skill/xiaohongshu-images)** — Generate Xiaohongshu image sets.
-- **[card-xiaohongshu](https://www.skills.sh/nexu-io/open-design/card-xiaohongshu)** — Xiaohongshu image-card templates.
-- **[baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images)** — Generate Xiaohongshu image-card series.
-- **[xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu)** — Operate Xiaohongshu via MCP.
-- **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — Write captions.
-- **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
-- **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
-- **[huashu-xhs-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-xhs-image)** — Xiaohongshu illustrations.
-- **[xhs-note-creator](https://www.skills.sh/comeonzhj/auto-redbook-skills/xhs-note-creator)** — Xiaohongshu note generator.
-- **[canghe-xhs-images](https://www.skills.sh/freestylefly/canghe-skills/canghe-xhs-images)** — Xiaohongshu image generator.
-- **[xiaohongshu-cover-generator](https://www.skills.sh/freestylefly/xiaohongshu-skills/xiaohongshu-cover-generator)** — Xiaohongshu cover generator.
-- **[xiaohongshu-cli](https://www.skills.sh/jackwener/xiaohongshu-cli/xiaohongshu-cli)** — Xiaohongshu CLI.
-- **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote cover generator.
-- **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — Xiaohongshu operations.
+- **[write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md)** — Research, write and publish Xiaohongshu posts.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas, 75 patterns.
+- **[xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md)** — Diagnose a Xiaohongshu note.
+- **[xiaohongshu-images](https://github.com/iamzifei/xiaohongshu-images-skill/blob/HEAD/SKILL.md)** — Generate Xiaohongshu image sets.
+- **[card-xiaohongshu · repository entry](https://github.com/nexu-io/open-design)** — Xiaohongshu image-card templates.
+- **[baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-xhs-images/SKILL.md)** — Generate Xiaohongshu image-card series.
+- **[xiaohongshu](https://github.com/zhjiang22/openclaw-xhs/blob/HEAD/SKILL.md)** — Operate Xiaohongshu via MCP.
+- **[caption-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/caption-writer/SKILL.md)** — Write captions.
+- **[hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md)** — Write hooks.
+- **[thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md)** — Design thumbnails.
+- **[huashu-xhs-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-xhs-image/SKILL.md)** — Xiaohongshu illustrations.
+- **[xhs-note-creator](https://github.com/comeonzhj/Auto-Redbook-Skills/blob/HEAD/skills/xhs-note-creator/SKILL.md)** — Xiaohongshu note generator.
+- **[canghe-xhs-images](https://github.com/freestylefly/canghe-skills/blob/HEAD/skills/canghe-xhs-images/SKILL.md)** — Xiaohongshu image generator.
+- **[xiaohongshu-cover-generator](https://github.com/freestylefly/xiaohongshu-skills/blob/HEAD/SKILL.md)** — Xiaohongshu cover generator.
+- **[xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli/blob/HEAD/SKILL.md)** — Xiaohongshu CLI.
+- **[muapi-rednote-cover · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Rednote cover generator.
+- **[xiaohongshu-ops](https://github.com/xiangyu-cas/xiaohongshu-ops-skill/blob/HEAD/SKILL.md)** — Xiaohongshu operations.
 
 > Index page: summaries are editorial notes; read the full content at the source link.
 

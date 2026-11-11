@@ -10,7 +10,7 @@
 
 面向独立开发者、咨询顾问、内容创作者和小型服务商的 AI 资源索引。覆盖找需求、做产品、获客、销售、交付和经营，精选条目与扩展目录都在本页展开，可直接用浏览器搜索。
 
-**{{UNIQUE_URLS}} 个资源与参考链接 · 其中 {{SKILL_URLS}} 个技能索引页 · 中英文同步。** 按完整 URL 去重；平台和专题会复用同一资源。机器可读版本：[catalog.json](catalog.json)。
+**{{UNIQUE_URLS}} 个资源与参考链接 · 中英文同步。** 直接链接作者仓库、源码文件或官方文档。按完整 URL 去重；平台和专题会复用同一资源。机器可读版本：[catalog.json](catalog.json)。
 
 <a id="contents"></a>
 ## 目录
@@ -57,16 +57,16 @@ CLI 当前要求 Node.js 22.20 或更高版本，安装时选择目标 Agent。M
 
 | 要做的事 | 资源 | 用途 |
 |---|---|---|
-| 打磨想法 | [idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine) | 把想法写成可进一步验证的概念 |
-| 定义客户任务 | [define-jtbd-canvas](https://www.skills.sh/product-on-purpose/pm-skills/define-jtbd-canvas) | 明确客户在什么情境下要完成什么 |
-| 写产品需求 | [prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development) | 梳理范围、用户需求与验收要求 |
-| 做界面 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 设计并实现前端界面 |
-| 写销售页面 | [copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting) | 组织卖点、证据与行动入口 |
-| 检查搜索表现 | [seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit) | 检查站点的搜索可见性问题 |
-| 创始人销售 | [founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales) | 梳理直接接触客户和推进销售的做法 |
-| 用户上手 | [user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding) | 设计从首次进入到获得价值的过程 |
-| 定价 | [pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing) | 讨论定价、包装和收入方式 |
-| 算清单笔生意 | [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) | 检查单位收入与成本假设 |
+| 打磨想法 | [idea-refine](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/idea-refine/SKILL.md) | 把想法写成可进一步验证的概念 |
+| 定义客户任务 | [define-jtbd-canvas](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-jtbd-canvas/SKILL.md) | 明确客户在什么情境下要完成什么 |
+| 写产品需求 | [prd-development](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/prd-development/SKILL.md) | 梳理范围、用户需求与验收要求 |
+| 做界面 | [frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md) | 设计并实现前端界面 |
+| 写销售页面 | [copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md) | 组织卖点、证据与行动入口 |
+| 检查搜索表现 | [seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md) | 检查站点的搜索可见性问题 |
+| 创始人销售 | [founder-sales](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-sales/SKILL.md) | 梳理直接接触客户和推进销售的做法 |
+| 用户上手与维护 | [retention](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/retention/SKILL.md) | 安排首次使用、欢迎邮件、回访与取消流程 |
+| 定价 | [pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md) | 讨论定价、包装和收入方式 |
+| 算清单笔生意 | [unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md) | 检查单位收入与成本假设 |
 | 浏览器操作 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 让支持 MCP 的 Agent 操作网页并检查界面 |
 | 备份恢复 | [restic 恢复指南](https://restic.readthedocs.io/en/stable/050_restore.html) | 将备份恢复到目标目录并核对结果 |
 
@@ -76,6 +76,7 @@ CLI 当前要求 Node.js 22.20 或更高版本，安装时选择目标 Agent。M
 ## 收录与维护
 
 - 按具体任务整理，保留原始链接和简短用途；完整内容、依赖与许可证以原项目为准。
+- 优先链接具体源码文件；标注「仓库入口」的条目尚未定位到对应文件，请在作者仓库确认当前内容。合集名称直接链接仓库。链接核对记录见 [upstream-links.json](data/upstream-links.json)。
 - 精选专题提供用途说明，扩展目录按来源技能包归组；包内某项技能可能跨领域，分组不等于逐条用途判断。
 - 页面可访问、上游内容存在、安装成功、真实任务有效是不同检查。新增经营指南已核对第一方用途说明；本仓库未对全部资源完成安装与任务实测，也不将旧页面的 200 响应当作现行安装保证。
 - README 和机器目录由源文档生成。持续检查资源是否全部展开、两种语言的外链是否一致、本地链接与锚点是否有效，以及页面是否超过 GitHub 的展示限制。

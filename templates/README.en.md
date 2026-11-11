@@ -10,7 +10,7 @@
 
 An AI resource index for independent developers, consultants, creators and small service businesses. Covers demand discovery, product, acquisition, sales, delivery and operations. Both the focused collections and the extended catalog are expanded on this page and searchable in your browser.
 
-**{{UNIQUE_URLS}} resource and reference URLs · Including {{SKILL_URLS}} skill listing pages · English and Chinese.** Counts use unique full URLs; platform and topic views reuse resources. Machine-readable version: [catalog.json](catalog.json).
+**{{UNIQUE_URLS}} resource and reference URLs · English and Chinese.** Links go directly to author repositories, source files or official documentation. Counts use unique full URLs; platform and topic views reuse resources. Machine-readable version: [catalog.json](catalog.json).
 
 <a id="contents"></a>
 ## Contents
@@ -57,16 +57,16 @@ The CLI currently requires Node.js 22.20 or later and lets you select a target a
 
 | Task | Resource | Use |
 |---|---|---|
-| Refine an idea | [idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine) | Turn an idea into a concept to validate |
-| Define the customer job | [define-jtbd-canvas](https://www.skills.sh/product-on-purpose/pm-skills/define-jtbd-canvas) | Describe the customer task and its context |
-| Write requirements | [prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development) | Structure scope, needs and acceptance requirements |
-| Build an interface | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | Design and implement a frontend interface |
-| Write a sales page | [copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting) | Organize benefits, evidence and the next action |
-| Review search visibility | [seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit) | Inspect issues affecting site discoverability |
-| Founder sales | [founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales) | Structure direct customer contact and sales work |
-| User onboarding | [user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding) | Design the path from first use to initial value |
-| Pricing | [pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing) | Consider pricing, packaging and revenue models |
-| Unit economics | [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) | Examine revenue and cost assumptions per unit |
+| Refine an idea | [idea-refine](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/idea-refine/SKILL.md) | Turn an idea into a concept to validate |
+| Define the customer job | [define-jtbd-canvas](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-jtbd-canvas/SKILL.md) | Describe the customer task and its context |
+| Write requirements | [prd-development](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/prd-development/SKILL.md) | Structure scope, needs and acceptance requirements |
+| Build an interface | [frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md) | Design and implement a frontend interface |
+| Write a sales page | [copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md) | Organize benefits, evidence and the next action |
+| Review search visibility | [seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md) | Inspect issues affecting site discoverability |
+| Founder sales | [founder-sales](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-sales/SKILL.md) | Structure direct customer contact and sales work |
+| Onboarding & retention | [retention](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/retention/SKILL.md) | Plan first use, welcome emails, follow-ups and cancellation |
+| Pricing | [pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md) | Consider pricing, packaging and revenue models |
+| Unit economics | [unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md) | Examine revenue and cost assumptions per unit |
 | Browser operations | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Let an MCP-compatible agent operate and inspect web pages |
 | Backup recovery | [restic restore guide](https://restic.readthedocs.io/en/stable/050_restore.html) | Restore a backup to a target directory and verify the result |
 
@@ -76,6 +76,7 @@ The CLI currently requires Node.js 22.20 or later and lets you select a target a
 ## Curation & maintenance
 
 - Organize by concrete tasks, with source links and short descriptions. Full instructions, dependencies and licenses live upstream.
+- Prefer specific source files. Entries marked "repository entry" have no confirmed file match; check the author's repository for current content. Collection names link to repositories. See [upstream-links.json](data/upstream-links.json) for the link audit.
 - Focused collections include use descriptions. The extended index groups entries by source pack; individual entries can cross domains, so a pack's section is not an item-level classification.
 - A reachable page, an existing upstream skill, a successful installation and a useful real-task result are different checks. New operating guides were checked against first-party descriptions. The entire catalog has not been installed or tested; a cached page returning 200 does not establish current installability.
 - READMEs and the machine catalog are generated from source documents. Checks enforce complete resource exposure, matching bilingual external-link sets, valid local links and anchors, and GitHub's README size limit.

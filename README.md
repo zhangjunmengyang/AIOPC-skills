@@ -11,7 +11,7 @@
 
 An AI resource index for independent developers, consultants, creators and small service businesses. Covers demand discovery, product, acquisition, sales, delivery and operations. Both the focused collections and the extended catalog are expanded on this page and searchable in your browser.
 
-**3,118 resource and reference URLs · Including 3,052 skill listing pages · English and Chinese.** Counts use unique full URLs; platform and topic views reuse resources. Machine-readable version: [catalog.json](catalog.json).
+**2,766 resource and reference URLs · English and Chinese.** Links go directly to author repositories, source files or official documentation. Counts use unique full URLs; platform and topic views reuse resources. Machine-readable version: [catalog.json](catalog.json).
 
 <a id="contents"></a>
 ## Contents
@@ -62,16 +62,16 @@ The CLI currently requires Node.js 22.20 or later and lets you select a target a
 
 | Task | Resource | Use |
 |---|---|---|
-| Refine an idea | [idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine) | Turn an idea into a concept to validate |
-| Define the customer job | [define-jtbd-canvas](https://www.skills.sh/product-on-purpose/pm-skills/define-jtbd-canvas) | Describe the customer task and its context |
-| Write requirements | [prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development) | Structure scope, needs and acceptance requirements |
-| Build an interface | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | Design and implement a frontend interface |
-| Write a sales page | [copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting) | Organize benefits, evidence and the next action |
-| Review search visibility | [seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit) | Inspect issues affecting site discoverability |
-| Founder sales | [founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales) | Structure direct customer contact and sales work |
-| User onboarding | [user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding) | Design the path from first use to initial value |
-| Pricing | [pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing) | Consider pricing, packaging and revenue models |
-| Unit economics | [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) | Examine revenue and cost assumptions per unit |
+| Refine an idea | [idea-refine](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/idea-refine/SKILL.md) | Turn an idea into a concept to validate |
+| Define the customer job | [define-jtbd-canvas](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-jtbd-canvas/SKILL.md) | Describe the customer task and its context |
+| Write requirements | [prd-development](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/prd-development/SKILL.md) | Structure scope, needs and acceptance requirements |
+| Build an interface | [frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md) | Design and implement a frontend interface |
+| Write a sales page | [copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md) | Organize benefits, evidence and the next action |
+| Review search visibility | [seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md) | Inspect issues affecting site discoverability |
+| Founder sales | [founder-sales](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-sales/SKILL.md) | Structure direct customer contact and sales work |
+| Onboarding & retention | [retention](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/retention/SKILL.md) | Plan first use, welcome emails, follow-ups and cancellation |
+| Pricing | [pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md) | Consider pricing, packaging and revenue models |
+| Unit economics | [unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md) | Examine revenue and cost assumptions per unit |
 | Browser operations | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Let an MCP-compatible agent operate and inspect web pages |
 | Backup recovery | [restic restore guide](https://restic.readthedocs.io/en/stable/050_restore.html) | Restore a backup to a target directory and verify the result |
 
@@ -89,62 +89,62 @@ Idea, validation, business model and positioning — decide what to build first.
 <a id="startup-idea--problem"></a>
 #### Idea & problem
 
-- **[idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine)** — Turn rough ideas into sharp concepts.
-- **[startup-ideation](https://www.skills.sh/refoundai/lenny-skills/startup-ideation)** — Generate and evaluate startup ideas.
-- **[define-problem-statement](https://www.skills.sh/product-on-purpose/pm-skills/define-problem-statement)** — Write a concise problem statement.
-- **[define-hypothesis](https://www.skills.sh/product-on-purpose/pm-skills/define-hypothesis)** — Turn assumptions into testable hypotheses.
-- **[define-opportunity-tree](https://www.skills.sh/product-on-purpose/pm-skills/define-opportunity-tree)** — Map outcomes to opportunities and solutions.
-- **[define-jtbd-canvas](https://www.skills.sh/product-on-purpose/pm-skills/define-jtbd-canvas)** — Fill a Jobs-to-be-Done canvas.
-- **[bmad-brainstorming](https://www.skills.sh/bmad-code-org/bmad-method/bmad-brainstorming)** — Run a structured brainstorming session.
-- **[bmad-product-brief](https://www.skills.sh/bmad-code-org/bmad-method/bmad-product-brief)** — Write a product brief.
-- **[bmad-prfaq](https://www.skills.sh/bmad-code-org/bmad-method/bmad-prfaq)** — Write a PRFAQ.
+- **[idea-refine](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/idea-refine/SKILL.md)** — Turn rough ideas into sharp concepts.
+- **[startup-ideation · repository entry](https://github.com/refoundai/lenny-skills)** — Generate and evaluate startup ideas.
+- **[define-problem-statement](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-problem-statement/SKILL.md)** — Write a concise problem statement.
+- **[define-hypothesis](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-hypothesis/SKILL.md)** — Turn assumptions into testable hypotheses.
+- **[define-opportunity-tree](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-opportunity-tree/SKILL.md)** — Map outcomes to opportunities and solutions.
+- **[define-jtbd-canvas](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-jtbd-canvas/SKILL.md)** — Fill a Jobs-to-be-Done canvas.
+- **[bmad-brainstorming](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-brainstorming/SKILL.md)** — Run a structured brainstorming session.
+- **[bmad-product-brief · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)** — Write a product brief.
+- **[bmad-prfaq · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)** — Write a PRFAQ.
 
 <a id="startup-s2"></a>
 <a id="startup-market--competitors"></a>
 #### Market & competitors
 
-- **[market-research](https://www.skills.sh/affaan-m/ecc/market-research)** — Decision-grade market research.
-- **[competitive-analysis](https://www.skills.sh/refoundai/lenny-skills/competitive-analysis)** — Analyze competitors and alternatives.
-- **[competitor-profiling](https://www.skills.sh/coreyhaines31/marketingskills/competitor-profiling)** — Competitive intelligence profiles.
-- **[competitors](https://www.skills.sh/coreyhaines31/marketingskills/competitors)** — Competitor and alternative pages.
-- **[firecrawl-market-research](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-market-research)** — Sourced market and financial research.
-- **[market-sizing](https://www.skills.sh/phuryn/pm-skills/market-sizing)** — Estimate TAM, SAM and SOM.
-- **[ideal-customer-profile](https://www.skills.sh/phuryn/pm-skills/ideal-customer-profile)** — Define your ideal customer profile.
-- **[user-personas](https://www.skills.sh/phuryn/pm-skills/user-personas)** — Create user personas.
-- **[foundation-persona](https://www.skills.sh/product-on-purpose/pm-skills/foundation-persona)** — Build a target user persona.
-- **[discover-interview-synthesis](https://www.skills.sh/product-on-purpose/pm-skills/discover-interview-synthesis)** — Synthesize user interviews.
+- **[market-research](https://github.com/affaan-m/ECC/blob/HEAD/skills/market-research/SKILL.md)** — Decision-grade market research.
+- **[competitive-analysis · repository entry](https://github.com/refoundai/lenny-skills)** — Analyze competitors and alternatives.
+- **[competitor-profiling](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/competitor-profiling/SKILL.md)** — Competitive intelligence profiles.
+- **[competitors](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/competitors/SKILL.md)** — Competitor and alternative pages.
+- **[firecrawl-market-research](https://github.com/firecrawl/firecrawl-workflows/blob/HEAD/skills/firecrawl-market-research/SKILL.md)** — Sourced market and financial research.
+- **[market-sizing](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/market-sizing/SKILL.md)** — Estimate TAM, SAM and SOM.
+- **[ideal-customer-profile](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/ideal-customer-profile/SKILL.md)** — Define your ideal customer profile.
+- **[user-personas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/user-personas/SKILL.md)** — Create user personas.
+- **[foundation-persona](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-persona/SKILL.md)** — Build a target user persona.
+- **[discover-interview-synthesis](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/discover-interview-synthesis/SKILL.md)** — Synthesize user interviews.
 
 <a id="startup-s3"></a>
 <a id="startup-business-model"></a>
 #### Business model
 
-- **[foundation-lean-canvas](https://www.skills.sh/product-on-purpose/pm-skills/foundation-lean-canvas)** — Fill a Lean Canvas.
-- **[business-model](https://www.skills.sh/phuryn/pm-skills/business-model)** — Generate a nine-block Business Model Canvas.
-- **[startup-canvas](https://www.skills.sh/phuryn/pm-skills/startup-canvas)** — Draft a one-page startup canvas.
-- **[value-proposition](https://www.skills.sh/phuryn/pm-skills/value-proposition)** — Write a value proposition.
-- **[product-strategy](https://www.skills.sh/phuryn/pm-skills/product-strategy)** — Define product strategy and scope.
-- **[gtm-strategy](https://www.skills.sh/phuryn/pm-skills/gtm-strategy)** — Build a go-to-market plan.
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Generate and screen product names.
+- **[foundation-lean-canvas](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-lean-canvas/SKILL.md)** — Fill a Lean Canvas.
+- **[business-model](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/business-model/SKILL.md)** — Generate a nine-block Business Model Canvas.
+- **[startup-canvas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/startup-canvas/SKILL.md)** — Draft a one-page startup canvas.
+- **[value-proposition](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/value-proposition/SKILL.md)** — Write a value proposition.
+- **[product-strategy](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/product-strategy/SKILL.md)** — Define product strategy and scope.
+- **[gtm-strategy](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/gtm-strategy/SKILL.md)** — Build a go-to-market plan.
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — Generate and screen product names.
 
 <a id="startup-s4"></a>
 <a id="startup-validation--decisions"></a>
 #### Validation & decisions
 
-- **[pre-mortem](https://www.skills.sh/phuryn/pm-skills/pre-mortem)** — Run a pre-mortem on a plan.
-- **[strategy-red-team](https://www.skills.sh/phuryn/pm-skills/strategy-red-team)** — Red-team a strategy.
-- **[prioritization-frameworks](https://www.skills.sh/phuryn/pm-skills/prioritization-frameworks)** — Prioritize with a chosen framework.
-- **[outcome-roadmap](https://www.skills.sh/phuryn/pm-skills/outcome-roadmap)** — Build an outcome-based roadmap.
-- **[measure-experiment-design](https://www.skills.sh/product-on-purpose/pm-skills/measure-experiment-design)** — Design a measurable experiment.
-- **[develop-solution-brief](https://www.skills.sh/product-on-purpose/pm-skills/develop-solution-brief)** — Write a solution brief.
+- **[pre-mortem](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/pre-mortem/SKILL.md)** — Run a pre-mortem on a plan.
+- **[strategy-red-team](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/strategy-red-team/SKILL.md)** — Red-team a strategy.
+- **[prioritization-frameworks](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/prioritization-frameworks/SKILL.md)** — Prioritize with a chosen framework.
+- **[outcome-roadmap](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/outcome-roadmap/SKILL.md)** — Build an outcome-based roadmap.
+- **[measure-experiment-design](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-experiment-design/SKILL.md)** — Design a measurable experiment.
+- **[develop-solution-brief](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/develop-solution-brief/SKILL.md)** — Write a solution brief.
 
 <a id="startup-s5"></a>
 <a id="startup-positioning--sales"></a>
 #### Positioning & sales
 
-- **[positioning-messaging](https://www.skills.sh/refoundai/lenny-skills/positioning-messaging)** — Define positioning and messaging.
-- **[brand-storytelling](https://www.skills.sh/refoundai/lenny-skills/brand-storytelling)** — Build a brand story.
-- **[founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales)** — Run founder-led sales.
-- **[ai-product-strategy](https://www.skills.sh/refoundai/lenny-skills/ai-product-strategy)** — Define an AI product strategy.
+- **[positioning-messaging · repository entry](https://github.com/refoundai/lenny-skills)** — Define positioning and messaging.
+- **[brand-storytelling · repository entry](https://github.com/refoundai/lenny-skills)** — Build a brand story.
+- **[founder-sales](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-sales/SKILL.md)** — Run founder-led sales.
+- **[ai-product-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/ai-product-strategy/SKILL.md)** — Define an AI product strategy.
 
 [Back to contents](#contents)
 
@@ -159,121 +159,120 @@ Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold e
 <a id="writing-plain-language--de-ai"></a>
 #### Plain language & de-AI
 
-- **[humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh)** — Chinese de-AI rewriting that keeps meaning and tone.
-- **[humanizer](https://www.skills.sh/blader/humanizer/humanizer)** — Remove AI writing patterns; scores 55 tells.
-- **[no-ai-slop](https://www.skills.sh/petergyang/no-ai-slop/no-ai-slop)** — Cut AI slop while preserving the writer’s voice.
-- **[avoid-ai-writing](https://www.skills.sh/conorbronsdon/avoid-ai-writing/avoid-ai-writing)** — Audit and rewrite machine-sounding text.
-- **[antislop-copywriting](https://www.skills.sh/miqdadbadjuber/anti-slop/antislop-copywriting)** — Anti-slop rules for copy and text.
-- **[grammar-check](https://www.skills.sh/phuryn/pm-skills/grammar-check)** — Grammar, logic and flow checking.
+- **[humanizer-zh](https://github.com/op7418/humanizer-zh/blob/HEAD/SKILL.md)** — Chinese de-AI rewriting that keeps meaning and tone.
+- **[humanizer](https://github.com/blader/humanizer/blob/HEAD/SKILL.md)** — Remove AI writing patterns; scores 55 tells.
+- **[no-ai-slop](https://github.com/petergyang/no-ai-slop/blob/HEAD/skills/no-ai-slop/SKILL.md)** — Cut AI slop while preserving the writer’s voice.
+- **[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing/blob/HEAD/skills/avoid-ai-writing/SKILL.md)** — Audit and rewrite machine-sounding text.
+- **[antislop-copywriting](https://github.com/miqdadbadjuber/anti-slop/blob/HEAD/skills/antislop-copywriting/SKILL.md)** — Anti-slop rules for copy and text.
+- **[grammar-check](https://github.com/phuryn/pm-skills/blob/HEAD/pm-toolkit/skills/grammar-check/SKILL.md)** — Grammar, logic and flow checking.
 
 <a id="writing-s2"></a>
 <a id="writing-xiaohongshu-copy"></a>
 #### Xiaohongshu copy
 
-- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — Research, write and publish Xiaohongshu posts.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas, 75 patterns.
-- **[xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer)** — Diagnose a Xiaohongshu note.
+- **[write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md)** — Research, write and publish Xiaohongshu posts.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas, 75 patterns.
+- **[xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md)** — Diagnose a Xiaohongshu note.
 
 <a id="writing-s3"></a>
 <a id="writing-wechat-copy"></a>
 #### WeChat copy
 
-- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
-- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
-- **[md2wechat](https://www.skills.sh/geekjourneyx/md2wechat-skill/md2wechat)** — Convert Markdown to WeChat HTML.
+- **[dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md)** — Convert Markdown to WeChat-ready HTML.
+- **[md2wechat](https://github.com/geekjourneyx/md2wechat-skill/blob/HEAD/skills/md2wechat/SKILL.md)** — Convert Markdown to WeChat HTML.
 
 <a id="writing-s4"></a>
 <a id="writing-short-video-scripts"></a>
 #### Short-video scripts
 
-- **[dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook)** — Diagnose and rewrite short-video openings.
-- **[dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow)** — Check short-video script flow and retention.
-- **[dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro)** — Write titles, covers and openings.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[short-form-video-script](https://www.skills.sh/social-media-skills/skills/short-form-video-script)** — Write short-form video scripts.
-- **[viral-hook-creator](https://www.skills.sh/ognjengt/founder-skills/viral-hook-creator)** — Generate viral hooks.
+- **[dbs-hook · repository entry](https://github.com/dontbesilent2025/dbskill)** — Diagnose and rewrite short-video openings.
+- **[dbs-script-flow](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-script-flow/SKILL.md)** — Check short-video script flow and retention.
+- **[dbs-title-cover-intro](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-title-cover-intro/SKILL.md)** — Write titles, covers and openings.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[short-form-video-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/short-form-video-script/SKILL.md)** — Write short-form video scripts.
+- **[viral-hook-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/viral-hook-creator/SKILL.md)** — Generate viral hooks.
 
 <a id="writing-s5"></a>
 <a id="writing-ad-copy"></a>
 #### Ad copy
 
-- **[ads-copywriter](https://www.skills.sh/claude-office-skills/skills/ads-copywriter)** — Ad copy for Google, Meta, TikTok and LinkedIn.
-- **[ad-copy-variants](https://www.skills.sh/mbfinotti/advertising-skills/ad-copy-variants)** — Turn one value prop into testable variants.
-- **[conversational-ad-copy](https://www.skills.sh/mbfinotti/advertising-skills/conversational-ad-copy)** — Ads inside AI answers and search.
-- **[ad-hook-analyzer](https://www.skills.sh/mbfinotti/advertising-skills/ad-hook-analyzer)** — Rank video-ad openings before spending.
-- **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — Performance creative brief.
-- **[copywriting-hooks](https://www.skills.sh/samber/cc-skills/copywriting-hooks)** — Hooks that make readers want sentence two.
-- **[ogilvy-copywriting](https://www.skills.sh/boraoztunc/skills/ogilvy-copywriting)** — Ogilvy-style sales copy principles.
+- **[ads-copywriter](https://github.com/claude-office-skills/skills/blob/HEAD/ads-copywriter/SKILL.md)** — Ad copy for Google, Meta, TikTok and LinkedIn.
+- **[ad-copy-variants](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-copy-variants/SKILL.md)** — Turn one value prop into testable variants.
+- **[conversational-ad-copy](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/conversational-ad-copy/SKILL.md)** — Ads inside AI answers and search.
+- **[ad-hook-analyzer](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-hook-analyzer/SKILL.md)** — Rank video-ad openings before spending.
+- **[ad-creative-brief](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-brief/SKILL.md)** — Performance creative brief.
+- **[copywriting-hooks](https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-hooks/SKILL.md)** — Hooks that make readers want sentence two.
+- **[ogilvy-copywriting · repository entry](https://github.com/boraoztunc/skills)** — Ogilvy-style sales copy principles.
 
 <a id="writing-s6"></a>
 <a id="writing-cold-email--outreach"></a>
 #### Cold email & outreach
 
-- **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)** — Cold email writing.
-- **[cold-email-subject-line-tester](https://www.skills.sh/mbfinotti/sales-skills/cold-email-subject-line-tester)** — Score subject lines and design split tests.
-- **[emails](https://www.skills.sh/coreyhaines31/marketingskills/emails)** — Email sequence design.
-- **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — Write personalized outreach.
+- **[cold-email](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md)** — Cold email writing.
+- **[cold-email-subject-line-tester](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-email-subject-line-tester/SKILL.md)** — Score subject lines and design split tests.
+- **[emails](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/emails/SKILL.md)** — Email sequence design.
+- **[compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md)** — Write personalized outreach.
 
 <a id="writing-s7"></a>
 <a id="writing-landing--sales-pages"></a>
 #### Landing & sales pages
 
-- **[copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting)** — Conversion copywriting.
-- **[copy-editing](https://www.skills.sh/coreyhaines31/marketingskills/copy-editing)** — Pass-by-pass marketing copy editing.
-- **[landing-page-copywriter](https://www.skills.sh/onewave-ai/claude-skills/landing-page-copywriter)** — Landing copy that drives one action.
-- **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer design and packaging.
+- **[copywriting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copywriting/SKILL.md)** — Conversion copywriting.
+- **[copy-editing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copy-editing/SKILL.md)** — Pass-by-pass marketing copy editing.
+- **[landing-page-copywriter](https://github.com/onewave-ai/claude-skills/blob/HEAD/landing-page-copywriter/SKILL.md)** — Landing copy that drives one action.
+- **[offers](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/offers/SKILL.md)** — Offer design and packaging.
 
 <a id="writing-s8"></a>
 <a id="writing-product--ux-copy"></a>
 #### Product & UX copy
 
-- **[ux-copy](https://www.skills.sh/anthropics/knowledge-work-plugins/ux-copy)** — Interface copy and error messages.
+- **[ux-copy](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/ux-copy/SKILL.md)** — Interface copy and error messages.
 
 <a id="writing-s9"></a>
 <a id="writing-brand--pr-copy"></a>
 #### Brand & PR copy
 
-- **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — Build a durable voice profile from source material.
-- **[brand-voice-enforcement](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-voice-enforcement)** — Apply brand guidelines to all sales and marketing content.
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming strategy and candidate screening.
-- **[copywriting-tone-of-voice-creator](https://www.skills.sh/samber/cc-skills/copywriting-tone-of-voice-creator)** — Turn brand voice into operational rules.
-- **[public-relations](https://www.skills.sh/coreyhaines31/marketingskills/public-relations)** — PR and earned media.
+- **[brand-voice](https://github.com/affaan-m/ECC/blob/HEAD/skills/brand-voice/SKILL.md)** — Build a durable voice profile from source material.
+- **[brand-voice-enforcement](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/brand-voice/skills/brand-voice-enforcement/SKILL.md)** — Apply brand guidelines to all sales and marketing content.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming strategy and candidate screening.
+- **[copywriting-tone-of-voice-creator](https://github.com/samber/cc-skills/blob/HEAD/skills/copywriting-tone-of-voice-creator/SKILL.md)** — Turn brand voice into operational rules.
+- **[public-relations](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/public-relations/SKILL.md)** — PR and earned media.
 
 <a id="writing-s10"></a>
 <a id="writing-ecommerce--store-copy"></a>
 #### Ecommerce & store copy
 
-- **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Optimize product titles.
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
+- **[product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md)** — Write product descriptions.
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — Optimize product titles.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — Localize App Store metadata.
 
 <a id="writing-s11"></a>
 <a id="writing-long-form--blogs"></a>
 #### Long-form & blogs
 
-- **[edit-article](https://www.skills.sh/mattpocock/skills/edit-article)** — Re-edit an article around its section structure.
-- **[article-writing](https://www.skills.sh/affaan-m/ecc/article-writing)** — Long-form writing with a real point of view.
-- **[blog](https://www.skills.sh/agricidaniel/claude-blog/blog)** — Blog engine for rankings and AI citations.
-- **[blog-factcheck](https://www.skills.sh/agricidaniel/claude-blog/blog-factcheck)** — Fact-check blog drafts.
-- **[blog-seo-check](https://www.skills.sh/agricidaniel/claude-blog/blog-seo-check)** — Post-writing SEO validation for blogs.
-- **[engineering-blog-post](https://www.skills.sh/samber/developer-relations-skills/engineering-blog-post)** — Write and edit engineering blog posts.
-- **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack ghostwriting and growth.
-- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — High-conversion LinkedIn ghostwriting.
+- **[edit-article · repository entry](https://github.com/mattpocock/skills)** — Re-edit an article around its section structure.
+- **[article-writing](https://github.com/affaan-m/ECC/blob/HEAD/skills/article-writing/SKILL.md)** — Long-form writing with a real point of view.
+- **[blog](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog/SKILL.md)** — Blog engine for rankings and AI citations.
+- **[blog-factcheck](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-factcheck/SKILL.md)** — Fact-check blog drafts.
+- **[blog-seo-check](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-seo-check/SKILL.md)** — Post-writing SEO validation for blogs.
+- **[engineering-blog-post](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/engineering-blog-post/SKILL.md)** — Write and edit engineering blog posts.
+- **[substack-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/substack-ghostwriting/SKILL.md)** — Substack ghostwriting and growth.
+- **[linkedin-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md)** — High-conversion LinkedIn ghostwriting.
 
 <a id="writing-s12"></a>
 <a id="writing-translation--localization"></a>
 #### Translation & localization
 
-- **[baoyu-translate](https://www.skills.sh/jimliu/baoyu-skills/baoyu-translate)** — High-quality translation and polishing.
-- **[mkdocs-translations](https://www.skills.sh/github/awesome-copilot/mkdocs-translations)** — Translate documentation sites.
+- **[baoyu-translate](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-translate/SKILL.md)** — High-quality translation and polishing.
+- **[mkdocs-translations](https://github.com/github/awesome-copilot/blob/HEAD/skills/mkdocs-translations/SKILL.md)** — Translate documentation sites.
 
 <a id="writing-s13"></a>
 <a id="writing-scripts--stories"></a>
 #### Scripts & stories
 
-- **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — Generate visual storyboards with AI.
-- **[chinese-novelist](https://www.skills.sh/penglonghuang/chinese-novelist-skill/chinese-novelist)** — Chinese fiction writing with conflict and hooks.
+- **[storyboard-creation](https://github.com/101-skills/superpowers/blob/HEAD/guides/video/storyboard-creation/SKILL.md)** — Generate visual storyboards with AI.
+- **[chinese-novelist](https://github.com/penglonghuang/chinese-novelist-skill/blob/HEAD/SKILL.md)** — Chinese fiction writing with conflict and hooks.
 
 [Back to contents](#contents)
 
@@ -288,97 +287,97 @@ From requirement to deploy, by engineering stage.
 <a id="product-requirements--prd"></a>
 #### Requirements & PRD
 
-- **[bmad-prd](https://www.skills.sh/bmad-code-org/bmad-method/bmad-prd)** — Multi-role PRD workflow.
-- **[bmad-spec](https://www.skills.sh/bmad-code-org/bmad-method/bmad-spec)** — Spec kernel.
-- **[prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development)** — Structured PRD process.
-- **[spec-driven-development](https://www.skills.sh/addyosmani/agent-skills/spec-driven-development)** — Write the spec before the code.
-- **[deliver-prd](https://www.skills.sh/product-on-purpose/pm-skills/deliver-prd)** — Write a PRD.
-- **[deliver-user-stories](https://www.skills.sh/product-on-purpose/pm-skills/deliver-user-stories)** — Write user stories.
-- **[deliver-acceptance-criteria](https://www.skills.sh/product-on-purpose/pm-skills/deliver-acceptance-criteria)** — Define acceptance criteria.
+- **[bmad-prd · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)** — Multi-role PRD workflow.
+- **[bmad-spec · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)** — Spec kernel.
+- **[prd-development](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/prd-development/SKILL.md)** — Structured PRD process.
+- **[spec-driven-development](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/spec-driven-development/SKILL.md)** — Write the spec before the code.
+- **[deliver-prd](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-prd/SKILL.md)** — Write a PRD.
+- **[deliver-user-stories](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-user-stories/SKILL.md)** — Write user stories.
+- **[deliver-acceptance-criteria](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-acceptance-criteria/SKILL.md)** — Define acceptance criteria.
 
 <a id="product-s2"></a>
 <a id="product-architecture"></a>
 #### Architecture
 
-- **[bmad-architecture](https://www.skills.sh/bmad-code-org/bmad-method/bmad-architecture)** — Architecture spine.
-- **[architecture-blueprint-generator](https://www.skills.sh/github/awesome-copilot/architecture-blueprint-generator)** — Project architecture blueprint.
-- **[system-design](https://www.skills.sh/anthropics/knowledge-work-plugins/system-design)** — System design and architecture decisions.
-- **[api-design](https://www.skills.sh/affaan-m/ecc/api-design)** — API design conventions.
-- **[documenting-contracts](https://www.skills.sh/riekelt/technical-writer/documenting-contracts)** — Document REST/RPC, webhook, CLI and file-format contracts.
-- **[bmad-agent-architect](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-architect)** — Architect role.
-- **[bmad-agent-dev](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-dev)** — Developer role.
+- **[bmad-architecture](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-architecture/SKILL.md)** — Architecture spine.
+- **[architecture-blueprint-generator](https://github.com/github/awesome-copilot/blob/HEAD/skills/architecture-blueprint-generator/SKILL.md)** — Project architecture blueprint.
+- **[system-design](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/system-design/SKILL.md)** — System design and architecture decisions.
+- **[api-design](https://github.com/affaan-m/ECC/blob/HEAD/skills/api-design/SKILL.md)** — API design conventions.
+- **[documenting-contracts](https://github.com/riekelt/technical-writer/blob/HEAD/plugins/technical-writer/skills/documenting-contracts/SKILL.md)** — Document REST/RPC, webhook, CLI and file-format contracts.
+- **[bmad-agent-architect](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-architect/SKILL.md)** — Architect role.
+- **[bmad-agent-dev](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-dev/SKILL.md)** — Developer role.
 
 <a id="product-s3"></a>
 <a id="product-testing"></a>
 #### Testing
 
-- **[webapp-testing](https://www.skills.sh/anthropics/skills/webapp-testing)** — Web application testing.
-- **[test-driven-development](https://www.skills.sh/addyosmani/agent-skills/test-driven-development)** — Write a failing test first.
-- **[browser-testing-with-devtools](https://www.skills.sh/addyosmani/agent-skills/browser-testing-with-devtools)** — Browser testing with DevTools.
-- **[vitest](https://www.skills.sh/antfu/skills/vitest)** — Vite-native testing framework.
-- **[testing-strategy](https://www.skills.sh/anthropics/knowledge-work-plugins/testing-strategy)** — Design test coverage and strategy.
-- **[web-quality-audit](https://www.skills.sh/addyosmani/web-quality-skills/web-quality-audit)** — Browser-backed quality audit.
-- **[bmad-qa-generate-e2e-tests](https://www.skills.sh/bmad-code-org/bmad-method/bmad-qa-generate-e2e-tests)** — Generate E2E tests.
-- **[deliver-edge-cases](https://www.skills.sh/product-on-purpose/pm-skills/deliver-edge-cases)** — Cover edge cases.
+- **[webapp-testing](https://github.com/anthropics/skills/blob/HEAD/skills/webapp-testing/SKILL.md)** — Web application testing.
+- **[test-driven-development](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/test-driven-development/SKILL.md)** — Write a failing test first.
+- **[browser-testing-with-devtools](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/browser-testing-with-devtools/SKILL.md)** — Browser testing with DevTools.
+- **[vitest](https://github.com/antfu/skills/blob/HEAD/skills/vitest/SKILL.md)** — Vite-native testing framework.
+- **[testing-strategy](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/testing-strategy/SKILL.md)** — Design test coverage and strategy.
+- **[web-quality-audit](https://github.com/addyosmani/web-quality-skills/blob/HEAD/skills/web-quality-audit/SKILL.md)** — Browser-backed quality audit.
+- **[bmad-qa-generate-e2e-tests](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-qa-generate-e2e-tests/SKILL.md)** — Generate E2E tests.
+- **[deliver-edge-cases](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-edge-cases/SKILL.md)** — Cover edge cases.
 
 <a id="product-s4"></a>
 <a id="product-review--security"></a>
 #### Review & security
 
-- **[code-review-and-quality](https://www.skills.sh/addyosmani/agent-skills/code-review-and-quality)** — Multi-dimensional code review.
-- **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — Security-first development.
-- **[security-audit](https://www.skills.sh/cloudflare/security-audit-skill/security-audit)** — Find vulnerabilities at trust boundaries.
-- **[bmad-code-review](https://www.skills.sh/bmad-code-org/bmad-method/bmad-code-review)** — BMad code review workflow.
-- **[ponytail-audit](https://www.skills.sh/dietrichgebert/ponytail/ponytail-audit)** — Audit a repo like its new senior owner.
-- **[bmad-review](https://www.skills.sh/bmad-code-org/bmad-method/bmad-review)** — Run a BMad review.
+- **[code-review-and-quality](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/code-review-and-quality/SKILL.md)** — Multi-dimensional code review.
+- **[security-and-hardening](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/security-and-hardening/SKILL.md)** — Security-first development.
+- **[security-audit](https://github.com/cloudflare/security-audit-skill/blob/HEAD/skills/security-audit/SKILL.md)** — Find vulnerabilities at trust boundaries.
+- **[bmad-code-review](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-code-review/SKILL.md)** — BMad code review workflow.
+- **[ponytail-audit](https://github.com/DietrichGebert/ponytail/blob/HEAD/skills/ponytail-audit/SKILL.md)** — Audit a repo like its new senior owner.
+- **[bmad-review](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-review/SKILL.md)** — Run a BMad review.
 
 <a id="product-s5"></a>
 <a id="product-deploy--ci"></a>
 #### Deploy & CI
 
-- **[ci-cd-and-automation](https://www.skills.sh/addyosmani/agent-skills/ci-cd-and-automation)** — CI/CD quality gates.
-- **[deploy-checklist](https://www.skills.sh/anthropics/knowledge-work-plugins/deploy-checklist)** — Pre-deploy checklist.
-- **[docker-patterns](https://www.skills.sh/affaan-m/ecc/docker-patterns)** — Production Docker and Compose patterns.
-- **[aws-deployment](https://www.skills.sh/aws/agent-toolkit-for-aws/aws-deployment)** — AWS CI/CD deployment.
+- **[ci-cd-and-automation](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/ci-cd-and-automation/SKILL.md)** — CI/CD quality gates.
+- **[deploy-checklist](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/deploy-checklist/SKILL.md)** — Pre-deploy checklist.
+- **[docker-patterns](https://github.com/affaan-m/ECC/blob/HEAD/skills/docker-patterns/SKILL.md)** — Production Docker and Compose patterns.
+- **[aws-deployment](https://github.com/aws/agent-toolkit-for-aws/blob/HEAD/skills/core-skills/aws-deployment/SKILL.md)** — AWS CI/CD deployment.
 
 <a id="product-s6"></a>
 <a id="product-debugging--performance"></a>
 #### Debugging & performance
 
-- **[debugging-and-error-recovery](https://www.skills.sh/addyosmani/agent-skills/debugging-and-error-recovery)** — Systematic debugging.
-- **[performance-optimization](https://www.skills.sh/addyosmani/agent-skills/performance-optimization)** — Measure before optimizing.
-- **[debug](https://www.skills.sh/anthropics/knowledge-work-plugins/debug)** — Structured debugging workflow.
-- **[debug-optimize-lcp](https://www.skills.sh/chromedevtools/chrome-devtools-mcp/debug-optimize-lcp)** — Find and fix Largest Contentful Paint.
+- **[debugging-and-error-recovery](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/debugging-and-error-recovery/SKILL.md)** — Systematic debugging.
+- **[performance-optimization](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/performance-optimization/SKILL.md)** — Measure before optimizing.
+- **[debug](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/debug/SKILL.md)** — Structured debugging workflow.
+- **[debug-optimize-lcp](https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/HEAD/skills/debug-optimize-lcp/SKILL.md)** — Find and fix Largest Contentful Paint.
 
 <a id="product-s7"></a>
 <a id="product-docs--context"></a>
 #### Docs & context
 
-- **[documentation-and-adrs](https://www.skills.sh/addyosmani/agent-skills/documentation-and-adrs)** — Write docs and ADRs.
-- **[documentation](https://www.skills.sh/anthropics/knowledge-work-plugins/documentation)** — Write technical documentation.
-- **[tech-debt](https://www.skills.sh/anthropics/knowledge-work-plugins/tech-debt)** — Manage technical debt.
-- **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — Run incident response.
-- **[context-engineering](https://www.skills.sh/addyosmani/agent-skills/context-engineering)** — Engineer agent context.
-- **[incremental-implementation](https://www.skills.sh/addyosmani/agent-skills/incremental-implementation)** — Ship in small increments.
-- **[source-driven-development](https://www.skills.sh/addyosmani/agent-skills/source-driven-development)** — Develop from source truth.
-- **[interview-me](https://www.skills.sh/addyosmani/agent-skills/interview-me)** — Interview the user before building.
-- **[doubt-driven-development](https://www.skills.sh/addyosmani/agent-skills/doubt-driven-development)** — Build with explicit doubt.
-- **[constraint-driven-development](https://www.skills.sh/addyosmani/agent-skills/constraint-driven-development)** — Build under constraints.
-- **[observability-and-instrumentation](https://www.skills.sh/addyosmani/agent-skills/observability-and-instrumentation)** — Add observability and instrumentation.
-- **[measure-instrumentation-spec](https://www.skills.sh/product-on-purpose/pm-skills/measure-instrumentation-spec)** — Write an instrumentation spec.
+- **[documentation-and-adrs](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/documentation-and-adrs/SKILL.md)** — Write docs and ADRs.
+- **[documentation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/documentation/SKILL.md)** — Write technical documentation.
+- **[tech-debt](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/tech-debt/SKILL.md)** — Manage technical debt.
+- **[incident-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/incident-response/SKILL.md)** — Run incident response.
+- **[context-engineering](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/context-engineering/SKILL.md)** — Engineer agent context.
+- **[incremental-implementation](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/incremental-implementation/SKILL.md)** — Ship in small increments.
+- **[source-driven-development](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/source-driven-development/SKILL.md)** — Develop from source truth.
+- **[interview-me](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/interview-me/SKILL.md)** — Interview the user before building.
+- **[doubt-driven-development](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/doubt-driven-development/SKILL.md)** — Build with explicit doubt.
+- **[constraint-driven-development](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/constraint-driven-development/SKILL.md)** — Build under constraints.
+- **[observability-and-instrumentation](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/observability-and-instrumentation/SKILL.md)** — Add observability and instrumentation.
+- **[measure-instrumentation-spec](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-instrumentation-spec/SKILL.md)** — Write an instrumentation spec.
 
 <a id="product-s8"></a>
 <a id="product-release--design-handoff"></a>
 #### Release & design handoff
 
-- **[develop-design-rationale](https://www.skills.sh/product-on-purpose/pm-skills/develop-design-rationale)** — Document design rationale.
-- **[deliver-release-notes](https://www.skills.sh/product-on-purpose/pm-skills/deliver-release-notes)** — Write release notes.
+- **[develop-design-rationale](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/develop-design-rationale/SKILL.md)** — Document design rationale.
+- **[deliver-release-notes](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-release-notes/SKILL.md)** — Write release notes.
 
 <a id="product-s9"></a>
 <a id="product-code-naming"></a>
 #### Code naming
 
-- **[naming-analyzer](https://www.skills.sh/softaworks/agent-toolkit/naming-analyzer)** — Improve variable, function, class, file and API names using context and conventions.
+- **[naming-analyzer](https://github.com/softaworks/agent-toolkit/blob/HEAD/skills/naming-analyzer/SKILL.md)** — Improve variable, function, class, file and API names using context and conventions.
 
 [Back to contents](#contents)
 
@@ -393,284 +392,283 @@ Design is a big block: style, type, components, motion, Figma and frontend.
 <a id="design-visual-styles"></a>
 #### Visual styles
 
-- **[minimal](https://www.skills.sh/bergside/awesome-design-skills/minimal)** — Minimal visual style.
-- **[editorial](https://www.skills.sh/bergside/awesome-design-skills/editorial)** — Editorial magazine style.
-- **[bento](https://www.skills.sh/bergside/awesome-design-skills/bento)** — Bento grid layout style.
-- **[glassmorphism](https://www.skills.sh/bergside/awesome-design-skills/glassmorphism)** — Glassmorphism visual style.
-- **[neobrutalism](https://www.skills.sh/bergside/awesome-design-skills/neobrutalism)** — Neobrutalist visual style.
-- **[premium](https://www.skills.sh/bergside/awesome-design-skills/premium)** — Premium, high-end visual style.
-- **[enterprise](https://www.skills.sh/bergside/awesome-design-skills/enterprise)** — Enterprise-grade visual style.
-- **[professional](https://www.skills.sh/bergside/awesome-design-skills/professional)** — Professional, trustworthy style.
-- **[storytelling](https://www.skills.sh/bergside/awesome-design-skills/storytelling)** — Narrative-driven visual style.
-- **[shadcn](https://www.skills.sh/bergside/awesome-design-skills/shadcn)** — shadcn/ui visual style.
+- **[minimal](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/minimal/SKILL.md)** — Minimal visual style.
+- **[editorial](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/editorial/SKILL.md)** — Editorial magazine style.
+- **[bento](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/bento/SKILL.md)** — Bento grid layout style.
+- **[glassmorphism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/glassmorphism/SKILL.md)** — Glassmorphism visual style.
+- **[neobrutalism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/neobrutalism/SKILL.md)** — Neobrutalist visual style.
+- **[premium](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/premium/SKILL.md)** — Premium, high-end visual style.
+- **[enterprise](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/enterprise/SKILL.md)** — Enterprise-grade visual style.
+- **[professional](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/professional/SKILL.md)** — Professional, trustworthy style.
+- **[storytelling](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/storytelling/SKILL.md)** — Narrative-driven visual style.
+- **[shadcn](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/shadcn/SKILL.md)** — shadcn/ui visual style.
 
 <a id="design-s2"></a>
 <a id="design-type-color--layout"></a>
 #### Type, color & layout
 
-- **[typography-scale](https://www.skills.sh/owl-listener/designer-skills/typography-scale)** — Build a modular type scale.
-- **[color-system](https://www.skills.sh/owl-listener/designer-skills/color-system)** — Build an accessible color system.
-- **[spacing-system](https://www.skills.sh/owl-listener/designer-skills/spacing-system)** — Define a spacing scale.
-- **[layout-grid](https://www.skills.sh/owl-listener/designer-skills/layout-grid)** — Design a responsive grid.
-- **[icon-system](https://www.skills.sh/owl-listener/designer-skills/icon-system)** — Build a consistent icon system.
-- **[visual-hierarchy](https://www.skills.sh/owl-listener/designer-skills/visual-hierarchy)** — Establish visual hierarchy.
-- **[responsive-design](https://www.skills.sh/owl-listener/designer-skills/responsive-design)** — Design responsive layouts.
-- **[dark-mode-design](https://www.skills.sh/owl-listener/designer-skills/dark-mode-design)** — Design dark mode.
-- **[theming-system](https://www.skills.sh/owl-listener/designer-skills/theming-system)** — Build a theme system.
-- **[readable-measure](https://www.skills.sh/owl-listener/designer-skills/readable-measure)** — Set readable line lengths.
+- **[typography-scale](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/typography-scale/SKILL.md)** — Build a modular type scale.
+- **[color-system](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/color-system/SKILL.md)** — Build an accessible color system.
+- **[spacing-system](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/spacing-system/SKILL.md)** — Define a spacing scale.
+- **[layout-grid](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/layout-grid/SKILL.md)** — Design a responsive grid.
+- **[icon-system](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/icon-system/SKILL.md)** — Build a consistent icon system.
+- **[visual-hierarchy](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/visual-hierarchy/SKILL.md)** — Establish visual hierarchy.
+- **[responsive-design](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/responsive-design/SKILL.md)** — Design responsive layouts.
+- **[dark-mode-design](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/dark-mode-design/SKILL.md)** — Design dark mode.
+- **[theming-system](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/theming-system/SKILL.md)** — Build a theme system.
+- **[readable-measure](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/readable-measure/SKILL.md)** — Set readable line lengths.
 
 <a id="design-s3"></a>
 <a id="design-ux-patterns"></a>
 #### UX patterns
 
-- **[user-flow-diagram](https://www.skills.sh/owl-listener/designer-skills/user-flow-diagram)** — Draw user flows.
-- **[wireframe-spec](https://www.skills.sh/owl-listener/designer-skills/wireframe-spec)** — Write a wireframe spec.
-- **[micro-interaction-spec](https://www.skills.sh/owl-listener/designer-skills/micro-interaction-spec)** — Specify micro-interactions.
-- **[loading-states](https://www.skills.sh/owl-listener/designer-skills/loading-states)** — Design loading states.
-- **[error-handling-ux](https://www.skills.sh/owl-listener/designer-skills/error-handling-ux)** — Design error handling and recovery.
-- **[state-machine](https://www.skills.sh/owl-listener/designer-skills/state-machine)** — Model UI state machines.
-- **[form-design](https://www.skills.sh/owl-listener/designer-skills/form-design)** — Design forms that convert.
-- **[navigation-patterns](https://www.skills.sh/owl-listener/designer-skills/navigation-patterns)** — Choose navigation patterns.
-- **[onboarding-design](https://www.skills.sh/owl-listener/designer-skills/onboarding-design)** — Design onboarding.
-- **[information-architecture](https://www.skills.sh/owl-listener/designer-skills/information-architecture)** — Structure information architecture.
-- **[search-ux](https://www.skills.sh/owl-listener/designer-skills/search-ux)** — Design search experiences.
-- **[feedback-patterns](https://www.skills.sh/owl-listener/designer-skills/feedback-patterns)** — Design feedback patterns.
+- **[user-flow-diagram](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/user-flow-diagram/SKILL.md)** — Draw user flows.
+- **[wireframe-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/wireframe-spec/SKILL.md)** — Write a wireframe spec.
+- **[micro-interaction-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/micro-interaction-spec/SKILL.md)** — Specify micro-interactions.
+- **[loading-states](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/loading-states/SKILL.md)** — Design loading states.
+- **[error-handling-ux](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/error-handling-ux/SKILL.md)** — Design error handling and recovery.
+- **[state-machine](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/state-machine/SKILL.md)** — Model UI state machines.
+- **[form-design](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/form-design/SKILL.md)** — Design forms that convert.
+- **[navigation-patterns](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/navigation-patterns/SKILL.md)** — Choose navigation patterns.
+- **[onboarding-design](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/onboarding-design/SKILL.md)** — Design onboarding.
+- **[information-architecture](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/information-architecture/SKILL.md)** — Structure information architecture.
+- **[search-ux](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/search-ux/SKILL.md)** — Design search experiences.
+- **[feedback-patterns](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/feedback-patterns/SKILL.md)** — Design feedback patterns.
 
 <a id="design-s4"></a>
 <a id="design-design-systems"></a>
 #### Design systems
 
-- **[design-token](https://www.skills.sh/owl-listener/designer-skills/design-token)** — Define design tokens.
-- **[design-token-audit](https://www.skills.sh/owl-listener/designer-skills/design-token-audit)** — Audit design tokens.
-- **[component-spec](https://www.skills.sh/owl-listener/designer-skills/component-spec)** — Write component specs.
-- **[pattern-library](https://www.skills.sh/owl-listener/designer-skills/pattern-library)** — Build a pattern library.
-- **[design-system-governance](https://www.skills.sh/owl-listener/designer-skills/design-system-governance)** — Govern a design system.
-- **[design-system-adoption](https://www.skills.sh/owl-listener/designer-skills/design-system-adoption)** — Drive design-system adoption.
-- **[naming-convention](https://www.skills.sh/owl-listener/designer-skills/naming-convention)** — Set naming conventions.
-- **[handoff-spec](https://www.skills.sh/owl-listener/designer-skills/handoff-spec)** — Write a design handoff spec.
-- **[extract-design-system](https://www.skills.sh/arvindrk/extract-design-system/extract-design-system)** — Reverse-engineer a design system from a site.
-- **[expo-design-system](https://www.skills.sh/expo/skills/expo-design-system)** — One visual system across Expo screens.
-- **[figma-create-design-system-rules](https://www.skills.sh/openai/skills/figma-create-design-system-rules)** — Generate design-system rules.
-- **[figma-generate-design](https://www.skills.sh/figma/mcp-server-guide/figma-generate-design)** — Generate screens from a design system.
+- **[design-token](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/design-token/SKILL.md)** — Define design tokens.
+- **[design-token-audit](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-token-audit/SKILL.md)** — Audit design tokens.
+- **[component-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/component-spec/SKILL.md)** — Write component specs.
+- **[pattern-library](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/pattern-library/SKILL.md)** — Build a pattern library.
+- **[design-system-governance](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/design-system-governance/SKILL.md)** — Govern a design system.
+- **[design-system-adoption](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-system-adoption/SKILL.md)** — Drive design-system adoption.
+- **[naming-convention](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/naming-convention/SKILL.md)** — Set naming conventions.
+- **[handoff-spec](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/handoff-spec/SKILL.md)** — Write a design handoff spec.
+- **[extract-design-system](https://github.com/arvindrk/extract-design-system/blob/HEAD/skills/extract-design-system/SKILL.md)** — Reverse-engineer a design system from a site.
+- **[expo-design-system](https://github.com/expo/skills/blob/HEAD/plugins/expo/skills/expo-design-system/SKILL.md)** — One visual system across Expo screens.
+- **[figma-create-design-system-rules](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-create-design-system-rules/SKILL.md)** — Generate design-system rules.
+- **[figma-generate-design](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-design/SKILL.md)** — Generate screens from a design system.
 
 <a id="design-s5"></a>
 <a id="design-critique--research"></a>
 #### Critique & research
 
-- **[design-critique](https://www.skills.sh/owl-listener/designer-skills/design-critique)** — Facilitate a design critique.
-- **[design-qa-checklist](https://www.skills.sh/owl-listener/designer-skills/design-qa-checklist)** — Run a design QA checklist.
-- **[heuristic-evaluation](https://www.skills.sh/owl-listener/designer-skills/heuristic-evaluation)** — Run a heuristic evaluation.
-- **[usability-test-plan](https://www.skills.sh/owl-listener/designer-skills/usability-test-plan)** — Plan a usability test.
-- **[accessibility-test-plan](https://www.skills.sh/owl-listener/designer-skills/accessibility-test-plan)** — Plan accessibility testing.
-- **[a-b-test-design](https://www.skills.sh/owl-listener/designer-skills/a-b-test-design)** — Design an A/B test.
-- **[card-sort-analysis](https://www.skills.sh/owl-listener/designer-skills/card-sort-analysis)** — Analyze card-sort results.
-- **[interview-script](https://www.skills.sh/owl-listener/designer-skills/interview-script)** — Write a user interview script.
-- **[summarize-interview](https://www.skills.sh/owl-listener/designer-skills/summarize-interview)** — Summarize interviews.
-- **[journey-map](https://www.skills.sh/owl-listener/designer-skills/journey-map)** — Build a customer journey map.
-- **[service-blueprint](https://www.skills.sh/owl-listener/designer-skills/service-blueprint)** — Build a service blueprint.
+- **[design-critique](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-critique/SKILL.md)** — Facilitate a design critique.
+- **[design-qa-checklist](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-qa-checklist/SKILL.md)** — Run a design QA checklist.
+- **[heuristic-evaluation](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/heuristic-evaluation/SKILL.md)** — Run a heuristic evaluation.
+- **[usability-test-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/usability-test-plan/SKILL.md)** — Plan a usability test.
+- **[accessibility-test-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/accessibility-test-plan/SKILL.md)** — Plan accessibility testing.
+- **[a-b-test-design](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/a-b-test-design/SKILL.md)** — Design an A/B test.
+- **[card-sort-analysis](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/card-sort-analysis/SKILL.md)** — Analyze card-sort results.
+- **[interview-script](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/interview-script/SKILL.md)** — Write a user interview script.
+- **[summarize-interview](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/summarize-interview/SKILL.md)** — Summarize interviews.
+- **[journey-map](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/journey-map/SKILL.md)** — Build a customer journey map.
+- **[service-blueprint](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/service-blueprint/SKILL.md)** — Build a service blueprint.
 
 <a id="design-s6"></a>
 <a id="design-motion--3d"></a>
 #### Motion & 3D
 
-- **[build-awwwards-quality-sites](https://www.skills.sh/mengto/skills/build-awwwards-quality-sites)** — Build an Awwwards-quality site.
-- **[cinematic-scroll-storytelling](https://www.skills.sh/mengto/skills/cinematic-scroll-storytelling)** — Build cinematic scroll storytelling.
-- **[animation-on-scroll](https://www.skills.sh/mengto/skills/animation-on-scroll)** — Add scroll-triggered animation.
-- **[animation-systems](https://www.skills.sh/mengto/skills/animation-systems)** — Design a motion system.
-- **[gsap](https://www.skills.sh/mengto/skills/gsap)** — Animate with GSAP.
-- **[gsap-scrolltrigger-storytelling](https://www.skills.sh/mengto/skills/gsap-scrolltrigger-storytelling)** — Build ScrollTrigger narratives.
-- **[beautiful-shadows](https://www.skills.sh/mengto/skills/beautiful-shadows)** — Craft layered shadows.
-- **[no-ai-design-slop](https://www.skills.sh/mengto/skills/no-ai-design-slop)** — Remove generic AI design tells.
-- **[progressive-blur](https://www.skills.sh/mengto/skills/progressive-blur)** — Add progressive blur effects.
-- **[masked-reveal](https://www.skills.sh/mengto/skills/masked-reveal)** — Build masked reveal transitions.
-- **[glass-dark-ui](https://www.skills.sh/mengto/skills/glass-dark-ui)** — Build dark glass UI.
-- **[scroll-world-storytelling](https://www.skills.sh/mengto/skills/scroll-world-storytelling)** — Build a scroll-driven world.
-- **[threejs-shaders](https://www.skills.sh/cloudai-x/threejs-skills/threejs-shaders)** — Three.js shaders.
-- **[threejs-fundamentals](https://www.skills.sh/cloudai-x/threejs-skills/threejs-fundamentals)** — Three.js scenes and rendering basics.
-- **[remotion-render](https://www.skills.sh/101-skills/superpowers/remotion-render)** — Render video with Remotion.
-- **[transitions-polish](https://www.skills.sh/jakubantalik/transitions.dev/transitions-polish)** — Polish transitions and motion.
+- **[build-awwwards-quality-sites](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/build-awwwards-quality-sites/SKILL.md)** — Build an Awwwards-quality site.
+- **[cinematic-scroll-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/cinematic-scroll-storytelling/SKILL.md)** — Build cinematic scroll storytelling.
+- **[animation-on-scroll](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/animation-on-scroll/SKILL.md)** — Add scroll-triggered animation.
+- **[animation-systems](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/animation-systems/SKILL.md)** — Design a motion system.
+- **[gsap](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/gsap/SKILL.md)** — Animate with GSAP.
+- **[gsap-scrolltrigger-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md)** — Build ScrollTrigger narratives.
+- **[beautiful-shadows](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/beautiful-shadows/SKILL.md)** — Craft layered shadows.
+- **[no-ai-design-slop](https://github.com/mengto/skills/blob/HEAD/agent-skills/ui/no-ai-design-slop/SKILL.md)** — Remove generic AI design tells.
+- **[progressive-blur](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/progressive-blur/SKILL.md)** — Add progressive blur effects.
+- **[masked-reveal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/masked-reveal/SKILL.md)** — Build masked reveal transitions.
+- **[glass-dark-ui](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/glass-dark-ui/SKILL.md)** — Build dark glass UI.
+- **[scroll-world-storytelling](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/scroll-world-storytelling/SKILL.md)** — Build a scroll-driven world.
+- **[threejs-shaders](https://github.com/CloudAI-X/threejs-skills/blob/HEAD/skills/threejs-shaders/SKILL.md)** — Three.js shaders.
+- **[threejs-fundamentals](https://github.com/CloudAI-X/threejs-skills/blob/HEAD/skills/threejs-fundamentals/SKILL.md)** — Three.js scenes and rendering basics.
+- **[remotion-render](https://github.com/101-skills/superpowers/blob/HEAD/tools/video/remotion-render/SKILL.md)** — Render video with Remotion.
+- **[transitions-polish](https://github.com/Jakubantalik/transitions.dev/blob/HEAD/skills/transitions-polish/SKILL.md)** — Polish transitions and motion.
 
 <a id="design-s7"></a>
 <a id="design-page-design"></a>
 #### Page design
 
-- **[landing-page](https://www.skills.sh/mengto/skills/landing-page)** — Design a high-conversion landing page.
-- **[pricing-page](https://www.skills.sh/mengto/skills/pricing-page)** — Design a pricing page.
-- **[tailwind-design-system](https://www.skills.sh/wshobson/agents/tailwind-design-system)** — Build a Tailwind design system.
-- **[brand-landingpage](https://www.skills.sh/wshobson/agents/brand-landingpage)** — Build a brand landing page.
-- **[mobile-android-design](https://www.skills.sh/wshobson/agents/mobile-android-design)** — Design Android screens.
-- **[mobile-ios-design](https://www.skills.sh/wshobson/agents/mobile-ios-design)** — Design iOS screens.
+- **[landing-page](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/landing-page/SKILL.md)** — Design a high-conversion landing page.
+- **[pricing-page](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/pricing-page/SKILL.md)** — Design a pricing page.
+- **[tailwind-design-system](https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md)** — Build a Tailwind design system.
+- **[brand-landingpage](https://github.com/wshobson/agents/blob/HEAD/plugins/brand-landingpage/skills/brand-landingpage/SKILL.md)** — Build a brand landing page.
+- **[mobile-android-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/mobile-android-design/SKILL.md)** — Design Android screens.
+- **[mobile-ios-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/mobile-ios-design/SKILL.md)** — Design iOS screens.
 
 <a id="design-s8"></a>
 <a id="design-figma"></a>
 #### Figma
 
-- **[figma-use](https://www.skills.sh/figma/mcp-server-guide/figma-use)** — Operate Figma through the Plugin API.
-- **[figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design)** — Turn Figma designs into code.
-- **[figma-code-connect](https://www.skills.sh/figma/mcp-server-guide/figma-code-connect)** — Map Figma components to code components.
-- **[figma-create-new-file](https://www.skills.sh/figma/mcp-server-guide/figma-create-new-file)** — Create Figma Design, FigJam or Slides files.
-- **[figma-generate-library](https://www.skills.sh/figma/mcp-server-guide/figma-generate-library)** — Generate a Figma design library.
-- **[figma-design-to-code](https://www.skills.sh/figma/mcp-server-guide/figma-design-to-code)** — Turn Figma designs into code.
-- **[figma-generate-diagram](https://www.skills.sh/figma/mcp-server-guide/figma-generate-diagram)** — Generate Figma diagrams.
-- **[figma-use-figjam](https://www.skills.sh/figma/mcp-server-guide/figma-use-figjam)** — Operate FigJam boards.
-- **[figma-use-slides](https://www.skills.sh/figma/mcp-server-guide/figma-use-slides)** — Build Figma Slides decks.
-- **[figma-implement-motion](https://www.skills.sh/figma/mcp-server-guide/figma-implement-motion)** — Implement Figma motion.
-- **[figma-swiftui](https://www.skills.sh/figma/mcp-server-guide/figma-swiftui)** — Turn Figma into SwiftUI.
-- **[figma-spec](https://www.skills.sh/figma/mcp-server-guide/figma-spec)** — Write a Figma spec.
+- **[figma-use](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use/SKILL.md)** — Operate Figma through the Plugin API.
+- **[figma-implement-design](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-implement-design/SKILL.md)** — Turn Figma designs into code.
+- **[figma-code-connect](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-code-connect/SKILL.md)** — Create and maintain Code Connect templates mapping design components to code.
+- **[figma-create-new-file](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-create-new-file/SKILL.md)** — Create Figma Design, FigJam or Slides files.
+- **[figma-generate-library](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-library/SKILL.md)** — Generate a Figma design library.
+- **[figma-design-to-code](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-design-to-code/SKILL.md)** — Turn Figma designs into code.
+- **[figma-generate-diagram](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-diagram/SKILL.md)** — Generate Figma diagrams.
+- **[figma-use-figjam](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use-figjam/SKILL.md)** — Operate FigJam boards.
+- **[figma-use-slides](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use-slides/SKILL.md)** — Build Figma Slides decks.
+- **[figma-implement-motion](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-implement-motion/SKILL.md)** — Implement Figma motion.
+- **[figma-swiftui](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-swiftui/SKILL.md)** — Turn Figma into SwiftUI.
+- **[figma-spec](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-spec/SKILL.md)** — Write a Figma spec.
 
 <a id="design-s9"></a>
 <a id="design-ui--visual"></a>
 #### UI & visual
 
-- **[frontend-design](https://www.skills.sh/anthropics/skills/frontend-design)** — Distinctive, production-grade frontend design.
-- **[huashu-design](https://www.skills.sh/alchaincyf/huashu-design/huashu-design)** — Chinese HTML design with proposal-first workflow.
-- **[mobile-app-ui-design](https://www.skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design)** — Mobile app UI/UX design.
-- **[web-design-engineer](https://www.skills.sh/conardli/garden-skills/web-design-engineer)** — Design-engineering for the web.
-- **[canvas-design](https://www.skills.sh/anthropics/skills/canvas-design)** — Visual style and design philosophy.
-- **[design-lab](https://www.skills.sh/0xdesign/design-plugin/design-lab)** — Design experiments and variants.
-- **[theme-factory](https://www.skills.sh/anthropics/skills/theme-factory)** — Generate UI themes.
-- **[web-artifacts-builder](https://www.skills.sh/anthropics/skills/web-artifacts-builder)** — Build web artifacts.
-- **[algorithmic-art](https://www.skills.sh/anthropics/skills/algorithmic-art)** — Generate algorithmic art.
+- **[frontend-design](https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md)** — Distinctive, production-grade frontend design.
+- **[huashu-design](https://github.com/alchaincyf/huashu-design/blob/HEAD/SKILL.md)** — Chinese HTML design with proposal-first workflow.
+- **[mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design/blob/HEAD/SKILL.md)** — Mobile app UI/UX design.
+- **[web-design-engineer](https://github.com/ConardLi/garden-skills/blob/HEAD/skills/web-design-engineer/SKILL.md)** — Design-engineering for the web.
+- **[canvas-design](https://github.com/anthropics/skills/blob/HEAD/skills/canvas-design/SKILL.md)** — Visual style and design philosophy.
+- **[design-lab](https://github.com/0xdesign/design-plugin/blob/HEAD/design-and-refine/skills/design-lab/SKILL.md)** — Design experiments and variants.
+- **[theme-factory](https://github.com/anthropics/skills/blob/HEAD/skills/theme-factory/SKILL.md)** — Generate UI themes.
+- **[web-artifacts-builder](https://github.com/anthropics/skills/blob/HEAD/skills/web-artifacts-builder/SKILL.md)** — Build web artifacts.
+- **[algorithmic-art](https://github.com/anthropics/skills/blob/HEAD/skills/algorithmic-art/SKILL.md)** — Generate algorithmic art.
 
 <a id="design-s10"></a>
 <a id="design-frontend-implementation"></a>
 #### Frontend implementation
 
-- **[frontend-ui-engineering](https://www.skills.sh/addyosmani/agent-skills/frontend-ui-engineering)** — Production-quality UI engineering.
-- **[react-patterns](https://www.skills.sh/affaan-m/ecc/react-patterns)** — Idiomatic React 18/19 patterns.
-- **[react-performance](https://www.skills.sh/affaan-m/ecc/react-performance)** — React and Next.js performance.
-- **[swiftui-expert-skill](https://www.skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill)** — SwiftUI expert operating rules.
+- **[frontend-ui-engineering](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/frontend-ui-engineering/SKILL.md)** — Production-quality UI engineering.
+- **[react-patterns](https://github.com/affaan-m/ECC/blob/HEAD/skills/react-patterns/SKILL.md)** — Idiomatic React 18/19 patterns.
+- **[react-performance](https://github.com/affaan-m/ECC/blob/HEAD/skills/react-performance/SKILL.md)** — React and Next.js performance.
+- **[swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/blob/HEAD/skills/swiftui-expert-skill/SKILL.md)** — SwiftUI expert operating rules.
 
 <a id="design-s11"></a>
 <a id="design-accessibility"></a>
 #### Accessibility
 
-- **[better-accessibility](https://www.skills.sh/jakubkrehel/skills/better-accessibility)** — Fix semantics, keyboard and focus.
-- **[fixing-accessibility](https://www.skills.sh/ibelick/ui-skills/fixing-accessibility)** — Systematically fix accessibility issues.
-- **[wcag-audit-patterns](https://www.skills.sh/wshobson/agents/wcag-audit-patterns)** — WCAG 2.2 audit patterns.
-- **[accessibility-audit](https://www.skills.sh/accesslint/skills/accessibility-audit)** — Full WCAG 2.2 accessibility audit.
-- **[accessibility-fix](https://www.skills.sh/accesslint/skills/accessibility-fix)** — Fix accessibility issues from a baseline.
+- **[better-accessibility](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-accessibility/SKILL.md)** — Fix semantics, keyboard and focus.
+- **[fixing-accessibility](https://github.com/ibelick/ui-skills/blob/HEAD/skills/fixing-accessibility/SKILL.md)** — Systematically fix accessibility issues.
+- **[wcag-audit-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/accessibility-compliance/skills/wcag-audit-patterns/SKILL.md)** — WCAG 2.2 audit patterns.
+- **[accessibility-audit](https://github.com/AccessLint/skills/blob/HEAD/plugins/accesslint/skills/accessibility-audit/SKILL.md)** — Full WCAG 2.2 accessibility audit.
+- **[accessibility-fix](https://github.com/AccessLint/skills/blob/HEAD/plugins/accesslint/skills/accessibility-fix/SKILL.md)** — Fix accessibility issues from a baseline.
 
 <a id="design-s12"></a>
 <a id="design-logo--brand-identity"></a>
 #### Logo & brand identity
 
-- **[logo-design](https://www.skills.sh/kaankiziltug/logo-design-skill/logo-design)** — Logo design.
-- **[logo-design-guide](https://www.skills.sh/inference-sh/skills/logo-design-guide)** — Logo design guide.
-- **[logo-generator](https://www.skills.sh/kostja94/marketing-skills/logo-generator)** — Logo generator.
-- **[logo-designer](https://www.skills.sh/neonwatty/logo-designer-skill/logo-designer)** — Logo designer.
-- **[svg-logo-designer](https://www.skills.sh/rknall/claude-skills/svg-logo-designer)** — SVG logo designer.
-- **[mascot-logo-reconstruction](https://www.skills.sh/roble3/cc-blender-skill/mascot-logo-reconstruction)** — Mascot logo reconstruction.
-- **[logo-animation](https://www.skills.sh/iart-ai/motion-design-skills/logo-animation)** — Logo animation.
-- **[animated-readme-logo](https://www.skills.sh/stark-ai-de/agent-skills/animated-readme-logo)** — Animated README logo.
-- **[muapi-logo-branding](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-branding)** — Logo branding.
-- **[muapi-logo-creator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-creator)** — Logo creator.
-- **[muapi-logo-generator](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-logo-generator)** — Logo generator.
-- **[muapi-3d-logo-animation](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-3d-logo-animation)** — 3D logo animation.
-- **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator (OPC).
-- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
-- **[brand-guidelines](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-guidelines)** — Brand guidelines.
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
-- **[brand-strategy](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-strategy)** — Brand strategy.
-- **[brand-positioning](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-positioning)** — Brand positioning.
-- **[brand-story](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-story)** — Brand story.
-- **[brand-audit](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-audit)** — Brand audit.
-- **[brand-architecture](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-architecture)** — Brand architecture.
-- **[rebranding](https://www.skills.sh/arnabbagxd/brand-building-skills/rebranding)** — Rebranding.
-- **[competitor-branding](https://www.skills.sh/arnabbagxd/brand-building-skills/competitor-branding)** — Competitor branding.
-- **[brand-packaging](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-packaging)** — Brand packaging.
+- **[logo-design](https://github.com/kaankiziltug/logo-design-skill/blob/HEAD/skills/logo-design/SKILL.md)** — Logo design.
+- **[logo-design-guide](https://github.com/inference-sh/skills/blob/HEAD/guides/design/logo-design-guide/SKILL.md)** — Logo design guide.
+- **[logo-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/logo/SKILL.md)** — Logo generator.
+- **[logo-designer](https://github.com/neonwatty/logo-designer-skill/blob/HEAD/skills/logo-designer/SKILL.md)** — Logo designer.
+- **[svg-logo-designer](https://github.com/rknall/claude-skills/blob/HEAD/svg-logo-designer/SKILL.md)** — SVG logo designer.
+- **[mascot-logo-reconstruction](https://github.com/roble3/cc-blender-skill/blob/HEAD/plugin/skills/mascot-logo-reconstruction/SKILL.md)** — Mascot logo reconstruction.
+- **[logo-animation](https://github.com/iart-ai/motion-design-skills/blob/HEAD/skills/logo-animation/SKILL.md)** — Logo animation.
+- **[animated-readme-logo](https://github.com/stark-ai-de/agent-skills/blob/HEAD/skills/engineering-workflows/animated-readme-logo/SKILL.md)** — Animated README logo.
+- **[muapi-logo-branding · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Logo branding.
+- **[muapi-logo-creator](https://github.com/samuraigpt/generative-media-skills/blob/HEAD/.opencode/skills/muapi-logo-creator/SKILL.md)** — Logo creator.
+- **[muapi-logo-generator · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Logo generator.
+- **[muapi-3d-logo-animation · repository entry](https://github.com/samuraigpt/generative-media-skills)** — 3D logo animation.
+- **[logo-creator](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/logo-creator/SKILL.md)** — Logo creator (OPC).
+- **[brand-identity](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-identity/SKILL.md)** — Brand identity.
+- **[brand-guidelines](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-guidelines/SKILL.md)** — Brand guidelines.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming.
+- **[brand-strategy](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-strategy/SKILL.md)** — Brand strategy.
+- **[brand-positioning](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-positioning/SKILL.md)** — Brand positioning.
+- **[brand-story](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-story/SKILL.md)** — Brand story.
+- **[brand-audit](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-audit/SKILL.md)** — Brand audit.
+- **[brand-architecture](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-architecture/SKILL.md)** — Brand architecture.
+- **[rebranding](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/rebranding/SKILL.md)** — Rebranding.
+- **[competitor-branding](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/competitor-branding/SKILL.md)** — Competitor branding.
+- **[brand-packaging](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-packaging/SKILL.md)** — Brand packaging.
 
 <a id="design-s13"></a>
 <a id="design-typography"></a>
 #### Typography
 
-- **[ui-typography](https://www.skills.sh/bencium/bencium-marketplace/ui-typography)** — UI typography.
-- **[modular-scale-typography](https://www.skills.sh/dembrandt/dembrandt-skills/modular-scale-typography)** — Modular type scale.
-- **[kinetic-typography](https://www.skills.sh/iart-ai/kinetic-typography-skills/kinetic-typography)** — Kinetic typography.
-- **[better-typography](https://www.skills.sh/jakubkrehel/skills/better-typography)** — Better typography.
-- **[typography-audit](https://www.skills.sh/mblode/agent-skills/typography-audit)** — Typography audit.
-- **[font-pairing-suggester](https://www.skills.sh/onewave-ai/claude-skills/font-pairing-suggester)** — Font pairing.
-- **[critique-typography](https://www.skills.sh/owl-listener/designer-skills/critique-typography)** — Typography critique.
-- **[web-typography](https://www.skills.sh/wondelai/skills/web-typography)** — Web typography.
-- **[slug-font-rendering](https://www.skills.sh/reason-machines/trending-skills/slug-font-rendering)** — Font rendering.
-- **[layer-typography](https://www.skills.sh/layerai/skills/layer-typography)** — Layer typography.
+- **[ui-typography · repository entry](https://github.com/bencium/bencium-marketplace)** — UI typography.
+- **[modular-scale-typography](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/modular-scale-typography/SKILL.md)** — Modular type scale.
+- **[kinetic-typography](https://github.com/iart-ai/kinetic-typography-skills/blob/HEAD/skills/kinetic-typography/SKILL.md)** — Kinetic typography.
+- **[better-typography](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-typography/SKILL.md)** — Better typography.
+- **[typography-audit](https://github.com/mblode/agent-skills/blob/HEAD/skills/typography-audit/SKILL.md)** — Typography audit.
+- **[font-pairing-suggester](https://github.com/onewave-ai/claude-skills/blob/HEAD/font-pairing-suggester/SKILL.md)** — Font pairing.
+- **[critique-typography](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-typography/SKILL.md)** — Typography critique.
+- **[web-typography](https://github.com/wondelai/skills/blob/HEAD/web-typography/SKILL.md)** — Web typography.
+- **[slug-font-rendering](https://github.com/reason-machines/trending-skills/blob/HEAD/skills/slug-font-rendering/SKILL.md)** — Font rendering.
+- **[layer-typography](https://github.com/layerai/skills/blob/HEAD/plugins/layer/skills/layer-typography/SKILL.md)** — Layer typography.
 
 <a id="design-s14"></a>
 <a id="design-color"></a>
 #### Color
 
-- **[color-accessibility](https://www.skills.sh/aj-geddes/useful-ai-prompts/color-accessibility)** — Color accessibility.
-- **[algorithmic-color-palette](https://www.skills.sh/dembrandt/dembrandt-skills/algorithmic-color-palette)** — Algorithmic palettes.
-- **[color-palette](https://www.skills.sh/jezweb/claude-skills/color-palette)** — Color palette.
-- **[color-expert](https://www.skills.sh/meodai/skill.color-expert/color-expert)** — Color expert.
-- **[color-palette-extractor](https://www.skills.sh/onewave-ai/claude-skills/color-palette-extractor)** — Palette extractor.
-- **[critique-color](https://www.skills.sh/owl-listener/designer-skills/critique-color)** — Color critique.
-- **[better-colors](https://www.skills.sh/jakubkrehel/skills/better-colors)** — Better colors.
-- **[status-colors-and-errors](https://www.skills.sh/dembrandt/dembrandt-skills/status-colors-and-errors)** — Status and error colors.
-- **[color-mode-and-theme](https://www.skills.sh/dembrandt/dembrandt-skills/color-mode-and-theme)** — Color mode and theme.
+- **[color-accessibility](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/color-accessibility/SKILL.md)** — Color accessibility.
+- **[algorithmic-color-palette](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/algorithmic-color-palette/SKILL.md)** — Algorithmic palettes.
+- **[color-palette](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/color-palette/SKILL.md)** — Color palette.
+- **[color-expert](https://github.com/meodai/skill.color-expert/blob/HEAD/SKILL.md)** — Color expert.
+- **[color-palette-extractor](https://github.com/onewave-ai/claude-skills/blob/HEAD/color-palette-extractor/SKILL.md)** — Palette extractor.
+- **[critique-color](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-color/SKILL.md)** — Color critique.
+- **[better-colors](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-colors/SKILL.md)** — Better colors.
+- **[status-colors-and-errors](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/status-colors-and-errors/SKILL.md)** — Status and error colors.
+- **[color-mode-and-theme](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/color-mode-and-theme/SKILL.md)** — Color mode and theme.
 
 <a id="design-s15"></a>
 <a id="design-icons"></a>
 #### Icons
 
-- **[ios-icon-gen](https://www.skills.sh/affaan-m/ecc/ios-icon-gen)** — iOS icon generator.
-- **[icon-retrieval](https://www.skills.sh/antvis/chart-visualization-skills/icon-retrieval)** — Icon retrieval.
-- **[app-icon-optimization](https://www.skills.sh/appeeky/aso-skills/app-icon-optimization)** — App icon optimization.
-- **[better-icons](https://www.skills.sh/better-auth/better-icons/better-icons)** — Better icons.
-- **[favicon](https://www.skills.sh/brianlovin/agent-config/favicon)** — Favicon.
-- **[favicon-gen](https://www.skills.sh/jezweb/claude-skills/favicon-gen)** — Favicon generator.
-- **[icon-set-generator](https://www.skills.sh/jezweb/claude-skills/icon-set-generator)** — Icon set generator.
-- **[svg-icon-generator](https://www.skills.sh/jeremylongshore/tons-of-skills-marketplace/svg-icon-generator)** — SVG icon generator.
-- **[suggest-lucide-icons](https://www.skills.sh/nweii/agent-stuff/suggest-lucide-icons)** — Suggest Lucide icons.
-- **[add-icon](https://www.skills.sh/fortawesome/fontawesome-agent-tools/add-icon)** — Add icon.
+- **[ios-icon-gen](https://github.com/affaan-m/ECC/blob/HEAD/skills/ios-icon-gen/SKILL.md)** — iOS icon generator.
+- **[icon-retrieval](https://github.com/antvis/chart-visualization-skills/blob/HEAD/skills/icon-retrieval/SKILL.md)** — Icon retrieval.
+- **[app-icon-optimization](https://github.com/appeeky/aso-skills/blob/HEAD/skills/app-icon-optimization/SKILL.md)** — App icon optimization.
+- **[better-icons](https://github.com/better-auth/better-icons/blob/HEAD/skills/SKILL.md)** — Better icons.
+- **[favicon-gen](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/favicon-gen/SKILL.md)** — Favicon generator.
+- **[icon-set-generator](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/design-assets/skills/icon-set-generator/SKILL.md)** — Icon set generator.
+- **[svg-icon-generator · repository entry](https://github.com/jeremylongshore/tons-of-skills-marketplace)** — SVG icon generator.
+- **[suggest-lucide-icons](https://github.com/nweii/agent-stuff/blob/HEAD/skills/suggest-lucide-icons/SKILL.md)** — Suggest Lucide icons.
+- **[add-icon](https://github.com/FortAwesome/fontawesome-agent-tools/blob/HEAD/plugins/icons/skills/add-icon/SKILL.md)** — Add icon.
 
 <a id="design-s16"></a>
 <a id="design-layout"></a>
 #### Layout
 
-- **[layout-analyzer](https://www.skills.sh/claude-office-skills/skills/layout-analyzer)** — Layout analyzer.
-- **[better-layout](https://www.skills.sh/jakubkrehel/skills/better-layout)** — Better layout.
-- **[layout-paradigms-and-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/layout-paradigms-and-consistency)** — Layout paradigms.
-- **[tailwindcss-advanced-layouts](https://www.skills.sh/josiahsiegel/claude-plugin-marketplace/tailwindcss-advanced-layouts)** — Tailwind layouts.
+- **[layout-analyzer](https://github.com/claude-office-skills/skills/blob/HEAD/layout-analyzer/SKILL.md)** — Layout analyzer.
+- **[better-layout](https://github.com/jakubkrehel/skills/blob/HEAD/skills/better-layout/SKILL.md)** — Better layout.
+- **[layout-paradigms-and-consistency](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/layout-paradigms-and-consistency/SKILL.md)** — Layout paradigms.
+- **[tailwindcss-advanced-layouts](https://github.com/josiahsiegel/claude-plugin-marketplace/blob/HEAD/plugins/tailwindcss-master/skills/tailwindcss-advanced-layouts/SKILL.md)** — Tailwind layouts.
 
 <a id="design-s17"></a>
 <a id="design-ux--usability"></a>
 #### UX & usability
 
-- **[ux-designer](https://www.skills.sh/aj-geddes/claude-code-bmad-skills/ux-designer)** — UX designer.
-- **[ux-research-discovery-testing](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing)** — UX research and testing.
-- **[ux-usability-foundations](https://www.skills.sh/hueyexe/frontend-agent-skills/ux-usability-foundations)** — Usability foundations.
-- **[ux-audit](https://www.skills.sh/jezweb/claude-skills/ux-audit)** — UX audit.
-- **[ux-friction](https://www.skills.sh/dylantarre/animation-principles/ux-friction)** — UX friction.
-- **[nielsen-usability-heuristics](https://www.skills.sh/dembrandt/dembrandt-skills/nielsen-usability-heuristics)** — Nielsen heuristics.
-- **[user-flows-and-guided-paths](https://www.skills.sh/dembrandt/dembrandt-skills/user-flows-and-guided-paths)** — User flows.
-- **[wireframe-prototyping](https://www.skills.sh/aj-geddes/useful-ai-prompts/wireframe-prototyping)** — Wireframe prototyping.
-- **[prototype](https://www.skills.sh/adobe/skills/prototype)** — Prototyping.
+- **[ux-designer · repository entry](https://github.com/aj-geddes/claude-code-bmad-skills)** — UX designer.
+- **[ux-research-discovery-testing](https://github.com/hueyexe/frontend-agent-skills/blob/HEAD/ux-research-discovery-testing/SKILL.md)** — UX research and testing.
+- **[ux-usability-foundations](https://github.com/hueyexe/frontend-agent-skills/blob/HEAD/ux-usability-foundations/SKILL.md)** — Usability foundations.
+- **[ux-audit](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/dev-tools/skills/ux-audit/SKILL.md)** — UX audit.
+- **[ux-friction](https://github.com/dylantarre/animation-principles/blob/HEAD/skills/12-by-problem-type/ux-friction/SKILL.md)** — UX friction.
+- **[nielsen-usability-heuristics](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/nielsen-usability-heuristics/SKILL.md)** — Nielsen heuristics.
+- **[user-flows-and-guided-paths](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/user-flows-and-guided-paths/SKILL.md)** — User flows.
+- **[wireframe-prototyping](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/wireframe-prototyping/SKILL.md)** — Wireframe prototyping.
+- **[prototype](https://github.com/adobe/skills/blob/HEAD/plugins/stardust/skills/prototype/SKILL.md)** — Prototyping.
 
 <a id="design-s18"></a>
 <a id="design-motion"></a>
 #### Motion
 
-- **[motion-foundations](https://www.skills.sh/affaan-m/ecc/motion-foundations)** — Motion foundations.
-- **[motion-patterns](https://www.skills.sh/affaan-m/ecc/motion-patterns)** — Motion patterns.
-- **[motion-ui](https://www.skills.sh/affaan-m/ecc/motion-ui)** — UI motion.
-- **[motion-dev-animations](https://www.skills.sh/199-biotechnologies/motion-dev-animations-skill/motion-dev-animations)** — Motion dev animations.
-- **[framer-motion](https://www.skills.sh/athevon/genjutsu/framer-motion)** — Framer Motion.
-- **[framer-motion-scroll](https://www.skills.sh/c-jeril/framer-motion-skills/framer-motion-scroll)** — Framer Motion scroll.
-- **[gsap-react](https://www.skills.sh/bbeierle12/skill-mcp-claude/gsap-react)** — GSAP React.
-- **[threejs-animation](https://www.skills.sh/cesartevisual/threejs-skills/threejs-animation)** — Three.js animation.
-- **[threejs-interaction](https://www.skills.sh/cesartevisual/threejs-skills/threejs-interaction)** — Three.js interaction.
-- **[threejs-lighting](https://www.skills.sh/cesartevisual/threejs-skills/threejs-lighting)** — Three.js lighting.
+- **[motion-foundations](https://github.com/affaan-m/ECC/blob/HEAD/skills/motion-foundations/SKILL.md)** — Motion foundations.
+- **[motion-patterns](https://github.com/affaan-m/ECC/blob/HEAD/skills/motion-patterns/SKILL.md)** — Motion patterns.
+- **[motion-ui · repository entry](https://github.com/affaan-m/ECC)** — UI motion.
+- **[motion-dev-animations](https://github.com/199-biotechnologies/motion-dev-animations-skill/blob/HEAD/SKILL.md)** — Motion dev animations.
+- **[framer-motion](https://github.com/AThevon/genjutsu/blob/HEAD/skills/_jutsu/framer-motion/SKILL.md)** — Framer Motion.
+- **[framer-motion-scroll](https://github.com/C-Jeril/framer-motion-skills/blob/HEAD/skills/framer-motion-scroll/SKILL.md)** — Framer Motion scroll.
+- **[gsap-react](https://github.com/Bbeierle12/Skill-MCP-Claude/blob/HEAD/skills/gsap-react/SKILL.md)** — GSAP React.
+- **[threejs-animation](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-animation/SKILL.md)** — Three.js animation.
+- **[threejs-interaction](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-interaction/SKILL.md)** — Three.js interaction.
+- **[threejs-lighting](https://github.com/cesartevisual/threejs-skills/blob/HEAD/skills/threejs-lighting/SKILL.md)** — Three.js lighting.
 
 <a id="design-s19"></a>
 <a id="design-design-systems-1"></a>
 #### Design systems
 
-- **[design-system-creation](https://www.skills.sh/aj-geddes/useful-ai-prompts/design-system-creation)** — Design system creation.
-- **[ui-design-system](https://www.skills.sh/alirezarezvani/claude-skills/ui-design-system)** — UI design system.
-- **[component-family-consistency](https://www.skills.sh/dembrandt/dembrandt-skills/component-family-consistency)** — Component consistency.
-- **[design-system](https://www.skills.sh/affaan-m/ecc/design-system)** — Design system.
-- **[create-design-system-rules](https://www.skills.sh/figma/mcp-server-guide/create-design-system-rules)** — Design system rules.
+- **[design-system-creation](https://github.com/aj-geddes/useful-ai-prompts/blob/HEAD/skills/design-system-creation/SKILL.md)** — Design system creation.
+- **[ui-design-system](https://github.com/alirezarezvani/claude-skills/blob/HEAD/product-team/skills/ui-design-system/SKILL.md)** — UI design system.
+- **[component-family-consistency](https://github.com/dembrandt/dembrandt-skills/blob/HEAD/skills/component-family-consistency/SKILL.md)** — Component consistency.
+- **[design-system](https://github.com/affaan-m/ECC/blob/HEAD/skills/design-system/SKILL.md)** — Design system.
+- **[create-design-system-rules](https://github.com/figma/mcp-server-guide/blob/HEAD/figma-power/steering/create-design-system-rules.md)** — Design system rules.
 
 [Back to contents](#contents)
 
@@ -685,161 +683,161 @@ Visibility, understanding, conversion — one skill per job.
 <a id="marketing-geo--ai-search"></a>
 #### GEO / AI search
 
-- **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
-- **[seo-aeo-best-practices](https://www.skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices)** — Optimize for both SEO and answer engines.
-- **[bencium-aeo](https://www.skills.sh/bencium/bencium-marketplace/bencium-aeo)** — Answer Engine Optimization for content.
+- **[seo-geo](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/seo-geo/SKILL.md)** — Combined SEO and GEO optimization.
+- **[ai-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md)** — Review content structure, sources and crawlability for AI search.
+- **[seo-aeo-best-practices](https://github.com/sanity-io/agent-toolkit/blob/HEAD/skills/seo-aeo-best-practices/SKILL.md)** — Optimize for both SEO and answer engines.
+- **[bencium-aeo](https://github.com/bencium/bencium-marketplace/blob/HEAD/bencium-aeo/skills/bencium-aeo/SKILL.md)** — Answer Engine Optimization for content.
 
 <a id="marketing-s2"></a>
 <a id="marketing-seo"></a>
 #### SEO
 
-- **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — Full-site SEO audit.
-- **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — Template × data page generation.
-- **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — Structured data and schema markup.
-- **[keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research)** — Keyword opportunity research.
-- **[seo-coach](https://www.skills.sh/every-app/open-seo/seo-coach)** — Site-specific SEO coaching.
-- **[firecrawl-seo-audit](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit)** — Evidence-based SEO audit by crawling.
-- **[link-prospecting](https://www.skills.sh/every-app/open-seo/link-prospecting)** — Find realistic link opportunities.
-- **[seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content)** — Write SEO content.
-- **[seo-sitemap](https://www.skills.sh/agricidaniel/claude-seo/seo-sitemap)** — Audit and generate sitemaps.
-- **[seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical)** — Run a technical SEO audit.
-- **[seo-backlinks](https://www.skills.sh/agricidaniel/claude-seo/seo-backlinks)** — Analyze backlinks.
-- **[seo-schema](https://www.skills.sh/agricidaniel/claude-seo/seo-schema)** — Implement schema markup.
-- **[seo-page](https://www.skills.sh/agricidaniel/claude-seo/seo-page)** — Optimize a single page.
-- **[seo-competitor-pages](https://www.skills.sh/agricidaniel/claude-seo/seo-competitor-pages)** — Build competitor comparison pages.
-- **[youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo)** — Optimize for YouTube search.
-- **[local-seo](https://www.skills.sh/kostja94/marketing-skills/local-seo)** — Optimize local SEO.
-- **[entity-seo](https://www.skills.sh/kostja94/marketing-skills/entity-seo)** — Build entity SEO.
-- **[parasite-seo](https://www.skills.sh/kostja94/marketing-skills/parasite-seo)** — Run parasite SEO.
+- **[seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md)** — Full-site SEO audit.
+- **[programmatic-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/programmatic-seo/SKILL.md)** — Template × data page generation.
+- **[schema](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/schema/SKILL.md)** — Structured data and schema markup.
+- **[keyword-research](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/keyword-research/SKILL.md)** — Keyword opportunity research.
+- **[seo-coach](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/seo-coach/SKILL.md)** — Site-specific SEO coaching.
+- **[firecrawl-seo-audit](https://github.com/firecrawl/firecrawl-workflows/blob/HEAD/skills/firecrawl-seo-audit/SKILL.md)** — Evidence-based SEO audit by crawling.
+- **[link-prospecting](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/link-prospecting/SKILL.md)** — Find realistic link opportunities.
+- **[seo-content](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content/SKILL.md)** — Write SEO content.
+- **[seo-sitemap](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-sitemap/SKILL.md)** — Audit and generate sitemaps.
+- **[seo-technical](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-technical/SKILL.md)** — Run a technical SEO audit.
+- **[seo-backlinks](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-backlinks/SKILL.md)** — Analyze backlinks.
+- **[seo-schema](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-schema/SKILL.md)** — Implement schema markup.
+- **[seo-page](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-page/SKILL.md)** — Optimize a single page.
+- **[seo-competitor-pages](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-competitor-pages/SKILL.md)** — Build competitor comparison pages.
+- **[youtube-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/youtube/SKILL.md)** — Optimize for YouTube search.
+- **[local-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/local/SKILL.md)** — Optimize local SEO.
+- **[entity-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/entity-seo/SKILL.md)** — Build entity SEO.
+- **[parasite-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/parasite-seo/SKILL.md)** — Run parasite SEO.
 
 <a id="marketing-s3"></a>
 <a id="marketing-content-strategy"></a>
 #### Content strategy
 
-- **[content-strategy](https://www.skills.sh/coreyhaines31/marketingskills/content-strategy)** — Plan a content strategy.
-- **[content-pillars](https://www.skills.sh/social-media-skills/skills/content-pillars)** — Define content pillars.
-- **[content-calendar](https://www.skills.sh/social-media-skills/skills/content-calendar)** — Build a content calendar.
-- **[podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing)** — Market with podcasts.
-- **[article-content](https://www.skills.sh/kostja94/marketing-skills/article-content)** — Write article content.
-- **[medium-posts](https://www.skills.sh/kostja94/marketing-skills/medium-posts)** — Write Medium posts.
+- **[content-strategy](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md)** — Plan a content strategy.
+- **[content-pillars](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-pillars/SKILL.md)** — Define content pillars.
+- **[content-calendar](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-calendar/SKILL.md)** — Build a content calendar.
+- **[podcast-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/podcast/SKILL.md)** — Market with podcasts.
+- **[article-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/article/SKILL.md)** — Write article content.
+- **[medium-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/medium/SKILL.md)** — Write Medium posts.
 
 <a id="marketing-s4"></a>
 <a id="marketing-social"></a>
 #### Social
 
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
-- **[twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation)** — X/Twitter automation.
-- **[twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer)** — Optimize posts for the X algorithm.
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok content and ads.
-- **[reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads)** — Find B2B leads on Reddit.
-- **[linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts)** — Write LinkedIn posts.
-- **[twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts)** — Write X posts.
-- **[reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts)** — Write Reddit posts.
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — Write TikTok captions.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[youtube-shorts](https://www.skills.sh/social-media-skills/skills/youtube-shorts)** — Script YouTube Shorts.
-- **[instagram-growth](https://www.skills.sh/social-media-skills/skills/instagram-growth)** — Grow on Instagram.
-- **[pinterest-posts](https://www.skills.sh/social-media-skills/skills/pinterest-posts)** — Write Pinterest posts.
-- **[carousel-writer](https://www.skills.sh/social-media-skills/skills/carousel-writer)** — Write carousel posts.
-- **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — Write captions.
-- **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
-- **[viral-reverse-engineering](https://www.skills.sh/social-media-skills/skills/viral-reverse-engineering)** — Reverse-engineer viral posts.
-- **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
-- **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
-- **[instagram-seo](https://www.skills.sh/social-media-skills/skills/instagram-seo)** — Optimize Instagram search.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[social-publisher](https://github.com/claude-office-skills/skills/blob/HEAD/social-publisher/SKILL.md)** — Multi-platform social publishing.
+- **[twitter-automation](https://github.com/101-skills/superpowers/blob/HEAD/tools/social/twitter-automation/SKILL.md)** — X/Twitter automation.
+- **[twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/twitter-algorithm-optimizer/SKILL.md)** — Optimize posts for the X algorithm.
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok content and ads.
+- **[reddit-leads](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-leads/SKILL.md)** — Find B2B leads on Reddit.
+- **[linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md)** — Write LinkedIn posts.
+- **[twitter-x-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/x/SKILL.md)** — Write X posts.
+- **[reddit-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/reddit/SKILL.md)** — Write Reddit posts.
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — Write TikTok captions.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[youtube-shorts](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-shorts/SKILL.md)** — Script YouTube Shorts.
+- **[instagram-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-growth/SKILL.md)** — Grow on Instagram.
+- **[pinterest-posts · repository entry](https://github.com/social-media-skills/skills)** — Write Pinterest posts.
+- **[carousel-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/carousel-writer/SKILL.md)** — Write carousel posts.
+- **[caption-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/caption-writer/SKILL.md)** — Write captions.
+- **[hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md)** — Write hooks.
+- **[viral-reverse-engineering](https://github.com/social-media-skills/skills/blob/HEAD/skills/viral-reverse-engineering/SKILL.md)** — Reverse-engineer viral posts.
+- **[audience-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/audience-research/SKILL.md)** — Research your audience.
+- **[thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md)** — Design thumbnails.
+- **[instagram-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-seo/SKILL.md)** — Optimize Instagram search.
 
 <a id="marketing-s5"></a>
 <a id="marketing-landing-pages-funnels--cro"></a>
 #### Landing pages, funnels & CRO
 
-- **[landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit)** — Audit a landing page for potential conversion barriers.
-- **[sales-funnel-blueprint](https://www.skills.sh/autonnel/autonnel-skills/sales-funnel-blueprint)** — Build-ready sales funnel spec.
-- **[funnel-platform-picker](https://www.skills.sh/autonnel/autonnel-skills/funnel-platform-picker)** — Pick a funnel platform from the case.
-- **[server-side-conversion-tracking](https://www.skills.sh/autonnel/autonnel-skills/server-side-conversion-tracking)** — Server-side conversion tracking.
-- **[self-hosted-funnel-launch](https://www.skills.sh/autonnel/autonnel-skills/self-hosted-funnel-launch)** — Launch a self-hosted funnel from zero.
-- **[cro](https://www.skills.sh/coreyhaines31/marketingskills/cro)** — Conversion rate optimization.
-- **[offers](https://www.skills.sh/coreyhaines31/marketingskills/offers)** — Offer design and packaging.
-- **[onboarding](https://www.skills.sh/coreyhaines31/marketingskills/onboarding)** — Onboarding and activation CRO.
+- **[landing-page-conversion-audit](https://github.com/autonnel/autonnel-skills/blob/HEAD/landing-page-conversion-audit/SKILL.md)** — Audit a landing page for potential conversion barriers.
+- **[sales-funnel-blueprint](https://github.com/autonnel/autonnel-skills/blob/HEAD/sales-funnel-blueprint/SKILL.md)** — Build-ready sales funnel spec.
+- **[funnel-platform-picker](https://github.com/autonnel/autonnel-skills/blob/HEAD/funnel-platform-picker/SKILL.md)** — Pick a funnel platform from the case.
+- **[server-side-conversion-tracking](https://github.com/autonnel/autonnel-skills/blob/HEAD/server-side-conversion-tracking/SKILL.md)** — Server-side conversion tracking.
+- **[self-hosted-funnel-launch](https://github.com/autonnel/autonnel-skills/blob/HEAD/self-hosted-funnel-launch/SKILL.md)** — Launch a self-hosted funnel from zero.
+- **[cro](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cro/SKILL.md)** — Conversion rate optimization.
+- **[offers](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/offers/SKILL.md)** — Offer design and packaging.
+- **[onboarding](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/onboarding/SKILL.md)** — Onboarding and activation CRO.
 
 <a id="marketing-s6"></a>
 <a id="marketing-growth--conversion"></a>
 #### Growth & conversion
 
-- **[lead-magnets](https://www.skills.sh/coreyhaines31/marketingskills/lead-magnets)** — Design lead magnets.
-- **[churn-prevention](https://www.skills.sh/coreyhaines31/marketingskills/churn-prevention)** — Reduce churn.
-- **[free-tools](https://www.skills.sh/coreyhaines31/marketingskills/free-tools)** — Grow with free tools.
-- **[signup](https://www.skills.sh/coreyhaines31/marketingskills/signup)** — Optimize signup conversion.
-- **[paywalls](https://www.skills.sh/coreyhaines31/marketingskills/paywalls)** — Design paywalls.
-- **[popups](https://www.skills.sh/coreyhaines31/marketingskills/popups)** — Design conversion popups.
-- **[sms](https://www.skills.sh/coreyhaines31/marketingskills/sms)** — Run SMS campaigns.
-- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — Build a referral program.
-- **[ab-testing](https://www.skills.sh/coreyhaines31/marketingskills/ab-testing)** — Run A/B tests.
-- **[conversion-tracking](https://www.skills.sh/coreyhaines31/marketingskills/conversion-tracking)** — Track conversions.
+- **[lead-magnets](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/lead-magnets/SKILL.md)** — Design lead magnets.
+- **[churn-prevention](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/churn-prevention/SKILL.md)** — Reduce churn.
+- **[free-tools](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/free-tools/SKILL.md)** — Grow with free tools.
+- **[signup](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/signup/SKILL.md)** — Optimize signup conversion.
+- **[paywalls](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/paywalls/SKILL.md)** — Design paywalls.
+- **[popups](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/popups/SKILL.md)** — Design conversion popups.
+- **[sms](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sms/SKILL.md)** — Run SMS campaigns.
+- **[referrals](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/referrals/SKILL.md)** — Build a referral program.
+- **[ab-testing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ab-testing/SKILL.md)** — Run A/B tests.
+- **[conversion-tracking](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/conversion-tracking/SKILL.md)** — Track conversions.
 
 <a id="marketing-s7"></a>
 <a id="marketing-email"></a>
 #### Email
 
-- **[cold-email](https://www.skills.sh/coreyhaines31/marketingskills/cold-email)** — Cold email writing.
-- **[emails](https://www.skills.sh/coreyhaines31/marketingskills/emails)** — Email sequence design.
-- **[deliverability-qa](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/deliverability-qa)** — Pre-send email deliverability checks.
-- **[newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner)** — Newsletter monetization and growth loops.
+- **[cold-email](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md)** — Cold email writing.
+- **[emails](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/emails/SKILL.md)** — Email sequence design.
+- **[deliverability-qa](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/setup/deliverability-qa/SKILL.md)** — Pre-send email deliverability checks.
+- **[newsletter-monetization-planner](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/nurture/newsletter-monetization-planner/SKILL.md)** — Newsletter monetization and growth loops.
 
 <a id="marketing-s8"></a>
 <a id="marketing-ads"></a>
 #### Ads
 
-- **[ads](https://www.skills.sh/coreyhaines31/marketingskills/ads)** — Paid ads strategy.
-- **[ad-creative](https://www.skills.sh/coreyhaines31/marketingskills/ad-creative)** — Performance ad creative.
-- **[ad-creative-brief](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-brief)** — Performance creative brief.
-- **[google-ads-api-quickstart](https://www.skills.sh/google/skills/google-ads-api-quickstart)** — Go from zero to a working Google Ads API call.
-- **[google-ads-api-account-diagnostics](https://www.skills.sh/google/skills/google-ads-api-account-diagnostics)** — Diagnose Google Ads account performance.
+- **[ads](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ads/SKILL.md)** — Paid ads strategy.
+- **[ad-creative](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ad-creative/SKILL.md)** — Performance ad creative.
+- **[ad-creative-brief](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-brief/SKILL.md)** — Performance creative brief.
+- **[google-ads-api-quickstart](https://github.com/google/skills/blob/HEAD/skills/ads/google-ads-api-quickstart/SKILL.md)** — Go from zero to a working Google Ads API call.
+- **[google-ads-api-account-diagnostics](https://github.com/google/skills/blob/HEAD/skills/ads/google-ads-api-account-diagnostics/SKILL.md)** — Diagnose Google Ads account performance.
 
 <a id="marketing-s9"></a>
 <a id="marketing-pr-partnerships--referrals"></a>
 #### PR, partnerships & referrals
 
-- **[public-relations](https://www.skills.sh/coreyhaines31/marketingskills/public-relations)** — PR and earned media.
-- **[influencer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/influencer-marketing)** — Influencer and creator marketing.
-- **[referrals](https://www.skills.sh/coreyhaines31/marketingskills/referrals)** — Referral and affiliate programs.
-- **[influencer-campaign-brief](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-campaign-brief)** — Creative brief for an influencer campaign.
-- **[affiliate-disclosure-compliance](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-disclosure-compliance)** — Affiliate and influencer disclosure compliance.
+- **[public-relations](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/public-relations/SKILL.md)** — PR and earned media.
+- **[influencer-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/influencer-marketing/SKILL.md)** — Influencer and creator marketing.
+- **[referrals](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/referrals/SKILL.md)** — Referral and affiliate programs.
+- **[influencer-campaign-brief](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-campaign-brief/SKILL.md)** — Creative brief for an influencer campaign.
+- **[affiliate-disclosure-compliance](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-disclosure-compliance/SKILL.md)** — Affiliate and influencer disclosure compliance.
 
 <a id="marketing-s10"></a>
 <a id="marketing-launch--aso"></a>
 #### Launch & ASO
 
-- **[launch](https://www.skills.sh/coreyhaines31/marketingskills/launch)** — Product launch strategy.
-- **[shipping-and-launch](https://www.skills.sh/addyosmani/agent-skills/shipping-and-launch)** — Ship with quality gates.
-- **[product-hunt-launch](https://www.skills.sh/101-skills/superpowers/product-hunt-launch)** — Product Hunt launch playbook.
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
+- **[launch](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/launch/SKILL.md)** — Product launch strategy.
+- **[shipping-and-launch](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/shipping-and-launch/SKILL.md)** — Ship with quality gates.
+- **[product-hunt-launch](https://github.com/101-skills/superpowers/blob/HEAD/guides/product/product-hunt-launch/SKILL.md)** — Product Hunt launch playbook.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
 
 <a id="marketing-s11"></a>
 <a id="marketing-directories-links--analytics"></a>
 #### Directories, links & analytics
 
-- **[directory-submissions](https://www.skills.sh/coreyhaines31/marketingskills/directory-submissions)** — Submit to directories.
-- **[link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building)** — Build backlinks.
-- **[reverse-engineer-marketing](https://www.skills.sh/coreyhaines31/marketingskills/reverse-engineer-marketing)** — Reverse-engineer a marketing funnel.
-- **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — Analyze marketing performance.
-- **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — Attribute conversions.
-- **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — Design site architecture.
-- **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — Analyze Search Console data.
+- **[directory-submissions](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/directory-submissions/SKILL.md)** — Submit to directories.
+- **[link-building](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/link-building/SKILL.md)** — Build backlinks.
+- **[reverse-engineer-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/reverse-engineer-marketing/SKILL.md)** — Reverse-engineer a marketing funnel.
+- **[analytics](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md)** — Analyze marketing performance.
+- **[attribution](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md)** — Attribute conversions.
+- **[site-architecture](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/site-architecture/SKILL.md)** — Design site architecture.
+- **[google-search-console](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/google-search-console/SKILL.md)** — Analyze Search Console data.
 
 <a id="marketing-s12"></a>
 <a id="marketing-ecommerce-marketing"></a>
 #### Ecommerce marketing
 
-- **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
-- **[ecommerce-growth-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-growth-strategy)** — Build an ecommerce growth plan.
-- **[etsy-seo](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seo)** — Optimize Etsy SEO.
-- **[ecommerce-landing-page](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-landing-page)** — Build ecommerce landing pages.
-- **[ecommerce-competitor-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-competitor-analysis)** — Analyze ecommerce competitors.
-- **[market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis)** — Find market gaps.
-- **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — Analyze product reviews.
-- **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — Optimize checkout.
+- **[product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md)** — Write product descriptions.
+- **[ecommerce-growth-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-growth-strategy/SKILL.md)** — Build an ecommerce growth plan.
+- **[etsy-seo](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seo/SKILL.md)** — Optimize Etsy SEO.
+- **[ecommerce-landing-page](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-landing-page/SKILL.md)** — Build ecommerce landing pages.
+- **[ecommerce-competitor-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-competitor-analysis/SKILL.md)** — Analyze ecommerce competitors.
+- **[market-gap-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/market-gap-analysis/SKILL.md)** — Find market gaps.
+- **[product-review-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-review-analysis/SKILL.md)** — Analyze product reviews.
+- **[checkout-optimization · repository entry](https://github.com/nexscope-ai/ecommerce-skills)** — Optimize checkout.
 
 [Back to contents](#contents)
 
@@ -854,94 +852,94 @@ Sales and delivery as repeatable actions.
 <a id="ops-sales--customers"></a>
 #### Sales & customers
 
-- **[sales-enablement](https://www.skills.sh/coreyhaines31/marketingskills/sales-enablement)** — B2B sales enablement.
-- **[prospecting](https://www.skills.sh/coreyhaines31/marketingskills/prospecting)** — Build qualified prospect lists.
-- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — Customer research.
-- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — Customer health scoring.
-- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — Churn signals.
+- **[sales-enablement](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/sales-enablement/SKILL.md)** — B2B sales enablement.
+- **[prospecting](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/prospecting/SKILL.md)** — Build qualified prospect lists.
+- **[customer-research](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md)** — Customer research.
+- **[customer-health-score](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-health-score/SKILL.md)** — Customer health scoring.
+- **[customer-churn-signals](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-churn-signals/SKILL.md)** — Churn signals.
 
 <a id="ops-s2"></a>
 <a id="ops-contracts-legal--compliance"></a>
 #### Contracts, legal & compliance
 
-- **[employment-contract-templates](https://www.skills.sh/wshobson/agents/employment-contract-templates)** — Employment contract templates.
-- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI DSS compliance.
+- **[employment-contract-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/hr-legal-compliance/skills/employment-contract-templates/SKILL.md)** — Employment contract templates.
+- **[pci-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/pci-compliance/SKILL.md)** — PCI DSS compliance.
 - **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — Contract review and risk flags.
 - **[claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** — CUAD contract risk review.
-- **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — Assess legal risk.
-- **[saas-msa-review](https://www.skills.sh/anthropics/claude-for-legal/saas-msa-review)** — Review a SaaS MSA.
-- **[nda-review](https://www.skills.sh/anthropics/claude-for-legal/nda-review)** — Review an NDA.
-- **[dpa-review](https://www.skills.sh/anthropics/claude-for-legal/dpa-review)** — Review a DPA.
-- **[marketing-claims-review](https://www.skills.sh/anthropics/claude-for-legal/marketing-claims-review)** — Review marketing claims.
-- **[hiring-review](https://www.skills.sh/anthropics/claude-for-legal/hiring-review)** — Run a hiring compliance review.
+- **[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)** — Assess legal risk.
+- **[saas-msa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/saas-msa-review/SKILL.md)** — Review a SaaS MSA.
+- **[nda-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/nda-review/SKILL.md)** — Review an NDA.
+- **[dpa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dpa-review/SKILL.md)** — Review a DPA.
+- **[marketing-claims-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md)** — Review marketing claims.
+- **[hiring-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/hiring-review/SKILL.md)** — Run a hiring compliance review.
 
 <a id="ops-s3"></a>
 <a id="ops-hiring"></a>
 #### Hiring
 
-- **[resume-ats-optimizer](https://www.skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer)** — ATS resume optimization.
-- **[resume-bullet-writer](https://www.skills.sh/paramchoudhary/resumeskills/resume-bullet-writer)** — Resume bullet writing.
-- **[tailored-resume-generator](https://www.skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator)** — Tailor a resume to a job description.
-- **[sales-hiring](https://www.skills.sh/mbfinotti/sales-skills/sales-hiring)** — Four artifacts for sales hiring.
+- **[resume-ats-optimizer](https://github.com/paramchoudhary/resumeskills/blob/HEAD/skills/resume-ats-optimizer/SKILL.md)** — ATS resume optimization.
+- **[resume-bullet-writer](https://github.com/paramchoudhary/resumeskills/blob/HEAD/skills/resume-bullet-writer/SKILL.md)** — Resume bullet writing.
+- **[tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/tailored-resume-generator/SKILL.md)** — Tailor a resume to a job description.
+- **[sales-hiring](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-hiring/SKILL.md)** — Four artifacts for sales hiring.
 
 <a id="ops-s4"></a>
 <a id="ops-projects--tasks"></a>
 #### Projects & tasks
 
-- **[planning-and-task-breakdown](https://www.skills.sh/addyosmani/agent-skills/planning-and-task-breakdown)** — Task breakdown and planning.
-- **[task-management](https://www.skills.sh/anthropics/knowledge-work-plugins/task-management)** — Task management.
-- **[to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets)** — Turn a plan or spec into tracer-bullet tickets.
-- **[lark-task](https://www.skills.sh/larksuite/cli/lark-task)** — Feishu/Lark tasks.
+- **[planning-and-task-breakdown](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/planning-and-task-breakdown/SKILL.md)** — Task breakdown and planning.
+- **[task-management](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/productivity/skills/task-management/SKILL.md)** — Task management.
+- **[to-tickets](https://github.com/mattpocock/skills/blob/HEAD/skills/engineering/to-tickets/SKILL.md)** — Turn a plan or spec into tracer-bullet tickets.
+- **[lark-task](https://github.com/larksuite/cli/blob/HEAD/skills/lark-task/SKILL.md)** — Feishu/Lark tasks.
 
 <a id="ops-s5"></a>
 <a id="ops-google-workspace"></a>
 #### Google Workspace
 
-- **[gws-docs](https://www.skills.sh/googleworkspace/cli/gws-docs)** — Read and write Google Docs.
-- **[gws-slides](https://www.skills.sh/googleworkspace/cli/gws-slides)** — Build Google Slides decks.
-- **[gws-tasks](https://www.skills.sh/googleworkspace/cli/gws-tasks)** — Manage Google Tasks.
-- **[gws-gmail](https://www.skills.sh/googleworkspace/cli/gws-gmail)** — Triage and send Gmail.
-- **[gws-calendar](https://www.skills.sh/googleworkspace/cli/gws-calendar)** — Manage Google Calendar.
-- **[gws-drive](https://www.skills.sh/googleworkspace/cli/gws-drive)** — Organize Google Drive.
-- **[gws-admin-reports](https://www.skills.sh/googleworkspace/cli/gws-admin-reports)** — Pull Workspace admin reports.
-- **[gws-workflow-standup-report](https://www.skills.sh/googleworkspace/cli/gws-workflow-standup-report)** — Generate standup reports.
+- **[gws-docs](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-docs/SKILL.md)** — Read and write Google Docs.
+- **[gws-slides](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-slides/SKILL.md)** — Build Google Slides decks.
+- **[gws-tasks](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-tasks/SKILL.md)** — Manage Google Tasks.
+- **[gws-gmail](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail/SKILL.md)** — Triage and send Gmail.
+- **[gws-calendar](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-calendar/SKILL.md)** — Manage Google Calendar.
+- **[gws-drive](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-drive/SKILL.md)** — Organize Google Drive.
+- **[gws-admin-reports](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-admin-reports/SKILL.md)** — Pull Workspace admin reports.
+- **[gws-workflow-standup-report](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-standup-report/SKILL.md)** — Generate standup reports.
 
 <a id="ops-s6"></a>
 <a id="ops-lark--feishu"></a>
 #### Lark / Feishu
 
-- **[lark-doc](https://www.skills.sh/larksuite/cli/lark-doc)** — Read and write Lark docs.
-- **[lark-sheets](https://www.skills.sh/larksuite/cli/lark-sheets)** — Edit Lark sheets.
-- **[lark-slides](https://www.skills.sh/larksuite/cli/lark-slides)** — Build Lark slides.
-- **[lark-im](https://www.skills.sh/larksuite/cli/lark-im)** — Send Lark messages.
-- **[lark-calendar](https://www.skills.sh/larksuite/cli/lark-calendar)** — Manage Lark calendars.
-- **[lark-drive](https://www.skills.sh/larksuite/cli/lark-drive)** — Organize Lark Drive.
-- **[lark-base](https://www.skills.sh/larksuite/cli/lark-base)** — Work with Lark Base.
-- **[lark-approval](https://www.skills.sh/larksuite/cli/lark-approval)** — Run Lark approvals.
+- **[lark-doc](https://github.com/larksuite/cli/blob/HEAD/skills/lark-doc/SKILL.md)** — Read and write Lark docs.
+- **[lark-sheets](https://github.com/larksuite/cli/blob/HEAD/skills/lark-sheets/SKILL.md)** — Edit Lark sheets.
+- **[lark-slides](https://github.com/larksuite/cli/blob/HEAD/skills/lark-slides/SKILL.md)** — Build Lark slides.
+- **[lark-im](https://github.com/larksuite/cli/blob/HEAD/skills/lark-im/SKILL.md)** — Send Lark messages.
+- **[lark-calendar](https://github.com/larksuite/cli/blob/HEAD/skills/lark-calendar/SKILL.md)** — Manage Lark calendars.
+- **[lark-drive](https://github.com/larksuite/cli/blob/HEAD/skills/lark-drive/SKILL.md)** — Organize Lark Drive.
+- **[lark-base](https://github.com/larksuite/cli/blob/HEAD/skills/lark-base/SKILL.md)** — Work with Lark Base.
+- **[lark-approval](https://github.com/larksuite/cli/blob/HEAD/skills/lark-approval/SKILL.md)** — Run Lark approvals.
 
 <a id="ops-s7"></a>
 <a id="ops-office-docs"></a>
 #### Office docs
 
-- **[ppt-visual](https://www.skills.sh/claude-office-skills/skills/ppt-visual)** — Design visual decks.
-- **[pdf-extraction](https://www.skills.sh/claude-office-skills/skills/pdf-extraction)** — Extract PDF content.
-- **[smart-ocr](https://www.skills.sh/claude-office-skills/skills/smart-ocr)** — OCR scanned documents.
-- **[xlsx-manipulation](https://www.skills.sh/claude-office-skills/skills/xlsx-manipulation)** — Manipulate Excel files.
-- **[docx-manipulation](https://www.skills.sh/claude-office-skills/skills/docx-manipulation)** — Manipulate Word files.
-- **[calendar-automation](https://www.skills.sh/claude-office-skills/skills/calendar-automation)** — Automate scheduling.
-- **[cv-builder](https://www.skills.sh/claude-office-skills/skills/cv-builder)** — Build a CV.
-- **[proposal-writer](https://www.skills.sh/claude-office-skills/skills/proposal-writer)** — Write proposals.
-- **[chart-designer](https://www.skills.sh/claude-office-skills/skills/chart-designer)** — Design charts.
-- **[meeting-notes](https://www.skills.sh/claude-office-skills/skills/meeting-notes)** — Turn meetings into notes.
+- **[ppt-visual](https://github.com/claude-office-skills/skills/blob/HEAD/ppt-visual/SKILL.md)** — Design visual decks.
+- **[pdf-extraction](https://github.com/claude-office-skills/skills/blob/HEAD/pdf-extraction/SKILL.md)** — Extract PDF content.
+- **[smart-ocr](https://github.com/claude-office-skills/skills/blob/HEAD/smart-ocr/SKILL.md)** — OCR scanned documents.
+- **[xlsx-manipulation](https://github.com/claude-office-skills/skills/blob/HEAD/xlsx-manipulation/SKILL.md)** — Manipulate Excel files.
+- **[docx-manipulation](https://github.com/claude-office-skills/skills/blob/HEAD/docx-manipulation/SKILL.md)** — Manipulate Word files.
+- **[calendar-automation](https://github.com/claude-office-skills/skills/blob/HEAD/calendar-automation/SKILL.md)** — Automate scheduling.
+- **[cv-builder](https://github.com/claude-office-skills/skills/blob/HEAD/cv-builder/SKILL.md)** — Build a CV.
+- **[proposal-writer](https://github.com/claude-office-skills/skills/blob/HEAD/proposal-writer/SKILL.md)** — Write proposals.
+- **[chart-designer](https://github.com/claude-office-skills/skills/blob/HEAD/chart-designer/SKILL.md)** — Design charts.
+- **[meeting-notes](https://github.com/claude-office-skills/skills/blob/HEAD/meeting-notes/SKILL.md)** — Turn meetings into notes.
 
 <a id="ops-s8"></a>
 <a id="ops-finance--revops"></a>
 #### Finance & RevOps
 
-- **[revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage)** — Find revenue leakage.
-- **[revenue-reporting](https://www.skills.sh/mbfinotti/revops-skills/revenue-reporting)** — Build revenue reports.
-- **[crm-data-governance](https://www.skills.sh/mbfinotti/revops-skills/crm-data-governance)** — Govern CRM data.
-- **[revenue-data-governance-strategy](https://www.skills.sh/mbfinotti/revops-skills/revenue-data-governance-strategy)** — Set revenue data governance.
+- **[revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md)** — Find revenue leakage.
+- **[revenue-reporting](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-reporting/SKILL.md)** — Build revenue reports.
+- **[crm-data-governance](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/crm-data-governance/SKILL.md)** — Govern CRM data.
+- **[revenue-data-governance-strategy](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-data-governance-strategy/SKILL.md)** — Set revenue data governance.
 
 [Back to contents](#contents)
 
@@ -956,52 +954,52 @@ Images, video, slides, docs and audio — by deliverable.
 <a id="content-images"></a>
 #### Images
 
-- **[image](https://www.skills.sh/coreyhaines31/marketingskills/image)** — Marketing image production.
-- **[product-photography](https://www.skills.sh/101-skills/superpowers/product-photography)** — Product photography.
-- **[ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation)** — Multi-model AI image generation.
-- **[gpt-image](https://www.skills.sh/101-skills/superpowers/gpt-image)** — GPT image generation.
-- **[image-enhancer](https://www.skills.sh/composiohq/awesome-claude-skills/image-enhancer)** — Enhance images and screenshots.
+- **[image](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/image/SKILL.md)** — Marketing image production.
+- **[product-photography](https://github.com/101-skills/superpowers/blob/HEAD/guides/photo/product-photography/SKILL.md)** — Product photography.
+- **[ai-image-generation](https://github.com/101-skills/superpowers/blob/HEAD/tools/image/ai-image-generation/SKILL.md)** — Multi-model AI image generation.
+- **[gpt-image](https://github.com/101-skills/superpowers/blob/HEAD/tools/image/gpt-image/SKILL.md)** — GPT image generation.
+- **[image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/image-enhancer/SKILL.md)** — Enhance images and screenshots.
 
 <a id="content-s2"></a>
 <a id="content-video"></a>
 #### Video
 
-- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
-- **[image-to-video](https://www.skills.sh/gencraft-labs/skills/image-to-video)** — Image-to-video generation.
-- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
-- **[video-use](https://www.skills.sh/browser-use/video-use/video-use)** — Edit video with a coding agent.
-- **[dbs-video-extract](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-extract)** — Extract information from short videos.
-- **[dbs-video-navigation](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-navigation)** — Add chapter navigation to videos.
+- **[ai-video-generation](https://github.com/gencraft-labs/skills/blob/HEAD/ai-video-generation/SKILL.md)** — Multi-model AI video generation.
+- **[image-to-video](https://github.com/gencraft-labs/skills/blob/HEAD/image-to-video/SKILL.md)** — Image-to-video generation.
+- **[video-edit](https://github.com/gencraft-labs/skills/blob/HEAD/video-edit/SKILL.md)** — AI video editing.
+- **[video-use](https://github.com/browser-use/video-use/blob/HEAD/SKILL.md)** — Edit video with a coding agent.
+- **[dbs-video-extract](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-video-extract/SKILL.md)** — Extract information from short videos.
+- **[dbs-video-navigation](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-video-navigation/SKILL.md)** — Add chapter navigation to videos.
 
 <a id="content-s3"></a>
 <a id="content-slides--ppt"></a>
 #### Slides & PPT
 
-- **[slideshow](https://www.skills.sh/heygen-com/hyperframes/slideshow)** — HTML slideshows and presentations.
-- **[slides](https://www.skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/slides)** — Data-driven HTML presentations.
-- **[ppt-master](https://www.skills.sh/hugohe3/ppt-master/ppt-master)** — Routed PPT workflow.
-- **[html-ppt](https://www.skills.sh/lewislulu/html-ppt-skill/html-ppt)** — HTML PPT studio.
-- **[baoyu-slide-deck](https://www.skills.sh/jimliu/baoyu-skills/baoyu-slide-deck)** — Generate slide decks.
-- **[pptx](https://www.skills.sh/anthropics/skills/pptx)** — Create, edit and analyze PPTX.
+- **[slideshow](https://github.com/heygen-com/hyperframes/blob/HEAD/skills/slideshow/SKILL.md)** — HTML slideshows and presentations.
+- **[slides](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/HEAD/cli/assets/skills/slides/SKILL.md)** — Data-driven HTML presentations.
+- **[ppt-master](https://github.com/hugohe3/ppt-master/blob/HEAD/skills/ppt-master/SKILL.md)** — Routed PPT workflow.
+- **[html-ppt](https://github.com/lewislulu/html-ppt-skill/blob/HEAD/SKILL.md)** — HTML PPT studio.
+- **[baoyu-slide-deck](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-slide-deck/SKILL.md)** — Generate slide decks.
+- **[pptx](https://github.com/anthropics/skills/blob/HEAD/skills/pptx/SKILL.md)** — Create, edit and analyze PPTX.
 
 <a id="content-s4"></a>
 <a id="content-docs--sheets"></a>
 #### Docs & sheets
 
-- **[docx](https://www.skills.sh/anthropics/skills/docx)** — Create, edit and analyze DOCX.
-- **[pdf](https://www.skills.sh/anthropics/skills/pdf)** — PDF processing.
-- **[excel-automation](https://www.skills.sh/claude-office-skills/skills/excel-automation)** — Excel automation.
-- **[gws-sheets](https://www.skills.sh/googleworkspace/cli/gws-sheets)** — Read, write and automate Google Sheets.
+- **[docx](https://github.com/anthropics/skills/blob/HEAD/skills/docx/SKILL.md)** — Create, edit and analyze DOCX.
+- **[pdf](https://github.com/anthropics/skills/blob/HEAD/skills/pdf/SKILL.md)** — PDF processing.
+- **[excel-automation](https://github.com/claude-office-skills/skills/blob/HEAD/excel-automation/SKILL.md)** — Excel automation.
+- **[gws-sheets](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-sheets/SKILL.md)** — Read, write and automate Google Sheets.
 
 <a id="content-s5"></a>
 <a id="content-audio"></a>
 #### Audio
 
-- **[hyperframes-audio](https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio)** — Audio, music and sound design.
-- **[ai-music](https://www.skills.sh/gencraft-labs/skills/ai-music)** — AI music generation.
-- **[music](https://www.skills.sh/elevenlabs/skills/music)** — ElevenLabs text-to-music.
-- **[music-to-video](https://www.skills.sh/heygen-com/hyperframes/music-to-video)** — Turn music into visual videos.
-- **[edge-tts](https://www.skills.sh/aahl/skills/edge-tts)** — Microsoft Edge text-to-speech.
+- **[hyperframes-audio · repository entry](https://github.com/heygen-com/hyperframes)** — Audio, music and sound design.
+- **[ai-music](https://github.com/gencraft-labs/skills/blob/HEAD/ai-music/SKILL.md)** — AI music generation.
+- **[music](https://github.com/elevenlabs/skills/blob/HEAD/music/SKILL.md)** — ElevenLabs text-to-music.
+- **[music-to-video · repository entry](https://github.com/heygen-com/hyperframes)** — Turn music into visual videos.
+- **[edge-tts](https://github.com/aahl/skills/blob/HEAD/skills/edge-tts/SKILL.md)** — Microsoft Edge text-to-speech.
 
 [Back to contents](#contents)
 
@@ -1016,39 +1014,39 @@ Search, scrape, analyze and monitor.
 <a id="data-search--deep-research"></a>
 #### Search & deep research
 
-- **[web-search](https://www.skills.sh/101-skills/superpowers/web-search)** — Web search and extraction.
-- **[deep-research](https://www.skills.sh/199-biotechnologies/claude-deep-research-skill/deep-research)** — Citation-tracked research reports.
-- **[anysearch](https://www.skills.sh/anysearch-ai/anysearch-skill/anysearch)** — Unified real-time search.
-- **[exa-search](https://www.skills.sh/affaan-m/ecc/exa-search)** — Exa semantic search.
-- **[academic-search](https://www.skills.sh/claude-office-skills/skills/academic-search)** — Academic literature search.
-- **[search-strategy](https://www.skills.sh/anthropics/knowledge-work-plugins/search-strategy)** — Plan a search strategy.
-- **[knowledge-synthesis](https://www.skills.sh/anthropics/knowledge-work-plugins/knowledge-synthesis)** — Synthesize knowledge.
+- **[web-search](https://github.com/101-skills/superpowers/blob/HEAD/tools/llm/web-search/SKILL.md)** — Web search and extraction.
+- **[deep-research](https://github.com/199-biotechnologies/claude-deep-research-skill/blob/HEAD/SKILL.md)** — Citation-tracked research reports.
+- **[anysearch](https://github.com/anysearch-ai/anysearch-skill/blob/HEAD/SKILL.md)** — Unified real-time search.
+- **[exa-search](https://github.com/affaan-m/ECC/blob/HEAD/skills/exa-search/SKILL.md)** — Exa semantic search.
+- **[academic-search](https://github.com/claude-office-skills/skills/blob/HEAD/academic-search/SKILL.md)** — Academic literature search.
+- **[search-strategy](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/enterprise-search/skills/search-strategy/SKILL.md)** — Plan a search strategy.
+- **[knowledge-synthesis](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/enterprise-search/skills/knowledge-synthesis/SKILL.md)** — Synthesize knowledge.
 
 <a id="data-s2"></a>
 <a id="data-scraping--browsers"></a>
 #### Scraping & browsers
 
-- **[agent-browser](https://www.skills.sh/101-skills/superpowers/agent-browser)** — Agentic browser.
-- **[browser-use](https://www.skills.sh/browser-use/browser-use/browser-use)** — Direct browser control.
-- **[firecrawl](https://www.skills.sh/firecrawl/cli/firecrawl)** — Scrape, search and interact with the web.
-- **[browser-act](https://www.skills.sh/browser-act/skills/browser-act)** — Browser automation CLI.
+- **[agent-browser](https://github.com/101-skills/superpowers/blob/HEAD/tools/utilities/agent-browser/SKILL.md)** — Agentic browser.
+- **[browser-use](https://github.com/browser-use/browser-use/blob/HEAD/skills/browser-use/SKILL.md)** — Direct browser control.
+- **[firecrawl](https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl/SKILL.md)** — Scrape, search and interact with the web.
+- **[browser-act](https://github.com/browser-act/skills/blob/HEAD/browser-act/SKILL.md)** — Browser automation CLI.
 
 <a id="data-s3"></a>
 <a id="data-analysis--dashboards"></a>
 #### Analysis & dashboards
 
-- **[data-analysis](https://www.skills.sh/claude-office-skills/skills/data-analysis)** — Spreadsheet data analysis.
-- **[build-dashboard](https://www.skills.sh/anthropics/knowledge-work-plugins/build-dashboard)** — Build interactive dashboards.
-- **[data-visualization](https://www.skills.sh/anthropics/knowledge-work-plugins/data-visualization)** — Chart selection and visualization.
-- **[explore-data](https://www.skills.sh/anthropics/knowledge-work-plugins/explore-data)** — Explore a dataset.
-- **[create-viz](https://www.skills.sh/anthropics/knowledge-work-plugins/create-viz)** — Create a visualization.
-- **[analyze](https://www.skills.sh/anthropics/knowledge-work-plugins/analyze)** — Analyze a dataset.
+- **[data-analysis](https://github.com/claude-office-skills/skills/blob/HEAD/data-analysis/SKILL.md)** — Spreadsheet data analysis.
+- **[build-dashboard](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/build-dashboard/SKILL.md)** — Build interactive dashboards.
+- **[data-visualization](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/data-visualization/SKILL.md)** — Chart selection and visualization.
+- **[explore-data](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/explore-data/SKILL.md)** — Explore a dataset.
+- **[create-viz](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/create-viz/SKILL.md)** — Create a visualization.
+- **[analyze](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/analyze/SKILL.md)** — Analyze a dataset.
 
 <a id="data-s4"></a>
 <a id="data-monitoring"></a>
 #### Monitoring
 
-- **[firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor)** — Monitor web pages for changes.
+- **[firecrawl-monitor](https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl-monitor/SKILL.md)** — Monitor web pages for changes.
 - **[changedetection.io](https://github.com/dgtlmoon/changedetection.io)** — Page change monitoring and alerts.
 
 [Back to contents](#contents)
@@ -1064,38 +1062,38 @@ Pricing, finance and marketing for a one-person company.
 <a id="opc-pricing--monetization"></a>
 #### Pricing & monetization
 
-- **[pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing)** — SaaS pricing strategy.
-- **[monetization-strategy](https://www.skills.sh/appeeky/aso-skills/monetization-strategy)** — Mobile app monetization.
-- **[devtools-pricing-strategy](https://www.skills.sh/samber/developer-relations-skills/devtools-pricing-strategy)** — Developer-tool pricing.
-- **[devtools-business-model](https://www.skills.sh/samber/developer-relations-skills/devtools-business-model)** — Developer-tool business models.
+- **[pricing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/pricing/SKILL.md)** — SaaS pricing strategy.
+- **[monetization-strategy](https://github.com/appeeky/aso-skills/blob/HEAD/skills/monetization-strategy/SKILL.md)** — Mobile app monetization.
+- **[devtools-pricing-strategy](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-pricing-strategy/SKILL.md)** — Developer-tool pricing.
+- **[devtools-business-model](https://github.com/samber/developer-relations-skills/blob/HEAD/skills/devtools-business-model/SKILL.md)** — Developer-tool business models.
 
 <a id="opc-s2"></a>
 <a id="opc-finance--metrics"></a>
 #### Finance & metrics
 
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — 3-5 year financial models.
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — Startup metrics framework.
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — Revenue KPI framework.
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — Revenue funnel design.
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — Model unit economics.
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — Build a 3-statement model.
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — Build a financial plan.
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — Screen deals.
-- **[foundation-okr-writer](https://www.skills.sh/product-on-purpose/pm-skills/foundation-okr-writer)** — Write OKRs.
-- **[metrics-definition](https://www.skills.sh/owl-listener/designer-skills/metrics-definition)** — Define metrics.
-- **[north-star-vision](https://www.skills.sh/owl-listener/designer-skills/north-star-vision)** — Define a north-star vision.
-- **[design-impact-reporting](https://www.skills.sh/owl-listener/designer-skills/design-impact-reporting)** — Report design impact.
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — 3-5 year financial models.
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — Startup metrics framework.
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — Revenue KPI framework.
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — Revenue funnel design.
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — Model unit economics.
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — Build a 3-statement model.
+- **[financial-plan · repository entry](https://github.com/anthropics/financial-services)** — Build a financial plan.
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — Screen deals.
+- **[foundation-okr-writer](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-okr-writer/SKILL.md)** — Write OKRs.
+- **[metrics-definition](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/metrics-definition/SKILL.md)** — Define metrics.
+- **[north-star-vision](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/north-star-vision/SKILL.md)** — Define a north-star vision.
+- **[design-impact-reporting](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-impact-reporting/SKILL.md)** — Report design impact.
 
 <a id="opc-s3"></a>
 <a id="opc-marketing-planning"></a>
 #### Marketing planning
 
-- **[marketing-plan](https://www.skills.sh/coreyhaines31/marketingskills/marketing-plan)** — Marketing plan.
-- **[marketing-ideas](https://www.skills.sh/coreyhaines31/marketingskills/marketing-ideas)** — 100+ marketing ideas for SaaS.
-- **[marketing-psychology](https://www.skills.sh/coreyhaines31/marketingskills/marketing-psychology)** — Marketing psychology and mental models.
-- **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — Community-led marketing.
-- **[co-marketing](https://www.skills.sh/coreyhaines31/marketingskills/co-marketing)** — Co-marketing partnerships.
-- **[product-marketing](https://www.skills.sh/coreyhaines31/marketingskills/product-marketing)** — Product marketing context.
+- **[marketing-plan](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-plan/SKILL.md)** — Marketing plan.
+- **[marketing-ideas](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-ideas/SKILL.md)** — 100+ marketing ideas for SaaS.
+- **[marketing-psychology](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-psychology/SKILL.md)** — Marketing psychology and mental models.
+- **[community-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md)** — Community-led marketing.
+- **[co-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/co-marketing/SKILL.md)** — Co-marketing partnerships.
+- **[product-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/product-marketing/SKILL.md)** — Product marketing context.
 
 <a id="opc-opc-repos"></a>
 #### OPC repos
@@ -1147,30 +1145,30 @@ Covers, titles, copy, publishing and review — one loop.
 
 | Step | Start with |
 |---|---|
-| Topic | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
-| Title | [dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title) |
-| Cover/images | [baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images) |
-| Copy | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
-| Publish | [xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu) |
-| Review | [xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer) |
+| Topic | [write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md) |
+| Title | [dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill) |
+| Cover/images | [baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-xhs-images/SKILL.md) |
+| Copy | [write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md) |
+| Publish | [xiaohongshu](https://github.com/zhjiang22/openclaw-xhs/blob/HEAD/SKILL.md) |
+| Review | [xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md) |
 
-- **[write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu)** — Research, write and publish Xiaohongshu posts.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas, 75 patterns.
-- **[xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer)** — Diagnose a Xiaohongshu note.
-- **[xiaohongshu-images](https://www.skills.sh/iamzifei/xiaohongshu-images-skill/xiaohongshu-images)** — Generate Xiaohongshu image sets.
-- **[card-xiaohongshu](https://www.skills.sh/nexu-io/open-design/card-xiaohongshu)** — Xiaohongshu image-card templates.
-- **[baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images)** — Generate Xiaohongshu image-card series.
-- **[xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu)** — Operate Xiaohongshu via MCP.
-- **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — Write captions.
-- **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
-- **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
-- **[huashu-xhs-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-xhs-image)** — Xiaohongshu illustrations.
-- **[xhs-note-creator](https://www.skills.sh/comeonzhj/auto-redbook-skills/xhs-note-creator)** — Xiaohongshu note generator.
-- **[canghe-xhs-images](https://www.skills.sh/freestylefly/canghe-skills/canghe-xhs-images)** — Xiaohongshu image generator.
-- **[xiaohongshu-cover-generator](https://www.skills.sh/freestylefly/xiaohongshu-skills/xiaohongshu-cover-generator)** — Xiaohongshu cover generator.
-- **[xiaohongshu-cli](https://www.skills.sh/jackwener/xiaohongshu-cli/xiaohongshu-cli)** — Xiaohongshu CLI.
-- **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote cover generator.
-- **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — Xiaohongshu operations.
+- **[write-xiaohongshu](https://github.com/adjfks/corner-skills/blob/HEAD/skills/write-xiaohongshu/SKILL.md)** — Research, write and publish Xiaohongshu posts.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas, 75 patterns.
+- **[xiaohongshu-note-analyzer](https://github.com/softbread/xiaohongshu-doctor/blob/HEAD/skill_extracted/xiaohongshu-note-analyzer/SKILL.md)** — Diagnose a Xiaohongshu note.
+- **[xiaohongshu-images](https://github.com/iamzifei/xiaohongshu-images-skill/blob/HEAD/SKILL.md)** — Generate Xiaohongshu image sets.
+- **[card-xiaohongshu · repository entry](https://github.com/nexu-io/open-design)** — Xiaohongshu image-card templates.
+- **[baoyu-xhs-images](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-xhs-images/SKILL.md)** — Generate Xiaohongshu image-card series.
+- **[xiaohongshu](https://github.com/zhjiang22/openclaw-xhs/blob/HEAD/SKILL.md)** — Operate Xiaohongshu via MCP.
+- **[caption-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/caption-writer/SKILL.md)** — Write captions.
+- **[hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md)** — Write hooks.
+- **[thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md)** — Design thumbnails.
+- **[huashu-xhs-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-xhs-image/SKILL.md)** — Xiaohongshu illustrations.
+- **[xhs-note-creator](https://github.com/comeonzhj/Auto-Redbook-Skills/blob/HEAD/skills/xhs-note-creator/SKILL.md)** — Xiaohongshu note generator.
+- **[canghe-xhs-images](https://github.com/freestylefly/canghe-skills/blob/HEAD/skills/canghe-xhs-images/SKILL.md)** — Xiaohongshu image generator.
+- **[xiaohongshu-cover-generator](https://github.com/freestylefly/xiaohongshu-skills/blob/HEAD/SKILL.md)** — Xiaohongshu cover generator.
+- **[xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli/blob/HEAD/SKILL.md)** — Xiaohongshu CLI.
+- **[muapi-rednote-cover · repository entry](https://github.com/samuraigpt/generative-media-skills)** — Rednote cover generator.
+- **[xiaohongshu-ops](https://github.com/xiangyu-cas/xiaohongshu-ops-skill/blob/HEAD/SKILL.md)** — Xiaohongshu operations.
 
 [Back to contents](#contents)
 
@@ -1183,26 +1181,23 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 
 | Step | Start with |
 |---|---|
-| Topic | [content-strategy](https://www.skills.sh/coreyhaines31/marketingskills/content-strategy) |
-| Long-form | [wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer) |
-| Layout | [dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html) |
-| Images | [huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image) |
-| Publish | [baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat) |
-| Group summary | [baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary) |
+| Topic | [content-strategy](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md) |
+| Layout | [dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md) |
+| Images | [huashu-wechat-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-wechat-image/SKILL.md) |
+| Publish | [baoyu-post-to-wechat](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md) |
+| Group summary | [baoyu-wechat-summary](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-wechat-summary/SKILL.md) |
 
-- **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
-- **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
-- **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — Publish Markdown to WeChat drafts.
-- **[wechat-article-publisher](https://www.skills.sh/iamzifei/wechat-article-publisher-skill/wechat-article-publisher)** — Publish articles to WeChat.
-- **[md2wechat](https://www.skills.sh/geekjourneyx/md2wechat-skill/md2wechat)** — Convert Markdown to WeChat HTML.
-- **[baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary)** — Baoyu Wechat Summary.
-- **[huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image)** — WeChat article illustration workflow.
-- **[gzh-design](https://www.skills.sh/isjiamu/gzh-design-skill/gzh-design)** — WeChat layout design.
-- **[wechat-article-to-markdown](https://www.skills.sh/jackwener/wechat-article-to-markdown/wechat-article-to-markdown)** — WeChat article to Markdown.
-- **[wechat-article-search](https://www.skills.sh/wuchubuzai2018/expert-skills-hub/wechat-article-search)** — WeChat article search.
-- **[wechat-publisher](https://www.skills.sh/0731coderlee-sudo/wechat-publisher/wechat-publisher)** — WeChat publisher.
-- **[wewrite-wechat-ai-publishing](https://www.skills.sh/reason-machines/trending-skills/wewrite-wechat-ai-publishing)** — AI-assisted WeChat publishing.
-- **[wechat-message-sender](https://www.skills.sh/cloudsen/eliteforge-skills/wechat-message-sender)** — Send WeChat messages.
+- **[dbs-wechat-html](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-wechat-html/SKILL.md)** — Convert Markdown to WeChat-ready HTML.
+- **[baoyu-post-to-wechat](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md)** — Publish Markdown to WeChat drafts.
+- **[wechat-article-publisher](https://github.com/iamzifei/wechat-article-publisher-skill/blob/HEAD/skills/wechat-article-publisher/SKILL.md)** — Publish articles to WeChat.
+- **[md2wechat](https://github.com/geekjourneyx/md2wechat-skill/blob/HEAD/skills/md2wechat/SKILL.md)** — Convert Markdown to WeChat HTML.
+- **[baoyu-wechat-summary](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-wechat-summary/SKILL.md)** — Baoyu Wechat Summary.
+- **[huashu-wechat-image](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-wechat-image/SKILL.md)** — WeChat article illustration workflow.
+- **[gzh-design](https://github.com/isjiamu/gzh-design-skill/blob/HEAD/SKILL.md)** — WeChat layout design.
+- **[wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown/blob/HEAD/SKILL.md)** — WeChat article to Markdown.
+- **[wechat-article-search](https://github.com/wuchubuzai2018/expert-skills-hub/blob/HEAD/skills/wechat-article-search/SKILL.md)** — WeChat article search.
+- **[wechat-publisher](https://github.com/0731coderlee-sudo/wechat-publisher/blob/HEAD/SKILL.md)** — WeChat publisher.
+- **[wewrite-wechat-ai-publishing](https://github.com/reason-machines/trending-skills/blob/HEAD/skills/wewrite-wechat-ai-publishing/SKILL.md)** — AI-assisted WeChat publishing.
 
 [Back to contents](#contents)
 
@@ -1215,30 +1210,30 @@ Hooks, scripts, titles and covers, extraction and chapter navigation.
 
 | Step | Start with |
 |---|---|
-| Topic | [dbs-content-system](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-system) |
-| Hook | [dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook) |
-| Script | [dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow) |
-| Title/cover | [dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro) |
-| Publish/review | [dbs-report](https://www.skills.sh/dontbesilent2025/dbskill/dbs-report) |
+| Topic | [dbs-content-system](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-system/SKILL.md) |
+| Hook | [dbs-hook · repository entry](https://github.com/dontbesilent2025/dbskill) |
+| Script | [dbs-script-flow](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-script-flow/SKILL.md) |
+| Title/cover | [dbs-title-cover-intro](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-title-cover-intro/SKILL.md) |
+| Publish/review | [dbs-report](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-report/SKILL.md) |
 
-- **[dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook)** — Diagnose and rewrite short-video openings.
-- **[dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow)** — Check short-video script flow and retention.
-- **[dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro)** — Write titles, covers and openings.
-- **[dbs-video-extract](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-extract)** — Extract information from short videos.
-- **[dbs-video-navigation](https://www.skills.sh/dontbesilent2025/dbskill/dbs-video-navigation)** — Add chapter navigation to videos.
-- **[dbs-report](https://www.skills.sh/dontbesilent2025/dbskill/dbs-report)** — Generate a short-video diagnostic report.
-- **[short-form-video-script](https://www.skills.sh/social-media-skills/skills/short-form-video-script)** — Write short-form video scripts.
-- **[viral-hook-creator](https://www.skills.sh/ognjengt/founder-skills/viral-hook-creator)** — Generate viral hooks.
-- **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — Generate visual storyboards with AI.
-- **[video-use](https://www.skills.sh/browser-use/video-use/video-use)** — Edit video with a coding agent.
-- **[huashu-douyin-script](https://www.skills.sh/alchaincyf/huashu-skills/huashu-douyin-script)** — Douyin scripts.
-- **[dbs-content-system](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-system)** — Content system.
-- **[dbs-diagnosis](https://www.skills.sh/dontbesilent2025/dbskill/dbs-diagnosis)** — Account diagnosis.
-- **[dbs-jtbd](https://www.skills.sh/dontbesilent2025/dbskill/dbs-jtbd)** — JTBD analysis.
-- **[dbs-plain-writing](https://www.skills.sh/dontbesilent2025/dbskill/dbs-plain-writing)** — Plain-language writing.
-- **[dbs-spread](https://www.skills.sh/dontbesilent2025/dbskill/dbs-spread)** — Spread and distribution.
-- **[dbs-deconstruct](https://www.skills.sh/dontbesilent2025/dbskill/dbs-deconstruct)** — Deconstruct viral content.
-- **[dbs-resonate](https://www.skills.sh/dontbesilent2025/dbskill/dbs-resonate)** — Resonance design.
+- **[dbs-hook · repository entry](https://github.com/dontbesilent2025/dbskill)** — Diagnose and rewrite short-video openings.
+- **[dbs-script-flow](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-script-flow/SKILL.md)** — Check short-video script flow and retention.
+- **[dbs-title-cover-intro](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-title-cover-intro/SKILL.md)** — Write titles, covers and openings.
+- **[dbs-video-extract](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-video-extract/SKILL.md)** — Extract information from short videos.
+- **[dbs-video-navigation](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-video-navigation/SKILL.md)** — Add chapter navigation to videos.
+- **[dbs-report](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-report/SKILL.md)** — Generate a short-video diagnostic report.
+- **[short-form-video-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/short-form-video-script/SKILL.md)** — Write short-form video scripts.
+- **[viral-hook-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/viral-hook-creator/SKILL.md)** — Generate viral hooks.
+- **[storyboard-creation](https://github.com/101-skills/superpowers/blob/HEAD/guides/video/storyboard-creation/SKILL.md)** — Generate visual storyboards with AI.
+- **[video-use](https://github.com/browser-use/video-use/blob/HEAD/SKILL.md)** — Edit video with a coding agent.
+- **[huashu-douyin-script](https://github.com/alchaincyf/huashu-skills/blob/HEAD/huashu-douyin-script/SKILL.md)** — Douyin scripts.
+- **[dbs-content-system](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-system/SKILL.md)** — Content system.
+- **[dbs-diagnosis](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-diagnosis/SKILL.md)** — Account diagnosis.
+- **[dbs-jtbd](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-jtbd/SKILL.md)** — JTBD analysis.
+- **[dbs-plain-writing](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-plain-writing/SKILL.md)** — Plain-language writing.
+- **[dbs-spread](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-spread/SKILL.md)** — Spread and distribution.
+- **[dbs-deconstruct](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-deconstruct/SKILL.md)** — Deconstruct viral content.
+- **[dbs-resonate](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-resonate/SKILL.md)** — Resonance design.
 
 [Back to contents](#contents)
 
@@ -1251,26 +1246,26 @@ Content, scripts, captions and ads.
 
 | Step | Start with |
 |---|---|
-| Product/topic | [tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy) |
-| Script | [tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script) |
-| Captions | [tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions) |
-| Ads | [tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads) |
-| Creators | [tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing) |
+| Product/topic | [tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md) |
+| Script | [tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md) |
+| Captions | [tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md) |
+| Ads | [tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md) |
+| Creators | [tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md) |
 
-- **[tiktok-marketing](https://www.skills.sh/claude-office-skills/skills/tiktok-marketing)** — TikTok content and ads.
-- **[tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script)** — Write TikTok scripts.
-- **[tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions)** — Write TikTok captions.
-- **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — Audit TikTok ads.
-- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
-- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
-- **[tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy)** — TikTok Shop content strategy.
-- **[tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads)** — TikTok Shop ads.
-- **[tiktok-shop-affiliate-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-affiliate-program)** — TikTok Shop affiliate program.
-- **[tiktok-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-analytics)** — TikTok Shop analytics.
-- **[tiktok-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-branding)** — TikTok Shop branding.
-- **[tiktok-shop-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance)** — TikTok Shop compliance.
-- **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok creator marketplace.
-- **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok influencer marketing.
+- **[tiktok-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/tiktok-marketing/SKILL.md)** — TikTok content and ads.
+- **[tiktok-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-script/SKILL.md)** — Write TikTok scripts.
+- **[tiktok-captions](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/tiktok/SKILL.md)** — Write TikTok captions.
+- **[ads-tiktok](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-tiktok/SKILL.md)** — Audit TikTok ads.
+- **[video-edit](https://github.com/gencraft-labs/skills/blob/HEAD/video-edit/SKILL.md)** — AI video editing.
+- **[ai-video-generation](https://github.com/gencraft-labs/skills/blob/HEAD/ai-video-generation/SKILL.md)** — Multi-model AI video generation.
+- **[tiktok-shop-content-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-content-strategy/SKILL.md)** — TikTok Shop content strategy.
+- **[tiktok-shop-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-ads/SKILL.md)** — TikTok Shop ads.
+- **[tiktok-shop-affiliate-program](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-affiliate-program/SKILL.md)** — TikTok Shop affiliate program.
+- **[tiktok-shop-analytics](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-analytics/SKILL.md)** — TikTok Shop analytics.
+- **[tiktok-shop-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-branding/SKILL.md)** — TikTok Shop branding.
+- **[tiktok-shop-compliance](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-compliance/SKILL.md)** — TikTok Shop compliance.
+- **[tiktok-creator-marketplace](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-creator-marketplace/SKILL.md)** — TikTok creator marketplace.
+- **[tiktok-influencer-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-influencer-marketing/SKILL.md)** — TikTok influencer marketing.
 
 [Back to contents](#contents)
 
@@ -1283,19 +1278,19 @@ Posts, threads, algorithm optimization and automation.
 
 | Step | Start with |
 |---|---|
-| Positioning | [positioning-messaging](https://www.skills.sh/refoundai/lenny-skills/positioning-messaging) |
-| Posts | [twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts) |
-| Hooks | [hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer) |
-| Algorithm | [twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer) |
-| Automation | [twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation) |
+| Positioning | [positioning-messaging · repository entry](https://github.com/refoundai/lenny-skills) |
+| Posts | [twitter-x-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/x/SKILL.md) |
+| Hooks | [hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md) |
+| Algorithm | [twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/twitter-algorithm-optimizer/SKILL.md) |
+| Automation | [twitter-automation](https://github.com/101-skills/superpowers/blob/HEAD/tools/social/twitter-automation/SKILL.md) |
 
-- **[twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts)** — Write X posts.
-- **[twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer)** — Optimize posts for the X algorithm.
-- **[twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation)** — X/Twitter automation.
-- **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
-- **[twitter](https://www.skills.sh/resciencelab/opc-skills/twitter)** — X publishing.
+- **[twitter-x-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/x/SKILL.md)** — Write X posts.
+- **[twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/twitter-algorithm-optimizer/SKILL.md)** — Optimize posts for the X algorithm.
+- **[twitter-automation](https://github.com/101-skills/superpowers/blob/HEAD/tools/social/twitter-automation/SKILL.md)** — X/Twitter automation.
+- **[hook-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/hook-writer/SKILL.md)** — Write hooks.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[social-publisher](https://github.com/claude-office-skills/skills/blob/HEAD/social-publisher/SKILL.md)** — Multi-platform social publishing.
+- **[twitter](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/twitter/SKILL.md)** — X publishing.
 
 [Back to contents](#contents)
 
@@ -1308,24 +1303,24 @@ Professional content, ghostwriting, outreach and ads.
 
 | Step | Start with |
 |---|---|
-| Persona | [linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding) |
-| Posts | [linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts) |
-| Writing | [linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer) |
-| Outreach | [compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach) |
-| Ads | [ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin) |
+| Persona | [linkedin-personal-branding](https://github.com/schwepps/skills/blob/HEAD/linkedin-personal-branding/SKILL.md) |
+| Posts | [linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md) |
+| Writing | [linkedin-writer](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/linkedin-writer/SKILL.md) |
+| Outreach | [compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md) |
+| Ads | [ads-linkedin](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-linkedin/SKILL.md) |
 
-- **[linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts)** — Write LinkedIn posts.
-- **[linkedin-ghostwriting](https://www.skills.sh/samber/cc-skills/linkedin-ghostwriting)** — High-conversion LinkedIn ghostwriting.
-- **[ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin)** — Audit LinkedIn ads.
-- **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — Write personalized outreach.
-- **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — Build a durable voice profile from source material.
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer)** — LinkedIn writer.
-- **[linkedin-content](https://www.skills.sh/inference-sh/skills/linkedin-content)** — LinkedIn content.
-- **[linkedin-growth](https://www.skills.sh/social-media-skills/skills/linkedin-growth)** — LinkedIn growth.
-- **[linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding)** — LinkedIn personal branding.
-- **[linkedin-profile-optimizer](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/linkedin-profile-optimizer)** — LinkedIn profile optimizer.
-- **[linkedin-company-pages](https://www.skills.sh/social-media-skills/skills/linkedin-company-pages)** — LinkedIn company pages.
+- **[linkedin-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/linkedin/SKILL.md)** — Write LinkedIn posts.
+- **[linkedin-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/linkedin-ghostwriting/SKILL.md)** — High-conversion LinkedIn ghostwriting.
+- **[ads-linkedin](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-linkedin/SKILL.md)** — Audit LinkedIn ads.
+- **[compose-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md)** — Write personalized outreach.
+- **[brand-voice](https://github.com/affaan-m/ECC/blob/HEAD/skills/brand-voice/SKILL.md)** — Build a durable voice profile from source material.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[linkedin-writer](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/linkedin-writer/SKILL.md)** — LinkedIn writer.
+- **[linkedin-content](https://github.com/inference-sh/skills/blob/HEAD/guides/social/linkedin-content/SKILL.md)** — LinkedIn content.
+- **[linkedin-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-growth/SKILL.md)** — LinkedIn growth.
+- **[linkedin-personal-branding](https://github.com/schwepps/skills/blob/HEAD/linkedin-personal-branding/SKILL.md)** — LinkedIn personal branding.
+- **[linkedin-profile-optimizer](https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/linkedin-profile-optimizer/SKILL.md)** — LinkedIn profile optimizer.
+- **[linkedin-company-pages](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-company-pages/SKILL.md)** — LinkedIn company pages.
 
 [Back to contents](#contents)
 
@@ -1338,22 +1333,22 @@ Native posts, lead discovery and ads.
 
 | Step | Start with |
 |---|---|
-| Research | [reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research) |
-| Posts | [reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts) |
-| Leads | [reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads) |
-| Ads | [reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads) |
-| Automation | [reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation) |
+| Research | [reddit-research](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-research/SKILL.md) |
+| Posts | [reddit-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/reddit/SKILL.md) |
+| Leads | [reddit-leads](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-leads/SKILL.md) |
+| Ads | [reddit-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/reddit-ads/SKILL.md) |
+| Automation | [reddit-automation](https://github.com/doany-skills/skills/blob/HEAD/reddit-automation/SKILL.md) |
 
-- **[reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts)** — Write Reddit posts.
-- **[reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads)** — Find B2B leads on Reddit.
-- **[reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads)** — Set up Reddit ads.
-- **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[reddit](https://www.skills.sh/resciencelab/opc-skills/reddit)** — Reddit publishing.
-- **[reddit-insights](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/reddit-insights)** — Reddit insights.
-- **[reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research)** — Reddit research.
-- **[reddit-marketing](https://www.skills.sh/social-media-skills/skills/reddit-marketing)** — Reddit marketing.
-- **[reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation)** — Reddit automation.
+- **[reddit-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/reddit/SKILL.md)** — Write Reddit posts.
+- **[reddit-leads](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-leads/SKILL.md)** — Find B2B leads on Reddit.
+- **[reddit-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/reddit-ads/SKILL.md)** — Set up Reddit ads.
+- **[audience-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/audience-research/SKILL.md)** — Research your audience.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[reddit](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/reddit/SKILL.md)** — Reddit publishing.
+- **[reddit-insights](https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/reddit-insights/SKILL.md)** — Reddit insights.
+- **[reddit-research](https://github.com/lignertys/reddit-research-skills/blob/HEAD/skills/reddit-research/SKILL.md)** — Reddit research.
+- **[reddit-marketing](https://github.com/social-media-skills/skills/blob/HEAD/skills/reddit-marketing/SKILL.md)** — Reddit marketing.
+- **[reddit-automation](https://github.com/doany-skills/skills/blob/HEAD/reddit-automation/SKILL.md)** — Reddit automation.
 
 [Back to contents](#contents)
 
@@ -1366,27 +1361,27 @@ Search, Shorts, thumbnails and ads.
 
 | Step | Start with |
 |---|---|
-| Topic | [youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo) |
-| Script | [youtube-scriptwriting](https://www.skills.sh/cdeistopened/skill-stack/youtube-scriptwriting) |
-| Thumbnail | [thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design) |
-| Upload | [youtube-uploader](https://www.skills.sh/aviz85/claude-skills-library/youtube-uploader) |
-| Ads | [ads-youtube](https://www.skills.sh/agricidaniel/claude-ads/ads-youtube) |
+| Topic | [youtube-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/youtube/SKILL.md) |
+| Script | [youtube-scriptwriting](https://github.com/cdeistopened/skill-stack/blob/HEAD/.claude/skills/youtube-scriptwriting/SKILL.md) |
+| Thumbnail | [thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md) |
+| Upload | [youtube-uploader](https://github.com/aviz85/claude-skills-library/blob/HEAD/skills/youtube-uploader/SKILL.md) |
+| Ads | [ads-youtube](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-youtube/SKILL.md) |
 
-- **[youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo)** — Optimize for YouTube search.
-- **[youtube-shorts](https://www.skills.sh/social-media-skills/skills/youtube-shorts)** — Script YouTube Shorts.
-- **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
-- **[youtube-thumbnail-design](https://www.skills.sh/101-skills/superpowers/youtube-thumbnail-design)** — YouTube Thumbnail Design.
-- **[ads-youtube](https://www.skills.sh/agricidaniel/claude-ads/ads-youtube)** — Audit YouTube ads.
-- **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
-- **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
-- **[script-writer](https://www.skills.sh/ailabs-393/ai-labs-claude-skills/script-writer)** — Write video scripts.
-- **[youtube-scriptwriting](https://www.skills.sh/cdeistopened/skill-stack/youtube-scriptwriting)** — YouTube scriptwriting.
-- **[youtube-transcript](https://www.skills.sh/badlogic/pi-skills/youtube-transcript)** — YouTube transcripts.
-- **[youtube-uploader](https://www.skills.sh/aviz85/claude-skills-library/youtube-uploader)** — YouTube uploader.
-- **[youtube-automation](https://www.skills.sh/claude-office-skills/skills/youtube-automation)** — YouTube automation.
-- **[youtube-intro-outro](https://www.skills.sh/iart-ai/youtube-video-skills/youtube-intro-outro)** — YouTube intro and outro.
-- **[youtube-ads](https://www.skills.sh/kostja94/marketing-skills/youtube-ads)** — YouTube ads.
-- **[youtube-thumbnail](https://www.skills.sh/charlie947/social-media-skills/youtube-thumbnail)** — YouTube thumbnails.
+- **[youtube-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/youtube/SKILL.md)** — Optimize for YouTube search.
+- **[youtube-shorts](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-shorts/SKILL.md)** — Script YouTube Shorts.
+- **[thumbnail-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/thumbnail-design/SKILL.md)** — Design thumbnails.
+- **[youtube-thumbnail-design](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/youtube-thumbnail-design/SKILL.md)** — YouTube Thumbnail Design.
+- **[ads-youtube](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-youtube/SKILL.md)** — Audit YouTube ads.
+- **[video-edit](https://github.com/gencraft-labs/skills/blob/HEAD/video-edit/SKILL.md)** — AI video editing.
+- **[ai-video-generation](https://github.com/gencraft-labs/skills/blob/HEAD/ai-video-generation/SKILL.md)** — Multi-model AI video generation.
+- **[script-writer](https://github.com/ailabs-393/ai-labs-claude-skills/blob/HEAD/dist/skills/script-writer/SKILL.md)** — Write video scripts.
+- **[youtube-scriptwriting](https://github.com/cdeistopened/skill-stack/blob/HEAD/.claude/skills/youtube-scriptwriting/SKILL.md)** — YouTube scriptwriting.
+- **[youtube-transcript](https://github.com/badlogic/pi-skills/blob/HEAD/youtube-transcript/SKILL.md)** — YouTube transcripts.
+- **[youtube-uploader](https://github.com/aviz85/claude-skills-library/blob/HEAD/skills/youtube-uploader/SKILL.md)** — YouTube uploader.
+- **[youtube-automation](https://github.com/claude-office-skills/skills/blob/HEAD/youtube-automation/SKILL.md)** — YouTube automation.
+- **[youtube-intro-outro](https://github.com/iart-ai/youtube-video-skills/blob/HEAD/skills/youtube-intro-outro/SKILL.md)** — YouTube intro and outro.
+- **[youtube-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/youtube-ads/SKILL.md)** — YouTube ads.
+- **[youtube-thumbnail](https://github.com/charlie947/social-media-skills/blob/HEAD/skills/youtube-thumbnail/SKILL.md)** — YouTube thumbnails.
 
 [Back to contents](#contents)
 
@@ -1399,55 +1394,55 @@ Product research, listings, SEO, pricing and checkout.
 
 | Step | Start with |
 |---|---|
-| Product | [market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis) |
-| Listing | [product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator) |
-| SEO | [seo-ecommerce](https://www.skills.sh/agricidaniel/claude-seo/seo-ecommerce) |
-| Pricing | [etsy-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy) |
-| Checkout | [checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization) |
-| Ads | [amazon-advertising-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-advertising-strategy) |
+| Product | [market-gap-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/market-gap-analysis/SKILL.md) |
+| Listing | [product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md) |
+| SEO | [seo-ecommerce](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-ecommerce/SKILL.md) |
+| Pricing | [etsy-pricing-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-pricing-strategy/SKILL.md) |
+| Checkout | [checkout-optimization · repository entry](https://github.com/nexscope-ai/ecommerce-skills) |
+| Ads | [amazon-advertising-strategy](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-advertising-strategy/SKILL.md) |
 
-- **[etsy-seo](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seo)** — Optimize Etsy SEO.
-- **[etsy-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy)** — Price products for Etsy.
-- **[shopify-blog-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-blog-strategy)** — Plan a Shopify blog.
-- **[seo-ecommerce](https://www.skills.sh/agricidaniel/claude-seo/seo-ecommerce)** — Run ecommerce SEO.
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Optimize product titles.
-- **[product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator)** — Write product descriptions.
-- **[ecommerce-growth-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-growth-strategy)** — Build an ecommerce growth plan.
-- **[ecommerce-landing-page](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-landing-page)** — Build ecommerce landing pages.
-- **[ecommerce-competitor-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-competitor-analysis)** — Analyze ecommerce competitors.
-- **[market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis)** — Find market gaps.
-- **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — Analyze product reviews.
-- **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — Optimize checkout.
-- **[etsy-seo-tags](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seo-tags)** — Etsy SEO tags.
-- **[etsy-keyword-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-keyword-research)** — Etsy keyword research.
-- **[etsy-competitor-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-competitor-analysis)** — Etsy competitor analysis.
-- **[etsy-digital-products](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-digital-products)** — Etsy digital products.
-- **[etsy-print-on-demand](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-print-on-demand)** — Etsy print on demand.
-- **[etsy-listing-photography](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-listing-photography)** — Etsy listing photography.
-- **[etsy-review-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-review-strategy)** — Etsy review strategy.
-- **[etsy-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-analytics)** — Etsy shop analytics.
-- **[etsy-shop-setup](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-setup)** — Etsy shop setup.
-- **[etsy-star-seller](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-star-seller)** — Etsy star seller.
-- **[amazon-seller](https://www.skills.sh/claude-office-skills/skills/amazon-seller)** — Amazon seller.
-- **[amazon-a-plus-content](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-a-plus-content)** — Amazon A+ content.
-- **[amazon-backend-keywords](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-backend-keywords)** — Amazon backend keywords.
-- **[amazon-brand-analytics](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-brand-analytics)** — Amazon brand analytics.
-- **[amazon-buy-box](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-buy-box)** — Amazon buy box.
-- **[amazon-category-ungating](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-category-ungating)** — Amazon category ungating.
-- **[amazon-competitor-analysis](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-competitor-analysis)** — Amazon competitor analysis.
-- **[amazon-competitor-monitoring](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-competitor-monitoring)** — Amazon competitor monitoring.
-- **[amazon-coupon-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-coupon-strategy)** — Amazon coupon strategy.
-- **[amazon-advertising-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-advertising-strategy)** — Amazon advertising strategy.
-- **[shopify-liquid-themes](https://www.skills.sh/benjaminsehl/liquid-skills/shopify-liquid-themes)** — Shopify Liquid themes.
-- **[shopify-products](https://www.skills.sh/jezweb/claude-skills/shopify-products)** — Shopify products.
-- **[shopify-checkout-customization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-checkout-customization)** — Shopify checkout customization.
-- **[shopify-email-flows](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-email-flows)** — Shopify email flows.
-- **[shopify-landing-page-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-landing-page-builder)** — Shopify landing page builder.
-- **[shopify-upsell-cross-sell](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-upsell-cross-sell)** — Shopify upsell and cross-sell.
-- **[shopify-speed-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-speed-optimization)** — Shopify speed optimization.
-- **[shopify-international](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-international)** — Shopify international.
-- **[shopify-loyalty-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-loyalty-program)** — Shopify loyalty program.
-- **[shopify-cart-abandonment](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-cart-abandonment)** — Shopify cart abandonment.
+- **[etsy-seo](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seo/SKILL.md)** — Optimize Etsy SEO.
+- **[etsy-pricing-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-pricing-strategy/SKILL.md)** — Price products for Etsy.
+- **[shopify-blog-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-blog-strategy/SKILL.md)** — Plan a Shopify blog.
+- **[seo-ecommerce](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-ecommerce/SKILL.md)** — Run ecommerce SEO.
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — Optimize product titles.
+- **[product-description-generator](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-description-generator/SKILL.md)** — Write product descriptions.
+- **[ecommerce-growth-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-growth-strategy/SKILL.md)** — Build an ecommerce growth plan.
+- **[ecommerce-landing-page](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-landing-page/SKILL.md)** — Build ecommerce landing pages.
+- **[ecommerce-competitor-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-competitor-analysis/SKILL.md)** — Analyze ecommerce competitors.
+- **[market-gap-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/market-gap-analysis/SKILL.md)** — Find market gaps.
+- **[product-review-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-review-analysis/SKILL.md)** — Analyze product reviews.
+- **[checkout-optimization · repository entry](https://github.com/nexscope-ai/ecommerce-skills)** — Optimize checkout.
+- **[etsy-seo-tags](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seo-tags/SKILL.md)** — Etsy SEO tags.
+- **[etsy-keyword-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-keyword-research/SKILL.md)** — Etsy keyword research.
+- **[etsy-competitor-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-competitor-analysis/SKILL.md)** — Etsy competitor analysis.
+- **[etsy-digital-products](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-digital-products/SKILL.md)** — Etsy digital products.
+- **[etsy-print-on-demand](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-print-on-demand/SKILL.md)** — Etsy print on demand.
+- **[etsy-listing-photography](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-listing-photography/SKILL.md)** — Etsy listing photography.
+- **[etsy-review-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-review-strategy/SKILL.md)** — Etsy review strategy.
+- **[etsy-shop-analytics](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shop-analytics/SKILL.md)** — Etsy shop analytics.
+- **[etsy-shop-setup](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shop-setup/SKILL.md)** — Etsy shop setup.
+- **[etsy-star-seller](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-star-seller/SKILL.md)** — Etsy star seller.
+- **[amazon-seller](https://github.com/claude-office-skills/skills/blob/HEAD/amazon-seller/SKILL.md)** — Amazon seller.
+- **[amazon-a-plus-content](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-a-plus-content/SKILL.md)** — Amazon A+ content.
+- **[amazon-backend-keywords](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-backend-keywords/SKILL.md)** — Amazon backend keywords.
+- **[amazon-brand-analytics](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-brand-analytics/SKILL.md)** — Amazon brand analytics.
+- **[amazon-buy-box](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-buy-box/SKILL.md)** — Amazon buy box.
+- **[amazon-category-ungating](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-category-ungating/SKILL.md)** — Amazon category ungating.
+- **[amazon-competitor-analysis](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-competitor-analysis/SKILL.md)** — Amazon competitor analysis.
+- **[amazon-competitor-monitoring](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-competitor-monitoring/SKILL.md)** — Amazon competitor monitoring.
+- **[amazon-coupon-strategy](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-coupon-strategy/SKILL.md)** — Amazon coupon strategy.
+- **[amazon-advertising-strategy](https://github.com/nexscope-ai/amazon-skills/blob/HEAD/amazon-advertising-strategy/SKILL.md)** — Amazon advertising strategy.
+- **[shopify-liquid-themes](https://github.com/benjaminsehl/liquid-skills/blob/HEAD/skills/shopify-liquid-themes/SKILL.md)** — Shopify Liquid themes.
+- **[shopify-products](https://github.com/jezweb/claude-skills/blob/HEAD/plugins/shopify/skills/shopify-products/SKILL.md)** — Shopify products.
+- **[shopify-checkout-customization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-checkout-customization/SKILL.md)** — Shopify checkout customization.
+- **[shopify-email-flows](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-email-flows/SKILL.md)** — Shopify email flows.
+- **[shopify-landing-page-builder](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-landing-page-builder/SKILL.md)** — Shopify landing page builder.
+- **[shopify-upsell-cross-sell](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-upsell-cross-sell/SKILL.md)** — Shopify upsell and cross-sell.
+- **[shopify-speed-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-speed-optimization/SKILL.md)** — Shopify speed optimization.
+- **[shopify-international](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-international/SKILL.md)** — Shopify international.
+- **[shopify-loyalty-program](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-loyalty-program/SKILL.md)** — Shopify loyalty program.
+- **[shopify-cart-abandonment](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-cart-abandonment/SKILL.md)** — Shopify cart abandonment.
 
 [Back to contents](#contents)
 
@@ -1460,24 +1455,24 @@ Store listing, keywords, localization and pricing.
 
 | Step | Start with |
 |---|---|
-| Keywords | [aso](https://www.skills.sh/coreyhaines31/marketingskills/aso) |
-| Screenshots | [app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots) |
-| Localization | [asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata) |
-| Pricing | [asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing) |
-| Metrics | [asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics) |
+| Keywords | [aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md) |
+| Screenshots | [app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md) |
+| Localization | [asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md) |
+| Pricing | [asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md) |
+| Metrics | [asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md) |
 
-- **[aso](https://www.skills.sh/coreyhaines31/marketingskills/aso)** — App Store / Play Store ASO audit.
-- **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — Localize App Store metadata.
-- **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — Localize App Store subscription metadata.
-- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — Asc Ppp Pricing.
-- **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — Analyze marketing performance.
-- **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — Attribute conversions.
-- **[app-store-optimization](https://www.skills.sh/alirezarezvani/claude-skills/app-store-optimization)** — App Store optimization.
-- **[android-aso](https://www.skills.sh/appeeky/aso-skills/android-aso)** — Android ASO.
-- **[app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots)** — App Store screenshots.
-- **[seasonal-aso](https://www.skills.sh/appeeky/aso-skills/seasonal-aso)** — Seasonal ASO.
-- **[asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics)** — App Store Connect metrics.
-- **[app-store-featured](https://www.skills.sh/appeeky/aso-skills/app-store-featured)** — App Store featuring.
+- **[aso](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md)** — App Store / Play Store ASO audit.
+- **[asc-localize-metadata](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-localize-metadata/SKILL.md)** — Localize App Store metadata.
+- **[asc-subscription-localization](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-subscription-localization/SKILL.md)** — Localize App Store subscription metadata.
+- **[asc-ppp-pricing](https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md)** — Asc Ppp Pricing.
+- **[analytics](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md)** — Analyze marketing performance.
+- **[attribution](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md)** — Attribute conversions.
+- **[app-store-optimization](https://github.com/alirezarezvani/claude-skills/blob/HEAD/marketing-skill/skills/app-store-optimization/SKILL.md)** — App Store optimization.
+- **[android-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/android-aso/SKILL.md)** — Android ASO.
+- **[app-store-screenshots](https://github.com/101-skills/superpowers/blob/HEAD/guides/design/app-store-screenshots/SKILL.md)** — App Store screenshots.
+- **[seasonal-aso](https://github.com/appeeky/aso-skills/blob/HEAD/skills/seasonal-aso/SKILL.md)** — Seasonal ASO.
+- **[asc-metrics](https://github.com/appeeky/aso-skills/blob/HEAD/skills/asc-metrics/SKILL.md)** — App Store Connect metrics.
+- **[app-store-featured](https://github.com/appeeky/aso-skills/blob/HEAD/skills/app-store-featured/SKILL.md)** — App Store featuring.
 
 [Back to contents](#contents)
 
@@ -1490,34 +1485,34 @@ Technical, content, backlinks, local and AI search.
 
 | Step | Start with |
 |---|---|
-| Keywords | [keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research) |
-| Content | [seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content) |
-| Technical | [seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical) |
-| Backlinks | [link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building) |
-| AI search | [ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo) |
-| Monitoring | [google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console) |
+| Keywords | [keyword-research](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/keyword-research/SKILL.md) |
+| Content | [seo-content](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content/SKILL.md) |
+| Technical | [seo-technical](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-technical/SKILL.md) |
+| Backlinks | [link-building](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/link-building/SKILL.md) |
+| AI search | [ai-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md) |
+| Monitoring | [google-search-console](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/google-search-console/SKILL.md) |
 
-- **[seo-geo](https://www.skills.sh/resciencelab/opc-skills/seo-geo)** — Combined SEO and GEO optimization.
-- **[ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo)** — Review content structure, sources and crawlability for AI search.
-- **[seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit)** — Full-site SEO audit.
-- **[programmatic-seo](https://www.skills.sh/coreyhaines31/marketingskills/programmatic-seo)** — Template × data page generation.
-- **[schema](https://www.skills.sh/coreyhaines31/marketingskills/schema)** — Structured data and schema markup.
-- **[keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research)** — Keyword opportunity research.
-- **[seo-coach](https://www.skills.sh/every-app/open-seo/seo-coach)** — Site-specific SEO coaching.
-- **[firecrawl-seo-audit](https://www.skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit)** — Evidence-based SEO audit by crawling.
-- **[link-prospecting](https://www.skills.sh/every-app/open-seo/link-prospecting)** — Find realistic link opportunities.
-- **[seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content)** — Write SEO content.
-- **[seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical)** — Run a technical SEO audit.
-- **[seo-backlinks](https://www.skills.sh/agricidaniel/claude-seo/seo-backlinks)** — Analyze backlinks.
-- **[seo-schema](https://www.skills.sh/agricidaniel/claude-seo/seo-schema)** — Implement schema markup.
-- **[seo-page](https://www.skills.sh/agricidaniel/claude-seo/seo-page)** — Optimize a single page.
-- **[local-seo](https://www.skills.sh/kostja94/marketing-skills/local-seo)** — Optimize local SEO.
-- **[entity-seo](https://www.skills.sh/kostja94/marketing-skills/entity-seo)** — Build entity SEO.
-- **[parasite-seo](https://www.skills.sh/kostja94/marketing-skills/parasite-seo)** — Run parasite SEO.
-- **[directory-submissions](https://www.skills.sh/coreyhaines31/marketingskills/directory-submissions)** — Submit to directories.
-- **[link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building)** — Build backlinks.
-- **[google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console)** — Analyze Search Console data.
-- **[site-architecture](https://www.skills.sh/coreyhaines31/marketingskills/site-architecture)** — Design site architecture.
+- **[seo-geo](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/seo-geo/SKILL.md)** — Combined SEO and GEO optimization.
+- **[ai-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md)** — Review content structure, sources and crawlability for AI search.
+- **[seo-audit](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/seo-audit/SKILL.md)** — Full-site SEO audit.
+- **[programmatic-seo](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/programmatic-seo/SKILL.md)** — Template × data page generation.
+- **[schema](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/schema/SKILL.md)** — Structured data and schema markup.
+- **[keyword-research](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/keyword-research/SKILL.md)** — Keyword opportunity research.
+- **[seo-coach](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/seo-coach/SKILL.md)** — Site-specific SEO coaching.
+- **[firecrawl-seo-audit](https://github.com/firecrawl/firecrawl-workflows/blob/HEAD/skills/firecrawl-seo-audit/SKILL.md)** — Evidence-based SEO audit by crawling.
+- **[link-prospecting](https://github.com/every-app/open-seo/blob/HEAD/plugins/openseo/skills/link-prospecting/SKILL.md)** — Find realistic link opportunities.
+- **[seo-content](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content/SKILL.md)** — Write SEO content.
+- **[seo-technical](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-technical/SKILL.md)** — Run a technical SEO audit.
+- **[seo-backlinks](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-backlinks/SKILL.md)** — Analyze backlinks.
+- **[seo-schema](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-schema/SKILL.md)** — Implement schema markup.
+- **[seo-page](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-page/SKILL.md)** — Optimize a single page.
+- **[local-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/local/SKILL.md)** — Optimize local SEO.
+- **[entity-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/entity-seo/SKILL.md)** — Build entity SEO.
+- **[parasite-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/parasite-seo/SKILL.md)** — Run parasite SEO.
+- **[directory-submissions](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/directory-submissions/SKILL.md)** — Submit to directories.
+- **[link-building](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/link-building/SKILL.md)** — Build backlinks.
+- **[google-search-console](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/google-search-console/SKILL.md)** — Analyze Search Console data.
+- **[site-architecture](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/site-architecture/SKILL.md)** — Design site architecture.
 
 [Back to contents](#contents)
 
@@ -1530,32 +1525,32 @@ Community, email list and podcast — turn traffic into a reachable asset.
 
 | Step | Start with |
 |---|---|
-| Acquire | [lead-magnets](https://www.skills.sh/coreyhaines31/marketingskills/lead-magnets) |
-| Capture | [newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator) |
-| Content | [newsletter-generation](https://www.skills.sh/bytedance/deer-flow/newsletter-generation) |
-| Community | [community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing) |
-| Monetize | [newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner) |
-| Podcast | [podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing) |
+| Acquire | [lead-magnets](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/lead-magnets/SKILL.md) |
+| Capture | [newsletter-signup-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/newsletter-signup/SKILL.md) |
+| Content | [newsletter-generation](https://github.com/bytedance/deer-flow/blob/HEAD/skills/public/newsletter-generation/SKILL.md) |
+| Community | [community-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md) |
+| Monetize | [newsletter-monetization-planner](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/nurture/newsletter-monetization-planner/SKILL.md) |
+| Podcast | [podcast-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/podcast/SKILL.md) |
 
-- **[community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing)** — Community-led marketing.
-- **[newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner)** — Newsletter monetization and growth loops.
-- **[newsletter-promo](https://www.skills.sh/charlie947/motion-graphics-skills/newsletter-promo)** — Promote a newsletter.
-- **[newsletter-generation](https://www.skills.sh/bytedance/deer-flow/newsletter-generation)** — Generate a newsletter.
-- **[newsletter-voice](https://www.skills.sh/charlie947/social-media-skills/newsletter-voice)** — Set a newsletter voice.
-- **[podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing)** — Market with podcasts.
-- **[podcast-generation](https://www.skills.sh/bytedance/deer-flow/podcast-generation)** — Generate a podcast episode.
-- **[video-podcast-maker](https://www.skills.sh/agents365-ai/365-skills/video-podcast-maker)** — Make a video podcast.
-- **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
-- **[social-publisher](https://www.skills.sh/claude-office-skills/skills/social-publisher)** — Multi-platform social publishing.
-- **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
-- **[content-calendar](https://www.skills.sh/social-media-skills/skills/content-calendar)** — Build a content calendar.
-- **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack ghostwriting and growth.
-- **[podcast-automation](https://www.skills.sh/claude-office-skills/skills/podcast-automation)** — Podcast automation.
-- **[ai-podcast](https://www.skills.sh/inference-sh/skills/ai-podcast)** — AI podcast.
-- **[podcast-and-audiograms](https://www.skills.sh/social-media-skills/skills/podcast-and-audiograms)** — Podcasts and audiograms.
-- **[newsletter-curation](https://www.skills.sh/inference-sh/skills/newsletter-curation)** — Newsletter curation.
-- **[newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator)** — Newsletter signup generator.
-- **[email-and-newsletter](https://www.skills.sh/social-media-skills/skills/email-and-newsletter)** — Email and newsletter.
+- **[community-marketing](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md)** — Community-led marketing.
+- **[newsletter-monetization-planner](https://github.com/aaron-he-zhu/aaron-marketing-skills/blob/HEAD/email/nurture/newsletter-monetization-planner/SKILL.md)** — Newsletter monetization and growth loops.
+- **[newsletter-promo](https://github.com/charlie947/motion-graphics-skills/blob/HEAD/skills/newsletter-promo/SKILL.md)** — Promote a newsletter.
+- **[newsletter-generation](https://github.com/bytedance/deer-flow/blob/HEAD/skills/public/newsletter-generation/SKILL.md)** — Generate a newsletter.
+- **[newsletter-voice](https://github.com/charlie947/social-media-skills/blob/HEAD/skills/newsletter-voice/SKILL.md)** — Set a newsletter voice.
+- **[podcast-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/podcast/SKILL.md)** — Market with podcasts.
+- **[podcast-generation](https://github.com/bytedance/deer-flow/blob/HEAD/skills/public/podcast-generation/SKILL.md)** — Generate a podcast episode.
+- **[video-podcast-maker · repository entry](https://github.com/Agents365-ai/365-skills)** — Make a video podcast.
+- **[social](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/social/SKILL.md)** — Social content strategy.
+- **[social-publisher](https://github.com/claude-office-skills/skills/blob/HEAD/social-publisher/SKILL.md)** — Multi-platform social publishing.
+- **[audience-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/audience-research/SKILL.md)** — Research your audience.
+- **[content-calendar](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-calendar/SKILL.md)** — Build a content calendar.
+- **[substack-ghostwriting](https://github.com/samber/cc-skills/blob/HEAD/skills/substack-ghostwriting/SKILL.md)** — Substack ghostwriting and growth.
+- **[podcast-automation](https://github.com/claude-office-skills/skills/blob/HEAD/podcast-automation/SKILL.md)** — Podcast automation.
+- **[ai-podcast](https://github.com/inference-sh/skills/blob/HEAD/guides/content/ai-podcast/SKILL.md)** — AI podcast.
+- **[podcast-and-audiograms](https://github.com/social-media-skills/skills/blob/HEAD/skills/podcast-and-audiograms/SKILL.md)** — Podcasts and audiograms.
+- **[newsletter-curation](https://github.com/inference-sh/skills/blob/HEAD/guides/writing/newsletter-curation/SKILL.md)** — Newsletter curation.
+- **[newsletter-signup-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/newsletter-signup/SKILL.md)** — Newsletter signup generator.
+- **[email-and-newsletter](https://github.com/social-media-skills/skills/blob/HEAD/skills/email-and-newsletter/SKILL.md)** — Email and newsletter.
 
 [Back to contents](#contents)
 
@@ -1574,7 +1569,7 @@ Use this for consulting, design, research, automation setup or training before y
 
 - **Deliverable**: A one-page offer covering the customer, output, required inputs, exclusions, schedule and price, with a sample of the work.
 - **Completion check**: Find a customer willing to pay the agreed price, deliver a paid pilot with a clear acceptance result, then decide whether to sell it again. Track interviews and likes separately from payments.
-- **Resources**: [first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers) for finding paying customers individually; [proposal-writer](https://www.skills.sh/ncklrs/startup-os-skills/proposal-writer) for a service proposal; [Stripe Payment Links documentation](https://docs.stripe.com/payment-links) for collecting payment through a link.
+- **Resources**: [first-customers](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/first-customers/SKILL.md) for finding paying customers individually; [proposal-writer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/proposal-writer/SKILL.md) for a service proposal; [Stripe Payment Links documentation](https://docs.stripe.com/payment-links) for collecting payment through a link.
 
 <a id="operator-playbook-2-agree-on-scope-and-confirm-changes"></a>
 #### 2. Agree on scope and confirm changes
@@ -1583,7 +1578,7 @@ Use this when added requests make the original quote unprofitable.
 
 - **Deliverable**: A quote and scope of work covering milestones, revision rounds, acceptance, payment dates, intellectual property ownership and a change log.
 - **Completion check**: Both parties confirm the same version; added work has written agreement on price and timing. A quote does not replace other contract terms that need separate agreement.
-- **Resources**: [proposal-writer](https://www.skills.sh/ncklrs/startup-os-skills/proposal-writer) includes commercial statements of work (SOWs); [ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review) reviews intellectual property clauses; [Stripe Quotes documentation](https://docs.stripe.com/quotes) covers the quotation workflow.
+- **Resources**: [proposal-writer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/proposal-writer/SKILL.md) includes commercial statements of work (SOWs); [ip-clause-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/ip-clause-review/SKILL.md) reviews intellectual property clauses; [Stripe Quotes documentation](https://docs.stripe.com/quotes) covers the quotation workflow.
 
 <a id="operator-playbook-3-track-collections-failed-payments-and-refunds"></a>
 #### 3. Track collections, failed payments and refunds
@@ -1592,7 +1587,7 @@ Use this when payment status, remaining balances or refunds are buried in chat h
 
 - **Deliverable**: An order and collection ledger separating pending, paid, failed, overdue and refunded amounts, with due dates, evidence and next actions.
 - **Completion check**: Run a test payment, a failed-payment follow-up and a refund record. Reconcile processor settlements with bank receipts before treating order value as available cash.
-- **Resources**: [payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments) for payment integration; [revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage) for investigating missed billing and renewal losses; [Stripe automatic collection documentation](https://docs.stripe.com/invoicing/automatic-collection) for handling failed payments.
+- **Resources**: [payments](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/payments/SKILL.md) for payment integration; [revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md) for investigating missed billing and renewal losses; [Stripe automatic collection documentation](https://docs.stripe.com/invoicing/automatic-collection) for handling failed payments.
 
 <a id="operator-playbook-4-decide-with-cash-and-delivery-costs"></a>
 #### 4. Decide with cash and delivery costs
@@ -1601,7 +1596,7 @@ Use this when revenue is growing but you cannot tell how long cash will last or 
 
 - **Deliverable**: A rolling weekly cash forecast and order cost sheet covering receipt dates, fixed expenses, refunds, tax reserves, purchasing, contractors, payment fees, model usage and your delivery hours. Separate actuals from assumptions.
 - **Completion check**: Reconcile one completed week, model delayed receipts, cancellations and higher costs, and record when to cut spending, raise prices or stop investing.
-- **Resources**: [finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances) for cash runway; [founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo) for per-unit costs and break-even analysis; [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) for customer economics in subscriptions or recurring services. Its investment-screening benchmarks do not apply to every small business.
+- **Resources**: [finances](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/finances/SKILL.md) for cash runway; [founder-cfo](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-cfo/SKILL.md) for per-unit costs and break-even analysis; [unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md) for customer economics in subscriptions or recurring services. Its investment-screening benchmarks do not apply to every small business.
 
 <a id="operator-playbook-5-accept-work-and-delegate-within-capacity"></a>
 #### 5. Accept work and delegate within capacity
@@ -1610,7 +1605,7 @@ Use this when the same person sells, produces and supports the work, and overlap
 
 - **Deliverable**: A weekly capacity plan, active-project list and delivery SOP with time reserved for support and rework. Contractor tasks specify inputs, examples, quality criteria, the reviewer and access permissions.
 - **Completion check**: Calibrate estimates against one real delivery and confirm a start date before accepting another order. Have someone else complete one standard task from the instructions and pass review.
-- **Resources**: [sop-creator](https://www.skills.sh/ognjengt/founder-skills/sop-creator) for repeatable business procedures; [to-tickets](https://www.skills.sh/mattpocock/skills/to-tickets) for splitting software development work into verifiable tasks and dependencies.
+- **Resources**: [sop-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/sop-creator/SKILL.md) for repeatable business procedures; [to-tickets](https://github.com/mattpocock/skills/blob/HEAD/skills/engineering/to-tickets/SKILL.md) for splitting software development work into verifiable tasks and dependencies.
 
 <a id="operator-playbook-6-test-physical-fulfillment-and-returns"></a>
 #### 6. Test physical fulfillment and returns
@@ -1619,7 +1614,7 @@ Use this for small ecommerce businesses, custom goods or offline delivery, where
 
 - **Deliverable**: Sample acceptance records, supplier lead times, purchasing and freight costs, an inventory ledger, reorder conditions, shipping and returns procedures.
 - **Completion check**: Complete one order from purchasing to receipt, then rehearse an out-of-stock case or a return. Include loss, packaging, shipping and support in the order cost.
-- **Resources**: [inventory-planner](https://www.skills.sh/anthropics/knowledge-work-plugins/inventory-planner) for estimating stockouts and reorders from sales and inventory records; [Shopify inventory and locations documentation](https://help.shopify.com/en/manual/inventory-and-locations) for inventory operations.
+- **Resources**: [inventory-planner](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/inventory-planner/SKILL.md) for estimating stockouts and reorders from sales and inventory records; [Shopify inventory and locations documentation](https://help.shopify.com/en/manual/inventory-and-locations) for inventory operations.
 
 <a id="operator-playbook-7-make-renewal-and-cancellation-predictable"></a>
 #### 7. Make renewal and cancellation predictable
@@ -1628,7 +1623,7 @@ Use this for subscriptions, memberships and ongoing services where renewal depen
 
 - **Deliverable**: Customer outcome records, renewal dates, next-period deliverables, and cancellation, export and refund routes. Distinguish voluntary cancellation from failed payment.
 - **Completion check**: Use a test customer to complete onboarding, a renewal reminder and cancellation. Confirm that subsequent billing and access follow the agreed rules.
-- **Resources**: [onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist) for customer activation and delivery handoffs; [renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager) for renewal planning; [Stripe customer portal documentation](https://docs.stripe.com/customer-management) for subscription management and cancellation.
+- **Resources**: [onboarding-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/onboarding-specialist/SKILL.md) for customer activation and delivery handoffs; [renewal-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/renewal-manager/SKILL.md) for renewal planning; [Stripe customer portal documentation](https://docs.stripe.com/customer-management) for subscription management and cancellation.
 
 <a id="operator-playbook-8-keep-portable-content-and-customer-records"></a>
 #### 8. Keep portable content and customer records
@@ -1655,7 +1650,7 @@ Use this when losing a database, files, orders or a device would stop the busine
 
 - **Deliverable**: A critical-data inventory, backup locations, restoration steps, account-recovery methods and an incident notice template. Record acceptable data loss and recovery time separately.
 - **Completion check**: Restore a backup to an isolated location, verify its data and usability, and measure the time taken. Confirm that a backup failure generates a notification instead of relying only on a successful job status.
-- **Resources**: [restic restoration documentation](https://restic.readthedocs.io/en/stable/050_restore.html) for recovery practice; [incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response) for incident triage, communication and postmortems.
+- **Resources**: [restic restoration documentation](https://restic.readthedocs.io/en/stable/050_restore.html) for recovery practice; [incident-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/incident-response/SKILL.md) for incident triage, communication and postmortems.
 
 <a id="operator-playbook-11-plan-for-rest-and-temporary-absence"></a>
 #### 11. Plan for rest and temporary absence
@@ -1664,7 +1659,7 @@ Use this when work consumes all available time and even a short absence would in
 
 - **Deliverable**: Service hours, order limits, time off, an automatic reply and an emergency contact. List obligations that still need attention while new orders are paused.
 - **Completion check**: Rehearse a planned absence. Check that customers can learn when to expect a response and that critical matters are handled. Emergency help receives only the access agreed in advance.
-- **Resources**: [time-energy-management](https://www.skills.sh/refoundai/lenny-skills/time-energy-management) for scheduling time and energy; [grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably) for assessing the cash and energy demands of growth; [sop-creator](https://www.skills.sh/ognjengt/founder-skills/sop-creator) for instructions used during an absence.
+- **Resources**: [time-energy-management](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/time-energy-management/SKILL.md) for scheduling time and energy; [grow-sustainably](https://github.com/slavingia/skills/blob/HEAD/skills/grow-sustainably/SKILL.md) for assessing the cash and energy demands of growth; [sop-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/sop-creator/SKILL.md) for instructions used during an absence.
 
 <a id="operator-playbook-12-prepare-a-sale-license-or-shutdown-handover"></a>
 #### 12. Prepare a sale, license or shutdown handover
@@ -1673,7 +1668,7 @@ Use this when selling a product, licensing content, transferring a client projec
 
 - **Deliverable**: An asset and rights register covering code, domains, brands, content licenses, customer contracts, vendor accounts, outstanding obligations and transfer conditions. Include customer notices and data-handling arrangements.
 - **Completion check**: The recipient independently completes a key task in a test environment, and both sides confirm the handover checklist and unresolved items. A shutdown also needs explicit arrangements for remaining delivery, refunds and data retention.
-- **Resources**: [ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review) for reviewing IP clauses in assignments or licenses; [GitHub repository transfer documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) for code repository handover. Check each other platform's account-transfer rules separately.
+- **Resources**: [ip-clause-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/ip-clause-review/SKILL.md) for reviewing IP clauses in assignments or licenses; [GitHub repository transfer documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) for code repository handover. Check each other platform's account-transfer rules separately.
 
 Choose payment services for your business location, settlement currency and account eligibility; check contracts, tax and data obligations for the applicable jurisdiction. The SaaS products above are implementation examples. Official documentation links were checked on 2026-11-11; this does not establish regional availability or hands-on validation of every listed skill.
 
@@ -1781,93 +1776,93 @@ Assets to keep building include customer lists, content libraries, code and prod
 <a id="workflow-legal--compliance"></a>
 #### Legal & compliance
 
-- **[entity-compliance](https://www.skills.sh/anthropics/claude-for-legal/entity-compliance)** — Entity compliance.
-- **[saas-msa-review](https://www.skills.sh/anthropics/claude-for-legal/saas-msa-review)** — SaaS MSA review.
-- **[nda-review](https://www.skills.sh/anthropics/claude-for-legal/nda-review)** — NDA review.
-- **[dpa-review](https://www.skills.sh/anthropics/claude-for-legal/dpa-review)** — DPA review.
-- **[vendor-agreement-review](https://www.skills.sh/anthropics/claude-for-legal/vendor-agreement-review)** — Vendor agreement.
-- **[ip-clause-review](https://www.skills.sh/anthropics/claude-for-legal/ip-clause-review)** — IP clause review.
-- **[marketing-claims-review](https://www.skills.sh/anthropics/claude-for-legal/marketing-claims-review)** — Marketing claims review.
-- **[hiring-review](https://www.skills.sh/anthropics/claude-for-legal/hiring-review)** — Hiring review.
-- **[policy-drafting](https://www.skills.sh/anthropics/claude-for-legal/policy-drafting)** — Policy drafting.
-- **[pia-generation](https://www.skills.sh/anthropics/claude-for-legal/pia-generation)** — Privacy impact assessment.
-- **[dsar-response](https://www.skills.sh/anthropics/claude-for-legal/dsar-response)** — DSAR response.
-- **[launch-review](https://www.skills.sh/anthropics/claude-for-legal/launch-review)** — Launch review.
-- **[oss-review](https://www.skills.sh/anthropics/claude-for-legal/oss-review)** — OSS license review.
-- **[termination-review](https://www.skills.sh/anthropics/claude-for-legal/termination-review)** — Review employee dismissal, severance arrangements and final-pay requirements.
-- **[legal-risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-risk-assessment)** — Legal risk assessment.
-- **[pci-compliance](https://www.skills.sh/wshobson/agents/pci-compliance)** — PCI compliance.
+- **[entity-compliance](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/entity-compliance/SKILL.md)** — Entity compliance.
+- **[saas-msa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/saas-msa-review/SKILL.md)** — SaaS MSA review.
+- **[nda-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/nda-review/SKILL.md)** — NDA review.
+- **[dpa-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dpa-review/SKILL.md)** — DPA review.
+- **[vendor-agreement-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/vendor-agreement-review/SKILL.md)** — Vendor agreement.
+- **[ip-clause-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/ip-clause-review/SKILL.md)** — IP clause review.
+- **[marketing-claims-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/marketing-claims-review/SKILL.md)** — Marketing claims review.
+- **[hiring-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/hiring-review/SKILL.md)** — Hiring review.
+- **[policy-drafting](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/policy-drafting/SKILL.md)** — Policy drafting.
+- **[pia-generation](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/pia-generation/SKILL.md)** — Privacy impact assessment.
+- **[dsar-response](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/dsar-response/SKILL.md)** — DSAR response.
+- **[launch-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/launch-review/SKILL.md)** — Launch review.
+- **[oss-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/oss-review/SKILL.md)** — OSS license review.
+- **[termination-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/termination-review/SKILL.md)** — Review employee dismissal, severance arrangements and final-pay requirements.
+- **[legal-risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-risk-assessment/SKILL.md)** — Legal risk assessment.
+- **[pci-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/pci-compliance/SKILL.md)** — PCI compliance.
 
 <a id="workflow-finance"></a>
 <a id="workflow-finance--tax"></a>
 #### Finance & tax
 
-- **[unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics)** — Unit economics.
-- **[3-statement-model](https://www.skills.sh/anthropics/financial-services/3-statement-model)** — 3-statement model.
-- **[financial-plan](https://www.skills.sh/anthropics/financial-services/financial-plan)** — Financial plan.
-- **[dcf-model](https://www.skills.sh/anthropics/financial-services/dcf-model)** — DCF model.
-- **[comps-analysis](https://www.skills.sh/anthropics/financial-services/comps-analysis)** — Comps analysis.
-- **[deal-screening](https://www.skills.sh/anthropics/financial-services/deal-screening)** — Deal screening.
-- **[model-update](https://www.skills.sh/anthropics/financial-services/model-update)** — Model update.
-- **[variance-commentary](https://www.skills.sh/anthropics/financial-services/variance-commentary)** — Variance commentary.
-- **[gl-recon](https://www.skills.sh/anthropics/financial-services/gl-recon)** — GL reconciliation.
-- **[accrual-schedule](https://www.skills.sh/anthropics/financial-services/accrual-schedule)** — Accrual schedule.
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Financial planning.
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Payments.
-- **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — Founder CFO.
-- **[pricing-strategist](https://www.skills.sh/ognjengt/founder-skills/pricing-strategist)** — Pricing strategist.
-- **[revenue-kpi-framework](https://www.skills.sh/mbfinotti/revops-skills/revenue-kpi-framework)** — Revenue KPIs.
-- **[revenue-leakage](https://www.skills.sh/mbfinotti/revops-skills/revenue-leakage)** — Revenue leakage.
-- **[revenue-reporting](https://www.skills.sh/mbfinotti/revops-skills/revenue-reporting)** — Revenue reporting.
-- **[startup-financial-modeling](https://www.skills.sh/wshobson/agents/startup-financial-modeling)** — Financial modeling.
-- **[startup-metrics-framework](https://www.skills.sh/wshobson/agents/startup-metrics-framework)** — Startup metrics.
+- **[unit-economics](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/unit-economics/SKILL.md)** — Unit economics.
+- **[3-statement-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/3-statement-model/SKILL.md)** — 3-statement model.
+- **[financial-plan · repository entry](https://github.com/anthropics/financial-services)** — Financial plan.
+- **[dcf-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/dcf-model/SKILL.md)** — DCF model.
+- **[comps-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/comps-analysis/SKILL.md)** — Comps analysis.
+- **[deal-screening](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-screening/SKILL.md)** — Deal screening.
+- **[model-update](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/model-update/SKILL.md)** — Model update.
+- **[variance-commentary](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/variance-commentary/SKILL.md)** — Variance commentary.
+- **[gl-recon](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/gl-reconciler/skills/gl-recon/SKILL.md)** — GL reconciliation.
+- **[accrual-schedule](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/accrual-schedule/SKILL.md)** — Accrual schedule.
+- **[finances](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/finances/SKILL.md)** — Financial planning.
+- **[payments](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/payments/SKILL.md)** — Payments.
+- **[founder-cfo](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-cfo/SKILL.md)** — Founder CFO.
+- **[pricing-strategist](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/pricing-strategist/SKILL.md)** — Pricing strategist.
+- **[revenue-kpi-framework](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-kpi-framework/SKILL.md)** — Revenue KPIs.
+- **[revenue-leakage](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-leakage/SKILL.md)** — Revenue leakage.
+- **[revenue-reporting](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-reporting/SKILL.md)** — Revenue reporting.
+- **[startup-financial-modeling](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md)** — Financial modeling.
+- **[startup-metrics-framework](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/startup-metrics-framework/SKILL.md)** — Startup metrics.
 
 <a id="workflow-founder-os"></a>
 #### Founder OS
 
-- **[personal-productivity](https://www.skills.sh/refoundai/lenny-skills/personal-productivity)** — Personal productivity.
-- **[energy-management](https://www.skills.sh/refoundai/lenny-skills/energy-management)** — Energy management.
-- **[time-energy-management](https://www.skills.sh/refoundai/lenny-skills/time-energy-management)** — Time and energy.
-- **[managing-imposter-syndrome](https://www.skills.sh/refoundai/lenny-skills/managing-imposter-syndrome)** — Imposter syndrome.
-- **[having-difficult-conversations](https://www.skills.sh/refoundai/lenny-skills/having-difficult-conversations)** — Difficult conversations.
-- **[giving-feedback](https://www.skills.sh/refoundai/lenny-skills/giving-feedback)** — Giving feedback.
-- **[high-stakes-decisions](https://www.skills.sh/refoundai/lenny-skills/high-stakes-decisions)** — High-stakes decisions.
-- **[running-decision-processes](https://www.skills.sh/refoundai/lenny-skills/running-decision-processes)** — Decision processes.
-- **[planning-under-uncertainty](https://www.skills.sh/refoundai/lenny-skills/planning-under-uncertainty)** — Planning under uncertainty.
-- **[systems-thinking](https://www.skills.sh/refoundai/lenny-skills/systems-thinking)** — Systems thinking.
-- **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — Trade-offs.
-- **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — Founder psychology.
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Focus.
+- **[personal-productivity · repository entry](https://github.com/refoundai/lenny-skills)** — Personal productivity.
+- **[energy-management · repository entry](https://github.com/refoundai/lenny-skills)** — Energy management.
+- **[time-energy-management](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/time-energy-management/SKILL.md)** — Time and energy.
+- **[managing-imposter-syndrome · repository entry](https://github.com/refoundai/lenny-skills)** — Imposter syndrome.
+- **[having-difficult-conversations · repository entry](https://github.com/refoundai/lenny-skills)** — Difficult conversations.
+- **[giving-feedback](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/giving-feedback/SKILL.md)** — Giving feedback.
+- **[high-stakes-decisions](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/high-stakes-decisions/SKILL.md)** — High-stakes decisions.
+- **[running-decision-processes · repository entry](https://github.com/refoundai/lenny-skills)** — Decision processes.
+- **[planning-under-uncertainty · repository entry](https://github.com/refoundai/lenny-skills)** — Planning under uncertainty.
+- **[systems-thinking · repository entry](https://github.com/refoundai/lenny-skills)** — Systems thinking.
+- **[evaluating-trade-offs](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/evaluating-trade-offs/SKILL.md)** — Trade-offs.
+- **[founder-psychology](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-psychology/SKILL.md)** — Founder psychology.
+- **[focus](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/focus/SKILL.md)** — Focus.
 
 <a id="workflow-support"></a>
 <a id="workflow-support--retention"></a>
 #### Support & retention
 
-- **[user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding)** — User onboarding.
-- **[retention-engagement](https://www.skills.sh/refoundai/lenny-skills/retention-engagement)** — Retention.
-- **[customer-health-score](https://www.skills.sh/mbfinotti/revops-skills/customer-health-score)** — Customer health score.
-- **[customer-churn-signals](https://www.skills.sh/mbfinotti/revops-skills/customer-churn-signals)** — Churn signals.
-- **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR facilitator.
-- **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — Renewal manager.
-- **[cs-strategist](https://www.skills.sh/ncklrs/startup-os-skills/cs-strategist)** — CS strategist.
-- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — Support operations.
-- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — Onboarding specialist.
-- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — Lifecycle marketing.
-- **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — Community building.
-- **[customer-research](https://www.skills.sh/coreyhaines31/marketingskills/customer-research)** — Customer research.
+- **[user-onboarding · repository entry](https://github.com/refoundai/lenny-skills)** — User onboarding.
+- **[retention-engagement](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/retention-engagement/SKILL.md)** — Retention.
+- **[customer-health-score](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-health-score/SKILL.md)** — Customer health score.
+- **[customer-churn-signals](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/customer-churn-signals/SKILL.md)** — Churn signals.
+- **[qbr-facilitator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/qbr-facilitator/SKILL.md)** — QBR facilitator.
+- **[renewal-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/renewal-manager/SKILL.md)** — Renewal manager.
+- **[cs-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/cs-strategist/SKILL.md)** — CS strategist.
+- **[support-operations](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/support-operations/SKILL.md)** — Support operations.
+- **[onboarding-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/onboarding-specialist/SKILL.md)** — Onboarding specialist.
+- **[customer-lifecycle-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/customer-lifecycle-marketer/SKILL.md)** — Lifecycle marketing.
+- **[community-building · repository entry](https://github.com/refoundai/lenny-skills)** — Community building.
+- **[customer-research](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/customer-research/SKILL.md)** — Customer research.
 
 <a id="workflow-risk"></a>
 <a id="workflow-risk--assets"></a>
 #### Risk & assets
 
-- **[security-and-hardening](https://www.skills.sh/addyosmani/agent-skills/security-and-hardening)** — Security hardening.
-- **[security-audit](https://www.skills.sh/cloudflare/skills/security-audit)** — Security audit.
-- **[incident-response](https://www.skills.sh/anthropics/knowledge-work-plugins/incident-response)** — Incident response.
-- **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — Grow sustainably.
-- **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — Company values.
-- **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — Minimalist review.
-- **[personal-brand-network](https://www.skills.sh/refoundai/lenny-skills/personal-brand-network)** — Personal brand network.
-- **[revenue-funnel](https://www.skills.sh/mbfinotti/revops-skills/revenue-funnel)** — Revenue funnel.
+- **[security-and-hardening](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/security-and-hardening/SKILL.md)** — Security hardening.
+- **[security-audit · repository entry](https://github.com/cloudflare/skills)** — Security audit.
+- **[incident-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/incident-response/SKILL.md)** — Incident response.
+- **[grow-sustainably](https://github.com/slavingia/skills/blob/HEAD/skills/grow-sustainably/SKILL.md)** — Grow sustainably.
+- **[company-values](https://github.com/slavingia/skills/blob/HEAD/skills/company-values/SKILL.md)** — Company values.
+- **[minimalist-review](https://github.com/slavingia/skills/blob/HEAD/skills/minimalist-review/SKILL.md)** — Minimalist review.
+- **[personal-brand-network](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/personal-brand-network/SKILL.md)** — Personal brand network.
+- **[revenue-funnel](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revenue-funnel/SKILL.md)** — Revenue funnel.
 
 [Back to contents](#contents)
 
@@ -1937,47 +1932,47 @@ Source: [upstream skill directory](https://github.com/whawkinsiv/solo-founder-sk
 <a id="solo-founder-stage-and-validation"></a>
 #### Stage and validation
 
-- **[journey](https://www.skills.sh/whawkinsiv/solo-founder-skills/journey)** — Identify the founder’s stage from paying customers and product progress, then choose the next skill and weekly action.
-- **[validate](https://www.skills.sh/whawkinsiv/solo-founder-skills/validate)** — Design a low-cost demand test and score the evidence for a go, further testing or stop decision.
-- **[is-this-an-app](https://www.skills.sh/whawkinsiv/solo-founder-skills/is-this-an-app)** — Compare web, mobile, extension, automation, skill, API and no-build options with a weighted matrix.
-- **[focus](https://www.skills.sh/whawkinsiv/solo-founder-skills/focus)** — Evaluate one activity, purchase or feature choice and produce a plan for the week.
+- **[journey](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/journey/SKILL.md)** — Identify the founder’s stage from paying customers and product progress, then choose the next skill and weekly action.
+- **[validate](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/validate/SKILL.md)** — Design a low-cost demand test and score the evidence for a go, further testing or stop decision.
+- **[is-this-an-app](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/is-this-an-app/SKILL.md)** — Compare web, mobile, extension, automation, skill, API and no-build options with a weighted matrix.
+- **[focus](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/focus/SKILL.md)** — Evaluate one activity, purchase or feature choice and produce a plan for the week.
 
 <a id="solo-founder-build-and-launch"></a>
 #### Build and launch
 
-- **[build](https://www.skills.sh/whawkinsiv/solo-founder-skills/build)** — Scope the first version from validated manual delivery, write a short spec, and build and retest one piece at a time.
-- **[beautify](https://www.skills.sh/whawkinsiv/solo-founder-skills/beautify)** — Set a visual direction and review hierarchy, spacing, type, UI states and accessibility basics.
-- **[secure](https://www.skills.sh/whawkinsiv/solo-founder-skills/secure)** — Audit exposed secrets, user-data isolation, route authentication, webhook signatures and spend limits.
-- **[go-live](https://www.skills.sh/whawkinsiv/solo-founder-skills/go-live)** — Check the core flow, payments, deployment, backup restoration, error alerts and rollback before launch.
+- **[build](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/build/SKILL.md)** — Scope the first version from validated manual delivery, write a short spec, and build and retest one piece at a time.
+- **[beautify](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/beautify/SKILL.md)** — Set a visual direction and review hierarchy, spacing, type, UI states and accessibility basics.
+- **[secure](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/secure/SKILL.md)** — Audit exposed secrets, user-data isolation, route authentication, webhook signatures and spend limits.
+- **[go-live](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/go-live/SKILL.md)** — Check the core flow, payments, deployment, backup restoration, error alerts and rollback before launch.
 
 <a id="solo-founder-customers-and-content"></a>
 #### Customers and content
 
-- **[first-customers](https://www.skills.sh/whawkinsiv/solo-founder-skills/first-customers)** — Build a prospect list with pain signals, draft individual outreach and follow-ups, and plan a later launch.
-- **[landing-page](https://www.skills.sh/whawkinsiv/solo-founder-skills/landing-page)** — Write a sales page from customer language, an offer and real proof, with one primary call to action.
-- **[seo](https://www.skills.sh/whawkinsiv/solo-founder-skills/seo)** — Audit site code, page intent and AI-search information, then produce a prioritized plan with file paths.
-- **[content](https://www.skills.sh/whawkinsiv/solo-founder-skills/content)** — Choose one main platform, develop a supported angle, and draft and edit in the founder’s voice.
+- **[first-customers](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/first-customers/SKILL.md)** — Build a prospect list with pain signals, draft individual outreach and follow-ups, and plan a later launch.
+- **[landing-page](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/landing-page/SKILL.md)** — Write a sales page from customer language, an offer and real proof, with one primary call to action.
+- **[seo](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/seo/SKILL.md)** — Audit site code, page intent and AI-search information, then produce a prioritized plan with file paths.
+- **[content](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/content/SKILL.md)** — Choose one main platform, develop a supported angle, and draft and edit in the founder’s voice.
 
 <a id="solo-founder-naming-and-voice"></a>
 #### Naming and voice
 
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Score product names, then check domain availability with DNS and RDAP.
-- **[about-me](https://www.skills.sh/whawkinsiv/solo-founder-skills/about-me)** — Create ABOUT-ME.md with experience, opinions, stories and testable writing rules for other skills.
-- **[humanize](https://www.skills.sh/whawkinsiv/solo-founder-skills/humanize)** — Edit existing text to remove formulaic patterns and filler while preserving facts and the writer’s voice.
+- **[domain-name](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/domain-name/SKILL.md)** — Score product names, then check domain availability with DNS and RDAP.
+- **[about-me](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/about-me/SKILL.md)** — Create ABOUT-ME.md with experience, opinions, stories and testable writing rules for other skills.
+- **[humanize](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/humanize/SKILL.md)** — Edit existing text to remove formulaic patterns and filler while preserving facts and the writer’s voice.
 
 <a id="solo-founder-pricing-payments-and-legal"></a>
 #### Pricing, payments and legal
 
-- **[pricing](https://www.skills.sh/whawkinsiv/solo-founder-skills/pricing)** — Choose an initial price or tiers based on the paying-customer stage and calculate customers needed for the revenue goal.
-- **[payments](https://www.skills.sh/whawkinsiv/solo-founder-skills/payments)** — Start with payment links or invoices, then configure Stripe Checkout, the customer portal and payment webhooks.
-- **[finances](https://www.skills.sh/whawkinsiv/solo-founder-skills/finances)** — Estimate the income target, cash runway and business cash flow, and establish basic money-management habits.
-- **[legal](https://www.skills.sh/whawkinsiv/solo-founder-skills/legal)** — Outline entity choices, terms, privacy and data export/deletion requirements, and prepare drafts for legal review.
+- **[pricing](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/pricing/SKILL.md)** — Choose an initial price or tiers based on the paying-customer stage and calculate customers needed for the revenue goal.
+- **[payments](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/payments/SKILL.md)** — Start with payment links or invoices, then configure Stripe Checkout, the customer portal and payment webhooks.
+- **[finances](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/finances/SKILL.md)** — Estimate the income target, cash runway and business cash flow, and establish basic money-management habits.
+- **[legal](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/legal/SKILL.md)** — Outline entity choices, terms, privacy and data export/deletion requirements, and prepare drafts for legal review.
 
 <a id="solo-founder-email-and-customer-care"></a>
 #### Email and customer care
 
-- **[email](https://www.skills.sh/whawkinsiv/solo-founder-skills/email)** — Configure domain email, forwarding and sending services, then check SPF, DKIM, DMARC and app email setup.
-- **[retention](https://www.skills.sh/whawkinsiv/solo-founder-skills/retention)** — Plan first-use onboarding, welcome emails, check-ins, support, feedback and cancellation flows.
+- **[email](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/email/SKILL.md)** — Configure domain email, forwarding and sending services, then check SPF, DKIM, DMARC and app email setup.
+- **[retention](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/retention/SKILL.md)** — Plan first-use onboarding, welcome emails, check-ins, support, feedback and cancellation flows.
 
 [Back to contents](#contents)
 
@@ -1989,133 +1984,133 @@ Source: [upstream skill directory](https://github.com/whawkinsiv/solo-founder-sk
 <a id="founder-packs-positioning--competitors"></a>
 #### Positioning & competitors
 
-- **[startup-positioning](https://www.skills.sh/ferdinandobons/startup-skill/startup-positioning)** — Startup positioning.
-- **[startup-competitors](https://www.skills.sh/ferdinandobons/startup-skill/startup-competitors)** — Startup competitor analysis.
-- **[competitor-intel](https://www.skills.sh/ognjengt/founder-skills/competitor-intel)** — Competitor intelligence.
-- **[founder-competitors](https://www.skills.sh/jakeschincariol/founder-skill/founder-competitors)** — Founder competitor view.
-- **[competitive-strategist](https://www.skills.sh/ncklrs/startup-os-skills/competitive-strategist)** — Competitive strategy.
-- **[requesthunt](https://www.skills.sh/resciencelab/opc-skills/requesthunt)** — Request mining.
+- **[startup-positioning](https://github.com/ferdinandobons/startup-skill/blob/HEAD/startup-positioning/SKILL.md)** — Startup positioning.
+- **[startup-competitors](https://github.com/ferdinandobons/startup-skill/blob/HEAD/startup-competitors/SKILL.md)** — Startup competitor analysis.
+- **[competitor-intel](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/competitor-intel/SKILL.md)** — Competitor intelligence.
+- **[founder-competitors](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-competitors/SKILL.md)** — Founder competitor view.
+- **[competitive-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/competitive-strategist/SKILL.md)** — Competitive strategy.
+- **[requesthunt](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/requesthunt/SKILL.md)** — Request mining.
 
 <a id="founder-packs-product--delivery"></a>
 #### Product & delivery
 
-- **[startup-design](https://www.skills.sh/ferdinandobons/startup-skill/startup-design)** — Startup product design.
-- **[prd-generator](https://www.skills.sh/ognjengt/founder-skills/prd-generator)** — PRD generator.
-- **[product-specs-writer](https://www.skills.sh/ncklrs/startup-os-skills/product-specs-writer)** — Product spec writing.
-- **[sop-creator](https://www.skills.sh/ognjengt/founder-skills/sop-creator)** — SOP creator.
-- **[proposal-writer](https://www.skills.sh/ncklrs/startup-os-skills/proposal-writer)** — Proposal writing.
-- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — Onboarding specialist.
-- **[product-analyst](https://www.skills.sh/ncklrs/startup-os-skills/product-analyst)** — Product analyst.
-- **[growth-product-manager](https://www.skills.sh/ncklrs/startup-os-skills/growth-product-manager)** — Growth PM.
-- **[founder-plan](https://www.skills.sh/jakeschincariol/founder-skill/founder-plan)** — Founder plan.
-- **[product-leader](https://www.skills.sh/ncklrs/startup-os-skills/product-leader)** — Product leader.
-- **[product-manager](https://www.skills.sh/ncklrs/startup-os-skills/product-manager)** — Product manager.
-- **[product-strategist](https://www.skills.sh/ncklrs/startup-os-skills/product-strategist)** — Product strategist.
-- **[product-discovery](https://www.skills.sh/ncklrs/startup-os-skills/product-discovery)** — Product discovery.
-- **[platform-product-manager](https://www.skills.sh/ncklrs/startup-os-skills/platform-product-manager)** — Platform PM.
-- **[adr](https://www.skills.sh/ncklrs/startup-os-skills/adr)** — ADR.
-- **[logging-best-practices](https://www.skills.sh/ncklrs/startup-os-skills/logging-best-practices)** — Logging best practices.
+- **[startup-design](https://github.com/ferdinandobons/startup-skill/blob/HEAD/startup-design/SKILL.md)** — Startup product design.
+- **[prd-generator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/prd-generator/SKILL.md)** — PRD generator.
+- **[product-specs-writer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-specs-writer/SKILL.md)** — Product spec writing.
+- **[sop-creator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/sop-creator/SKILL.md)** — SOP creator.
+- **[proposal-writer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/proposal-writer/SKILL.md)** — Proposal writing.
+- **[onboarding-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/onboarding-specialist/SKILL.md)** — Onboarding specialist.
+- **[product-analyst](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-analyst/SKILL.md)** — Product analyst.
+- **[growth-product-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/growth-product-manager/SKILL.md)** — Growth PM.
+- **[founder-plan](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-plan/SKILL.md)** — Founder plan.
+- **[product-leader](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-leader/SKILL.md)** — Product leader.
+- **[product-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-manager/SKILL.md)** — Product manager.
+- **[product-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-strategist/SKILL.md)** — Product strategist.
+- **[product-discovery](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-discovery/SKILL.md)** — Product discovery.
+- **[platform-product-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/platform-product-manager/SKILL.md)** — Platform PM.
+- **[adr](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/adr/SKILL.md)** — ADR.
+- **[logging-best-practices](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/logging-best-practices/SKILL.md)** — Logging best practices.
 
 <a id="founder-packs-marketing--content"></a>
 #### Marketing & content
 
-- **[brand-copywriter](https://www.skills.sh/ognjengt/founder-skills/brand-copywriter)** — Brand copywriting.
-- **[go-to-market-plan](https://www.skills.sh/ognjengt/founder-skills/go-to-market-plan)** — Go-to-market plan.
-- **[marketing-ideas](https://www.skills.sh/ognjengt/founder-skills/marketing-ideas)** — Marketing ideas.
-- **[lead-magnet-generator](https://www.skills.sh/ognjengt/founder-skills/lead-magnet-generator)** — Lead magnet generator.
-- **[x-writer](https://www.skills.sh/ognjengt/founder-skills/x-writer)** — X writing.
-- **[website-copy-specialist](https://www.skills.sh/ncklrs/startup-os-skills/website-copy-specialist)** — Website copy.
-- **[gtm-copywriter](https://www.skills.sh/ncklrs/startup-os-skills/gtm-copywriter)** — GTM copywriting.
-- **[marketing-strategist](https://www.skills.sh/ncklrs/startup-os-skills/marketing-strategist)** — Marketing strategy.
-- **[pr-specialist](https://www.skills.sh/ncklrs/startup-os-skills/pr-specialist)** — PR specialist.
-- **[performance-marketer](https://www.skills.sh/ncklrs/startup-os-skills/performance-marketer)** — Performance marketing.
-- **[community-builder](https://www.skills.sh/ncklrs/startup-os-skills/community-builder)** — Community builder.
-- **[partnership-marketer](https://www.skills.sh/ncklrs/startup-os-skills/partnership-marketer)** — Partnership marketer.
-- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — Customer lifecycle marketer.
-- **[vsl-storyboard-writer](https://www.skills.sh/ncklrs/startup-os-skills/vsl-storyboard-writer)** — VSL storyboard.
-- **[seo-content-strategist](https://www.skills.sh/ncklrs/startup-os-skills/seo-content-strategist)** — SEO content strategist.
-- **[gtm-leader](https://www.skills.sh/ncklrs/startup-os-skills/gtm-leader)** — GTM leader.
-- **[senior-product-marketer](https://www.skills.sh/ncklrs/startup-os-skills/senior-product-marketer)** — Senior product marketer.
-- **[event-marketer](https://www.skills.sh/ncklrs/startup-os-skills/event-marketer)** — Event marketer.
-- **[create-video-start](https://www.skills.sh/ncklrs/startup-os-skills/create-video-start)** — Create video start.
-- **[motion-designer](https://www.skills.sh/ncklrs/startup-os-skills/motion-designer)** — Motion designer.
-- **[remotion-animation](https://www.skills.sh/ncklrs/startup-os-skills/remotion-animation)** — Remotion animation.
-- **[remotion-video-reviewer](https://www.skills.sh/ncklrs/startup-os-skills/remotion-video-reviewer)** — Remotion reviewer.
-- **[remotion-composition](https://www.skills.sh/ncklrs/startup-os-skills/remotion-composition)** — Remotion composition.
-- **[remotion-asset-coordinator](https://www.skills.sh/ncklrs/startup-os-skills/remotion-asset-coordinator)** — Remotion assets.
-- **[remotion-render-config](https://www.skills.sh/ncklrs/startup-os-skills/remotion-render-config)** — Remotion render config.
-- **[remotion-component-gen](https://www.skills.sh/ncklrs/startup-os-skills/remotion-component-gen)** — Remotion components.
-- **[remotion-performance-optimizer](https://www.skills.sh/ncklrs/startup-os-skills/remotion-performance-optimizer)** — Remotion performance.
-- **[remotion-scaffold](https://www.skills.sh/ncklrs/startup-os-skills/remotion-scaffold)** — Remotion scaffold.
-- **[remotion-spec-translator](https://www.skills.sh/ncklrs/startup-os-skills/remotion-spec-translator)** — Remotion spec translator.
-- **[remotion-best-practices](https://www.skills.sh/ncklrs/startup-os-skills/remotion-best-practices)** — Remotion best practices.
-- **[cro-optimization](https://www.skills.sh/ognjengt/founder-skills/cro-optimization)** — CRO optimization.
-- **[nanobanana](https://www.skills.sh/resciencelab/opc-skills/nanobanana)** — Nanobanana images.
+- **[brand-copywriter](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/brand-copywriter/SKILL.md)** — Brand copywriting.
+- **[go-to-market-plan](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/go-to-market-plan/SKILL.md)** — Go-to-market plan.
+- **[marketing-ideas](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/marketing-ideas/SKILL.md)** — Marketing ideas.
+- **[lead-magnet-generator](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/lead-magnet-generator/SKILL.md)** — Lead magnet generator.
+- **[x-writer](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/x-writer/SKILL.md)** — X writing.
+- **[website-copy-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/website-copy-specialist/SKILL.md)** — Website copy.
+- **[gtm-copywriter](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/gtm-copywriter/SKILL.md)** — GTM copywriting.
+- **[marketing-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/marketing-strategist/SKILL.md)** — Marketing strategy.
+- **[pr-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/pr-specialist/SKILL.md)** — PR specialist.
+- **[performance-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/performance-marketer/SKILL.md)** — Performance marketing.
+- **[community-builder](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/community-builder/SKILL.md)** — Community builder.
+- **[partnership-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/partnership-marketer/SKILL.md)** — Partnership marketer.
+- **[customer-lifecycle-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/customer-lifecycle-marketer/SKILL.md)** — Customer lifecycle marketer.
+- **[vsl-storyboard-writer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/vsl-storyboard-writer/SKILL.md)** — VSL storyboard.
+- **[seo-content-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/seo-content-strategist/SKILL.md)** — SEO content strategist.
+- **[gtm-leader](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/gtm-leader/SKILL.md)** — GTM leader.
+- **[senior-product-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/senior-product-marketer/SKILL.md)** — Senior product marketer.
+- **[event-marketer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/event-marketer/SKILL.md)** — Event marketer.
+- **[create-video-start](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/create-video-start/SKILL.md)** — Create video start.
+- **[motion-designer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/motion-designer/SKILL.md)** — Motion designer.
+- **[remotion-animation](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-animation/SKILL.md)** — Remotion animation.
+- **[remotion-video-reviewer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-video-reviewer/SKILL.md)** — Remotion reviewer.
+- **[remotion-composition](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-composition/SKILL.md)** — Remotion composition.
+- **[remotion-asset-coordinator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-asset-coordinator/SKILL.md)** — Remotion assets.
+- **[remotion-render-config](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-render-config/SKILL.md)** — Remotion render config.
+- **[remotion-component-gen](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-component-gen/SKILL.md)** — Remotion components.
+- **[remotion-performance-optimizer](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-performance-optimizer/SKILL.md)** — Remotion performance.
+- **[remotion-scaffold](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-scaffold/SKILL.md)** — Remotion scaffold.
+- **[remotion-spec-translator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-spec-translator/SKILL.md)** — Remotion spec translator.
+- **[remotion-best-practices](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/remotion-best-practices/SKILL.md)** — Remotion best practices.
+- **[cro-optimization](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/cro-optimization/SKILL.md)** — CRO optimization.
+- **[nanobanana](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/nanobanana/SKILL.md)** — Nanobanana images.
 
 <a id="founder-packs-sales--customers"></a>
 #### Sales & customers
 
-- **[outreach-specialist](https://www.skills.sh/ognjengt/founder-skills/outreach-specialist)** — Outreach specialist.
-- **[sales-strategist](https://www.skills.sh/ncklrs/startup-os-skills/sales-strategist)** — Sales strategy.
-- **[sales-enablement](https://www.skills.sh/ncklrs/startup-os-skills/sales-enablement)** — Sales enablement.
-- **[account-executive](https://www.skills.sh/ncklrs/startup-os-skills/account-executive)** — Account executive.
-- **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — Renewal manager.
-- **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR facilitator.
-- **[customer-health-analyst](https://www.skills.sh/ncklrs/startup-os-skills/customer-health-analyst)** — Customer health analyst.
-- **[sales-ops-analyst](https://www.skills.sh/ncklrs/startup-os-skills/sales-ops-analyst)** — Sales ops analyst.
-- **[sales-leader](https://www.skills.sh/ncklrs/startup-os-skills/sales-leader)** — Sales leader.
-- **[sales-negotiator](https://www.skills.sh/ncklrs/startup-os-skills/sales-negotiator)** — Sales negotiator.
-- **[demo-specialist](https://www.skills.sh/ncklrs/startup-os-skills/demo-specialist)** — Demo specialist.
-- **[cs-strategist](https://www.skills.sh/ncklrs/startup-os-skills/cs-strategist)** — CS strategist.
-- **[product-launch-manager](https://www.skills.sh/ncklrs/startup-os-skills/product-launch-manager)** — Product launch manager.
-- **[discovery-caller](https://www.skills.sh/ncklrs/startup-os-skills/discovery-caller)** — Discovery caller.
+- **[outreach-specialist](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/outreach-specialist/SKILL.md)** — Outreach specialist.
+- **[sales-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/sales-strategist/SKILL.md)** — Sales strategy.
+- **[sales-enablement](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/sales-enablement/SKILL.md)** — Sales enablement.
+- **[account-executive](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/account-executive/SKILL.md)** — Account executive.
+- **[renewal-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/renewal-manager/SKILL.md)** — Renewal manager.
+- **[qbr-facilitator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/qbr-facilitator/SKILL.md)** — QBR facilitator.
+- **[customer-health-analyst](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/customer-health-analyst/SKILL.md)** — Customer health analyst.
+- **[sales-ops-analyst](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/sales-ops-analyst/SKILL.md)** — Sales ops analyst.
+- **[sales-leader](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/sales-leader/SKILL.md)** — Sales leader.
+- **[sales-negotiator](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/sales-negotiator/SKILL.md)** — Sales negotiator.
+- **[demo-specialist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/demo-specialist/SKILL.md)** — Demo specialist.
+- **[cs-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/cs-strategist/SKILL.md)** — CS strategist.
+- **[product-launch-manager](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/product-launch-manager/SKILL.md)** — Product launch manager.
+- **[discovery-caller](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/discovery-caller/SKILL.md)** — Discovery caller.
 
 <a id="founder-packs-pricing--finance"></a>
 #### Pricing & finance
 
-- **[pricing-strategist](https://www.skills.sh/ognjengt/founder-skills/pricing-strategist)** — Pricing strategist.
-- **[founder-pricing](https://www.skills.sh/jakeschincariol/founder-skill/founder-pricing)** — Founder pricing.
-- **[founder-cfo](https://www.skills.sh/jakeschincariol/founder-skill/founder-cfo)** — Founder CFO.
-- **[founder-offer](https://www.skills.sh/jakeschincariol/founder-skill/founder-offer)** — Founder offer.
-- **[founder-consumer](https://www.skills.sh/jakeschincariol/founder-skill/founder-consumer)** — Founder consumer.
-- **[pricing-strategist](https://www.skills.sh/ncklrs/startup-os-skills/pricing-strategist)** — Pricing strategist (Startup OS).
+- **[pricing-strategist](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/pricing-strategist/SKILL.md)** — Pricing strategist.
+- **[founder-pricing](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-pricing/SKILL.md)** — Founder pricing.
+- **[founder-cfo](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-cfo/SKILL.md)** — Founder CFO.
+- **[founder-offer](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-offer/SKILL.md)** — Founder offer.
+- **[founder-consumer](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-consumer/SKILL.md)** — Founder consumer.
+- **[pricing-strategist](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/pricing-strategist/SKILL.md)** — Pricing strategist (Startup OS).
 
 <a id="founder-packs-brand--launch"></a>
 #### Brand & launch
 
-- **[logo-creator](https://www.skills.sh/resciencelab/opc-skills/logo-creator)** — Logo creator.
-- **[banner-creator](https://www.skills.sh/resciencelab/opc-skills/banner-creator)** — Banner creator.
-- **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — Domain hunter.
-- **[producthunt](https://www.skills.sh/resciencelab/opc-skills/producthunt)** — Product Hunt launch.
-- **[product-hunt-launch-plan](https://www.skills.sh/ognjengt/founder-skills/product-hunt-launch-plan)** — Product Hunt launch plan.
+- **[logo-creator](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/logo-creator/SKILL.md)** — Logo creator.
+- **[banner-creator](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/banner-creator/SKILL.md)** — Banner creator.
+- **[domain-hunter](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/domain-hunter/SKILL.md)** — Domain hunter.
+- **[producthunt](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/producthunt/SKILL.md)** — Product Hunt launch.
+- **[product-hunt-launch-plan](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/product-hunt-launch-plan/SKILL.md)** — Product Hunt launch plan.
 
 <a id="founder-packs-strategy--operations"></a>
 #### Strategy & operations
 
-- **[strategic-planning](https://www.skills.sh/ognjengt/founder-skills/strategic-planning)** — Strategic planning.
-- **[founder-ops](https://www.skills.sh/jakeschincariol/founder-skill/founder-ops)** — Founder ops.
-- **[founder-board](https://www.skills.sh/jakeschincariol/founder-skill/founder-board)** — Founder board.
-- **[founder-marketing](https://www.skills.sh/jakeschincariol/founder-skill/founder-marketing)** — Founder marketing.
-- **[founder-launch](https://www.skills.sh/jakeschincariol/founder-skill/founder-launch)** — Founder launch.
-- **[founder-brand](https://www.skills.sh/jakeschincariol/founder-skill/founder-brand)** — Founder brand.
-- **[startup-pitch](https://www.skills.sh/ferdinandobons/startup-skill/startup-pitch)** — Startup pitch.
-- **[archive](https://www.skills.sh/resciencelab/opc-skills/archive)** — Archive.
-- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — Support operations.
-- **[add-new-opc-skill](https://www.skills.sh/resciencelab/opc-skills/add-new-opc-skill)** — Add an OPC skill.
+- **[strategic-planning](https://github.com/ognjengt/founder-skills/blob/HEAD/skills/strategic-planning/SKILL.md)** — Strategic planning.
+- **[founder-ops](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-ops/SKILL.md)** — Founder ops.
+- **[founder-board](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-board/SKILL.md)** — Founder board.
+- **[founder-marketing](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-marketing/SKILL.md)** — Founder marketing.
+- **[founder-launch](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-launch/SKILL.md)** — Founder launch.
+- **[founder-brand](https://github.com/Jakeschincariol/founder-skill/blob/HEAD/skills/founder-brand/SKILL.md)** — Founder brand.
+- **[startup-pitch](https://github.com/ferdinandobons/startup-skill/blob/HEAD/startup-pitch/SKILL.md)** — Startup pitch.
+- **[archive](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/archive/SKILL.md)** — Archive.
+- **[support-operations](https://github.com/ncklrs/startup-os-skills/blob/HEAD/skills/support-operations/SKILL.md)** — Support operations.
+- **[add-new-opc-skill](https://github.com/resciencelab/opc-skills/blob/HEAD/.factory/skills/add-new-opc-skill/SKILL.md)** — Add an OPC skill.
 
 <a id="founder-packs-minimalist-entrepreneur-sahil"></a>
 #### Minimalist Entrepreneur (Sahil)
 
-- **[validate-idea](https://www.skills.sh/slavingia/skills/validate-idea)** — Validate idea.
-- **[mvp](https://www.skills.sh/slavingia/skills/mvp)** — MVP.
-- **[first-customers](https://www.skills.sh/slavingia/skills/first-customers)** — First customers (Sahil).
-- **[minimalist-review](https://www.skills.sh/slavingia/skills/minimalist-review)** — Minimalist review.
-- **[marketing-plan](https://www.skills.sh/slavingia/skills/marketing-plan)** — Marketing plan (Sahil).
-- **[pricing](https://www.skills.sh/slavingia/skills/pricing)** — Pricing (Sahil).
-- **[find-community](https://www.skills.sh/slavingia/skills/find-community)** — Find community.
-- **[grow-sustainably](https://www.skills.sh/slavingia/skills/grow-sustainably)** — Grow sustainably.
-- **[company-values](https://www.skills.sh/slavingia/skills/company-values)** — Company values.
-- **[processize](https://www.skills.sh/slavingia/skills/processize)** — Processize.
+- **[validate-idea](https://github.com/slavingia/skills/blob/HEAD/skills/validate-idea/SKILL.md)** — Validate idea.
+- **[mvp](https://github.com/slavingia/skills/blob/HEAD/skills/mvp/SKILL.md)** — MVP.
+- **[first-customers](https://github.com/slavingia/skills/blob/HEAD/skills/first-customers/SKILL.md)** — First customers (Sahil).
+- **[minimalist-review](https://github.com/slavingia/skills/blob/HEAD/skills/minimalist-review/SKILL.md)** — Minimalist review.
+- **[marketing-plan](https://github.com/slavingia/skills/blob/HEAD/skills/marketing-plan/SKILL.md)** — Marketing plan (Sahil).
+- **[pricing](https://github.com/slavingia/skills/blob/HEAD/skills/pricing/SKILL.md)** — Pricing (Sahil).
+- **[find-community](https://github.com/slavingia/skills/blob/HEAD/skills/find-community/SKILL.md)** — Find community.
+- **[grow-sustainably](https://github.com/slavingia/skills/blob/HEAD/skills/grow-sustainably/SKILL.md)** — Grow sustainably.
+- **[company-values](https://github.com/slavingia/skills/blob/HEAD/skills/company-values/SKILL.md)** — Company values.
+- **[processize](https://github.com/slavingia/skills/blob/HEAD/skills/processize/SKILL.md)** — Processize.
 
 [Back to contents](#contents)
 
@@ -2127,198 +2122,198 @@ all 148 skills from Lenny Rachitsky’s pack, re-grouped by product, growth, sal
 <a id="lenny-product"></a>
 #### Product
 
-- **[writing-prds](https://www.skills.sh/refoundai/lenny-skills/writing-prds)** — Write PRDs.
-- **[writing-specs-designs](https://www.skills.sh/refoundai/lenny-skills/writing-specs-designs)** — Write specs and design docs.
-- **[defining-product-vision](https://www.skills.sh/refoundai/lenny-skills/defining-product-vision)** — Define product vision.
-- **[problem-definition](https://www.skills.sh/refoundai/lenny-skills/problem-definition)** — Define the problem.
-- **[prioritizing-roadmap](https://www.skills.sh/refoundai/lenny-skills/prioritizing-roadmap)** — Prioritize the roadmap.
-- **[technical-roadmaps](https://www.skills.sh/refoundai/lenny-skills/technical-roadmaps)** — Technical roadmaps.
-- **[scoping-cutting](https://www.skills.sh/refoundai/lenny-skills/scoping-cutting)** — Scope and cut.
-- **[measuring-product-market-fit](https://www.skills.sh/refoundai/lenny-skills/measuring-product-market-fit)** — Measure PMF.
-- **[shipping-products](https://www.skills.sh/refoundai/lenny-skills/shipping-products)** — Ship products.
-- **[product-taste-intuition](https://www.skills.sh/refoundai/lenny-skills/product-taste-intuition)** — Product taste.
-- **[usability-testing](https://www.skills.sh/refoundai/lenny-skills/usability-testing)** — Usability testing.
-- **[user-onboarding](https://www.skills.sh/refoundai/lenny-skills/user-onboarding)** — User onboarding.
-- **[design-systems](https://www.skills.sh/refoundai/lenny-skills/design-systems)** — Design systems.
-- **[design-engineering](https://www.skills.sh/refoundai/lenny-skills/design-engineering)** — Design engineering.
-- **[working-backwards](https://www.skills.sh/refoundai/lenny-skills/working-backwards)** — Working backwards.
+- **[writing-prds](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/writing-prds/SKILL.md)** — Write PRDs.
+- **[writing-specs-designs · repository entry](https://github.com/refoundai/lenny-skills)** — Write specs and design docs.
+- **[defining-product-vision · repository entry](https://github.com/refoundai/lenny-skills)** — Define product vision.
+- **[problem-definition · repository entry](https://github.com/refoundai/lenny-skills)** — Define the problem.
+- **[prioritizing-roadmap · repository entry](https://github.com/refoundai/lenny-skills)** — Prioritize the roadmap.
+- **[technical-roadmaps · repository entry](https://github.com/refoundai/lenny-skills)** — Technical roadmaps.
+- **[scoping-cutting · repository entry](https://github.com/refoundai/lenny-skills)** — Scope and cut.
+- **[measuring-product-market-fit · repository entry](https://github.com/refoundai/lenny-skills)** — Measure PMF.
+- **[shipping-products · repository entry](https://github.com/refoundai/lenny-skills)** — Ship products.
+- **[product-taste-intuition · repository entry](https://github.com/refoundai/lenny-skills)** — Product taste.
+- **[usability-testing · repository entry](https://github.com/refoundai/lenny-skills)** — Usability testing.
+- **[user-onboarding · repository entry](https://github.com/refoundai/lenny-skills)** — User onboarding.
+- **[design-systems · repository entry](https://github.com/refoundai/lenny-skills)** — Design systems.
+- **[design-engineering · repository entry](https://github.com/refoundai/lenny-skills)** — Design engineering.
+- **[working-backwards · repository entry](https://github.com/refoundai/lenny-skills)** — Working backwards.
 
 <a id="lenny-growth--marketing"></a>
 #### Growth & marketing
 
-- **[designing-growth-loops](https://www.skills.sh/refoundai/lenny-skills/designing-growth-loops)** — Design growth loops.
-- **[launch-marketing](https://www.skills.sh/refoundai/lenny-skills/launch-marketing)** — Launch marketing.
-- **[retention-engagement](https://www.skills.sh/refoundai/lenny-skills/retention-engagement)** — Retention and engagement.
-- **[community-building](https://www.skills.sh/refoundai/lenny-skills/community-building)** — Community building.
-- **[product-led-sales](https://www.skills.sh/refoundai/lenny-skills/product-led-sales)** — Product-led sales.
-- **[positioning](https://www.skills.sh/refoundai/lenny-skills/positioning)** — Positioning.
-- **[positioning-messaging](https://www.skills.sh/refoundai/lenny-skills/positioning-messaging)** — Positioning and messaging.
-- **[competitive-strategy](https://www.skills.sh/refoundai/lenny-skills/competitive-strategy)** — Competitive strategy.
-- **[competitive-analysis](https://www.skills.sh/refoundai/lenny-skills/competitive-analysis)** — Competitive analysis.
-- **[marketplace-liquidity](https://www.skills.sh/refoundai/lenny-skills/marketplace-liquidity)** — Marketplace liquidity.
+- **[designing-growth-loops · repository entry](https://github.com/refoundai/lenny-skills)** — Design growth loops.
+- **[launch-marketing · repository entry](https://github.com/refoundai/lenny-skills)** — Launch marketing.
+- **[retention-engagement](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/retention-engagement/SKILL.md)** — Retention and engagement.
+- **[community-building · repository entry](https://github.com/refoundai/lenny-skills)** — Community building.
+- **[product-led-sales · repository entry](https://github.com/refoundai/lenny-skills)** — Product-led sales.
+- **[positioning](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/positioning/SKILL.md)** — Positioning.
+- **[positioning-messaging · repository entry](https://github.com/refoundai/lenny-skills)** — Positioning and messaging.
+- **[competitive-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/competitive-strategy/SKILL.md)** — Competitive strategy.
+- **[competitive-analysis · repository entry](https://github.com/refoundai/lenny-skills)** — Competitive analysis.
+- **[marketplace-liquidity · repository entry](https://github.com/refoundai/lenny-skills)** — Marketplace liquidity.
 
 <a id="lenny-sales--bd"></a>
 #### Sales & BD
 
-- **[founder-sales](https://www.skills.sh/refoundai/lenny-skills/founder-sales)** — Founder sales.
-- **[enterprise-sales](https://www.skills.sh/refoundai/lenny-skills/enterprise-sales)** — Enterprise sales.
-- **[sales-qualification](https://www.skills.sh/refoundai/lenny-skills/sales-qualification)** — Sales qualification.
-- **[partnership-bd](https://www.skills.sh/refoundai/lenny-skills/partnership-bd)** — Partnerships and BD.
-- **[media-relations](https://www.skills.sh/refoundai/lenny-skills/media-relations)** — Media relations.
+- **[founder-sales](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-sales/SKILL.md)** — Founder sales.
+- **[enterprise-sales · repository entry](https://github.com/refoundai/lenny-skills)** — Enterprise sales.
+- **[sales-qualification · repository entry](https://github.com/refoundai/lenny-skills)** — Sales qualification.
+- **[partnership-bd · repository entry](https://github.com/refoundai/lenny-skills)** — Partnerships and BD.
+- **[media-relations · repository entry](https://github.com/refoundai/lenny-skills)** — Media relations.
 
 <a id="lenny-team--management"></a>
 #### Team & management
 
-- **[evaluating-candidates](https://www.skills.sh/refoundai/lenny-skills/evaluating-candidates)** — Evaluate candidates.
-- **[running-effective-1-1s](https://www.skills.sh/refoundai/lenny-skills/running-effective-1-1s)** — Effective 1:1s.
-- **[running-effective-meetings](https://www.skills.sh/refoundai/lenny-skills/running-effective-meetings)** — Effective meetings.
-- **[giving-presentations](https://www.skills.sh/refoundai/lenny-skills/giving-presentations)** — Give presentations.
-- **[written-communication](https://www.skills.sh/refoundai/lenny-skills/written-communication)** — Written communication.
-- **[executive-communication](https://www.skills.sh/refoundai/lenny-skills/executive-communication)** — Executive communication.
-- **[stakeholder-alignment](https://www.skills.sh/refoundai/lenny-skills/stakeholder-alignment)** — Stakeholder alignment.
-- **[setting-okrs-goals](https://www.skills.sh/refoundai/lenny-skills/setting-okrs-goals)** — Set OKRs.
+- **[evaluating-candidates · repository entry](https://github.com/refoundai/lenny-skills)** — Evaluate candidates.
+- **[running-effective-1-1s · repository entry](https://github.com/refoundai/lenny-skills)** — Effective 1:1s.
+- **[running-effective-meetings · repository entry](https://github.com/refoundai/lenny-skills)** — Effective meetings.
+- **[giving-presentations · repository entry](https://github.com/refoundai/lenny-skills)** — Give presentations.
+- **[written-communication](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/written-communication/SKILL.md)** — Written communication.
+- **[executive-communication](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/executive-communication/SKILL.md)** — Executive communication.
+- **[stakeholder-alignment](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/stakeholder-alignment/SKILL.md)** — Stakeholder alignment.
+- **[setting-okrs-goals · repository entry](https://github.com/refoundai/lenny-skills)** — Set OKRs.
 
 <a id="lenny-judgment--decisions"></a>
 #### Judgment & decisions
 
-- **[systems-thinking](https://www.skills.sh/refoundai/lenny-skills/systems-thinking)** — Systems thinking.
-- **[evaluating-trade-offs](https://www.skills.sh/refoundai/lenny-skills/evaluating-trade-offs)** — Evaluate trade-offs.
-- **[running-decision-processes](https://www.skills.sh/refoundai/lenny-skills/running-decision-processes)** — Run decision processes.
-- **[planning-under-uncertainty](https://www.skills.sh/refoundai/lenny-skills/planning-under-uncertainty)** — Plan under uncertainty.
-- **[high-stakes-decisions](https://www.skills.sh/refoundai/lenny-skills/high-stakes-decisions)** — High-stakes decisions.
-- **[post-mortems-retrospectives](https://www.skills.sh/refoundai/lenny-skills/post-mortems-retrospectives)** — Post-mortems and retros.
-- **[startup-pivoting](https://www.skills.sh/refoundai/lenny-skills/startup-pivoting)** — Startup pivoting.
+- **[systems-thinking · repository entry](https://github.com/refoundai/lenny-skills)** — Systems thinking.
+- **[evaluating-trade-offs](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/evaluating-trade-offs/SKILL.md)** — Evaluate trade-offs.
+- **[running-decision-processes · repository entry](https://github.com/refoundai/lenny-skills)** — Run decision processes.
+- **[planning-under-uncertainty · repository entry](https://github.com/refoundai/lenny-skills)** — Plan under uncertainty.
+- **[high-stakes-decisions](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/high-stakes-decisions/SKILL.md)** — High-stakes decisions.
+- **[post-mortems-retrospectives · repository entry](https://github.com/refoundai/lenny-skills)** — Post-mortems and retros.
+- **[startup-pivoting · repository entry](https://github.com/refoundai/lenny-skills)** — Startup pivoting.
 
 <a id="lenny-product-and-design"></a>
 #### Product and design
 
-- **[behavioral-product-design](https://www.skills.sh/refoundai/lenny-skills/behavioral-product-design)** — Behavioral product design.
-- **[designing-surveys](https://www.skills.sh/refoundai/lenny-skills/designing-surveys)** — Design surveys.
-- **[conducting-user-interviews](https://www.skills.sh/refoundai/lenny-skills/conducting-user-interviews)** — User interviews.
-- **[conducting-interviews](https://www.skills.sh/refoundai/lenny-skills/conducting-interviews)** — Interviews.
-- **[customer-interviews](https://www.skills.sh/refoundai/lenny-skills/customer-interviews)** — Customer interviews.
-- **[running-design-reviews](https://www.skills.sh/refoundai/lenny-skills/running-design-reviews)** — Design reviews.
-- **[product-operations](https://www.skills.sh/refoundai/lenny-skills/product-operations)** — Product operations.
-- **[product-taste](https://www.skills.sh/refoundai/lenny-skills/product-taste)** — Product taste.
-- **[product-vision](https://www.skills.sh/refoundai/lenny-skills/product-vision)** — Product vision.
-- **[continuous-discovery](https://www.skills.sh/refoundai/lenny-skills/continuous-discovery)** — Continuous discovery.
-- **[defining-product-strategy](https://www.skills.sh/refoundai/lenny-skills/defining-product-strategy)** — Product strategy.
-- **[roadmap-prioritization](https://www.skills.sh/refoundai/lenny-skills/roadmap-prioritization)** — Roadmap prioritization.
-- **[measuring-pmf](https://www.skills.sh/refoundai/lenny-skills/measuring-pmf)** — Measure PMF.
-- **[north-star-metrics](https://www.skills.sh/refoundai/lenny-skills/north-star-metrics)** — North-star metrics.
-- **[writing-north-star-metrics](https://www.skills.sh/refoundai/lenny-skills/writing-north-star-metrics)** — Write north-star metrics.
-- **[user-onboarding-activation](https://www.skills.sh/refoundai/lenny-skills/user-onboarding-activation)** — Onboarding and activation.
-- **[ai-native-ux](https://www.skills.sh/refoundai/lenny-skills/ai-native-ux)** — AI-native UX.
-- **[product-experiments](https://www.skills.sh/refoundai/lenny-skills/product-experiments)** — Product experiments.
-- **[product-reviews](https://www.skills.sh/refoundai/lenny-skills/product-reviews)** — Product reviews.
-- **[product-tool-stack](https://www.skills.sh/refoundai/lenny-skills/product-tool-stack)** — Product tool stack.
-- **[shipping-velocity](https://www.skills.sh/refoundai/lenny-skills/shipping-velocity)** — Shipping velocity.
-- **[platform-strategy](https://www.skills.sh/refoundai/lenny-skills/platform-strategy)** — Platform strategy.
-- **[platform-infrastructure](https://www.skills.sh/refoundai/lenny-skills/platform-infrastructure)** — Platform infrastructure.
-- **[dogfooding](https://www.skills.sh/refoundai/lenny-skills/dogfooding)** — Dogfooding.
-- **[recovering-from-failure](https://www.skills.sh/refoundai/lenny-skills/recovering-from-failure)** — Recovering from failure.
-- **[ai-product-strategy](https://www.skills.sh/refoundai/lenny-skills/ai-product-strategy)** — AI product strategy.
-- **[analyzing-user-feedback](https://www.skills.sh/refoundai/lenny-skills/analyzing-user-feedback)** — Analyze user feedback.
-- **[evaluating-startup-ideas](https://www.skills.sh/refoundai/lenny-skills/evaluating-startup-ideas)** — Evaluate startup ideas.
-- **[idea-validation](https://www.skills.sh/refoundai/lenny-skills/idea-validation)** — Idea validation.
+- **[behavioral-product-design · repository entry](https://github.com/refoundai/lenny-skills)** — Behavioral product design.
+- **[designing-surveys · repository entry](https://github.com/refoundai/lenny-skills)** — Design surveys.
+- **[conducting-user-interviews · repository entry](https://github.com/refoundai/lenny-skills)** — User interviews.
+- **[conducting-interviews · repository entry](https://github.com/refoundai/lenny-skills)** — Interviews.
+- **[customer-interviews](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/customer-interviews/SKILL.md)** — Customer interviews.
+- **[running-design-reviews · repository entry](https://github.com/refoundai/lenny-skills)** — Design reviews.
+- **[product-operations · repository entry](https://github.com/refoundai/lenny-skills)** — Product operations.
+- **[product-taste](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/product-taste/SKILL.md)** — Product taste.
+- **[product-vision](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/product-vision/SKILL.md)** — Product vision.
+- **[continuous-discovery](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/continuous-discovery/SKILL.md)** — Continuous discovery.
+- **[defining-product-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/defining-product-strategy/SKILL.md)** — Product strategy.
+- **[roadmap-prioritization](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/roadmap-prioritization/SKILL.md)** — Roadmap prioritization.
+- **[measuring-pmf](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/measuring-pmf/SKILL.md)** — Measure PMF.
+- **[north-star-metrics](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/north-star-metrics/SKILL.md)** — North-star metrics.
+- **[writing-north-star-metrics · repository entry](https://github.com/refoundai/lenny-skills)** — Write north-star metrics.
+- **[user-onboarding-activation](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/user-onboarding-activation/SKILL.md)** — Onboarding and activation.
+- **[ai-native-ux](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/ai-native-ux/SKILL.md)** — AI-native UX.
+- **[product-experiments](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/product-experiments/SKILL.md)** — Product experiments.
+- **[product-reviews](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/product-reviews/SKILL.md)** — Product reviews.
+- **[product-tool-stack](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/product-tool-stack/SKILL.md)** — Product tool stack.
+- **[shipping-velocity](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/shipping-velocity/SKILL.md)** — Shipping velocity.
+- **[platform-strategy · repository entry](https://github.com/refoundai/lenny-skills)** — Platform strategy.
+- **[platform-infrastructure · repository entry](https://github.com/refoundai/lenny-skills)** — Platform infrastructure.
+- **[dogfooding · repository entry](https://github.com/refoundai/lenny-skills)** — Dogfooding.
+- **[recovering-from-failure](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/recovering-from-failure/SKILL.md)** — Recovering from failure.
+- **[ai-product-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/ai-product-strategy/SKILL.md)** — AI product strategy.
+- **[analyzing-user-feedback](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/analyzing-user-feedback/SKILL.md)** — Analyze user feedback.
+- **[evaluating-startup-ideas](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/evaluating-startup-ideas/SKILL.md)** — Evaluate startup ideas.
+- **[idea-validation](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/idea-validation/SKILL.md)** — Idea validation.
 
 <a id="lenny-growth-and-channels"></a>
 #### Growth and channels
 
-- **[content-marketing](https://www.skills.sh/refoundai/lenny-skills/content-marketing)** — Content marketing.
-- **[seo-strategy](https://www.skills.sh/refoundai/lenny-skills/seo-strategy)** — SEO strategy.
-- **[acquisition-channels](https://www.skills.sh/refoundai/lenny-skills/acquisition-channels)** — Acquisition channels.
-- **[referrals-word-of-mouth](https://www.skills.sh/refoundai/lenny-skills/referrals-word-of-mouth)** — Referrals and word of mouth.
-- **[growth-model](https://www.skills.sh/refoundai/lenny-skills/growth-model)** — Growth model.
-- **[growth-experimentation](https://www.skills.sh/refoundai/lenny-skills/growth-experimentation)** — Growth experimentation.
-- **[launch-planning](https://www.skills.sh/refoundai/lenny-skills/launch-planning)** — Launch planning.
-- **[naming-and-branding](https://www.skills.sh/refoundai/lenny-skills/naming-and-branding)** — Naming and branding.
-- **[defining-icp](https://www.skills.sh/refoundai/lenny-skills/defining-icp)** — Define ICP.
-- **[first-b2b-customers](https://www.skills.sh/refoundai/lenny-skills/first-b2b-customers)** — First B2B customers.
-- **[pr-and-press](https://www.skills.sh/refoundai/lenny-skills/pr-and-press)** — PR and press.
-- **[marketing-org-and-stack](https://www.skills.sh/refoundai/lenny-skills/marketing-org-and-stack)** — Marketing org and stack.
-- **[personal-brand-network](https://www.skills.sh/refoundai/lenny-skills/personal-brand-network)** — Personal brand network.
-- **[brand-storytelling](https://www.skills.sh/refoundai/lenny-skills/brand-storytelling)** — Brand storytelling.
-- **[startup-ideation](https://www.skills.sh/refoundai/lenny-skills/startup-ideation)** — Startup ideation.
-- **[pricing-strategy](https://www.skills.sh/refoundai/lenny-skills/pricing-strategy)** — Pricing strategy.
-- **[plg-fundamentals](https://www.skills.sh/refoundai/lenny-skills/plg-fundamentals)** — PLG fundamentals.
-- **[international-expansion](https://www.skills.sh/refoundai/lenny-skills/international-expansion)** — International expansion.
+- **[content-marketing · repository entry](https://github.com/refoundai/lenny-skills)** — Content marketing.
+- **[seo-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/seo-strategy/SKILL.md)** — SEO strategy.
+- **[acquisition-channels](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/acquisition-channels/SKILL.md)** — Acquisition channels.
+- **[referrals-word-of-mouth](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/referrals-word-of-mouth/SKILL.md)** — Referrals and word of mouth.
+- **[growth-model](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/growth-model/SKILL.md)** — Growth model.
+- **[growth-experimentation](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/growth-experimentation/SKILL.md)** — Growth experimentation.
+- **[launch-planning](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/launch-planning/SKILL.md)** — Launch planning.
+- **[naming-and-branding](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/naming-and-branding/SKILL.md)** — Naming and branding.
+- **[defining-icp](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/defining-icp/SKILL.md)** — Define ICP.
+- **[first-b2b-customers](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/first-b2b-customers/SKILL.md)** — First B2B customers.
+- **[pr-and-press](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/pr-and-press/SKILL.md)** — PR and press.
+- **[marketing-org-and-stack](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/marketing-org-and-stack/SKILL.md)** — Marketing org and stack.
+- **[personal-brand-network](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/personal-brand-network/SKILL.md)** — Personal brand network.
+- **[brand-storytelling · repository entry](https://github.com/refoundai/lenny-skills)** — Brand storytelling.
+- **[startup-ideation · repository entry](https://github.com/refoundai/lenny-skills)** — Startup ideation.
+- **[pricing-strategy](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/pricing-strategy/SKILL.md)** — Pricing strategy.
+- **[plg-fundamentals](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/plg-fundamentals/SKILL.md)** — PLG fundamentals.
+- **[international-expansion](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/international-expansion/SKILL.md)** — International expansion.
 
 <a id="lenny-sales-and-fundraising"></a>
 #### Sales and fundraising
 
-- **[enterprise-sales-motion](https://www.skills.sh/refoundai/lenny-skills/enterprise-sales-motion)** — Enterprise sales motion.
-- **[building-sales-team](https://www.skills.sh/refoundai/lenny-skills/building-sales-team)** — Build a sales team.
-- **[sales-compensation](https://www.skills.sh/refoundai/lenny-skills/sales-compensation)** — Sales compensation.
-- **[negotiating-offers](https://www.skills.sh/refoundai/lenny-skills/negotiating-offers)** — Negotiating offers.
-- **[plg-sales-integration](https://www.skills.sh/refoundai/lenny-skills/plg-sales-integration)** — PLG sales integration.
-- **[fundraising](https://www.skills.sh/refoundai/lenny-skills/fundraising)** — Fundraising.
+- **[enterprise-sales-motion](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/enterprise-sales-motion/SKILL.md)** — Enterprise sales motion.
+- **[building-sales-team · repository entry](https://github.com/refoundai/lenny-skills)** — Build a sales team.
+- **[sales-compensation · repository entry](https://github.com/refoundai/lenny-skills)** — Sales compensation.
+- **[negotiating-offers · repository entry](https://github.com/refoundai/lenny-skills)** — Negotiating offers.
+- **[plg-sales-integration](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/plg-sales-integration/SKILL.md)** — PLG sales integration.
+- **[fundraising](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/fundraising/SKILL.md)** — Fundraising.
 
 <a id="lenny-teams-and-organizations"></a>
 #### Teams and organizations
 
-- **[organizational-design](https://www.skills.sh/refoundai/lenny-skills/organizational-design)** — Org design.
-- **[org-design](https://www.skills.sh/refoundai/lenny-skills/org-design)** — Org design.
-- **[organizational-transformation](https://www.skills.sh/refoundai/lenny-skills/organizational-transformation)** — Org transformation.
-- **[onboarding-new-hires](https://www.skills.sh/refoundai/lenny-skills/onboarding-new-hires)** — Onboarding new hires.
-- **[building-team-culture](https://www.skills.sh/refoundai/lenny-skills/building-team-culture)** — Team culture.
-- **[engineering-culture](https://www.skills.sh/refoundai/lenny-skills/engineering-culture)** — Engineering culture.
-- **[team-culture](https://www.skills.sh/refoundai/lenny-skills/team-culture)** — Team culture.
-- **[running-meetings](https://www.skills.sh/refoundai/lenny-skills/running-meetings)** — Running meetings.
-- **[running-offsites](https://www.skills.sh/refoundai/lenny-skills/running-offsites)** — Running offsites.
-- **[team-rituals](https://www.skills.sh/refoundai/lenny-skills/team-rituals)** — Team rituals.
-- **[delegating-work](https://www.skills.sh/refoundai/lenny-skills/delegating-work)** — Delegating work.
-- **[writing-job-descriptions](https://www.skills.sh/refoundai/lenny-skills/writing-job-descriptions)** — Writing job descriptions.
-- **[interviewing-evaluating-candidates](https://www.skills.sh/refoundai/lenny-skills/interviewing-evaluating-candidates)** — Interviewing candidates.
-- **[hiring-product-talent](https://www.skills.sh/refoundai/lenny-skills/hiring-product-talent)** — Hiring product talent.
-- **[fixing-underperforming-teams](https://www.skills.sh/refoundai/lenny-skills/fixing-underperforming-teams)** — Fixing underperforming teams.
-- **[leading-org-change](https://www.skills.sh/refoundai/lenny-skills/leading-org-change)** — Leading org change.
-- **[coaching-development](https://www.skills.sh/refoundai/lenny-skills/coaching-development)** — Coaching and development.
-- **[coaching-pms](https://www.skills.sh/refoundai/lenny-skills/coaching-pms)** — Coaching PMs.
-- **[building-growth-team](https://www.skills.sh/refoundai/lenny-skills/building-growth-team)** — Building a growth team.
-- **[founding-exec-team](https://www.skills.sh/refoundai/lenny-skills/founding-exec-team)** — Founding exec team.
-- **[pm-career-growth](https://www.skills.sh/refoundai/lenny-skills/pm-career-growth)** — PM career growth.
-- **[managing-timelines](https://www.skills.sh/refoundai/lenny-skills/managing-timelines)** — Managing timelines.
-- **[managing-tech-debt](https://www.skills.sh/refoundai/lenny-skills/managing-tech-debt)** — Managing tech debt.
-- **[engineering-health](https://www.skills.sh/refoundai/lenny-skills/engineering-health)** — Engineering health.
-- **[goal-setting-okrs](https://www.skills.sh/refoundai/lenny-skills/goal-setting-okrs)** — Goals and OKRs.
-- **[planning-cadence](https://www.skills.sh/refoundai/lenny-skills/planning-cadence)** — Planning cadence.
+- **[organizational-design · repository entry](https://github.com/refoundai/lenny-skills)** — Org design.
+- **[org-design](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/org-design/SKILL.md)** — Org design.
+- **[organizational-transformation · repository entry](https://github.com/refoundai/lenny-skills)** — Org transformation.
+- **[onboarding-new-hires · repository entry](https://github.com/refoundai/lenny-skills)** — Onboarding new hires.
+- **[building-team-culture · repository entry](https://github.com/refoundai/lenny-skills)** — Team culture.
+- **[engineering-culture · repository entry](https://github.com/refoundai/lenny-skills)** — Engineering culture.
+- **[team-culture](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/team-culture/SKILL.md)** — Team culture.
+- **[running-meetings](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/running-meetings/SKILL.md)** — Running meetings.
+- **[running-offsites · repository entry](https://github.com/refoundai/lenny-skills)** — Running offsites.
+- **[team-rituals · repository entry](https://github.com/refoundai/lenny-skills)** — Team rituals.
+- **[delegating-work · repository entry](https://github.com/refoundai/lenny-skills)** — Delegating work.
+- **[writing-job-descriptions · repository entry](https://github.com/refoundai/lenny-skills)** — Writing job descriptions.
+- **[interviewing-evaluating-candidates](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/interviewing-evaluating-candidates/SKILL.md)** — Interviewing candidates.
+- **[hiring-product-talent](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/hiring-product-talent/SKILL.md)** — Hiring product talent.
+- **[fixing-underperforming-teams](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/fixing-underperforming-teams/SKILL.md)** — Fixing underperforming teams.
+- **[leading-org-change](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/leading-org-change/SKILL.md)** — Leading org change.
+- **[coaching-development](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/coaching-development/SKILL.md)** — Coaching and development.
+- **[coaching-pms · repository entry](https://github.com/refoundai/lenny-skills)** — Coaching PMs.
+- **[building-growth-team](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/building-growth-team/SKILL.md)** — Building a growth team.
+- **[founding-exec-team](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founding-exec-team/SKILL.md)** — Founding exec team.
+- **[pm-career-growth](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/pm-career-growth/SKILL.md)** — PM career growth.
+- **[managing-timelines · repository entry](https://github.com/refoundai/lenny-skills)** — Managing timelines.
+- **[managing-tech-debt · repository entry](https://github.com/refoundai/lenny-skills)** — Managing tech debt.
+- **[engineering-health](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/engineering-health/SKILL.md)** — Engineering health.
+- **[goal-setting-okrs](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/goal-setting-okrs/SKILL.md)** — Goals and OKRs.
+- **[planning-cadence](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/planning-cadence/SKILL.md)** — Planning cadence.
 
 <a id="lenny-leadership-and-personal-development"></a>
 #### Leadership and personal development
 
-- **[public-speaking](https://www.skills.sh/refoundai/lenny-skills/public-speaking)** — Public speaking.
-- **[having-difficult-conversations](https://www.skills.sh/refoundai/lenny-skills/having-difficult-conversations)** — Difficult conversations.
-- **[giving-feedback](https://www.skills.sh/refoundai/lenny-skills/giving-feedback)** — Giving feedback.
-- **[managing-up](https://www.skills.sh/refoundai/lenny-skills/managing-up)** — Managing up.
-- **[cross-functional-collaboration](https://www.skills.sh/refoundai/lenny-skills/cross-functional-collaboration)** — Cross-functional collaboration.
-- **[personal-productivity](https://www.skills.sh/refoundai/lenny-skills/personal-productivity)** — Personal productivity.
-- **[time-energy-management](https://www.skills.sh/refoundai/lenny-skills/time-energy-management)** — Time and energy.
-- **[energy-management](https://www.skills.sh/refoundai/lenny-skills/energy-management)** — Energy management.
-- **[managing-imposter-syndrome](https://www.skills.sh/refoundai/lenny-skills/managing-imposter-syndrome)** — Imposter syndrome.
-- **[finding-mentors-sponsors](https://www.skills.sh/refoundai/lenny-skills/finding-mentors-sponsors)** — Mentors and sponsors.
-- **[career-transitions](https://www.skills.sh/refoundai/lenny-skills/career-transitions)** — Career transitions.
-- **[building-a-promotion-case](https://www.skills.sh/refoundai/lenny-skills/building-a-promotion-case)** — Promotion case.
-- **[negotiating-compensation](https://www.skills.sh/refoundai/lenny-skills/negotiating-compensation)** — Negotiating compensation.
-- **[breaking-into-product](https://www.skills.sh/refoundai/lenny-skills/breaking-into-product)** — Breaking into product.
-- **[founder-psychology](https://www.skills.sh/refoundai/lenny-skills/founder-psychology)** — Founder psychology.
+- **[public-speaking](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/public-speaking/SKILL.md)** — Public speaking.
+- **[having-difficult-conversations · repository entry](https://github.com/refoundai/lenny-skills)** — Difficult conversations.
+- **[giving-feedback](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/giving-feedback/SKILL.md)** — Giving feedback.
+- **[managing-up](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/managing-up/SKILL.md)** — Managing up.
+- **[cross-functional-collaboration · repository entry](https://github.com/refoundai/lenny-skills)** — Cross-functional collaboration.
+- **[personal-productivity · repository entry](https://github.com/refoundai/lenny-skills)** — Personal productivity.
+- **[time-energy-management](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/time-energy-management/SKILL.md)** — Time and energy.
+- **[energy-management · repository entry](https://github.com/refoundai/lenny-skills)** — Energy management.
+- **[managing-imposter-syndrome · repository entry](https://github.com/refoundai/lenny-skills)** — Imposter syndrome.
+- **[finding-mentors-sponsors · repository entry](https://github.com/refoundai/lenny-skills)** — Mentors and sponsors.
+- **[career-transitions](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/career-transitions/SKILL.md)** — Career transitions.
+- **[building-a-promotion-case](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/building-a-promotion-case/SKILL.md)** — Promotion case.
+- **[negotiating-compensation](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/negotiating-compensation/SKILL.md)** — Negotiating compensation.
+- **[breaking-into-product](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/breaking-into-product/SKILL.md)** — Breaking into product.
+- **[founder-psychology](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/founder-psychology/SKILL.md)** — Founder psychology.
 
 <a id="lenny-ai-and-technology"></a>
 #### AI and technology
 
-- **[vibe-coding](https://www.skills.sh/refoundai/lenny-skills/vibe-coding)** — Vibe coding.
-- **[ai-evals](https://www.skills.sh/refoundai/lenny-skills/ai-evals)** — AI evals.
-- **[building-with-llms](https://www.skills.sh/refoundai/lenny-skills/building-with-llms)** — Building with LLMs.
-- **[ai-assisted-prototyping](https://www.skills.sh/refoundai/lenny-skills/ai-assisted-prototyping)** — AI-assisted prototyping.
-- **[building-with-ai-agents](https://www.skills.sh/refoundai/lenny-skills/building-with-ai-agents)** — Building with AI agents.
-- **[evaluating-new-technology](https://www.skills.sh/refoundai/lenny-skills/evaluating-new-technology)** — Evaluating new technology.
+- **[vibe-coding · repository entry](https://github.com/refoundai/lenny-skills)** — Vibe coding.
+- **[ai-evals](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/ai-evals/SKILL.md)** — AI evals.
+- **[building-with-llms · repository entry](https://github.com/refoundai/lenny-skills)** — Building with LLMs.
+- **[ai-assisted-prototyping](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/ai-assisted-prototyping/SKILL.md)** — AI-assisted prototyping.
+- **[building-with-ai-agents](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/building-with-ai-agents/SKILL.md)** — Building with AI agents.
+- **[evaluating-new-technology · repository entry](https://github.com/refoundai/lenny-skills)** — Evaluating new technology.
 
 <a id="lenny-two-sided-marketplaces"></a>
 #### Two-sided marketplaces
 
-- **[marketplace-fundamentals](https://www.skills.sh/refoundai/lenny-skills/marketplace-fundamentals)** — Marketplace fundamentals.
-- **[marketplace-liquidity-take-rates](https://www.skills.sh/refoundai/lenny-skills/marketplace-liquidity-take-rates)** — Liquidity and take rates.
-- **[supply-demand-balance](https://www.skills.sh/refoundai/lenny-skills/supply-demand-balance)** — Supply-demand balance.
+- **[marketplace-fundamentals](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/marketplace-fundamentals/SKILL.md)** — Marketplace fundamentals.
+- **[marketplace-liquidity-take-rates](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/marketplace-liquidity-take-rates/SKILL.md)** — Liquidity and take rates.
+- **[supply-demand-balance](https://github.com/refoundai/lenny-skills/blob/HEAD/skills/supply-demand-balance/SKILL.md)** — Supply-demand balance.
 
 [Back to contents](#contents)
 
@@ -2330,42 +2325,42 @@ Classic business books and mental models as callable skills, grouped by judgment
 <a id="classics-mental-models"></a>
 #### Mental models
 
-- **[munger-perspective](https://www.skills.sh/alchaincyf/munger-skill/munger-perspective)** — Munger’s mental models.
-- **[naval-perspective](https://www.skills.sh/alchaincyf/naval-skill/naval-perspective)** — Naval on wealth and leverage.
-- **[paul-graham-perspective](https://www.skills.sh/alchaincyf/paul-graham-skill/paul-graham-perspective)** — Paul Graham on startups and writing.
-- **[taleb-perspective](https://www.skills.sh/alchaincyf/taleb-skill/taleb-perspective)** — Taleb on antifragility.
+- **[munger-perspective](https://github.com/alchaincyf/munger-skill/blob/HEAD/SKILL.md)** — Munger’s mental models.
+- **[naval-perspective](https://github.com/alchaincyf/naval-skill/blob/HEAD/SKILL.md)** — Naval on wealth and leverage.
+- **[paul-graham-perspective](https://github.com/alchaincyf/paul-graham-skill/blob/HEAD/SKILL.md)** — Paul Graham on startups and writing.
+- **[taleb-perspective](https://github.com/alchaincyf/taleb-skill/blob/HEAD/SKILL.md)** — Taleb on antifragility.
 
 <a id="classics-startup--product"></a>
 #### Startup & product
 
-- **[lean-startup](https://www.skills.sh/getagentseal/founder-playbook/lean-startup)** — Lean Startup: build-measure-learn.
-- **[mom-test](https://www.skills.sh/getagentseal/founder-playbook/mom-test)** — The Mom Test: ask about the past.
-- **[obviously-awesome](https://www.skills.sh/getagentseal/founder-playbook/obviously-awesome)** — Obviously Awesome positioning.
-- **[crossing-the-chasm](https://www.skills.sh/getagentseal/founder-playbook/crossing-the-chasm)** — Crossing the Chasm.
-- **[blue-ocean-strategy](https://www.skills.sh/getagentseal/founder-playbook/blue-ocean-strategy)** — Blue Ocean Strategy.
-- **[diagnose](https://www.skills.sh/getagentseal/founder-playbook/diagnose)** — Diagnose the business.
+- **[lean-startup](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/lean-startup/SKILL.md)** — Lean Startup: build-measure-learn.
+- **[mom-test](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/mom-test/SKILL.md)** — The Mom Test: ask about the past.
+- **[obviously-awesome](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/obviously-awesome/SKILL.md)** — Obviously Awesome positioning.
+- **[crossing-the-chasm](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/crossing-the-chasm/SKILL.md)** — Crossing the Chasm.
+- **[blue-ocean-strategy](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/blue-ocean-strategy/SKILL.md)** — Blue Ocean Strategy.
+- **[diagnose](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/diagnose/SKILL.md)** — Diagnose the business.
 
 <a id="classics-marketing"></a>
 #### Marketing
 
-- **[100m-offers](https://www.skills.sh/getagentseal/founder-playbook/100m-offers)** — $100M Offers.
-- **[100m-leads](https://www.skills.sh/getagentseal/founder-playbook/100m-leads)** — $100M Leads.
-- **[storybrand](https://www.skills.sh/getagentseal/founder-playbook/storybrand)** — StoryBrand messaging.
-- **[made-to-stick](https://www.skills.sh/getagentseal/founder-playbook/made-to-stick)** — Made to Stick.
-- **[influence](https://www.skills.sh/getagentseal/founder-playbook/influence)** — Influence principles.
-- **[traction](https://www.skills.sh/getagentseal/founder-playbook/traction)** — Traction channels.
+- **[100m-offers](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/100m-offers/SKILL.md)** — $100M Offers.
+- **[100m-leads](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/100m-leads/SKILL.md)** — $100M Leads.
+- **[storybrand](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/storybrand/SKILL.md)** — StoryBrand messaging.
+- **[made-to-stick](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/made-to-stick/SKILL.md)** — Made to Stick.
+- **[influence](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/influence/SKILL.md)** — Influence principles.
+- **[traction](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/traction/SKILL.md)** — Traction channels.
 
 <a id="classics-sales"></a>
 #### Sales
 
-- **[spin-selling](https://www.skills.sh/getagentseal/founder-playbook/spin-selling)** — SPIN Selling.
-- **[four-steps](https://www.skills.sh/getagentseal/founder-playbook/four-steps)** — Four-step sales process.
+- **[spin-selling](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/spin-selling/SKILL.md)** — SPIN Selling.
+- **[four-steps](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/four-steps/SKILL.md)** — Four-step sales process.
 
 <a id="classics-pricing--business-models"></a>
 #### Pricing & business models
 
-- **[monetizing-innovation](https://www.skills.sh/getagentseal/founder-playbook/monetizing-innovation)** — Monetizing Innovation.
-- **[money-models](https://www.skills.sh/getagentseal/founder-playbook/money-models)** — Money Models.
+- **[monetizing-innovation](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/monetizing-innovation/SKILL.md)** — Monetizing Innovation.
+- **[money-models](https://github.com/getagentseal/founder-playbook/blob/HEAD/skills/money-models/SKILL.md)** — Money Models.
 
 [Back to contents](#contents)
 
@@ -2390,24 +2385,24 @@ Brand names, app names, domains and product titles: semantics, sound, memory, tr
 <a id="naming-brand-and-product-names"></a>
 #### Brand and product names
 
-- **[brand-naming](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-naming)** — Brand naming.
-- **[product-name](https://www.skills.sh/phuryn/pm-skills/product-name)** — Product naming.
-- **[brand-identity](https://www.skills.sh/arnabbagxd/brand-building-skills/brand-identity)** — Brand identity.
+- **[brand-naming](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-naming/SKILL.md)** — Brand naming.
+- **[product-name](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/product-name/SKILL.md)** — Product naming.
+- **[brand-identity](https://github.com/arnabbagxd/Brand-building-skills/blob/HEAD/skills/brand-identity/SKILL.md)** — Brand identity.
 
 <a id="naming-domains-and-online-identity"></a>
 #### Domains and online identity
 
-- **[domain-name-brainstormer](https://www.skills.sh/composiohq/awesome-claude-skills/domain-name-brainstormer)** — Domain name brainstormer.
-- **[domain-selection](https://www.skills.sh/kostja94/marketing-skills/domain-selection)** — Domain selection.
-- **[domain-hunter](https://www.skills.sh/resciencelab/opc-skills/domain-hunter)** — Domain hunter.
-- **[domain-architecture](https://www.skills.sh/kostja94/marketing-skills/domain-architecture)** — Domain architecture.
-- **[domain-name](https://www.skills.sh/whawkinsiv/solo-founder-skills/domain-name)** — Domain name.
+- **[domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/blob/HEAD/domain-name-brainstormer/SKILL.md)** — Domain name brainstormer.
+- **[domain-selection](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-selection/SKILL.md)** — Domain selection.
+- **[domain-hunter](https://github.com/resciencelab/opc-skills/blob/HEAD/skills/domain-hunter/SKILL.md)** — Domain hunter.
+- **[domain-architecture](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/domain-architecture/SKILL.md)** — Domain architecture.
+- **[domain-name](https://github.com/whawkinsiv/solo-founder-skills/blob/HEAD/skills/domain-name/SKILL.md)** — Domain name.
 
 <a id="naming-titles-and-product-listings"></a>
 #### Titles and product listings
 
-- **[product-title-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-title-optimization)** — Product title optimization.
-- **[dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title)** — Xiaohongshu title formulas.
+- **[product-title-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-title-optimization/SKILL.md)** — Product title optimization.
+- **[dbs-xhs-title · repository entry](https://github.com/dontbesilent2025/dbskill)** — Xiaohongshu title formulas.
 
 [Back to contents](#contents)
 
@@ -2424,16 +2419,16 @@ Collections referenced in this index, grouped by the topics their skills cover. 
 <a id="landscape-collections"></a>
 #### Collections
 
-- **[OPC Skill Pack](https://www.skills.sh/resciencelab/opc-skills)** — Launch and solo-operator tools.
-- **[Solo Founder Skills](https://www.skills.sh/whawkinsiv/solo-founder-skills)** — Skills spanning solo-founder operations.
-- **[Founder Playbook](https://www.skills.sh/getagentseal/founder-playbook)** — Business-book frameworks adapted into skills.
-- **[Founder Skills](https://www.skills.sh/ognjengt/founder-skills)** — Founder growth and marketing skills.
-- **[Founder Skill](https://www.skills.sh/jakeschincariol/founder-skill)** — Finance, pricing and other executive perspectives.
-- **[Startup Skill](https://www.skills.sh/ferdinandobons/startup-skill)** — Startup design, pitches and positioning.
-- **[Startup OS](https://www.skills.sh/ncklrs/startup-os-skills)** — Go-to-market, sales, product and Remotion skills.
-- **[Lenny Skills](https://www.skills.sh/refoundai/lenny-skills)** — Product, growth and management skills based on Lenny Rachitsky’s content.
-- **[Minimalist Entrepreneur](https://www.skills.sh/slavingia/skills)** — Skills based on The Minimalist Entrepreneur.
-- **[Great Minds](https://www.skills.sh/alchaincyf/munger-skill)** — Mental-model skills drawing on Munger, Naval, Paul Graham and Taleb.
+- **[OPC Skill Pack](https://github.com/resciencelab/opc-skills)** — Launch and solo-operator tools.
+- **[Solo Founder Skills](https://github.com/whawkinsiv/solo-founder-skills)** — Skills spanning solo-founder operations.
+- **[Founder Playbook](https://github.com/getagentseal/founder-playbook)** — Business-book frameworks adapted into skills.
+- **[Founder Skills](https://github.com/ognjengt/founder-skills)** — Founder growth and marketing skills.
+- **[Founder Skill](https://github.com/Jakeschincariol/founder-skill)** — Finance, pricing and other executive perspectives.
+- **[Startup Skill](https://github.com/ferdinandobons/startup-skill)** — Startup design, pitches and positioning.
+- **[Startup OS](https://github.com/ncklrs/startup-os-skills)** — Go-to-market, sales, product and Remotion skills.
+- **[Lenny Skills](https://github.com/refoundai/lenny-skills)** — Product, growth and management skills based on Lenny Rachitsky’s content.
+- **[Minimalist Entrepreneur](https://github.com/slavingia/skills)** — Skills based on The Minimalist Entrepreneur.
+- **[Great Minds](https://github.com/alchaincyf/munger-skill)** — Mental-model skills drawing on Munger, Naval, Paul Graham and Taleb.
 
 [Back to contents](#contents)
 
@@ -2450,682 +2445,682 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 <a id="full-marketing-coreyhaines31marketingskills--5"></a>
 #### coreyhaines31/marketingskills · 5
 
-- **[revops](https://www.skills.sh/coreyhaines31/marketingskills/revops)**
-- **[video](https://www.skills.sh/coreyhaines31/marketingskills/video)**
-- **[marketing-loops](https://www.skills.sh/coreyhaines31/marketingskills/marketing-loops)**
-- **[marketing-council](https://www.skills.sh/coreyhaines31/marketingskills/marketing-council)**
-- **[events](https://www.skills.sh/coreyhaines31/marketingskills/events)**
+- **[revops](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/revops/SKILL.md)**
+- **[video](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/video/SKILL.md)**
+- **[marketing-loops](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-loops/SKILL.md)**
+- **[marketing-council](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/marketing-council/SKILL.md)**
+- **[events](https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/events/SKILL.md)**
 
 <a id="full-marketing-jimliubaoyu-skills--20"></a>
 #### jimliu/baoyu-skills · 20
 
-- **[baoyu-image-gen](https://www.skills.sh/jimliu/baoyu-skills/baoyu-image-gen)**
-- **[baoyu-infographic](https://www.skills.sh/jimliu/baoyu-skills/baoyu-infographic)**
-- **[baoyu-markdown-to-html](https://www.skills.sh/jimliu/baoyu-skills/baoyu-markdown-to-html)**
-- **[baoyu-cover-image](https://www.skills.sh/jimliu/baoyu-skills/baoyu-cover-image)**
-- **[baoyu-article-illustrator](https://www.skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator)**
-- **[baoyu-url-to-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown)**
-- **[baoyu-comic](https://www.skills.sh/jimliu/baoyu-skills/baoyu-comic)**
-- **[baoyu-post-to-x](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-x)**
-- **[baoyu-compress-image](https://www.skills.sh/jimliu/baoyu-skills/baoyu-compress-image)**
-- **[baoyu-format-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-format-markdown)**
-- **[baoyu-danger-x-to-markdown](https://www.skills.sh/jimliu/baoyu-skills/baoyu-danger-x-to-markdown)**
-- **[baoyu-danger-gemini-web](https://www.skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web)**
-- **[release-skills](https://www.skills.sh/jimliu/baoyu-skills/release-skills)**
-- **[baoyu-youtube-transcript](https://www.skills.sh/jimliu/baoyu-skills/baoyu-youtube-transcript)**
-- **[baoyu-post-to-weibo](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-weibo)**
-- **[baoyu-diagram](https://www.skills.sh/jimliu/baoyu-skills/baoyu-diagram)**
-- **[baoyu-imagine](https://www.skills.sh/jimliu/baoyu-skills/baoyu-imagine)**
-- **[baoyu-electron-extract](https://www.skills.sh/jimliu/baoyu-skills/baoyu-electron-extract)**
-- **[baoyu-image-cards](https://www.skills.sh/jimliu/baoyu-skills/baoyu-image-cards)**
-- **[baoyu-gemini-web](https://www.skills.sh/jimliu/baoyu-skills/baoyu-gemini-web)**
+- **[baoyu-image-gen](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-image-gen/SKILL.md)**
+- **[baoyu-infographic](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-infographic/SKILL.md)**
+- **[baoyu-markdown-to-html](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-markdown-to-html/SKILL.md)**
+- **[baoyu-cover-image](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-cover-image/SKILL.md)**
+- **[baoyu-article-illustrator](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-article-illustrator/SKILL.md)**
+- **[baoyu-url-to-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-url-to-markdown/SKILL.md)**
+- **[baoyu-comic](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-comic/SKILL.md)**
+- **[baoyu-post-to-x](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-x/SKILL.md)**
+- **[baoyu-compress-image](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-compress-image/SKILL.md)**
+- **[baoyu-format-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-format-markdown/SKILL.md)**
+- **[baoyu-danger-x-to-markdown](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-danger-x-to-markdown/SKILL.md)**
+- **[baoyu-danger-gemini-web](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-danger-gemini-web/SKILL.md)**
+- **[release-skills](https://github.com/jimliu/baoyu-skills/blob/HEAD/.claude/skills/release-skills/SKILL.md)**
+- **[baoyu-youtube-transcript](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-youtube-transcript/SKILL.md)**
+- **[baoyu-post-to-weibo](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-weibo/SKILL.md)**
+- **[baoyu-diagram](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-diagram/SKILL.md)**
+- **[baoyu-imagine · repository entry](https://github.com/jimliu/baoyu-skills)**
+- **[baoyu-electron-extract](https://github.com/jimliu/baoyu-skills/blob/HEAD/skills/baoyu-electron-extract/SKILL.md)**
+- **[baoyu-image-cards · repository entry](https://github.com/jimliu/baoyu-skills)**
+- **[baoyu-gemini-web · repository entry](https://github.com/jimliu/baoyu-skills)**
 
 <a id="full-marketing-dontbesilent2025dbskill--29"></a>
 #### dontbesilent2025/dbskill · 29
 
-- **[dbs-benchmark](https://www.skills.sh/dontbesilent2025/dbskill/dbs-benchmark)**
-- **[dbs-action](https://www.skills.sh/dontbesilent2025/dbskill/dbs-action)**
-- **[dbs-ai-check](https://www.skills.sh/dontbesilent2025/dbskill/dbs-ai-check)**
-- **[dbs-chatroom](https://www.skills.sh/dontbesilent2025/dbskill/dbs-chatroom)**
-- **[dbs-chatroom-austrian](https://www.skills.sh/dontbesilent2025/dbskill/dbs-chatroom-austrian)**
-- **[dbs-save](https://www.skills.sh/dontbesilent2025/dbskill/dbs-save)**
-- **[dbs-restore](https://www.skills.sh/dontbesilent2025/dbskill/dbs-restore)**
-- **[dbs-goal](https://www.skills.sh/dontbesilent2025/dbskill/dbs-goal)**
-- **[dbs-learning](https://www.skills.sh/dontbesilent2025/dbskill/dbs-learning)**
-- **[dbs-good-question](https://www.skills.sh/dontbesilent2025/dbskill/dbs-good-question)**
-- **[dbs-agent-migration](https://www.skills.sh/dontbesilent2025/dbskill/dbs-agent-migration)**
-- **[dbs-decision](https://www.skills.sh/dontbesilent2025/dbskill/dbs-decision)**
-- **[dbs-slowisfast](https://www.skills.sh/dontbesilent2025/dbskill/dbs-slowisfast)**
-- **[dbs-update](https://www.skills.sh/dontbesilent2025/dbskill/dbs-update)**
-- **[dbs-knowledge](https://www.skills.sh/dontbesilent2025/dbskill/dbs-knowledge)**
-- **[dbs-standard-answer](https://www.skills.sh/dontbesilent2025/dbskill/dbs-standard-answer)**
-- **[dbs-content-risk-check](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-risk-check)**
-- **[dbs-install-skill](https://www.skills.sh/dontbesilent2025/dbskill/dbs-install-skill)**
-- **[dbs-skill-maker](https://www.skills.sh/dontbesilent2025/dbskill/dbs-skill-maker)**
-- **[dbs-bridge](https://www.skills.sh/dontbesilent2025/dbskill/dbs-bridge)**
-- **[dbs-skill-cleaner](https://www.skills.sh/dontbesilent2025/dbskill/dbs-skill-cleaner)**
-- **[dbs-theory-grounding](https://www.skills.sh/dontbesilent2025/dbskill/dbs-theory-grounding)**
-- **[dbs-content-value](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-value)**
-- **[dbs-human-dispatch](https://www.skills.sh/dontbesilent2025/dbskill/dbs-human-dispatch)**
-- **[chatroom-austrian](https://www.skills.sh/dontbesilent2025/dbskill/chatroom-austrian)**
-- **[dbskill-upgrade](https://www.skills.sh/dontbesilent2025/dbskill/dbskill-upgrade)**
-- **[dbs-unblock](https://www.skills.sh/dontbesilent2025/dbskill/dbs-unblock)**
-- **[dbs-sync-to-dondon](https://www.skills.sh/dontbesilent2025/dbskill/dbs-sync-to-dondon)**
-- **[dbs-speak-human](https://www.skills.sh/dontbesilent2025/dbskill/dbs-speak-human)**
+- **[dbs-benchmark](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-benchmark/SKILL.md)**
+- **[dbs-action](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-action/SKILL.md)**
+- **[dbs-ai-check](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-ai-check/SKILL.md)**
+- **[dbs-chatroom](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-chatroom/SKILL.md)**
+- **[dbs-chatroom-austrian](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-chatroom-austrian/SKILL.md)**
+- **[dbs-save](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-save/SKILL.md)**
+- **[dbs-restore](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-restore/SKILL.md)**
+- **[dbs-goal](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-goal/SKILL.md)**
+- **[dbs-learning](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-learning/SKILL.md)**
+- **[dbs-good-question](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-good-question/SKILL.md)**
+- **[dbs-agent-migration · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-decision](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-decision/SKILL.md)**
+- **[dbs-slowisfast · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-update](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-update/SKILL.md)**
+- **[dbs-knowledge](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-knowledge/SKILL.md)**
+- **[dbs-standard-answer](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-standard-answer/SKILL.md)**
+- **[dbs-content-risk-check](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-risk-check/SKILL.md)**
+- **[dbs-install-skill](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-install-skill/SKILL.md)**
+- **[dbs-skill-maker](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-skill-maker/SKILL.md)**
+- **[dbs-bridge · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-skill-cleaner · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-theory-grounding](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-theory-grounding/SKILL.md)**
+- **[dbs-content-value](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-content-value/SKILL.md)**
+- **[dbs-human-dispatch](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-human-dispatch/SKILL.md)**
+- **[chatroom-austrian · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbskill-upgrade · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-unblock · repository entry](https://github.com/dontbesilent2025/dbskill)**
+- **[dbs-sync-to-dondon](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-sync-to-dondon/SKILL.md)**
+- **[dbs-speak-human](https://github.com/dontbesilent2025/dbskill/blob/HEAD/skills/dbs-speak-human/SKILL.md)**
 
 <a id="full-marketing-mbfinottiadvertising-skills--27"></a>
 #### mbfinotti/advertising-skills · 27
 
-- **[ad-creative-fatigue](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-fatigue)**
-- **[ad-creative-test-plan](https://www.skills.sh/mbfinotti/advertising-skills/ad-creative-test-plan)**
-- **[ad-account-diagnostic](https://www.skills.sh/mbfinotti/advertising-skills/ad-account-diagnostic)**
-- **[ad-swipe-file](https://www.skills.sh/mbfinotti/advertising-skills/ad-swipe-file)**
-- **[ad-spend-guardrails](https://www.skills.sh/mbfinotti/advertising-skills/ad-spend-guardrails)**
-- **[ad-conversion-tracking](https://www.skills.sh/mbfinotti/advertising-skills/ad-conversion-tracking)**
-- **[paid-media-scaling](https://www.skills.sh/mbfinotti/advertising-skills/paid-media-scaling)**
-- **[ad-audience-targeting](https://www.skills.sh/mbfinotti/advertising-skills/ad-audience-targeting)**
-- **[ad-spend-allocation](https://www.skills.sh/mbfinotti/advertising-skills/ad-spend-allocation)**
-- **[paid-landing-page-audit](https://www.skills.sh/mbfinotti/advertising-skills/paid-landing-page-audit)**
-- **[ad-budget-pacing](https://www.skills.sh/mbfinotti/advertising-skills/ad-budget-pacing)**
-- **[lookalike-audience-seeds](https://www.skills.sh/mbfinotti/advertising-skills/lookalike-audience-seeds)**
-- **[ad-negative-keywords](https://www.skills.sh/mbfinotti/advertising-skills/ad-negative-keywords)**
-- **[cac-roas-benchmark](https://www.skills.sh/mbfinotti/advertising-skills/cac-roas-benchmark)**
-- **[retargeting-funnel](https://www.skills.sh/mbfinotti/advertising-skills/retargeting-funnel)**
-- **[advertising-kickoff](https://www.skills.sh/mbfinotti/advertising-skills/advertising-kickoff)**
-- **[ad-platform-selection](https://www.skills.sh/mbfinotti/advertising-skills/ad-platform-selection)**
-- **[ad-attribution-gap](https://www.skills.sh/mbfinotti/advertising-skills/ad-attribution-gap)**
-- **[advertising-hiring](https://www.skills.sh/mbfinotti/advertising-skills/advertising-hiring)**
-- **[ad-buyer-group-mapper](https://www.skills.sh/mbfinotti/advertising-skills/ad-buyer-group-mapper)**
-- **[advertising-career](https://www.skills.sh/mbfinotti/advertising-skills/advertising-career)**
-- **[advertising-radar](https://www.skills.sh/mbfinotti/advertising-skills/advertising-radar)**
-- **[ad-bidding-strategy](https://www.skills.sh/mbfinotti/advertising-skills/ad-bidding-strategy)**
-- **[ugc-ad-scripts](https://www.skills.sh/mbfinotti/advertising-skills/ugc-ad-scripts)**
-- **[ad-format-fit](https://www.skills.sh/mbfinotti/advertising-skills/ad-format-fit)**
-- **[ad-campaign-consolidation](https://www.skills.sh/mbfinotti/advertising-skills/ad-campaign-consolidation)**
-- **[thought-leadership-ads](https://www.skills.sh/mbfinotti/advertising-skills/thought-leadership-ads)**
+- **[ad-creative-fatigue](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-fatigue/SKILL.md)**
+- **[ad-creative-test-plan](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-creative-test-plan/SKILL.md)**
+- **[ad-account-diagnostic](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-account-diagnostic/SKILL.md)**
+- **[ad-swipe-file](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-swipe-file/SKILL.md)**
+- **[ad-spend-guardrails](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-spend-guardrails/SKILL.md)**
+- **[ad-conversion-tracking](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-conversion-tracking/SKILL.md)**
+- **[paid-media-scaling](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/paid-media-scaling/SKILL.md)**
+- **[ad-audience-targeting](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-audience-targeting/SKILL.md)**
+- **[ad-spend-allocation](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-spend-allocation/SKILL.md)**
+- **[paid-landing-page-audit](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/paid-landing-page-audit/SKILL.md)**
+- **[ad-budget-pacing](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-budget-pacing/SKILL.md)**
+- **[lookalike-audience-seeds](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/lookalike-audience-seeds/SKILL.md)**
+- **[ad-negative-keywords](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-negative-keywords/SKILL.md)**
+- **[cac-roas-benchmark](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/cac-roas-benchmark/SKILL.md)**
+- **[retargeting-funnel](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/retargeting-funnel/SKILL.md)**
+- **[advertising-kickoff](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-kickoff/SKILL.md)**
+- **[ad-platform-selection](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-platform-selection/SKILL.md)**
+- **[ad-attribution-gap](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-attribution-gap/SKILL.md)**
+- **[advertising-hiring](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-hiring/SKILL.md)**
+- **[ad-buyer-group-mapper](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-buyer-group-mapper/SKILL.md)**
+- **[advertising-career](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-career/SKILL.md)**
+- **[advertising-radar](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/advertising-radar/SKILL.md)**
+- **[ad-bidding-strategy](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-bidding-strategy/SKILL.md)**
+- **[ugc-ad-scripts](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ugc-ad-scripts/SKILL.md)**
+- **[ad-format-fit](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-format-fit/SKILL.md)**
+- **[ad-campaign-consolidation](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/ad-campaign-consolidation/SKILL.md)**
+- **[thought-leadership-ads](https://github.com/mbfinotti/advertising-skills/blob/HEAD/skills/thought-leadership-ads/SKILL.md)**
 
 <a id="full-marketing-mbfinottisales-skills--25"></a>
 #### mbfinotti/sales-skills · 25
 
-- **[sales-icp-definition](https://www.skills.sh/mbfinotti/sales-skills/sales-icp-definition)**
-- **[sales-pipeline-coverage-modeling](https://www.skills.sh/mbfinotti/sales-skills/sales-pipeline-coverage-modeling)**
-- **[sales-account-tiering](https://www.skills.sh/mbfinotti/sales-skills/sales-account-tiering)**
-- **[sales-market-sizing](https://www.skills.sh/mbfinotti/sales-skills/sales-market-sizing)**
-- **[sales-kickoff](https://www.skills.sh/mbfinotti/sales-skills/sales-kickoff)**
-- **[sales-radar](https://www.skills.sh/mbfinotti/sales-skills/sales-radar)**
-- **[sales-career](https://www.skills.sh/mbfinotti/sales-skills/sales-career)**
-- **[sales-objection-handling](https://www.skills.sh/mbfinotti/sales-skills/sales-objection-handling)**
-- **[sales-discovery-questions](https://www.skills.sh/mbfinotti/sales-skills/sales-discovery-questions)**
-- **[sales-outbound-sequence](https://www.skills.sh/mbfinotti/sales-skills/sales-outbound-sequence)**
-- **[sales-outreach-personalization](https://www.skills.sh/mbfinotti/sales-skills/sales-outreach-personalization)**
-- **[sales-call-review](https://www.skills.sh/mbfinotti/sales-skills/sales-call-review)**
-- **[sales-motion](https://www.skills.sh/mbfinotti/sales-skills/sales-motion)**
-- **[sales-quota-setting](https://www.skills.sh/mbfinotti/sales-skills/sales-quota-setting)**
-- **[sales-meeting-recap](https://www.skills.sh/mbfinotti/sales-skills/sales-meeting-recap)**
-- **[sales-org-structure](https://www.skills.sh/mbfinotti/sales-skills/sales-org-structure)**
-- **[sales-comp-design](https://www.skills.sh/mbfinotti/sales-skills/sales-comp-design)**
-- **[sales-account-segmentation](https://www.skills.sh/mbfinotti/sales-skills/sales-account-segmentation)**
-- **[cold-email-deliverability](https://www.skills.sh/mbfinotti/sales-skills/cold-email-deliverability)**
-- **[deal-champion-mapping](https://www.skills.sh/mbfinotti/sales-skills/deal-champion-mapping)**
-- **[cold-call-opener](https://www.skills.sh/mbfinotti/sales-skills/cold-call-opener)**
-- **[negotiation-concession-planner](https://www.skills.sh/mbfinotti/sales-skills/negotiation-concession-planner)**
-- **[meddpicc-scorecard](https://www.skills.sh/mbfinotti/sales-skills/meddpicc-scorecard)**
-- **[deal-red-flags](https://www.skills.sh/mbfinotti/sales-skills/deal-red-flags)**
-- **[deal-value-calc](https://www.skills.sh/mbfinotti/sales-skills/deal-value-calc)**
+- **[sales-icp-definition](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-icp-definition/SKILL.md)**
+- **[sales-pipeline-coverage-modeling](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-pipeline-coverage-modeling/SKILL.md)**
+- **[sales-account-tiering](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-account-tiering/SKILL.md)**
+- **[sales-market-sizing](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-market-sizing/SKILL.md)**
+- **[sales-kickoff](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-kickoff/SKILL.md)**
+- **[sales-radar](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-radar/SKILL.md)**
+- **[sales-career](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-career/SKILL.md)**
+- **[sales-objection-handling](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-objection-handling/SKILL.md)**
+- **[sales-discovery-questions](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-discovery-questions/SKILL.md)**
+- **[sales-outbound-sequence](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-outbound-sequence/SKILL.md)**
+- **[sales-outreach-personalization](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-outreach-personalization/SKILL.md)**
+- **[sales-call-review](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-call-review/SKILL.md)**
+- **[sales-motion](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-motion/SKILL.md)**
+- **[sales-quota-setting](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-quota-setting/SKILL.md)**
+- **[sales-meeting-recap](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-meeting-recap/SKILL.md)**
+- **[sales-org-structure](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-org-structure/SKILL.md)**
+- **[sales-comp-design](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-comp-design/SKILL.md)**
+- **[sales-account-segmentation](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/sales-account-segmentation/SKILL.md)**
+- **[cold-email-deliverability](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-email-deliverability/SKILL.md)**
+- **[deal-champion-mapping](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-champion-mapping/SKILL.md)**
+- **[cold-call-opener](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/cold-call-opener/SKILL.md)**
+- **[negotiation-concession-planner](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/negotiation-concession-planner/SKILL.md)**
+- **[meddpicc-scorecard](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/meddpicc-scorecard/SKILL.md)**
+- **[deal-red-flags](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-red-flags/SKILL.md)**
+- **[deal-value-calc](https://github.com/mbfinotti/sales-skills/blob/HEAD/skills/deal-value-calc/SKILL.md)**
 
 <a id="full-marketing-mbfinottirevops-skills--12"></a>
 #### mbfinotti/revops-skills · 12
 
-- **[sales-pipeline-hygiene](https://www.skills.sh/mbfinotti/revops-skills/sales-pipeline-hygiene)**
-- **[revops-kickoff](https://www.skills.sh/mbfinotti/revops-skills/revops-kickoff)**
-- **[pipeline-stage-definition-audit](https://www.skills.sh/mbfinotti/revops-skills/pipeline-stage-definition-audit)**
-- **[revops-career](https://www.skills.sh/mbfinotti/revops-skills/revops-career)**
-- **[revops-radar](https://www.skills.sh/mbfinotti/revops-skills/revops-radar)**
-- **[sales-forecast-diagnostic](https://www.skills.sh/mbfinotti/revops-skills/sales-forecast-diagnostic)**
-- **[revops-hiring](https://www.skills.sh/mbfinotti/revops-skills/revops-hiring)**
-- **[revops-stack-rationalization](https://www.skills.sh/mbfinotti/revops-skills/revops-stack-rationalization)**
-- **[sales-to-cs-handoff](https://www.skills.sh/mbfinotti/revops-skills/sales-to-cs-handoff)**
-- **[lead-scoring](https://www.skills.sh/mbfinotti/revops-skills/lead-scoring)**
-- **[lead-routing](https://www.skills.sh/mbfinotti/revops-skills/lead-routing)**
-- **[deal-desk-approval](https://www.skills.sh/mbfinotti/revops-skills/deal-desk-approval)**
+- **[sales-pipeline-hygiene](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-pipeline-hygiene/SKILL.md)**
+- **[revops-kickoff](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-kickoff/SKILL.md)**
+- **[pipeline-stage-definition-audit](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/pipeline-stage-definition-audit/SKILL.md)**
+- **[revops-career](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-career/SKILL.md)**
+- **[revops-radar](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-radar/SKILL.md)**
+- **[sales-forecast-diagnostic](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-forecast-diagnostic/SKILL.md)**
+- **[revops-hiring](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-hiring/SKILL.md)**
+- **[revops-stack-rationalization](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/revops-stack-rationalization/SKILL.md)**
+- **[sales-to-cs-handoff](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/sales-to-cs-handoff/SKILL.md)**
+- **[lead-scoring](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/lead-scoring/SKILL.md)**
+- **[lead-routing](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/lead-routing/SKILL.md)**
+- **[deal-desk-approval](https://github.com/mbfinotti/revops-skills/blob/HEAD/skills/deal-desk-approval/SKILL.md)**
 
 <a id="full-marketing-mbfinottipartnerships-skills--28"></a>
 #### mbfinotti/partnerships-skills · 28
 
-- **[affiliate-payout-audit](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-payout-audit)**
-- **[affiliate-performance-dashboard](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-performance-dashboard)**
-- **[alliance-prioritization](https://www.skills.sh/mbfinotti/partnerships-skills/alliance-prioritization)**
-- **[affiliate-program-terms](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-program-terms)**
-- **[affiliate-fraud-detection](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-fraud-detection)**
-- **[affiliate-recruitment-outreach](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-recruitment-outreach)**
-- **[affiliate-onboarding-sequence](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-onboarding-sequence)**
-- **[affiliate-commission-structure](https://www.skills.sh/mbfinotti/partnerships-skills/affiliate-commission-structure)**
-- **[partner-ecosystem-expansion](https://www.skills.sh/mbfinotti/partnerships-skills/partner-ecosystem-expansion)**
-- **[partnerships-kickoff](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-kickoff)**
-- **[partnerships-hiring](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-hiring)**
-- **[partner-performance](https://www.skills.sh/mbfinotti/partnerships-skills/partner-performance)**
-- **[partner-channel-conflict](https://www.skills.sh/mbfinotti/partnerships-skills/partner-channel-conflict)**
-- **[partner-tiering](https://www.skills.sh/mbfinotti/partnerships-skills/partner-tiering)**
-- **[partner-economics](https://www.skills.sh/mbfinotti/partnerships-skills/partner-economics)**
-- **[partner-marketplace-strategy](https://www.skills.sh/mbfinotti/partnerships-skills/partner-marketplace-strategy)**
-- **[partnerships-career](https://www.skills.sh/mbfinotti/partnerships-skills/partnerships-career)**
-- **[partner-channel-program](https://www.skills.sh/mbfinotti/partnerships-skills/partner-channel-program)**
-- **[influencer-discovery-brief](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-discovery-brief)**
-- **[partner-enablement](https://www.skills.sh/mbfinotti/partnerships-skills/partner-enablement)**
-- **[partner-ecosystem](https://www.skills.sh/mbfinotti/partnerships-skills/partner-ecosystem)**
-- **[referral-abuse-guardrails](https://www.skills.sh/mbfinotti/partnerships-skills/referral-abuse-guardrails)**
-- **[influencer-measurement-framework](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-measurement-framework)**
-- **[referral-incentive-design](https://www.skills.sh/mbfinotti/partnerships-skills/referral-incentive-design)**
-- **[co-selling-strategy](https://www.skills.sh/mbfinotti/partnerships-skills/co-selling-strategy)**
-- **[influencer-negotiation-playbook](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-negotiation-playbook)**
-- **[influencer-outreach](https://www.skills.sh/mbfinotti/partnerships-skills/influencer-outreach)**
-- **[joint-gtm-planning](https://www.skills.sh/mbfinotti/partnerships-skills/joint-gtm-planning)**
+- **[affiliate-payout-audit](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-payout-audit/SKILL.md)**
+- **[affiliate-performance-dashboard](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-performance-dashboard/SKILL.md)**
+- **[alliance-prioritization](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/alliance-prioritization/SKILL.md)**
+- **[affiliate-program-terms](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-program-terms/SKILL.md)**
+- **[affiliate-fraud-detection](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-fraud-detection/SKILL.md)**
+- **[affiliate-recruitment-outreach](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-recruitment-outreach/SKILL.md)**
+- **[affiliate-onboarding-sequence](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-onboarding-sequence/SKILL.md)**
+- **[affiliate-commission-structure](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/affiliate-commission-structure/SKILL.md)**
+- **[partner-ecosystem-expansion](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-ecosystem-expansion/SKILL.md)**
+- **[partnerships-kickoff](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-kickoff/SKILL.md)**
+- **[partnerships-hiring](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-hiring/SKILL.md)**
+- **[partner-performance](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-performance/SKILL.md)**
+- **[partner-channel-conflict](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-channel-conflict/SKILL.md)**
+- **[partner-tiering](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-tiering/SKILL.md)**
+- **[partner-economics](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-economics/SKILL.md)**
+- **[partner-marketplace-strategy](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-marketplace-strategy/SKILL.md)**
+- **[partnerships-career](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partnerships-career/SKILL.md)**
+- **[partner-channel-program](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-channel-program/SKILL.md)**
+- **[influencer-discovery-brief](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-discovery-brief/SKILL.md)**
+- **[partner-enablement](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-enablement/SKILL.md)**
+- **[partner-ecosystem](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/partner-ecosystem/SKILL.md)**
+- **[referral-abuse-guardrails](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/referral-abuse-guardrails/SKILL.md)**
+- **[influencer-measurement-framework](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-measurement-framework/SKILL.md)**
+- **[referral-incentive-design](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/referral-incentive-design/SKILL.md)**
+- **[co-selling-strategy](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/co-selling-strategy/SKILL.md)**
+- **[influencer-negotiation-playbook](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-negotiation-playbook/SKILL.md)**
+- **[influencer-outreach](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/influencer-outreach/SKILL.md)**
+- **[joint-gtm-planning](https://github.com/mbfinotti/partnerships-skills/blob/HEAD/skills/joint-gtm-planning/SKILL.md)**
 
 <a id="full-marketing-agricidanielclaude-seo--24"></a>
 #### agricidaniel/claude-seo · 24
 
-- **[seo-audit](https://www.skills.sh/agricidaniel/claude-seo/seo-audit)**
-- **[seo-local](https://www.skills.sh/agricidaniel/claude-seo/seo-local)**
-- **[seo-geo](https://www.skills.sh/agricidaniel/claude-seo/seo-geo)**
-- **[seo-images](https://www.skills.sh/agricidaniel/claude-seo/seo-images)**
-- **[seo-plan](https://www.skills.sh/agricidaniel/claude-seo/seo-plan)**
-- **[seo-hreflang](https://www.skills.sh/agricidaniel/claude-seo/seo-hreflang)**
-- **[seo-cluster](https://www.skills.sh/agricidaniel/claude-seo/seo-cluster)**
-- **[seo-programmatic](https://www.skills.sh/agricidaniel/claude-seo/seo-programmatic)**
-- **[seo-google](https://www.skills.sh/agricidaniel/claude-seo/seo-google)**
-- **[seo-maps](https://www.skills.sh/agricidaniel/claude-seo/seo-maps)**
-- **[seo-dataforseo](https://www.skills.sh/agricidaniel/claude-seo/seo-dataforseo)**
-- **[seo-image-gen](https://www.skills.sh/agricidaniel/claude-seo/seo-image-gen)**
-- **[seo-content-brief](https://www.skills.sh/agricidaniel/claude-seo/seo-content-brief)**
-- **[seo-drift](https://www.skills.sh/agricidaniel/claude-seo/seo-drift)**
-- **[seo-sxo](https://www.skills.sh/agricidaniel/claude-seo/seo-sxo)**
-- **[seo-flow](https://www.skills.sh/agricidaniel/claude-seo/seo-flow)**
-- **[seo-agentic](https://www.skills.sh/agricidaniel/claude-seo/seo-agentic)**
-- **[seo-firecrawl](https://www.skills.sh/agricidaniel/claude-seo/seo-firecrawl)**
-- **[seo-unlighthouse](https://www.skills.sh/agricidaniel/claude-seo/seo-unlighthouse)**
-- **[seo-bing](https://www.skills.sh/agricidaniel/claude-seo/seo-bing)**
-- **[seo-profound](https://www.skills.sh/agricidaniel/claude-seo/seo-profound)**
-- **[seo-ahrefs](https://www.skills.sh/agricidaniel/claude-seo/seo-ahrefs)**
-- **[seo-seranking](https://www.skills.sh/agricidaniel/claude-seo/seo-seranking)**
-- **[seo-matomo](https://www.skills.sh/agricidaniel/claude-seo/seo-matomo)**
+- **[seo-audit](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-audit/SKILL.md)**
+- **[seo-local](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-local/SKILL.md)**
+- **[seo-geo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-geo/SKILL.md)**
+- **[seo-images](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-images/SKILL.md)**
+- **[seo-plan](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-plan/SKILL.md)**
+- **[seo-hreflang](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-hreflang/SKILL.md)**
+- **[seo-cluster](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-cluster/SKILL.md)**
+- **[seo-programmatic](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-programmatic/SKILL.md)**
+- **[seo-google](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-google/SKILL.md)**
+- **[seo-maps](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-maps/SKILL.md)**
+- **[seo-dataforseo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-dataforseo/SKILL.md)**
+- **[seo-image-gen](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-image-gen/SKILL.md)**
+- **[seo-content-brief](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-content-brief/SKILL.md)**
+- **[seo-drift](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-drift/SKILL.md)**
+- **[seo-sxo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-sxo/SKILL.md)**
+- **[seo-flow](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-flow/SKILL.md)**
+- **[seo-agentic](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/skills/seo-agentic/SKILL.md)**
+- **[seo-firecrawl](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/firecrawl/skills/seo-firecrawl/SKILL.md)**
+- **[seo-unlighthouse](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/unlighthouse/skills/seo-unlighthouse/SKILL.md)**
+- **[seo-bing](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/bing-webmaster/skills/seo-bing/SKILL.md)**
+- **[seo-profound](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/profound/skills/seo-profound/SKILL.md)**
+- **[seo-ahrefs](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/ahrefs/skills/seo-ahrefs/SKILL.md)**
+- **[seo-seranking](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/seranking/skills/seo-seranking/SKILL.md)**
+- **[seo-matomo](https://github.com/AgriciDaniel/claude-seo/blob/HEAD/extensions/matomo/skills/seo-matomo/SKILL.md)**
 
 <a id="full-marketing-agricidanielclaude-blog--30"></a>
 #### agricidaniel/claude-blog · 30
 
-- **[blog-analyze](https://www.skills.sh/agricidaniel/claude-blog/blog-analyze)**
-- **[blog-audit](https://www.skills.sh/agricidaniel/claude-blog/blog-audit)**
-- **[blog-brief](https://www.skills.sh/agricidaniel/claude-blog/blog-brief)**
-- **[blog-geo](https://www.skills.sh/agricidaniel/claude-blog/blog-geo)**
-- **[blog-calendar](https://www.skills.sh/agricidaniel/claude-blog/blog-calendar)**
-- **[blog-chart](https://www.skills.sh/agricidaniel/claude-blog/blog-chart)**
-- **[blog-write](https://www.skills.sh/agricidaniel/claude-blog/blog-write)**
-- **[blog-image](https://www.skills.sh/agricidaniel/claude-blog/blog-image)**
-- **[blog-cannibalization](https://www.skills.sh/agricidaniel/claude-blog/blog-cannibalization)**
-- **[blog-audio](https://www.skills.sh/agricidaniel/claude-blog/blog-audio)**
-- **[blog-outline](https://www.skills.sh/agricidaniel/claude-blog/blog-outline)**
-- **[blog-rewrite](https://www.skills.sh/agricidaniel/claude-blog/blog-rewrite)**
-- **[blog-repurpose](https://www.skills.sh/agricidaniel/claude-blog/blog-repurpose)**
-- **[blog-google](https://www.skills.sh/agricidaniel/claude-blog/blog-google)**
-- **[blog-schema](https://www.skills.sh/agricidaniel/claude-blog/blog-schema)**
-- **[blog-persona](https://www.skills.sh/agricidaniel/claude-blog/blog-persona)**
-- **[blog-strategy](https://www.skills.sh/agricidaniel/claude-blog/blog-strategy)**
-- **[blog-notebooklm](https://www.skills.sh/agricidaniel/claude-blog/blog-notebooklm)**
-- **[blog-cluster](https://www.skills.sh/agricidaniel/claude-blog/blog-cluster)**
-- **[blog-multilingual](https://www.skills.sh/agricidaniel/claude-blog/blog-multilingual)**
-- **[blog-brand](https://www.skills.sh/agricidaniel/claude-blog/blog-brand)**
-- **[blog-flow](https://www.skills.sh/agricidaniel/claude-blog/blog-flow)**
-- **[blog-localize](https://www.skills.sh/agricidaniel/claude-blog/blog-localize)**
-- **[blog-locale-audit](https://www.skills.sh/agricidaniel/claude-blog/blog-locale-audit)**
-- **[blog-taxonomy](https://www.skills.sh/agricidaniel/claude-blog/blog-taxonomy)**
-- **[blog-discourse](https://www.skills.sh/agricidaniel/claude-blog/blog-discourse)**
-- **[blog-translate](https://www.skills.sh/agricidaniel/claude-blog/blog-translate)**
-- **[blog-style](https://www.skills.sh/agricidaniel/claude-blog/blog-style)**
-- **[blog-decay](https://www.skills.sh/agricidaniel/claude-blog/blog-decay)**
-- **[claude-blog-brain](https://www.skills.sh/agricidaniel/claude-blog/claude-blog-brain)**
+- **[blog-analyze](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-analyze/SKILL.md)**
+- **[blog-audit](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-audit/SKILL.md)**
+- **[blog-brief](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-brief/SKILL.md)**
+- **[blog-geo](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-geo/SKILL.md)**
+- **[blog-calendar](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-calendar/SKILL.md)**
+- **[blog-chart](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-chart/SKILL.md)**
+- **[blog-write](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-write/SKILL.md)**
+- **[blog-image](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-image/SKILL.md)**
+- **[blog-cannibalization](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-cannibalization/SKILL.md)**
+- **[blog-audio](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-audio/SKILL.md)**
+- **[blog-outline](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-outline/SKILL.md)**
+- **[blog-rewrite](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-rewrite/SKILL.md)**
+- **[blog-repurpose](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-repurpose/SKILL.md)**
+- **[blog-google](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-google/SKILL.md)**
+- **[blog-schema](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-schema/SKILL.md)**
+- **[blog-persona](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-persona/SKILL.md)**
+- **[blog-strategy](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-strategy/SKILL.md)**
+- **[blog-notebooklm](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-notebooklm/SKILL.md)**
+- **[blog-cluster](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-cluster/SKILL.md)**
+- **[blog-multilingual](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-multilingual/SKILL.md)**
+- **[blog-brand](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-brand/SKILL.md)**
+- **[blog-flow](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-flow/SKILL.md)**
+- **[blog-localize](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-localize/SKILL.md)**
+- **[blog-locale-audit](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-locale-audit/SKILL.md)**
+- **[blog-taxonomy](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-taxonomy/SKILL.md)**
+- **[blog-discourse](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-discourse/SKILL.md)**
+- **[blog-translate](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-translate/SKILL.md)**
+- **[blog-style](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-style/SKILL.md)**
+- **[blog-decay](https://github.com/AgriciDaniel/claude-blog/blob/HEAD/skills/blog-decay/SKILL.md)**
+- **[claude-blog-brain · repository entry](https://github.com/AgriciDaniel/claude-blog)**
 
 <a id="full-marketing-agricidanielclaude-ads--30"></a>
 #### agricidaniel/claude-ads · 30
 
-- **[ads-meta](https://www.skills.sh/agricidaniel/claude-ads/ads-meta)**
-- **[ads-google](https://www.skills.sh/agricidaniel/claude-ads/ads-google)**
-- **[ads-creative](https://www.skills.sh/agricidaniel/claude-ads/ads-creative)**
-- **[ads-competitor](https://www.skills.sh/agricidaniel/claude-ads/ads-competitor)**
-- **[ads-audit](https://www.skills.sh/agricidaniel/claude-ads/ads-audit)**
-- **[ads-budget](https://www.skills.sh/agricidaniel/claude-ads/ads-budget)**
-- **[ads-plan](https://www.skills.sh/agricidaniel/claude-ads/ads-plan)**
-- **[ads-landing](https://www.skills.sh/agricidaniel/claude-ads/ads-landing)**
-- **[ads-create](https://www.skills.sh/agricidaniel/claude-ads/ads-create)**
-- **[ads-generate](https://www.skills.sh/agricidaniel/claude-ads/ads-generate)**
-- **[ads-dna](https://www.skills.sh/agricidaniel/claude-ads/ads-dna)**
-- **[ads-microsoft](https://www.skills.sh/agricidaniel/claude-ads/ads-microsoft)**
-- **[ads-photoshoot](https://www.skills.sh/agricidaniel/claude-ads/ads-photoshoot)**
-- **[ads-apple](https://www.skills.sh/agricidaniel/claude-ads/ads-apple)**
-- **[ads-math](https://www.skills.sh/agricidaniel/claude-ads/ads-math)**
-- **[ads-test](https://www.skills.sh/agricidaniel/claude-ads/ads-test)**
-- **[ads-attribution](https://www.skills.sh/agricidaniel/claude-ads/ads-attribution)**
-- **[ads-server-side-tracking](https://www.skills.sh/agricidaniel/claude-ads/ads-server-side-tracking)**
-- **[ads-amazon](https://www.skills.sh/agricidaniel/claude-ads/ads-amazon)**
-- **[ads-optimize](https://www.skills.sh/agricidaniel/claude-ads/ads-optimize)**
-- **[ads-report](https://www.skills.sh/agricidaniel/claude-ads/ads-report)**
-- **[ads-monitor](https://www.skills.sh/agricidaniel/claude-ads/ads-monitor)**
-- **[ads-setup](https://www.skills.sh/agricidaniel/claude-ads/ads-setup)**
-- **[ads-launch](https://www.skills.sh/agricidaniel/claude-ads/ads-launch)**
-- **[ads-research](https://www.skills.sh/agricidaniel/claude-ads/ads-research)**
-- **[ads-validate](https://www.skills.sh/agricidaniel/claude-ads/ads-validate)**
-- **[ads-pinterest](https://www.skills.sh/agricidaniel/claude-ads/ads-pinterest)**
-- **[ads-snapchat](https://www.skills.sh/agricidaniel/claude-ads/ads-snapchat)**
-- **[ads-reddit](https://www.skills.sh/agricidaniel/claude-ads/ads-reddit)**
-- **[ads-x](https://www.skills.sh/agricidaniel/claude-ads/ads-x)**
+- **[ads-meta](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-meta/SKILL.md)**
+- **[ads-google](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-google/SKILL.md)**
+- **[ads-creative](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-creative/SKILL.md)**
+- **[ads-competitor](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-competitor/SKILL.md)**
+- **[ads-audit](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-audit/SKILL.md)**
+- **[ads-budget](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-budget/SKILL.md)**
+- **[ads-plan](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-plan/SKILL.md)**
+- **[ads-landing](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-landing/SKILL.md)**
+- **[ads-create](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-create/SKILL.md)**
+- **[ads-generate](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-generate/SKILL.md)**
+- **[ads-dna](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-dna/SKILL.md)**
+- **[ads-microsoft](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-microsoft/SKILL.md)**
+- **[ads-photoshoot](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-photoshoot/SKILL.md)**
+- **[ads-apple](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-apple/SKILL.md)**
+- **[ads-math](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-math/SKILL.md)**
+- **[ads-test](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-test/SKILL.md)**
+- **[ads-attribution](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-attribution/SKILL.md)**
+- **[ads-server-side-tracking](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-server-side-tracking/SKILL.md)**
+- **[ads-amazon](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-amazon/SKILL.md)**
+- **[ads-optimize](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-optimize/SKILL.md)**
+- **[ads-report](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-report/SKILL.md)**
+- **[ads-monitor](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-monitor/SKILL.md)**
+- **[ads-setup](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-setup/SKILL.md)**
+- **[ads-launch](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-launch/SKILL.md)**
+- **[ads-research](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-research/SKILL.md)**
+- **[ads-validate](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-validate/SKILL.md)**
+- **[ads-pinterest](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-pinterest/SKILL.md)**
+- **[ads-snapchat](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-snapchat/SKILL.md)**
+- **[ads-reddit](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-reddit/SKILL.md)**
+- **[ads-x](https://github.com/AgriciDaniel/claude-ads/blob/HEAD/skills/ads-x/SKILL.md)**
 
 <a id="full-marketing-kostja94marketing-skills--225"></a>
 #### kostja94/marketing-skills · 225
 
-- **[copywriting](https://www.skills.sh/kostja94/marketing-skills/copywriting)**
-- **[video-marketing](https://www.skills.sh/kostja94/marketing-skills/video-marketing)**
-- **[analytics-tracking](https://www.skills.sh/kostja94/marketing-skills/analytics-tracking)**
-- **[translation](https://www.skills.sh/kostja94/marketing-skills/translation)**
-- **[visual-content](https://www.skills.sh/kostja94/marketing-skills/visual-content)**
-- **[meta-ads](https://www.skills.sh/kostja94/marketing-skills/meta-ads)**
-- **[programmatic-seo](https://www.skills.sh/kostja94/marketing-skills/programmatic-seo)**
-- **[pinterest-posts](https://www.skills.sh/kostja94/marketing-skills/pinterest-posts)**
-- **[branding](https://www.skills.sh/kostja94/marketing-skills/branding)**
-- **[grokipedia-recommendations](https://www.skills.sh/kostja94/marketing-skills/grokipedia-recommendations)**
-- **[github](https://www.skills.sh/kostja94/marketing-skills/github)**
-- **[landing-page-generator](https://www.skills.sh/kostja94/marketing-skills/landing-page-generator)**
-- **[google-ads](https://www.skills.sh/kostja94/marketing-skills/google-ads)**
-- **[legal-page-generator](https://www.skills.sh/kostja94/marketing-skills/legal-page-generator)**
-- **[terms-page-generator](https://www.skills.sh/kostja94/marketing-skills/terms-page-generator)**
-- **[privacy-page-generator](https://www.skills.sh/kostja94/marketing-skills/privacy-page-generator)**
-- **[keyword-research](https://www.skills.sh/kostja94/marketing-skills/keyword-research)**
-- **[conversion-optimization](https://www.skills.sh/kostja94/marketing-skills/conversion-optimization)**
-- **[brand-visual-generator](https://www.skills.sh/kostja94/marketing-skills/brand-visual-generator)**
-- **[cookie-policy-page-generator](https://www.skills.sh/kostja94/marketing-skills/cookie-policy-page-generator)**
-- **[tiktok-ads](https://www.skills.sh/kostja94/marketing-skills/tiktok-ads)**
-- **[competitor-research](https://www.skills.sh/kostja94/marketing-skills/competitor-research)**
-- **[content-strategy](https://www.skills.sh/kostja94/marketing-skills/content-strategy)**
-- **[carousel](https://www.skills.sh/kostja94/marketing-skills/carousel)**
-- **[generative-engine-optimization](https://www.skills.sh/kostja94/marketing-skills/generative-engine-optimization)**
-- **[seo-strategy](https://www.skills.sh/kostja94/marketing-skills/seo-strategy)**
-- **[schema-markup](https://www.skills.sh/kostja94/marketing-skills/schema-markup)**
-- **[website-structure](https://www.skills.sh/kostja94/marketing-skills/website-structure)**
-- **[robots-txt](https://www.skills.sh/kostja94/marketing-skills/robots-txt)**
-- **[affiliate-marketing](https://www.skills.sh/kostja94/marketing-skills/affiliate-marketing)**
-- **[content-optimization](https://www.skills.sh/kostja94/marketing-skills/content-optimization)**
-- **[paid-ads-strategy](https://www.skills.sh/kostja94/marketing-skills/paid-ads-strategy)**
-- **[meta-description](https://www.skills.sh/kostja94/marketing-skills/meta-description)**
-- **[refund-page-generator](https://www.skills.sh/kostja94/marketing-skills/refund-page-generator)**
-- **[influencer-marketing](https://www.skills.sh/kostja94/marketing-skills/influencer-marketing)**
-- **[hero-generator](https://www.skills.sh/kostja94/marketing-skills/hero-generator)**
-- **[shipping-page-generator](https://www.skills.sh/kostja94/marketing-skills/shipping-page-generator)**
-- **[seo-monitoring](https://www.skills.sh/kostja94/marketing-skills/seo-monitoring)**
-- **[growth-funnel](https://www.skills.sh/kostja94/marketing-skills/growth-funnel)**
-- **[title-tag](https://www.skills.sh/kostja94/marketing-skills/title-tag)**
-- **[indexing](https://www.skills.sh/kostja94/marketing-skills/indexing)**
-- **[xml-sitemap](https://www.skills.sh/kostja94/marketing-skills/xml-sitemap)**
-- **[indie-hacker-strategy](https://www.skills.sh/kostja94/marketing-skills/indie-hacker-strategy)**
-- **[content-marketing](https://www.skills.sh/kostja94/marketing-skills/content-marketing)**
-- **[open-graph](https://www.skills.sh/kostja94/marketing-skills/open-graph)**
-- **[email-marketing](https://www.skills.sh/kostja94/marketing-skills/email-marketing)**
-- **[traffic-analysis](https://www.skills.sh/kostja94/marketing-skills/traffic-analysis)**
-- **[link-building](https://www.skills.sh/kostja94/marketing-skills/link-building)**
-- **[blog-page-generator](https://www.skills.sh/kostja94/marketing-skills/blog-page-generator)**
-- **[cold-start-strategy](https://www.skills.sh/kostja94/marketing-skills/cold-start-strategy)**
-- **[homepage-generator](https://www.skills.sh/kostja94/marketing-skills/homepage-generator)**
-- **[products-page-generator](https://www.skills.sh/kostja94/marketing-skills/products-page-generator)**
-- **[image-optimization](https://www.skills.sh/kostja94/marketing-skills/image-optimization)**
-- **[gtm-strategy](https://www.skills.sh/kostja94/marketing-skills/gtm-strategy)**
-- **[eeat-signals](https://www.skills.sh/kostja94/marketing-skills/eeat-signals)**
-- **[canonical-tag](https://www.skills.sh/kostja94/marketing-skills/canonical-tag)**
-- **[faq-page-generator](https://www.skills.sh/kostja94/marketing-skills/faq-page-generator)**
-- **[linkedin-ads](https://www.skills.sh/kostja94/marketing-skills/linkedin-ads)**
-- **[product-launch](https://www.skills.sh/kostja94/marketing-skills/product-launch)**
-- **[cta-generator](https://www.skills.sh/kostja94/marketing-skills/cta-generator)**
-- **[internal-links](https://www.skills.sh/kostja94/marketing-skills/internal-links)**
-- **[backlink-analysis](https://www.skills.sh/kostja94/marketing-skills/backlink-analysis)**
-- **[localization-strategy](https://www.skills.sh/kostja94/marketing-skills/localization-strategy)**
-- **[page-metadata](https://www.skills.sh/kostja94/marketing-skills/page-metadata)**
-- **[community-forum](https://www.skills.sh/kostja94/marketing-skills/community-forum)**
-- **[ai-traffic-tracking](https://www.skills.sh/kostja94/marketing-skills/ai-traffic-tracking)**
-- **[retention-strategy](https://www.skills.sh/kostja94/marketing-skills/retention-strategy)**
-- **[indexnow](https://www.skills.sh/kostja94/marketing-skills/indexnow)**
-- **[site-crawlability](https://www.skills.sh/kostja94/marketing-skills/site-crawlability)**
-- **[seo-audit](https://www.skills.sh/kostja94/marketing-skills/seo-audit)**
-- **[affiliate-page-generator](https://www.skills.sh/kostja94/marketing-skills/affiliate-page-generator)**
-- **[core-web-vitals](https://www.skills.sh/kostja94/marketing-skills/core-web-vitals)**
-- **[heading-structure](https://www.skills.sh/kostja94/marketing-skills/heading-structure)**
-- **[article-page-generator](https://www.skills.sh/kostja94/marketing-skills/article-page-generator)**
-- **[pricing-page-generator](https://www.skills.sh/kostja94/marketing-skills/pricing-page-generator)**
-- **[about-page-generator](https://www.skills.sh/kostja94/marketing-skills/about-page-generator)**
-- **[rebranding-strategy](https://www.skills.sh/kostja94/marketing-skills/rebranding-strategy)**
-- **[footer-generator](https://www.skills.sh/kostja94/marketing-skills/footer-generator)**
-- **[url-structure](https://www.skills.sh/kostja94/marketing-skills/url-structure)**
-- **[testimonials-generator](https://www.skills.sh/kostja94/marketing-skills/testimonials-generator)**
-- **[featured-snippet](https://www.skills.sh/kostja94/marketing-skills/featured-snippet)**
-- **[twitter-cards](https://www.skills.sh/kostja94/marketing-skills/twitter-cards)**
-- **[favicon-generator](https://www.skills.sh/kostja94/marketing-skills/favicon-generator)**
-- **[contact-page-generator](https://www.skills.sh/kostja94/marketing-skills/contact-page-generator)**
-- **[integrated-marketing](https://www.skills.sh/kostja94/marketing-skills/integrated-marketing)**
-- **[serp-features](https://www.skills.sh/kostja94/marketing-skills/serp-features)**
-- **[display-ads](https://www.skills.sh/kostja94/marketing-skills/display-ads)**
-- **[404-page-generator](https://www.skills.sh/kostja94/marketing-skills/404-page-generator)**
-- **[mobile-friendly](https://www.skills.sh/kostja94/marketing-skills/mobile-friendly)**
-- **[directory-submission](https://www.skills.sh/kostja94/marketing-skills/directory-submission)**
-- **[creator-program](https://www.skills.sh/kostja94/marketing-skills/creator-program)**
-- **[alternatives-page-generator](https://www.skills.sh/kostja94/marketing-skills/alternatives-page-generator)**
-- **[category-page-generator](https://www.skills.sh/kostja94/marketing-skills/category-page-generator)**
-- **[research-sources](https://www.skills.sh/kostja94/marketing-skills/research-sources)**
-- **[top-banner-generator](https://www.skills.sh/kostja94/marketing-skills/top-banner-generator)**
-- **[url-slug-generator](https://www.skills.sh/kostja94/marketing-skills/url-slug-generator)**
-- **[pmf-strategy](https://www.skills.sh/kostja94/marketing-skills/pmf-strategy)**
-- **[navigation-menu-generator](https://www.skills.sh/kostja94/marketing-skills/navigation-menu-generator)**
-- **[app-ads](https://www.skills.sh/kostja94/marketing-skills/app-ads)**
-- **[brand-protection](https://www.skills.sh/kostja94/marketing-skills/brand-protection)**
-- **[card](https://www.skills.sh/kostja94/marketing-skills/card)**
-- **[media-kit-page-generator](https://www.skills.sh/kostja94/marketing-skills/media-kit-page-generator)**
-- **[trust-badges-generator](https://www.skills.sh/kostja94/marketing-skills/trust-badges-generator)**
-- **[breadcrumb-generator](https://www.skills.sh/kostja94/marketing-skills/breadcrumb-generator)**
-- **[distribution-channels](https://www.skills.sh/kostja94/marketing-skills/distribution-channels)**
-- **[grid](https://www.skills.sh/kostja94/marketing-skills/grid)**
-- **[social-share-generator](https://www.skills.sh/kostja94/marketing-skills/social-share-generator)**
-- **[sidebar-generator](https://www.skills.sh/kostja94/marketing-skills/sidebar-generator)**
-- **[employee-generated-content](https://www.skills.sh/kostja94/marketing-skills/employee-generated-content)**
-- **[docs-page-generator](https://www.skills.sh/kostja94/marketing-skills/docs-page-generator)**
-- **[customer-stories-page-generator](https://www.skills.sh/kostja94/marketing-skills/customer-stories-page-generator)**
-- **[features-page-generator](https://www.skills.sh/kostja94/marketing-skills/features-page-generator)**
-- **[showcase-page-generator](https://www.skills.sh/kostja94/marketing-skills/showcase-page-generator)**
-- **[referral-program](https://www.skills.sh/kostja94/marketing-skills/referral-program)**
-- **[popup-generator](https://www.skills.sh/kostja94/marketing-skills/popup-generator)**
-- **[use-cases-page-generator](https://www.skills.sh/kostja94/marketing-skills/use-cases-page-generator)**
-- **[contest-page-generator](https://www.skills.sh/kostja94/marketing-skills/contest-page-generator)**
-- **[video-optimization](https://www.skills.sh/kostja94/marketing-skills/video-optimization)**
-- **[services-page-generator](https://www.skills.sh/kostja94/marketing-skills/services-page-generator)**
-- **[native-ads](https://www.skills.sh/kostja94/marketing-skills/native-ads)**
-- **[glossary-page-generator](https://www.skills.sh/kostja94/marketing-skills/glossary-page-generator)**
-- **[disclosure-page-generator](https://www.skills.sh/kostja94/marketing-skills/disclosure-page-generator)**
-- **[tools-page-generator](https://www.skills.sh/kostja94/marketing-skills/tools-page-generator)**
-- **[changelog-page-generator](https://www.skills.sh/kostja94/marketing-skills/changelog-page-generator)**
-- **[careers-page-generator](https://www.skills.sh/kostja94/marketing-skills/careers-page-generator)**
-- **[integrations-page-generator](https://www.skills.sh/kostja94/marketing-skills/integrations-page-generator)**
-- **[download-page-generator](https://www.skills.sh/kostja94/marketing-skills/download-page-generator)**
-- **[toc-generator](https://www.skills.sh/kostja94/marketing-skills/toc-generator)**
-- **[directory-listing-ads](https://www.skills.sh/kostja94/marketing-skills/directory-listing-ads)**
-- **[feedback-page-generator](https://www.skills.sh/kostja94/marketing-skills/feedback-page-generator)**
-- **[startups-page-generator](https://www.skills.sh/kostja94/marketing-skills/startups-page-generator)**
-- **[status-page-generator](https://www.skills.sh/kostja94/marketing-skills/status-page-generator)**
-- **[masonry](https://www.skills.sh/kostja94/marketing-skills/masonry)**
-- **[resources-page-generator](https://www.skills.sh/kostja94/marketing-skills/resources-page-generator)**
-- **[product-hunt-launch](https://www.skills.sh/kostja94/marketing-skills/product-hunt-launch)**
-- **[solutions-page-generator](https://www.skills.sh/kostja94/marketing-skills/solutions-page-generator)**
-- **[list](https://www.skills.sh/kostja94/marketing-skills/list)**
-- **[template-page-generator](https://www.skills.sh/kostja94/marketing-skills/template-page-generator)**
-- **[ctv-ads](https://www.skills.sh/kostja94/marketing-skills/ctv-ads)**
-- **[brand-monitoring](https://www.skills.sh/kostja94/marketing-skills/brand-monitoring)**
-- **[migration-page-generator](https://www.skills.sh/kostja94/marketing-skills/migration-page-generator)**
-- **[press-coverage-page-generator](https://www.skills.sh/kostja94/marketing-skills/press-coverage-page-generator)**
-- **[tab-accordion](https://www.skills.sh/kostja94/marketing-skills/tab-accordion)**
-- **[public-relations](https://www.skills.sh/kostja94/marketing-skills/public-relations)**
-- **[signup-login-page-generator](https://www.skills.sh/kostja94/marketing-skills/signup-login-page-generator)**
-- **[open-source-strategy](https://www.skills.sh/kostja94/marketing-skills/open-source-strategy)**
-- **[education-program](https://www.skills.sh/kostja94/marketing-skills/education-program)**
-- **[rendering-strategies](https://www.skills.sh/kostja94/marketing-skills/rendering-strategies)**
-- **[api-page-generator](https://www.skills.sh/kostja94/marketing-skills/api-page-generator)**
-- **[pricing-strategy](https://www.skills.sh/kostja94/marketing-skills/pricing-strategy)**
-- **[discount-marketing-strategy](https://www.skills.sh/kostja94/marketing-skills/discount-marketing-strategy)**
-- **[multi-domain-brand-seo](https://www.skills.sh/kostja94/marketing-skills/multi-domain-brand-seo)**
-- **[comparison-table-generator](https://www.skills.sh/kostja94/marketing-skills/comparison-table-generator)**
-- **[howto-section-generator](https://www.skills.sh/kostja94/marketing-skills/howto-section-generator)**
-- **[github-seo](https://www.skills.sh/kostja94/marketing-skills/github-seo)**
-- **[pr-marketing](https://www.skills.sh/kostja94/marketing-skills/pr-marketing)**
-- **[keyword-discovery](https://www.skills.sh/kostja94/marketing-skills/keyword-discovery)**
-- **[keyword-mapping](https://www.skills.sh/kostja94/marketing-skills/keyword-mapping)**
-- **[keyword-opportunity](https://www.skills.sh/kostja94/marketing-skills/keyword-opportunity)**
-- **[keyword-clustering](https://www.skills.sh/kostja94/marketing-skills/keyword-clustering)**
-- **[content-marketing-strategy](https://www.skills.sh/kostja94/marketing-skills/content-marketing-strategy)**
-- **[outbound-links](https://www.skills.sh/kostja94/marketing-skills/outbound-links)**
-- **[components-footer](https://www.skills.sh/kostja94/marketing-skills/components-footer)**
-- **[seo-technical-indexing](https://www.skills.sh/kostja94/marketing-skills/seo-technical-indexing)**
-- **[seo-off-page-link-building](https://www.skills.sh/kostja94/marketing-skills/seo-off-page-link-building)**
-- **[analytics-ai-traffic](https://www.skills.sh/kostja94/marketing-skills/analytics-ai-traffic)**
-- **[pages-terms](https://www.skills.sh/kostja94/marketing-skills/pages-terms)**
-- **[pages-privacy](https://www.skills.sh/kostja94/marketing-skills/pages-privacy)**
-- **[components-hero](https://www.skills.sh/kostja94/marketing-skills/components-hero)**
-- **[pages-contact](https://www.skills.sh/kostja94/marketing-skills/pages-contact)**
-- **[components-testimonials](https://www.skills.sh/kostja94/marketing-skills/components-testimonials)**
-- **[strategies-localization](https://www.skills.sh/kostja94/marketing-skills/strategies-localization)**
-- **[seo-content-keyword-research](https://www.skills.sh/kostja94/marketing-skills/seo-content-keyword-research)**
-- **[seo-on-page-metadata](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-metadata)**
-- **[strategies-geo](https://www.skills.sh/kostja94/marketing-skills/strategies-geo)**
-- **[components-navigation-menu](https://www.skills.sh/kostja94/marketing-skills/components-navigation-menu)**
-- **[seo-content-content-strategy](https://www.skills.sh/kostja94/marketing-skills/seo-content-content-strategy)**
-- **[seo-technical-crawlability](https://www.skills.sh/kostja94/marketing-skills/seo-technical-crawlability)**
-- **[platforms-x](https://www.skills.sh/kostja94/marketing-skills/platforms-x)**
-- **[platforms-linkedin](https://www.skills.sh/kostja94/marketing-skills/platforms-linkedin)**
-- **[pages-media-kit](https://www.skills.sh/kostja94/marketing-skills/pages-media-kit)**
-- **[pages-glossary](https://www.skills.sh/kostja94/marketing-skills/pages-glossary)**
-- **[pages-cookie-policy](https://www.skills.sh/kostja94/marketing-skills/pages-cookie-policy)**
-- **[seo-on-page-internal-links](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-internal-links)**
-- **[channels-referral](https://www.skills.sh/kostja94/marketing-skills/channels-referral)**
-- **[seo-technical-canonical](https://www.skills.sh/kostja94/marketing-skills/seo-technical-canonical)**
-- **[components-logo](https://www.skills.sh/kostja94/marketing-skills/components-logo)**
-- **[components-toc](https://www.skills.sh/kostja94/marketing-skills/components-toc)**
-- **[pages-features](https://www.skills.sh/kostja94/marketing-skills/pages-features)**
-- **[seo-technical-indexnow](https://www.skills.sh/kostja94/marketing-skills/seo-technical-indexnow)**
-- **[seo-on-page-url-structure](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-url-structure)**
-- **[pages-blog](https://www.skills.sh/kostja94/marketing-skills/pages-blog)**
-- **[pages-customer-stories](https://www.skills.sh/kostja94/marketing-skills/pages-customer-stories)**
-- **[pages-404](https://www.skills.sh/kostja94/marketing-skills/pages-404)**
-- **[pages-refund](https://www.skills.sh/kostja94/marketing-skills/pages-refund)**
-- **[seo-on-page-schema](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-schema)**
-- **[seo-on-page-heading](https://www.skills.sh/kostja94/marketing-skills/seo-on-page-heading)**
-- **[platforms-tiktok](https://www.skills.sh/kostja94/marketing-skills/platforms-tiktok)**
-- **[analytics-traffic](https://www.skills.sh/kostja94/marketing-skills/analytics-traffic)**
-- **[pages-services](https://www.skills.sh/kostja94/marketing-skills/pages-services)**
-- **[seo-off-page-backlink-analysis](https://www.skills.sh/kostja94/marketing-skills/seo-off-page-backlink-analysis)**
-- **[channels-creator-program](https://www.skills.sh/kostja94/marketing-skills/channels-creator-program)**
-- **[pages-home](https://www.skills.sh/kostja94/marketing-skills/pages-home)**
-- **[channels-affiliate](https://www.skills.sh/kostja94/marketing-skills/channels-affiliate)**
-- **[pages-category-pages](https://www.skills.sh/kostja94/marketing-skills/pages-category-pages)**
-- **[pages-affiliate-program](https://www.skills.sh/kostja94/marketing-skills/pages-affiliate-program)**
-- **[pages-legal](https://www.skills.sh/kostja94/marketing-skills/pages-legal)**
-- **[pages-about](https://www.skills.sh/kostja94/marketing-skills/pages-about)**
-- **[pages-faq](https://www.skills.sh/kostja94/marketing-skills/pages-faq)**
-- **[pages-shipping](https://www.skills.sh/kostja94/marketing-skills/pages-shipping)**
-- **[platforms-reddit](https://www.skills.sh/kostja94/marketing-skills/platforms-reddit)**
-- **[components-cta](https://www.skills.sh/kostja94/marketing-skills/components-cta)**
-- **[pages-products](https://www.skills.sh/kostja94/marketing-skills/pages-products)**
-- **[pages-resources](https://www.skills.sh/kostja94/marketing-skills/pages-resources)**
-- **[seo-technical-sitemap](https://www.skills.sh/kostja94/marketing-skills/seo-technical-sitemap)**
-- **[pages-pricing](https://www.skills.sh/kostja94/marketing-skills/pages-pricing)**
-- **[channels-influencer](https://www.skills.sh/kostja94/marketing-skills/channels-influencer)**
-- **[pages-careers](https://www.skills.sh/kostja94/marketing-skills/pages-careers)**
-- **[seo-technical-robots](https://www.skills.sh/kostja94/marketing-skills/seo-technical-robots)**
-- **[components-newsletter-signup](https://www.skills.sh/kostja94/marketing-skills/components-newsletter-signup)**
-- **[components-trust-badges](https://www.skills.sh/kostja94/marketing-skills/components-trust-badges)**
-- **[platforms-grokipedia](https://www.skills.sh/kostja94/marketing-skills/platforms-grokipedia)**
-- **[seo-content-optimization](https://www.skills.sh/kostja94/marketing-skills/seo-content-optimization)**
-- **[components-breadcrumb](https://www.skills.sh/kostja94/marketing-skills/components-breadcrumb)**
-- **[analytics-google-search-console](https://www.skills.sh/kostja94/marketing-skills/analytics-google-search-console)**
+- **[copywriting](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/copywriting/SKILL.md)**
+- **[video-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/video/SKILL.md)**
+- **[analytics-tracking](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/tracking/SKILL.md)**
+- **[translation](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/translation/SKILL.md)**
+- **[visual-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/content/visual-content/SKILL.md)**
+- **[meta-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/meta-ads/SKILL.md)**
+- **[programmatic-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/programmatic-seo/SKILL.md)**
+- **[pinterest-posts](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/pinterest/SKILL.md)**
+- **[branding](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/branding/SKILL.md)**
+- **[grokipedia-recommendations](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/grokipedia/SKILL.md)**
+- **[github](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/platforms/github/SKILL.md)**
+- **[landing-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/landing-page/SKILL.md)**
+- **[google-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/google-ads/SKILL.md)**
+- **[legal-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/legal/SKILL.md)**
+- **[terms-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/terms/SKILL.md)**
+- **[privacy-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/privacy/SKILL.md)**
+- **[keyword-research](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-research/SKILL.md)**
+- **[conversion-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/conversion/SKILL.md)**
+- **[brand-visual-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/brand-visual/SKILL.md)**
+- **[cookie-policy-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/cookie-policy/SKILL.md)**
+- **[tiktok-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/tiktok-ads/SKILL.md)**
+- **[competitor-research](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/competitor-research/SKILL.md)**
+- **[content-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/content-strategy/SKILL.md)**
+- **[carousel](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/carousel/SKILL.md)**
+- **[generative-engine-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/geo/SKILL.md)**
+- **[seo-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/seo/SKILL.md)**
+- **[schema-markup](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/schema/SKILL.md)**
+- **[website-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/website-structure/SKILL.md)**
+- **[robots-txt](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/robots/SKILL.md)**
+- **[affiliate-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/affiliate-marketing/SKILL.md)**
+- **[content-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/content-optimization/SKILL.md)**
+- **[paid-ads-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/paid-ads/SKILL.md)**
+- **[meta-description](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/description/SKILL.md)**
+- **[refund-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/refund/SKILL.md)**
+- **[influencer-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/influencer-marketing/SKILL.md)**
+- **[hero-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/hero/SKILL.md)**
+- **[shipping-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/legal/shipping/SKILL.md)**
+- **[seo-monitoring](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/seo/seo-monitoring/SKILL.md)**
+- **[growth-funnel](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/growth-funnel/SKILL.md)**
+- **[title-tag](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/title/SKILL.md)**
+- **[indexing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/indexing/SKILL.md)**
+- **[xml-sitemap](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/sitemap/SKILL.md)**
+- **[indie-hacker-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/indie-hacker/SKILL.md)**
+- **[content-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/content-marketing/SKILL.md)**
+- **[open-graph](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/open-graph/SKILL.md)**
+- **[email-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/owned/email-marketing/SKILL.md)**
+- **[traffic-analysis](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/sources/traffic/SKILL.md)**
+- **[link-building](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/off-page/link-building/SKILL.md)**
+- **[blog-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/blog/SKILL.md)**
+- **[cold-start-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/cold-start/SKILL.md)**
+- **[homepage-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/home/SKILL.md)**
+- **[products-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/products/SKILL.md)**
+- **[image-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/image-optimization/SKILL.md)**
+- **[gtm-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/gtm/SKILL.md)**
+- **[eeat-signals](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/content/eeat-signals/SKILL.md)**
+- **[canonical-tag](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/canonical/SKILL.md)**
+- **[faq-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/faq/SKILL.md)**
+- **[linkedin-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/platforms/linkedin-ads/SKILL.md)**
+- **[product-launch](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/product-launch/SKILL.md)**
+- **[cta-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/cta/SKILL.md)**
+- **[internal-links](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/internal-links/SKILL.md)**
+- **[backlink-analysis](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/off-page/backlink-analysis/SKILL.md)**
+- **[localization-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/localization/SKILL.md)**
+- **[page-metadata](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/metadata/SKILL.md)**
+- **[community-forum](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/community-forum/SKILL.md)**
+- **[ai-traffic-tracking](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/analytics/sources/ai-traffic/SKILL.md)**
+- **[retention-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/retention/SKILL.md)**
+- **[indexnow](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/indexnow/SKILL.md)**
+- **[site-crawlability](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/crawlability/SKILL.md)**
+- **[seo-audit](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/structure/seo-audit/SKILL.md)**
+- **[affiliate-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/affiliate-program/SKILL.md)**
+- **[core-web-vitals](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/core-web-vitals/SKILL.md)**
+- **[heading-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/heading/SKILL.md)**
+- **[article-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/article/SKILL.md)**
+- **[pricing-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/pricing/SKILL.md)**
+- **[about-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/about/SKILL.md)**
+- **[rebranding-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/rebranding/SKILL.md)**
+- **[footer-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/footer/SKILL.md)**
+- **[url-structure](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/url-structure/SKILL.md)**
+- **[testimonials-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/testimonials/SKILL.md)**
+- **[featured-snippet](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/featured-snippet/SKILL.md)**
+- **[twitter-cards](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/twitter-cards/SKILL.md)**
+- **[favicon-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/branding/favicon/SKILL.md)**
+- **[contact-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/brand/contact/SKILL.md)**
+- **[integrated-marketing](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/integrated-marketing/SKILL.md)**
+- **[serp-features](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/serp-features/SKILL.md)**
+- **[display-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/display-ads/SKILL.md)**
+- **[404-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/404/SKILL.md)**
+- **[mobile-friendly](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/mobile-friendly/SKILL.md)**
+- **[directory-submission](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/directory-submission/SKILL.md)**
+- **[creator-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/creator-program/SKILL.md)**
+- **[alternatives-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/alternatives/SKILL.md)**
+- **[category-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/category-pages/SKILL.md)**
+- **[research-sources](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/research-sources/SKILL.md)**
+- **[top-banner-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/top-banner/SKILL.md)**
+- **[url-slug-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/url-slug/SKILL.md)**
+- **[pmf-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/launch/pmf/SKILL.md)**
+- **[navigation-menu-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/navigation-menu/SKILL.md)**
+- **[app-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/app-ads/SKILL.md)**
+- **[brand-protection](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/brand-protection/SKILL.md)**
+- **[card](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/card/SKILL.md)**
+- **[media-kit-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/media-kit/SKILL.md)**
+- **[trust-badges-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/trust-badges/SKILL.md)**
+- **[breadcrumb-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/breadcrumb/SKILL.md)**
+- **[distribution-channels](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/distribution/distribution-channels/SKILL.md)**
+- **[grid](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/grid/SKILL.md)**
+- **[social-share-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/utility/social-share/SKILL.md)**
+- **[sidebar-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/sidebar/SKILL.md)**
+- **[employee-generated-content](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/owned/employee-generated-content/SKILL.md)**
+- **[docs-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/docs/SKILL.md)**
+- **[customer-stories-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/customer-stories/SKILL.md)**
+- **[features-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/features/SKILL.md)**
+- **[showcase-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/showcase/SKILL.md)**
+- **[referral-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/referral-program/SKILL.md)**
+- **[popup-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/conversion/popup/SKILL.md)**
+- **[use-cases-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/use-cases/SKILL.md)**
+- **[contest-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/contest/SKILL.md)**
+- **[video-optimization](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/video-optimization/SKILL.md)**
+- **[services-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/services/SKILL.md)**
+- **[native-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/native-ads/SKILL.md)**
+- **[glossary-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/glossary/SKILL.md)**
+- **[disclosure-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/disclosure/SKILL.md)**
+- **[tools-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/tools/SKILL.md)**
+- **[changelog-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/changelog/SKILL.md)**
+- **[careers-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/careers/SKILL.md)**
+- **[integrations-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/integrations/SKILL.md)**
+- **[download-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/download/SKILL.md)**
+- **[toc-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/navigation/toc/SKILL.md)**
+- **[directory-listing-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/directory-listing-ads/SKILL.md)**
+- **[feedback-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/feedback/SKILL.md)**
+- **[startups-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/startups/SKILL.md)**
+- **[status-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/status/SKILL.md)**
+- **[masonry](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/masonry/SKILL.md)**
+- **[resources-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/resources/SKILL.md)**
+- **[product-hunt-launch](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/community/product-hunt-launch/SKILL.md)**
+- **[solutions-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/solutions/SKILL.md)**
+- **[list](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/layout/list/SKILL.md)**
+- **[template-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/template-page/SKILL.md)**
+- **[ctv-ads](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/paid-ads/formats/ctv-ads/SKILL.md)**
+- **[brand-monitoring](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/brand/brand-monitoring/SKILL.md)**
+- **[migration-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/migration/SKILL.md)**
+- **[press-coverage-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/marketing/press-coverage/SKILL.md)**
+- **[tab-accordion](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/tab-accordion/SKILL.md)**
+- **[public-relations](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/public-relations/SKILL.md)**
+- **[signup-login-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/utility/signup-login/SKILL.md)**
+- **[open-source-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/open-source/SKILL.md)**
+- **[education-program](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/channels/partnerships/education-program/SKILL.md)**
+- **[rendering-strategies](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/technical/rendering-strategies/SKILL.md)**
+- **[api-page-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/pages/content/api/SKILL.md)**
+- **[pricing-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/pricing/pricing-strategy/SKILL.md)**
+- **[discount-marketing-strategy](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/pricing/discount-marketing/SKILL.md)**
+- **[multi-domain-brand-seo](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/strategies/commercial/domain/multi-domain-brand-seo/SKILL.md)**
+- **[comparison-table-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/comparison-table/SKILL.md)**
+- **[howto-section-generator](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/components/content/howto-section/SKILL.md)**
+- **[github-seo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pr-marketing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[keyword-discovery](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-discovery/SKILL.md)**
+- **[keyword-mapping](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-mapping/SKILL.md)**
+- **[keyword-opportunity](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-opportunity/SKILL.md)**
+- **[keyword-clustering](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/keyword-clustering/SKILL.md)**
+- **[content-marketing-strategy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[outbound-links](https://github.com/kostja94/marketing-skills/blob/HEAD/skills/seo/on-page/outbound-links/SKILL.md)**
+- **[components-footer · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-indexing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-off-page-link-building · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-ai-traffic · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-terms · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-privacy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-hero · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-contact · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-testimonials · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[strategies-localization · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-keyword-research · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-metadata · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[strategies-geo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-navigation-menu · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-content-strategy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-crawlability · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-x · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-linkedin · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-media-kit · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-glossary · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-cookie-policy · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-internal-links · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-referral · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-canonical · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-logo · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-toc · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-features · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-indexnow · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-url-structure · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-blog · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-customer-stories · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-404 · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-refund · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-schema · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-on-page-heading · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-tiktok · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-traffic · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-services · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-off-page-backlink-analysis · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-creator-program · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-home · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-affiliate · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-category-pages · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-affiliate-program · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-legal · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-about · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-faq · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-shipping · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-reddit · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-cta · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-products · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-resources · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-sitemap · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-pricing · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[channels-influencer · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[pages-careers · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-technical-robots · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-newsletter-signup · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-trust-badges · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[platforms-grokipedia · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[seo-content-optimization · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[components-breadcrumb · repository entry](https://github.com/kostja94/marketing-skills)**
+- **[analytics-google-search-console · repository entry](https://github.com/kostja94/marketing-skills)**
 
 <a id="full-marketing-social-media-skillsskills--88"></a>
 #### social-media-skills/skills · 88
 
-- **[reels-script](https://www.skills.sh/social-media-skills/skills/reels-script)**
-- **[brand-profile](https://www.skills.sh/social-media-skills/skills/brand-profile)**
-- **[voice-builder](https://www.skills.sh/social-media-skills/skills/voice-builder)**
-- **[scripting-and-storyboarding](https://www.skills.sh/social-media-skills/skills/scripting-and-storyboarding)**
-- **[storytelling-and-narrative](https://www.skills.sh/social-media-skills/skills/storytelling-and-narrative)**
-- **[capcut](https://www.skills.sh/social-media-skills/skills/capcut)**
-- **[analytics-and-reporting](https://www.skills.sh/social-media-skills/skills/analytics-and-reporting)**
-- **[captions-and-clipping](https://www.skills.sh/social-media-skills/skills/captions-and-clipping)**
-- **[instagram-reels-publishing](https://www.skills.sh/social-media-skills/skills/instagram-reels-publishing)**
-- **[competitor-analysis](https://www.skills.sh/social-media-skills/skills/competitor-analysis)**
-- **[tiktok-growth](https://www.skills.sh/social-media-skills/skills/tiktok-growth)**
-- **[design-and-templates](https://www.skills.sh/social-media-skills/skills/design-and-templates)**
-- **[cross-platform-repurposing](https://www.skills.sh/social-media-skills/skills/cross-platform-repurposing)**
-- **[social-strategy](https://www.skills.sh/social-media-skills/skills/social-strategy)**
-- **[trend-jacking](https://www.skills.sh/social-media-skills/skills/trend-jacking)**
-- **[profile-optimization](https://www.skills.sh/social-media-skills/skills/profile-optimization)**
-- **[hashtag-strategy](https://www.skills.sh/social-media-skills/skills/hashtag-strategy)**
-- **[idea-generation-and-ideation](https://www.skills.sh/social-media-skills/skills/idea-generation-and-ideation)**
-- **[batch-content-plan](https://www.skills.sh/social-media-skills/skills/batch-content-plan)**
-- **[content-audit](https://www.skills.sh/social-media-skills/skills/content-audit)**
-- **[youtube-publishing-and-metadata](https://www.skills.sh/social-media-skills/skills/youtube-publishing-and-metadata)**
-- **[platform-specs-and-validation](https://www.skills.sh/social-media-skills/skills/platform-specs-and-validation)**
-- **[story-writer](https://www.skills.sh/social-media-skills/skills/story-writer)**
-- **[reply-and-comment-writer](https://www.skills.sh/social-media-skills/skills/reply-and-comment-writer)**
-- **[goals-and-kpis](https://www.skills.sh/social-media-skills/skills/goals-and-kpis)**
-- **[engagement-routine](https://www.skills.sh/social-media-skills/skills/engagement-routine)**
-- **[youtube-long-form](https://www.skills.sh/social-media-skills/skills/youtube-long-form)**
-- **[ai-voiceover](https://www.skills.sh/social-media-skills/skills/ai-voiceover)**
-- **[talking-head-and-piece-to-camera](https://www.skills.sh/social-media-skills/skills/talking-head-and-piece-to-camera)**
-- **[content-research-and-sourcing](https://www.skills.sh/social-media-skills/skills/content-research-and-sourcing)**
-- **[writing-style-and-tone](https://www.skills.sh/social-media-skills/skills/writing-style-and-tone)**
-- **[image-prompt](https://www.skills.sh/social-media-skills/skills/image-prompt)**
-- **[facebook-strategy](https://www.skills.sh/social-media-skills/skills/facebook-strategy)**
-- **[linkedin-post-writer](https://www.skills.sh/social-media-skills/skills/linkedin-post-writer)**
-- **[educational-content-and-how-to](https://www.skills.sh/social-media-skills/skills/educational-content-and-how-to)**
-- **[experimentation-and-ab-testing](https://www.skills.sh/social-media-skills/skills/experimentation-and-ab-testing)**
-- **[social-selling-and-dm](https://www.skills.sh/social-media-skills/skills/social-selling-and-dm)**
-- **[community-management](https://www.skills.sh/social-media-skills/skills/community-management)**
-- **[social-seo](https://www.skills.sh/social-media-skills/skills/social-seo)**
-- **[veo-3](https://www.skills.sh/social-media-skills/skills/veo-3)**
-- **[behind-the-scenes-and-founder](https://www.skills.sh/social-media-skills/skills/behind-the-scenes-and-founder)**
-- **[scheduling-and-queue](https://www.skills.sh/social-media-skills/skills/scheduling-and-queue)**
-- **[ai-video](https://www.skills.sh/social-media-skills/skills/ai-video)**
-- **[threads-growth](https://www.skills.sh/social-media-skills/skills/threads-growth)**
-- **[tiktok-video-publishing](https://www.skills.sh/social-media-skills/skills/tiktok-video-publishing)**
-- **[quote-cards-and-text-graphics](https://www.skills.sh/social-media-skills/skills/quote-cards-and-text-graphics)**
-- **[creator-monetization](https://www.skills.sh/social-media-skills/skills/creator-monetization)**
-- **[link-in-bio-and-traffic](https://www.skills.sh/social-media-skills/skills/link-in-bio-and-traffic)**
-- **[social-proof-and-testimonials](https://www.skills.sh/social-media-skills/skills/social-proof-and-testimonials)**
-- **[content-recycling](https://www.skills.sh/social-media-skills/skills/content-recycling)**
-- **[pinterest-pin-design](https://www.skills.sh/social-media-skills/skills/pinterest-pin-design)**
-- **[threads-post](https://www.skills.sh/social-media-skills/skills/threads-post)**
-- **[campaign-and-launch-planning](https://www.skills.sh/social-media-skills/skills/campaign-and-launch-planning)**
-- **[ai-music-and-sound](https://www.skills.sh/social-media-skills/skills/ai-music-and-sound)**
-- **[pinterest-seo](https://www.skills.sh/social-media-skills/skills/pinterest-seo)**
-- **[meme-and-culture](https://www.skills.sh/social-media-skills/skills/meme-and-culture)**
-- **[facebook-groups](https://www.skills.sh/social-media-skills/skills/facebook-groups)**
-- **[seasonal-and-moment-marketing](https://www.skills.sh/social-media-skills/skills/seasonal-and-moment-marketing)**
-- **[tiktok-photo-mode](https://www.skills.sh/social-media-skills/skills/tiktok-photo-mode)**
-- **[nano-banana](https://www.skills.sh/social-media-skills/skills/nano-banana)**
-- **[infographic-and-data-viz](https://www.skills.sh/social-media-skills/skills/infographic-and-data-viz)**
-- **[ugc-and-influencer](https://www.skills.sh/social-media-skills/skills/ugc-and-influencer)**
-- **[before-after-and-transformation](https://www.skills.sh/social-media-skills/skills/before-after-and-transformation)**
-- **[thread-writer](https://www.skills.sh/social-media-skills/skills/thread-writer)**
-- **[collabs-and-cross-promotion](https://www.skills.sh/social-media-skills/skills/collabs-and-cross-promotion)**
-- **[canva](https://www.skills.sh/social-media-skills/skills/canva)**
-- **[lead-magnets-and-funnels](https://www.skills.sh/social-media-skills/skills/lead-magnets-and-funnels)**
-- **[ai-image-editing](https://www.skills.sh/social-media-skills/skills/ai-image-editing)**
-- **[pinterest-growth](https://www.skills.sh/social-media-skills/skills/pinterest-growth)**
-- **[contrarian-and-opinion](https://www.skills.sh/social-media-skills/skills/contrarian-and-opinion)**
-- **[x-growth](https://www.skills.sh/social-media-skills/skills/x-growth)**
-- **[crisis-and-moderation](https://www.skills.sh/social-media-skills/skills/crisis-and-moderation)**
-- **[text-post-and-microblog](https://www.skills.sh/social-media-skills/skills/text-post-and-microblog)**
-- **[opus-clip](https://www.skills.sh/social-media-skills/skills/opus-clip)**
-- **[interactive-content](https://www.skills.sh/social-media-skills/skills/interactive-content)**
-- **[kling](https://www.skills.sh/social-media-skills/skills/kling)**
-- **[heygen](https://www.skills.sh/social-media-skills/skills/heygen)**
-- **[data-and-original-research](https://www.skills.sh/social-media-skills/skills/data-and-original-research)**
-- **[suno](https://www.skills.sh/social-media-skills/skills/suno)**
-- **[livestream-and-realtime](https://www.skills.sh/social-media-skills/skills/livestream-and-realtime)**
-- **[runway](https://www.skills.sh/social-media-skills/skills/runway)**
-- **[ai-search-optimization](https://www.skills.sh/social-media-skills/skills/ai-search-optimization)**
-- **[descript](https://www.skills.sh/social-media-skills/skills/descript)**
-- **[listicle-and-roundup](https://www.skills.sh/social-media-skills/skills/listicle-and-roundup)**
-- **[ideogram](https://www.skills.sh/social-media-skills/skills/ideogram)**
-- **[flux](https://www.skills.sh/social-media-skills/skills/flux)**
-- **[luma](https://www.skills.sh/social-media-skills/skills/luma)**
-- **[synthesia](https://www.skills.sh/social-media-skills/skills/synthesia)**
+- **[reels-script](https://github.com/social-media-skills/skills/blob/HEAD/skills/reels-script/SKILL.md)**
+- **[brand-profile](https://github.com/social-media-skills/skills/blob/HEAD/skills/brand-profile/SKILL.md)**
+- **[voice-builder](https://github.com/social-media-skills/skills/blob/HEAD/skills/voice-builder/SKILL.md)**
+- **[scripting-and-storyboarding](https://github.com/social-media-skills/skills/blob/HEAD/skills/scripting-and-storyboarding/SKILL.md)**
+- **[storytelling-and-narrative](https://github.com/social-media-skills/skills/blob/HEAD/skills/storytelling-and-narrative/SKILL.md)**
+- **[capcut](https://github.com/social-media-skills/skills/blob/HEAD/skills/capcut/SKILL.md)**
+- **[analytics-and-reporting](https://github.com/social-media-skills/skills/blob/HEAD/skills/analytics-and-reporting/SKILL.md)**
+- **[captions-and-clipping](https://github.com/social-media-skills/skills/blob/HEAD/skills/captions-and-clipping/SKILL.md)**
+- **[instagram-reels-publishing](https://github.com/social-media-skills/skills/blob/HEAD/skills/instagram-reels-publishing/SKILL.md)**
+- **[competitor-analysis](https://github.com/social-media-skills/skills/blob/HEAD/skills/competitor-analysis/SKILL.md)**
+- **[tiktok-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-growth/SKILL.md)**
+- **[design-and-templates](https://github.com/social-media-skills/skills/blob/HEAD/skills/design-and-templates/SKILL.md)**
+- **[cross-platform-repurposing](https://github.com/social-media-skills/skills/blob/HEAD/skills/cross-platform-repurposing/SKILL.md)**
+- **[social-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-strategy/SKILL.md)**
+- **[trend-jacking](https://github.com/social-media-skills/skills/blob/HEAD/skills/trend-jacking/SKILL.md)**
+- **[profile-optimization](https://github.com/social-media-skills/skills/blob/HEAD/skills/profile-optimization/SKILL.md)**
+- **[hashtag-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/hashtag-strategy/SKILL.md)**
+- **[idea-generation-and-ideation](https://github.com/social-media-skills/skills/blob/HEAD/skills/idea-generation-and-ideation/SKILL.md)**
+- **[batch-content-plan](https://github.com/social-media-skills/skills/blob/HEAD/skills/batch-content-plan/SKILL.md)**
+- **[content-audit](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-audit/SKILL.md)**
+- **[youtube-publishing-and-metadata](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-publishing-and-metadata/SKILL.md)**
+- **[platform-specs-and-validation](https://github.com/social-media-skills/skills/blob/HEAD/skills/platform-specs-and-validation/SKILL.md)**
+- **[story-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/story-writer/SKILL.md)**
+- **[reply-and-comment-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/reply-and-comment-writer/SKILL.md)**
+- **[goals-and-kpis](https://github.com/social-media-skills/skills/blob/HEAD/skills/goals-and-kpis/SKILL.md)**
+- **[engagement-routine](https://github.com/social-media-skills/skills/blob/HEAD/skills/engagement-routine/SKILL.md)**
+- **[youtube-long-form](https://github.com/social-media-skills/skills/blob/HEAD/skills/youtube-long-form/SKILL.md)**
+- **[ai-voiceover](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-voiceover/SKILL.md)**
+- **[talking-head-and-piece-to-camera](https://github.com/social-media-skills/skills/blob/HEAD/skills/talking-head-and-piece-to-camera/SKILL.md)**
+- **[content-research-and-sourcing](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-research-and-sourcing/SKILL.md)**
+- **[writing-style-and-tone](https://github.com/social-media-skills/skills/blob/HEAD/skills/writing-style-and-tone/SKILL.md)**
+- **[image-prompt](https://github.com/social-media-skills/skills/blob/HEAD/skills/image-prompt/SKILL.md)**
+- **[facebook-strategy](https://github.com/social-media-skills/skills/blob/HEAD/skills/facebook-strategy/SKILL.md)**
+- **[linkedin-post-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/linkedin-post-writer/SKILL.md)**
+- **[educational-content-and-how-to](https://github.com/social-media-skills/skills/blob/HEAD/skills/educational-content-and-how-to/SKILL.md)**
+- **[experimentation-and-ab-testing](https://github.com/social-media-skills/skills/blob/HEAD/skills/experimentation-and-ab-testing/SKILL.md)**
+- **[social-selling-and-dm](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-selling-and-dm/SKILL.md)**
+- **[community-management](https://github.com/social-media-skills/skills/blob/HEAD/skills/community-management/SKILL.md)**
+- **[social-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-seo/SKILL.md)**
+- **[veo-3](https://github.com/social-media-skills/skills/blob/HEAD/skills/veo-3/SKILL.md)**
+- **[behind-the-scenes-and-founder](https://github.com/social-media-skills/skills/blob/HEAD/skills/behind-the-scenes-and-founder/SKILL.md)**
+- **[scheduling-and-queue](https://github.com/social-media-skills/skills/blob/HEAD/skills/scheduling-and-queue/SKILL.md)**
+- **[ai-video](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-video/SKILL.md)**
+- **[threads-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/threads-growth/SKILL.md)**
+- **[tiktok-video-publishing](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-video-publishing/SKILL.md)**
+- **[quote-cards-and-text-graphics](https://github.com/social-media-skills/skills/blob/HEAD/skills/quote-cards-and-text-graphics/SKILL.md)**
+- **[creator-monetization](https://github.com/social-media-skills/skills/blob/HEAD/skills/creator-monetization/SKILL.md)**
+- **[link-in-bio-and-traffic](https://github.com/social-media-skills/skills/blob/HEAD/skills/link-in-bio-and-traffic/SKILL.md)**
+- **[social-proof-and-testimonials](https://github.com/social-media-skills/skills/blob/HEAD/skills/social-proof-and-testimonials/SKILL.md)**
+- **[content-recycling](https://github.com/social-media-skills/skills/blob/HEAD/skills/content-recycling/SKILL.md)**
+- **[pinterest-pin-design](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-pin-design/SKILL.md)**
+- **[threads-post](https://github.com/social-media-skills/skills/blob/HEAD/skills/threads-post/SKILL.md)**
+- **[campaign-and-launch-planning](https://github.com/social-media-skills/skills/blob/HEAD/skills/campaign-and-launch-planning/SKILL.md)**
+- **[ai-music-and-sound](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-music-and-sound/SKILL.md)**
+- **[pinterest-seo](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-seo/SKILL.md)**
+- **[meme-and-culture](https://github.com/social-media-skills/skills/blob/HEAD/skills/meme-and-culture/SKILL.md)**
+- **[facebook-groups](https://github.com/social-media-skills/skills/blob/HEAD/skills/facebook-groups/SKILL.md)**
+- **[seasonal-and-moment-marketing](https://github.com/social-media-skills/skills/blob/HEAD/skills/seasonal-and-moment-marketing/SKILL.md)**
+- **[tiktok-photo-mode](https://github.com/social-media-skills/skills/blob/HEAD/skills/tiktok-photo-mode/SKILL.md)**
+- **[nano-banana](https://github.com/social-media-skills/skills/blob/HEAD/skills/nano-banana/SKILL.md)**
+- **[infographic-and-data-viz](https://github.com/social-media-skills/skills/blob/HEAD/skills/infographic-and-data-viz/SKILL.md)**
+- **[ugc-and-influencer](https://github.com/social-media-skills/skills/blob/HEAD/skills/ugc-and-influencer/SKILL.md)**
+- **[before-after-and-transformation](https://github.com/social-media-skills/skills/blob/HEAD/skills/before-after-and-transformation/SKILL.md)**
+- **[thread-writer](https://github.com/social-media-skills/skills/blob/HEAD/skills/thread-writer/SKILL.md)**
+- **[collabs-and-cross-promotion](https://github.com/social-media-skills/skills/blob/HEAD/skills/collabs-and-cross-promotion/SKILL.md)**
+- **[canva](https://github.com/social-media-skills/skills/blob/HEAD/skills/canva/SKILL.md)**
+- **[lead-magnets-and-funnels](https://github.com/social-media-skills/skills/blob/HEAD/skills/lead-magnets-and-funnels/SKILL.md)**
+- **[ai-image-editing](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-image-editing/SKILL.md)**
+- **[pinterest-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/pinterest-growth/SKILL.md)**
+- **[contrarian-and-opinion](https://github.com/social-media-skills/skills/blob/HEAD/skills/contrarian-and-opinion/SKILL.md)**
+- **[x-growth](https://github.com/social-media-skills/skills/blob/HEAD/skills/x-growth/SKILL.md)**
+- **[crisis-and-moderation](https://github.com/social-media-skills/skills/blob/HEAD/skills/crisis-and-moderation/SKILL.md)**
+- **[text-post-and-microblog](https://github.com/social-media-skills/skills/blob/HEAD/skills/text-post-and-microblog/SKILL.md)**
+- **[opus-clip](https://github.com/social-media-skills/skills/blob/HEAD/skills/opus-clip/SKILL.md)**
+- **[interactive-content](https://github.com/social-media-skills/skills/blob/HEAD/skills/interactive-content/SKILL.md)**
+- **[kling](https://github.com/social-media-skills/skills/blob/HEAD/skills/kling/SKILL.md)**
+- **[heygen](https://github.com/social-media-skills/skills/blob/HEAD/skills/heygen/SKILL.md)**
+- **[data-and-original-research](https://github.com/social-media-skills/skills/blob/HEAD/skills/data-and-original-research/SKILL.md)**
+- **[suno](https://github.com/social-media-skills/skills/blob/HEAD/skills/suno/SKILL.md)**
+- **[livestream-and-realtime](https://github.com/social-media-skills/skills/blob/HEAD/skills/livestream-and-realtime/SKILL.md)**
+- **[runway](https://github.com/social-media-skills/skills/blob/HEAD/skills/runway/SKILL.md)**
+- **[ai-search-optimization](https://github.com/social-media-skills/skills/blob/HEAD/skills/ai-search-optimization/SKILL.md)**
+- **[descript](https://github.com/social-media-skills/skills/blob/HEAD/skills/descript/SKILL.md)**
+- **[listicle-and-roundup](https://github.com/social-media-skills/skills/blob/HEAD/skills/listicle-and-roundup/SKILL.md)**
+- **[ideogram](https://github.com/social-media-skills/skills/blob/HEAD/skills/ideogram/SKILL.md)**
+- **[flux](https://github.com/social-media-skills/skills/blob/HEAD/skills/flux/SKILL.md)**
+- **[luma](https://github.com/social-media-skills/skills/blob/HEAD/skills/luma/SKILL.md)**
+- **[synthesia](https://github.com/social-media-skills/skills/blob/HEAD/skills/synthesia/SKILL.md)**
 
 <a id="full-marketing-nexscope-aiecommerce-skills--85"></a>
 #### nexscope-ai/ecommerce-skills · 85
 
-- **[cross-border-ecommerce](https://www.skills.sh/nexscope-ai/ecommerce-skills/cross-border-ecommerce)**
-- **[dropshipping-product-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/dropshipping-product-research)**
-- **[ecommerce-keyword-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-keyword-research)**
-- **[product-page-seo](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-page-seo)**
-- **[ecommerce-marketing-strategy-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-marketing-strategy-builder)**
-- **[ecommerce-social-media-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-social-media-marketing)**
-- **[ecommerce-checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-checkout-optimization)**
-- **[tiktok-shop-product-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-product-research)**
-- **[competitor-price-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitor-price-analysis)**
-- **[ecommerce-content-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-content-marketing)**
-- **[shopify-dropshipping](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-dropshipping)**
-- **[ecommerce-ppc-strategy-planner](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-ppc-strategy-planner)**
-- **[tiktok-shop-trending-products](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-trending-products)**
-- **[ecommerce-email-marketing-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder)**
-- **[ecommerce-business-plan](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-business-plan)**
-- **[ecommerce-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-branding)**
-- **[shopify-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-marketing)**
-- **[product-launch-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-launch-strategy)**
-- **[tiktok-shop-listing-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-listing-optimization)**
-- **[etsy-product-description](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-product-description)**
-- **[google-shopping-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/google-shopping-optimization)**
-- **[ecommerce-returns-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-returns-management)**
-- **[competitor-price-tracker](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitor-price-tracker)**
-- **[shopify-theme-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-theme-optimization)**
-- **[brand-monitoring](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-monitoring)**
-- **[tiktok-shop-cross-border](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-cross-border)**
-- **[ecommerce-shipping-rates](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-shipping-rates)**
-- **[social-media-monitor](https://www.skills.sh/nexscope-ai/ecommerce-skills/social-media-monitor)**
-- **[ecommerce-personalization](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-personalization)**
-- **[sales-tracking-tool](https://www.skills.sh/nexscope-ai/ecommerce-skills/sales-tracking-tool)**
-- **[warehouse-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/warehouse-optimization)**
-- **[shopify-inventory-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-inventory-management)**
-- **[shopify-product-photography-guide](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-product-photography-guide)**
-- **[review-monitoring](https://www.skills.sh/nexscope-ai/ecommerce-skills/review-monitoring)**
-- **[tiktok-shop-pricing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-pricing)**
-- **[shopify-google-channel](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-google-channel)**
-- **[shopify-facebook-instagram-shop](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-facebook-instagram-shop)**
-- **[tiktok-shop-customer-service](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-customer-service)**
-- **[etsy-advertising](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-advertising)**
-- **[shopify-app-recommendations](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-app-recommendations)**
-- **[etsy-seasonal-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seasonal-strategy)**
-- **[etsy-social-media-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-social-media-marketing)**
-- **[etsy-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-branding)**
-- **[shopify-tax-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-tax-compliance)**
-- **[tiktok-shop-fulfillment](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-fulfillment)**
-- **[tiktok-shop-conversion](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-conversion)**
-- **[tiktok-shop-creator-management](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-creator-management)**
-- **[walmart-listing-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/walmart-listing-optimization)**
-- **[shopify-wholesale-channel](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-wholesale-channel)**
-- **[tiktok-shop-inventory](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-inventory)**
-- **[shopify-subscription-setup](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-subscription-setup)**
-- **[tiktok-shop-promotions](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-promotions)**
-- **[shopify-migration](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-migration)**
-- **[tiktok-shop-returns](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-returns)**
-- **[etsy-offsite-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-offsite-ads)**
-- **[etsy-multi-shop](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-multi-shop)**
-- **[tiktok-shop-shipping](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-shipping)**
-- **[tiktok-shop-reviews](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-reviews)**
-- **[etsy-custom-orders](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-custom-orders)**
-- **[etsy-shipping-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shipping-strategy)**
-- **[tiktok-shop-seller-guide](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-seller-guide)**
-- **[competitive-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/competitive-pricing-strategy)**
-- **[price-optimization-tool](https://www.skills.sh/nexscope-ai/ecommerce-skills/price-optimization-tool)**
-- **[dynamic-pricing-ecommerce](https://www.skills.sh/nexscope-ai/ecommerce-skills/dynamic-pricing-ecommerce)**
-- **[profit-margin-calculator-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-shopify)**
-- **[profit-margin-calculator-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-amazon)**
-- **[profit-margin-calculator-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-tiktok)**
-- **[product-differentiation-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-shopify)**
-- **[amazon-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/amazon-review-checker)**
-- **[supply-chain-optimization-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-shopify)**
-- **[product-differentiation-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-amazon)**
-- **[product-differentiation-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-tiktok)**
-- **[brand-protection-amazon](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-amazon)**
-- **[product-differentiation-ebay](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-differentiation-ebay)**
-- **[brand-protection-shopify](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-shopify)**
-- **[supply-chain-optimization-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-tiktok)**
-- **[brand-protection-tiktok](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-tiktok)**
-- **[supply-chain-optimization-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-walmart)**
-- **[profit-margin-calculator-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/profit-margin-calculator-walmart)**
-- **[supply-chain-optimization-amazon-lite](https://www.skills.sh/nexscope-ai/ecommerce-skills/supply-chain-optimization-amazon-lite)**
-- **[ebay-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/ebay-review-checker)**
-- **[walmart-review-checker](https://www.skills.sh/nexscope-ai/ecommerce-skills/walmart-review-checker)**
-- **[brand-protection-walmart](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-walmart)**
-- **[brand-protection-ebay](https://www.skills.sh/nexscope-ai/ecommerce-skills/brand-protection-ebay)**
-- **[ecommerce-advertising](https://www.skills.sh/nexscope-ai/ecommerce-skills/ecommerce-advertising)**
+- **[cross-border-ecommerce](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/cross-border-ecommerce/SKILL.md)**
+- **[dropshipping-product-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/dropshipping-product-research/SKILL.md)**
+- **[ecommerce-keyword-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-keyword-research/SKILL.md)**
+- **[product-page-seo](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-page-seo/SKILL.md)**
+- **[ecommerce-marketing-strategy-builder](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-marketing-strategy-builder/SKILL.md)**
+- **[ecommerce-social-media-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-social-media-marketing/SKILL.md)**
+- **[ecommerce-checkout-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-checkout-optimization/SKILL.md)**
+- **[tiktok-shop-product-research](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-product-research/SKILL.md)**
+- **[competitor-price-analysis](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitor-price-analysis/SKILL.md)**
+- **[ecommerce-content-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-content-marketing/SKILL.md)**
+- **[shopify-dropshipping](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-dropshipping/SKILL.md)**
+- **[ecommerce-ppc-strategy-planner](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-ppc-strategy-planner/SKILL.md)**
+- **[tiktok-shop-trending-products](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-trending-products/SKILL.md)**
+- **[ecommerce-email-marketing-builder](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-email-marketing-builder/SKILL.md)**
+- **[ecommerce-business-plan](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-business-plan/SKILL.md)**
+- **[ecommerce-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-branding/SKILL.md)**
+- **[shopify-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-marketing/SKILL.md)**
+- **[product-launch-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-launch-strategy/SKILL.md)**
+- **[tiktok-shop-listing-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-listing-optimization/SKILL.md)**
+- **[etsy-product-description](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-product-description/SKILL.md)**
+- **[google-shopping-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/google-shopping-optimization/SKILL.md)**
+- **[ecommerce-returns-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-returns-management/SKILL.md)**
+- **[competitor-price-tracker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitor-price-tracker/SKILL.md)**
+- **[shopify-theme-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-theme-optimization/SKILL.md)**
+- **[brand-monitoring](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-monitoring/SKILL.md)**
+- **[tiktok-shop-cross-border](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-cross-border/SKILL.md)**
+- **[ecommerce-shipping-rates](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-shipping-rates/SKILL.md)**
+- **[social-media-monitor](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/social-media-monitor/SKILL.md)**
+- **[ecommerce-personalization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/ecommerce-personalization/SKILL.md)**
+- **[sales-tracking-tool](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/sales-tracking-tool/SKILL.md)**
+- **[warehouse-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/warehouse-optimization/SKILL.md)**
+- **[shopify-inventory-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-inventory-management/SKILL.md)**
+- **[shopify-product-photography-guide](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-product-photography-guide/SKILL.md)**
+- **[review-monitoring](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-monitoring/SKILL.md)**
+- **[tiktok-shop-pricing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-pricing/SKILL.md)**
+- **[shopify-google-channel](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-google-channel/SKILL.md)**
+- **[shopify-facebook-instagram-shop](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-facebook-instagram-shop/SKILL.md)**
+- **[tiktok-shop-customer-service](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-customer-service/SKILL.md)**
+- **[etsy-advertising](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-advertising/SKILL.md)**
+- **[shopify-app-recommendations](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-app-recommendations/SKILL.md)**
+- **[etsy-seasonal-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-seasonal-strategy/SKILL.md)**
+- **[etsy-social-media-marketing](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-social-media-marketing/SKILL.md)**
+- **[etsy-shop-branding](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shop-branding/SKILL.md)**
+- **[shopify-tax-compliance](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-tax-compliance/SKILL.md)**
+- **[tiktok-shop-fulfillment](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-fulfillment/SKILL.md)**
+- **[tiktok-shop-conversion](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-conversion/SKILL.md)**
+- **[tiktok-shop-creator-management](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-creator-management/SKILL.md)**
+- **[walmart-listing-optimization](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/walmart-listing-optimization/SKILL.md)**
+- **[shopify-wholesale-channel](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-wholesale-channel/SKILL.md)**
+- **[tiktok-shop-inventory](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-inventory/SKILL.md)**
+- **[shopify-subscription-setup](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-subscription-setup/SKILL.md)**
+- **[tiktok-shop-promotions](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-promotions/SKILL.md)**
+- **[shopify-migration](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/shopify-migration/SKILL.md)**
+- **[tiktok-shop-returns](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-returns/SKILL.md)**
+- **[etsy-offsite-ads](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-offsite-ads/SKILL.md)**
+- **[etsy-multi-shop](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-multi-shop/SKILL.md)**
+- **[tiktok-shop-shipping](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-shipping/SKILL.md)**
+- **[tiktok-shop-reviews](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-reviews/SKILL.md)**
+- **[etsy-custom-orders](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-custom-orders/SKILL.md)**
+- **[etsy-shipping-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/etsy-shipping-strategy/SKILL.md)**
+- **[tiktok-shop-seller-guide](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/tiktok-shop-seller-guide/SKILL.md)**
+- **[competitive-pricing-strategy](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/competitive-pricing-strategy/SKILL.md)**
+- **[price-optimization-tool](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/price-optimization-tool/SKILL.md)**
+- **[dynamic-pricing-ecommerce](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/dynamic-pricing-ecommerce/SKILL.md)**
+- **[profit-margin-calculator-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-shopify/SKILL.md)**
+- **[profit-margin-calculator-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-amazon/SKILL.md)**
+- **[profit-margin-calculator-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-tiktok/SKILL.md)**
+- **[product-differentiation-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-shopify/SKILL.md)**
+- **[amazon-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/amazon-review-checker/SKILL.md)**
+- **[supply-chain-optimization-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-shopify/SKILL.md)**
+- **[product-differentiation-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-amazon/SKILL.md)**
+- **[product-differentiation-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-tiktok/SKILL.md)**
+- **[brand-protection-amazon](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-amazon/SKILL.md)**
+- **[product-differentiation-ebay](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/product-differentiation/product-differentiation-ebay/SKILL.md)**
+- **[brand-protection-shopify](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-shopify/SKILL.md)**
+- **[supply-chain-optimization-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-tiktok/SKILL.md)**
+- **[brand-protection-tiktok](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-tiktok/SKILL.md)**
+- **[supply-chain-optimization-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/supply-chain-optimization/supply-chain-optimization-walmart/SKILL.md)**
+- **[profit-margin-calculator-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/profit-margin-calculator/profit-margin-calculator-walmart/SKILL.md)**
+- **[supply-chain-optimization-amazon-lite · repository entry](https://github.com/nexscope-ai/ecommerce-skills)**
+- **[ebay-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/ebay-review-checker/SKILL.md)**
+- **[walmart-review-checker](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/review-checker/walmart-review-checker/SKILL.md)**
+- **[brand-protection-walmart](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-walmart/SKILL.md)**
+- **[brand-protection-ebay](https://github.com/nexscope-ai/ecommerce-skills/blob/HEAD/brand-protection/brand-protection-ebay/SKILL.md)**
+- **[ecommerce-advertising · repository entry](https://github.com/nexscope-ai/ecommerce-skills)**
 
 [Back to contents](#contents)
 
@@ -3134,355 +3129,352 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 
 Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
-<a id="full-design-anthropicsskills--12"></a>
-#### anthropics/skills · 12
+<a id="full-design-anthropicsskills--11"></a>
+#### anthropics/skills · 11
 
-- **[skill-creator](https://www.skills.sh/anthropics/skills/skill-creator)**
-- **[xlsx](https://www.skills.sh/anthropics/skills/xlsx)**
-- **[mcp-builder](https://www.skills.sh/anthropics/skills/mcp-builder)**
-- **[brand-guidelines](https://www.skills.sh/anthropics/skills/brand-guidelines)**
-- **[doc-coauthoring](https://www.skills.sh/anthropics/skills/doc-coauthoring)**
-- **[internal-comms](https://www.skills.sh/anthropics/skills/internal-comms)**
-- **[slack-gif-creator](https://www.skills.sh/anthropics/skills/slack-gif-creator)**
-- **[claude-api](https://www.skills.sh/anthropics/skills/claude-api)**
-- **[template-skill](https://www.skills.sh/anthropics/skills/template-skill)**
-- **[discernment-nudge](https://www.skills.sh/anthropics/skills/discernment-nudge)**
-- **[academy-guide](https://www.skills.sh/anthropics/skills/academy-guide)**
-- **[claude-academy-guide](https://www.skills.sh/anthropics/skills/claude-academy-guide)**
+- **[skill-creator](https://github.com/anthropics/skills/blob/HEAD/skills/skill-creator/SKILL.md)**
+- **[xlsx](https://github.com/anthropics/skills/blob/HEAD/skills/xlsx/SKILL.md)**
+- **[mcp-builder](https://github.com/anthropics/skills/blob/HEAD/skills/mcp-builder/SKILL.md)**
+- **[brand-guidelines](https://github.com/anthropics/skills/blob/HEAD/skills/brand-guidelines/SKILL.md)**
+- **[doc-coauthoring](https://github.com/anthropics/skills/blob/HEAD/skills/doc-coauthoring/SKILL.md)**
+- **[internal-comms](https://github.com/anthropics/skills/blob/HEAD/skills/internal-comms/SKILL.md)**
+- **[slack-gif-creator](https://github.com/anthropics/skills/blob/HEAD/skills/slack-gif-creator/SKILL.md)**
+- **[claude-api](https://github.com/anthropics/skills/blob/HEAD/skills/claude-api/SKILL.md)**
+- **[discernment-nudge](https://github.com/anthropics/skills/blob/HEAD/skills/discernment-nudge/SKILL.md)**
+- **[academy-guide](https://github.com/anthropics/skills/blob/HEAD/skills/academy-guide/SKILL.md)**
+- **[claude-academy-guide · repository entry](https://github.com/anthropics/skills)**
 
-<a id="full-design-figmamcp-server-guide--11"></a>
-#### figma/mcp-server-guide · 11
+<a id="full-design-figmamcp-server-guide--9"></a>
+#### figma/mcp-server-guide · 9
 
-- **[implement-design](https://www.skills.sh/figma/mcp-server-guide/implement-design)**
-- **[figma-implement-design](https://www.skills.sh/figma/mcp-server-guide/figma-implement-design)**
-- **[figma-create-design-system-rules](https://www.skills.sh/figma/mcp-server-guide/figma-create-design-system-rules)**
-- **[figma-use-motion](https://www.skills.sh/figma/mcp-server-guide/figma-use-motion)**
-- **[code-connect-components](https://www.skills.sh/figma/mcp-server-guide/code-connect-components)**
-- **[figma-shaders](https://www.skills.sh/figma/mcp-server-guide/figma-shaders)**
-- **[figma-generative-plugins](https://www.skills.sh/figma/mcp-server-guide/figma-generative-plugins)**
-- **[figma-code-workflows](https://www.skills.sh/figma/mcp-server-guide/figma-code-workflows)**
-- **[figma-code-connect-components](https://www.skills.sh/figma/mcp-server-guide/figma-code-connect-components)**
-- **[generate-project-plan](https://www.skills.sh/figma/mcp-server-guide/generate-project-plan)**
-- **[video-interaction-mapper](https://www.skills.sh/figma/mcp-server-guide/video-interaction-mapper)**
+- **[implement-design](https://github.com/figma/mcp-server-guide/blob/HEAD/figma-power/steering/implement-design.md)**
+- **[figma-use-motion](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use-motion/SKILL.md)**
+- **[code-connect-components](https://github.com/figma/mcp-server-guide/blob/HEAD/figma-power/steering/code-connect-components.md)**
+- **[figma-shaders](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-shaders/SKILL.md)**
+- **[figma-generative-plugins](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generative-plugins/SKILL.md)**
+- **[figma-code-workflows](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-code-workflows/SKILL.md)**
+- **[figma-code-connect](https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-code-connect/SKILL.md)**
+- **[generate-project-plan](https://github.com/figma/mcp-server-guide/blob/HEAD/workflow-skills/generate-project-plan/SKILL.md)**
+- **[video-interaction-mapper](https://github.com/figma/mcp-server-guide/blob/HEAD/workflow-skills/video-interaction-mapper/SKILL.md)**
 
 <a id="full-design-mengtoskills--178"></a>
 #### mengto/skills · 178
 
-- **[cinematic-gsap-lenis-motion-system](https://www.skills.sh/mengto/skills/cinematic-gsap-lenis-motion-system)**
-- **[threejs](https://www.skills.sh/mengto/skills/threejs)**
-- **[design-first-ui-prompting](https://www.skills.sh/mengto/skills/design-first-ui-prompting)**
-- **[optimize-web-animations](https://www.skills.sh/mengto/skills/optimize-web-animations)**
-- **[cobejs](https://www.skills.sh/mengto/skills/cobejs)**
-- **[tailwindcss](https://www.skills.sh/mengto/skills/tailwindcss)**
-- **[webgl-landing-steering](https://www.skills.sh/mengto/skills/webgl-landing-steering)**
-- **[video-to-superprompt](https://www.skills.sh/mengto/skills/video-to-superprompt)**
-- **[webgl-3d-object](https://www.skills.sh/mengto/skills/webgl-3d-object)**
-- **[build-threejs-scroll-worlds](https://www.skills.sh/mengto/skills/build-threejs-scroll-worlds)**
-- **[scroll-scrubbed-visual-sequence](https://www.skills.sh/mengto/skills/scroll-scrubbed-visual-sequence)**
-- **[staggered-word-reveal](https://www.skills.sh/mengto/skills/staggered-word-reveal)**
-- **[unsplash-asset-images](https://www.skills.sh/mengto/skills/unsplash-asset-images)**
-- **[css-border-gradient](https://www.skills.sh/mengto/skills/css-border-gradient)**
-- **[matterjs](https://www.skills.sh/mengto/skills/matterjs)**
-- **[marquee-loop](https://www.skills.sh/mengto/skills/marquee-loop)**
-- **[company-logos](https://www.skills.sh/mengto/skills/company-logos)**
-- **[container-lines](https://www.skills.sh/mengto/skills/container-lines)**
-- **[css-alpha-masking](https://www.skills.sh/mengto/skills/css-alpha-masking)**
-- **[atmosphere-background](https://www.skills.sh/mengto/skills/atmosphere-background)**
-- **[stitched-full-page-capture](https://www.skills.sh/mengto/skills/stitched-full-page-capture)**
-- **[globe-gl](https://www.skills.sh/mengto/skills/globe-gl)**
-- **[vantajs](https://www.skills.sh/mengto/skills/vantajs)**
-- **[editorial-tech](https://www.skills.sh/mengto/skills/editorial-tech)**
-- **[agency-grid-layout-minimal](https://www.skills.sh/mengto/skills/agency-grid-layout-minimal)**
-- **[background-grid-webgl](https://www.skills.sh/mengto/skills/background-grid-webgl)**
-- **[skeuomorphic-ui](https://www.skills.sh/mengto/skills/skeuomorphic-ui)**
-- **[unicorn-studio](https://www.skills.sh/mengto/skills/unicorn-studio)**
-- **[globe-particles](https://www.skills.sh/mengto/skills/globe-particles)**
-- **[dither-background](https://www.skills.sh/mengto/skills/dither-background)**
-- **[image-first-grid-layout](https://www.skills.sh/mengto/skills/image-first-grid-layout)**
-- **[html-to-interaction-prompts](https://www.skills.sh/mengto/skills/html-to-interaction-prompts)**
-- **[scroll-scrubbed-word-reveal](https://www.skills.sh/mengto/skills/scroll-scrubbed-word-reveal)**
-- **[webgl-laser](https://www.skills.sh/mengto/skills/webgl-laser)**
-- **[audit-ai-design-slop](https://www.skills.sh/mengto/skills/audit-ai-design-slop)**
-- **[framed-grid-layout](https://www.skills.sh/mengto/skills/framed-grid-layout)**
-- **[dark-glass-clean-layout](https://www.skills.sh/mengto/skills/dark-glass-clean-layout)**
-- **[number-details](https://www.skills.sh/mengto/skills/number-details)**
-- **[mesh-gradient-dark-blue-clean](https://www.skills.sh/mengto/skills/mesh-gradient-dark-blue-clean)**
-- **[gooey-blob-system](https://www.skills.sh/mengto/skills/gooey-blob-system)**
-- **[clean-minimal-beige-light-mode](https://www.skills.sh/mengto/skills/clean-minimal-beige-light-mode)**
-- **[technical-wireframe-info-layout](https://www.skills.sh/mengto/skills/technical-wireframe-info-layout)**
-- **[reveal-hover-effect](https://www.skills.sh/mengto/skills/reveal-hover-effect)**
-- **[split-layout-technical](https://www.skills.sh/mengto/skills/split-layout-technical)**
-- **[corner-diagonals](https://www.skills.sh/mengto/skills/corner-diagonals)**
-- **[high-contrast-skeuomorphic-clean](https://www.skills.sh/mengto/skills/high-contrast-skeuomorphic-clean)**
-- **[book-serif-index](https://www.skills.sh/mengto/skills/book-serif-index)**
-- **[editorial-portfolio-chapters](https://www.skills.sh/mengto/skills/editorial-portfolio-chapters)**
-- **[light-mode-paper-technical](https://www.skills.sh/mengto/skills/light-mode-paper-technical)**
-- **[blue-laser-clean-glass-layout](https://www.skills.sh/mengto/skills/blue-laser-clean-glass-layout)**
-- **[scroll-progress-timeline](https://www.skills.sh/mengto/skills/scroll-progress-timeline)**
-- **[dither-laser-dark-mode](https://www.skills.sh/mengto/skills/dither-laser-dark-mode)**
-- **[ambient-section-particles](https://www.skills.sh/mengto/skills/ambient-section-particles)**
-- **[aura-asset-images](https://www.skills.sh/mengto/skills/aura-asset-images)**
-- **[nested-container-frames](https://www.skills.sh/mengto/skills/nested-container-frames)**
-- **[corner-lasers](https://www.skills.sh/mengto/skills/corner-lasers)**
-- **[blue-cloudy-clean-modern](https://www.skills.sh/mengto/skills/blue-cloudy-clean-modern)**
-- **[tech-green-dark-mode-modern](https://www.skills.sh/mengto/skills/tech-green-dark-mode-modern)**
-- **[glass-dark-mode-clock](https://www.skills.sh/mengto/skills/glass-dark-mode-clock)**
-- **[bright-green-tech-system-webgl](https://www.skills.sh/mengto/skills/bright-green-tech-system-webgl)**
-- **[dark-blue-contrasting-clean](https://www.skills.sh/mengto/skills/dark-blue-contrasting-clean)**
-- **[nested-container-clean-agency](https://www.skills.sh/mengto/skills/nested-container-clean-agency)**
-- **[create-game-vfx](https://www.skills.sh/mengto/skills/create-game-vfx)**
-- **[product-proof-saas](https://www.skills.sh/mengto/skills/product-proof-saas)**
-- **[solar-duotone-bold](https://www.skills.sh/mengto/skills/solar-duotone-bold)**
-- **[orange-clean-paper-saas](https://www.skills.sh/mengto/skills/orange-clean-paper-saas)**
-- **[framed-tech-dark-border-gradient](https://www.skills.sh/mengto/skills/framed-tech-dark-border-gradient)**
-- **[browser-video-recording](https://www.skills.sh/mengto/skills/browser-video-recording)**
-- **[daily-ui-inspiration-capture](https://www.skills.sh/mengto/skills/daily-ui-inspiration-capture)**
-- **[shaders-cursor-ripples](https://www.skills.sh/mengto/skills/shaders-cursor-ripples)**
-- **[funky-purple-container-tech](https://www.skills.sh/mengto/skills/funky-purple-container-tech)**
-- **[performance-profiling](https://www.skills.sh/mengto/skills/performance-profiling)**
-- **[add-shader-cursor-trail](https://www.skills.sh/mengto/skills/add-shader-cursor-trail)**
-- **[audit-verify-explain-grade-5](https://www.skills.sh/mengto/skills/audit-verify-explain-grade-5)**
-- **[elevenlabs-tts](https://www.skills.sh/mengto/skills/elevenlabs-tts)**
-- **[audit-reference-originality](https://www.skills.sh/mengto/skills/audit-reference-originality)**
-- **[editorial-service-booking](https://www.skills.sh/mengto/skills/editorial-service-booking)**
-- **[generate-reference-inspired-brand-worlds](https://www.skills.sh/mengto/skills/generate-reference-inspired-brand-worlds)**
-- **[build-game-audio-feedback](https://www.skills.sh/mengto/skills/build-game-audio-feedback)**
-- **[test-playable-web-games](https://www.skills.sh/mengto/skills/test-playable-web-games)**
-- **[operational-enterprise-ai](https://www.skills.sh/mengto/skills/operational-enterprise-ai)**
-- **[thinking-orbs](https://www.skills.sh/mengto/skills/thinking-orbs)**
-- **[documentary-brutalist-agency](https://www.skills.sh/mengto/skills/documentary-brutalist-agency)**
-- **[optimize-threejs-games](https://www.skills.sh/mengto/skills/optimize-threejs-games)**
-- **[beam-glow-states](https://www.skills.sh/mengto/skills/beam-glow-states)**
-- **[liquid-metal-border](https://www.skills.sh/mengto/skills/liquid-metal-border)**
-- **[x-bookmark-quote-posts](https://www.skills.sh/mengto/skills/x-bookmark-quote-posts)**
-- **[build-mobile-threejs-games](https://www.skills.sh/mengto/skills/build-mobile-threejs-games)**
-- **[design-game-encounters](https://www.skills.sh/mengto/skills/design-game-encounters)**
-- **[design-action-combat](https://www.skills.sh/mengto/skills/design-action-combat)**
-- **[build-game-camera-controls](https://www.skills.sh/mengto/skills/build-game-camera-controls)**
-- **[build-isometric-arpg](https://www.skills.sh/mengto/skills/build-isometric-arpg)**
-- **[iterate-until-verified](https://www.skills.sh/mengto/skills/iterate-until-verified)**
-- **[author-game-levels](https://www.skills.sh/mengto/skills/author-game-levels)**
-- **[article-prompts-to-skills](https://www.skills.sh/mengto/skills/article-prompts-to-skills)**
-- **[build-hybrid-game-assets](https://www.skills.sh/mengto/skills/build-hybrid-game-assets)**
-- **[ship-web-games](https://www.skills.sh/mengto/skills/ship-web-games)**
-- **[tune-enemy-ai](https://www.skills.sh/mengto/skills/tune-enemy-ai)**
-- **[build-game-inventory](https://www.skills.sh/mengto/skills/build-game-inventory)**
-- **[build-threejs-enemy-systems](https://www.skills.sh/mengto/skills/build-threejs-enemy-systems)**
-- **[build-daily-inspiration-sites](https://www.skills.sh/mengto/skills/build-daily-inspiration-sites)**
-- **[build-game-monster-system](https://www.skills.sh/mengto/skills/build-game-monster-system)**
-- **[write-like-meng-on-x](https://www.skills.sh/mengto/skills/write-like-meng-on-x)**
-- **[build-game-map-editor](https://www.skills.sh/mengto/skills/build-game-map-editor)**
-- **[pointer-trail-emitter](https://www.skills.sh/mengto/skills/pointer-trail-emitter)**
-- **[falling-leaves](https://www.skills.sh/mengto/skills/falling-leaves)**
-- **[build-game-changelog](https://www.skills.sh/mengto/skills/build-game-changelog)**
-- **[build-vesperfall-review-assets](https://www.skills.sh/mengto/skills/build-vesperfall-review-assets)**
-- **[implement-fog-of-war](https://www.skills.sh/mengto/skills/implement-fog-of-war)**
-- **[threejs-landscape](https://www.skills.sh/mengto/skills/threejs-landscape)**
-- **[threejs-weather](https://www.skills.sh/mengto/skills/threejs-weather)**
-- **[build-rigged-game-assets](https://www.skills.sh/mengto/skills/build-rigged-game-assets)**
-- **[threejs-towers](https://www.skills.sh/mengto/skills/threejs-towers)**
-- **[add-mouse-driven-orbit](https://www.skills.sh/mengto/skills/add-mouse-driven-orbit)**
-- **[build-interactive-particle-trail](https://www.skills.sh/mengto/skills/build-interactive-particle-trail)**
-- **[web-technique-to-skill](https://www.skills.sh/mengto/skills/web-technique-to-skill)**
-- **[build-wireframe-scan-reveal](https://www.skills.sh/mengto/skills/build-wireframe-scan-reveal)**
-- **[publish-project-to-github](https://www.skills.sh/mengto/skills/publish-project-to-github)**
-- **[3d-virtual-tour](https://www.skills.sh/mengto/skills/3d-virtual-tour)**
-- **[3d-high-poly-models](https://www.skills.sh/mengto/skills/3d-high-poly-models)**
-- **[3d-high-resolution-textures](https://www.skills.sh/mengto/skills/3d-high-resolution-textures)**
-- **[3d-retina-resolution](https://www.skills.sh/mengto/skills/3d-retina-resolution)**
-- **[3d-sky-background](https://www.skills.sh/mengto/skills/3d-sky-background)**
-- **[3d-sky-rays](https://www.skills.sh/mengto/skills/3d-sky-rays)**
-- **[3d-four-seasons](https://www.skills.sh/mengto/skills/3d-four-seasons)**
-- **[3d-falling-leaves](https://www.skills.sh/mengto/skills/3d-falling-leaves)**
-- **[codex-gpt-image-2-5-flare](https://www.skills.sh/mengto/skills/codex-gpt-image-2-5-flare)**
-- **[3d-ultra-realistic-water](https://www.skills.sh/mengto/skills/3d-ultra-realistic-water)**
-- **[horizontal-scroll-scenes](https://www.skills.sh/mengto/skills/horizontal-scroll-scenes)**
-- **[workflow-score-to-target](https://www.skills.sh/mengto/skills/workflow-score-to-target)**
-- **[workflow-progress-screenshots](https://www.skills.sh/mengto/skills/workflow-progress-screenshots)**
-- **[paper-cinder-transition](https://www.skills.sh/mengto/skills/paper-cinder-transition)**
-- **[3d-orbit-inspect-demo](https://www.skills.sh/mengto/skills/3d-orbit-inspect-demo)**
-- **[fire-paper-loader](https://www.skills.sh/mengto/skills/fire-paper-loader)**
-- **[workflow-ship-change](https://www.skills.sh/mengto/skills/workflow-ship-change)**
-- **[3d-paper-material](https://www.skills.sh/mengto/skills/3d-paper-material)**
-- **[3d-wood-material](https://www.skills.sh/mengto/skills/3d-wood-material)**
-- **[workflow-threads-manager](https://www.skills.sh/mengto/skills/workflow-threads-manager)**
-- **[3d-cloth-material](https://www.skills.sh/mengto/skills/3d-cloth-material)**
-- **[3d-wood-lighting-scorecard](https://www.skills.sh/mengto/skills/3d-wood-lighting-scorecard)**
-- **[game-dev-combat-animation](https://www.skills.sh/mengto/skills/game-dev-combat-animation)**
-- **[game-dev-combat-skill-polish](https://www.skills.sh/mengto/skills/game-dev-combat-skill-polish)**
-- **[html-demo](https://www.skills.sh/mengto/skills/html-demo)**
-- **[3d-underwater-god-rays](https://www.skills.sh/mengto/skills/3d-underwater-god-rays)**
-- **[illustration-ink-sketch](https://www.skills.sh/mengto/skills/illustration-ink-sketch)**
-- **[illustration-halftone-line](https://www.skills.sh/mengto/skills/illustration-halftone-line)**
-- **[illustration-one-line](https://www.skills.sh/mengto/skills/illustration-one-line)**
-- **[illustration-grainy-gouache](https://www.skills.sh/mengto/skills/illustration-grainy-gouache)**
-- **[illustration-line-interior](https://www.skills.sh/mengto/skills/illustration-line-interior)**
-- **[illustration-framed-panel](https://www.skills.sh/mengto/skills/illustration-framed-panel)**
-- **[html-reel](https://www.skills.sh/mengto/skills/html-reel)**
-- **[customer-support-verification](https://www.skills.sh/mengto/skills/customer-support-verification)**
-- **[customer-email-draft-threads](https://www.skills.sh/mengto/skills/customer-email-draft-threads)**
-- **[html-explainer-video](https://www.skills.sh/mengto/skills/html-explainer-video)**
-- **[create-ai-avatar](https://www.skills.sh/mengto/skills/create-ai-avatar)**
-- **[url-to-motion-design](https://www.skills.sh/mengto/skills/url-to-motion-design)**
-- **[design-taste-frontend](https://www.skills.sh/mengto/skills/design-taste-frontend)**
-- **[high-end-visual-design](https://www.skills.sh/mengto/skills/high-end-visual-design)**
-- **[frontend-design](https://www.skills.sh/mengto/skills/frontend-design)**
-- **[redesign-existing-projects](https://www.skills.sh/mengto/skills/redesign-existing-projects)**
-- **[gpt-taste](https://www.skills.sh/mengto/skills/gpt-taste)**
-- **[copywriting](https://www.skills.sh/mengto/skills/copywriting)**
-- **[seo-audit](https://www.skills.sh/mengto/skills/seo-audit)**
-- **[full-output-enforcement](https://www.skills.sh/mengto/skills/full-output-enforcement)**
-- **[image-to-code](https://www.skills.sh/mengto/skills/image-to-code)**
-- **[minimalist-ui](https://www.skills.sh/mengto/skills/minimalist-ui)**
-- **[swiftui-pro](https://www.skills.sh/mengto/skills/swiftui-pro)**
-- **[screenshot](https://www.skills.sh/mengto/skills/screenshot)**
-- **[stitch-design-taste](https://www.skills.sh/mengto/skills/stitch-design-taste)**
-- **[industrial-brutalist-ui](https://www.skills.sh/mengto/skills/industrial-brutalist-ui)**
-- **[swiftui-debugging](https://www.skills.sh/mengto/skills/swiftui-debugging)**
-- **[netlify-deploy](https://www.skills.sh/mengto/skills/netlify-deploy)**
-- **[playwright-interactive](https://www.skills.sh/mengto/skills/playwright-interactive)**
-- **[playwright](https://www.skills.sh/mengto/skills/playwright)**
-- **[pdf](https://www.skills.sh/mengto/skills/pdf)**
-- **[digital-twin](https://www.skills.sh/mengto/skills/digital-twin)**
-- **[handle-saas-billing-cases](https://www.skills.sh/mengto/skills/handle-saas-billing-cases)**
-- **[handle-saas-account-cases](https://www.skills.sh/mengto/skills/handle-saas-account-cases)**
+- **[cinematic-gsap-lenis-motion-system](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/cinematic-gsap-lenis-motion-system/SKILL.md)**
+- **[threejs](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/threejs/SKILL.md)**
+- **[design-first-ui-prompting](https://github.com/mengto/skills/blob/HEAD/agent-skills/ui/design-first-ui-prompting/SKILL.md)**
+- **[optimize-web-animations](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/optimize-web-animations/SKILL.md)**
+- **[cobejs](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/cobejs/SKILL.md)**
+- **[tailwindcss](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/tailwindcss/SKILL.md)**
+- **[webgl-landing-steering](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/webgl-landing-steering/SKILL.md)**
+- **[video-to-superprompt](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/video-to-superprompt/SKILL.md)**
+- **[webgl-3d-object](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/webgl-3d-object/SKILL.md)**
+- **[build-threejs-scroll-worlds](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/build-threejs-scroll-worlds/SKILL.md)**
+- **[scroll-scrubbed-visual-sequence](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/scroll-scrubbed-visual-sequence/SKILL.md)**
+- **[staggered-word-reveal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/staggered-word-reveal/SKILL.md)**
+- **[unsplash-asset-images](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/unsplash-asset-images/SKILL.md)**
+- **[css-border-gradient](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/css-border-gradient/SKILL.md)**
+- **[matterjs](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/matterjs/SKILL.md)**
+- **[marquee-loop](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/marquee-loop/SKILL.md)**
+- **[company-logos](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/company-logos/SKILL.md)**
+- **[container-lines](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/container-lines/SKILL.md)**
+- **[css-alpha-masking](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/css-alpha-masking/SKILL.md)**
+- **[atmosphere-background](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/atmosphere-background/SKILL.md)**
+- **[stitched-full-page-capture](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/stitched-full-page-capture/SKILL.md)**
+- **[globe-gl](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/globe-gl/SKILL.md)**
+- **[vantajs](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/vantajs/SKILL.md)**
+- **[editorial-tech](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/editorial-tech/SKILL.md)**
+- **[agency-grid-layout-minimal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/agency-grid-layout-minimal/SKILL.md)**
+- **[background-grid-webgl](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/background-grid-webgl/SKILL.md)**
+- **[skeuomorphic-ui](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/skeuomorphic-ui/SKILL.md)**
+- **[unicorn-studio](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/unicorn-studio/SKILL.md)**
+- **[globe-particles](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/globe-particles/SKILL.md)**
+- **[dither-background](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/dither-background/SKILL.md)**
+- **[image-first-grid-layout](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/image-first-grid-layout/SKILL.md)**
+- **[html-to-interaction-prompts](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/html-to-interaction-prompts/SKILL.md)**
+- **[scroll-scrubbed-word-reveal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/scroll-scrubbed-word-reveal/SKILL.md)**
+- **[webgl-laser](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/webgl-laser/SKILL.md)**
+- **[audit-ai-design-slop](https://github.com/mengto/skills/blob/HEAD/agent-skills/ui/audit-ai-design-slop/SKILL.md)**
+- **[framed-grid-layout](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/framed-grid-layout/SKILL.md)**
+- **[dark-glass-clean-layout](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/dark-glass-clean-layout/SKILL.md)**
+- **[number-details](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/number-details/SKILL.md)**
+- **[mesh-gradient-dark-blue-clean](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/mesh-gradient-dark-blue-clean/SKILL.md)**
+- **[gooey-blob-system](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/gooey-blob-system/SKILL.md)**
+- **[clean-minimal-beige-light-mode](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/clean-minimal-beige-light-mode/SKILL.md)**
+- **[technical-wireframe-info-layout](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/technical-wireframe-info-layout/SKILL.md)**
+- **[reveal-hover-effect](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/reveal-hover-effect/SKILL.md)**
+- **[split-layout-technical](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/split-layout-technical/SKILL.md)**
+- **[corner-diagonals](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/corner-diagonals/SKILL.md)**
+- **[high-contrast-skeuomorphic-clean](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/high-contrast-skeuomorphic-clean/SKILL.md)**
+- **[book-serif-index](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/book-serif-index/SKILL.md)**
+- **[editorial-portfolio-chapters](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/editorial-portfolio-chapters/SKILL.md)**
+- **[light-mode-paper-technical](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/light-mode-paper-technical/SKILL.md)**
+- **[blue-laser-clean-glass-layout](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/blue-laser-clean-glass-layout/SKILL.md)**
+- **[scroll-progress-timeline](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/scroll-progress-timeline/SKILL.md)**
+- **[dither-laser-dark-mode](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/dither-laser-dark-mode/SKILL.md)**
+- **[ambient-section-particles](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/ambient-section-particles/SKILL.md)**
+- **[aura-asset-images](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/aura-asset-images/SKILL.md)**
+- **[nested-container-frames](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/nested-container-frames/SKILL.md)**
+- **[corner-lasers](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/corner-lasers/SKILL.md)**
+- **[blue-cloudy-clean-modern](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/blue-cloudy-clean-modern/SKILL.md)**
+- **[tech-green-dark-mode-modern](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/tech-green-dark-mode-modern/SKILL.md)**
+- **[glass-dark-mode-clock](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/glass-dark-mode-clock/SKILL.md)**
+- **[bright-green-tech-system-webgl](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/bright-green-tech-system-webgl/SKILL.md)**
+- **[dark-blue-contrasting-clean](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/dark-blue-contrasting-clean/SKILL.md)**
+- **[nested-container-clean-agency](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/nested-container-clean-agency/SKILL.md)**
+- **[create-game-vfx](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/create-game-vfx/SKILL.md)**
+- **[product-proof-saas](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/product-proof-saas/SKILL.md)**
+- **[solar-duotone-bold](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/solar-duotone-bold/SKILL.md)**
+- **[orange-clean-paper-saas](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/orange-clean-paper-saas/SKILL.md)**
+- **[framed-tech-dark-border-gradient](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/framed-tech-dark-border-gradient/SKILL.md)**
+- **[browser-video-recording](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/browser-video-recording/SKILL.md)**
+- **[daily-ui-inspiration-capture](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/daily-ui-inspiration-capture/SKILL.md)**
+- **[shaders-cursor-ripples](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/shaders-cursor-ripples/SKILL.md)**
+- **[funky-purple-container-tech](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/funky-purple-container-tech/SKILL.md)**
+- **[performance-profiling](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/performance-profiling/SKILL.md)**
+- **[add-shader-cursor-trail](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/add-shader-cursor-trail/SKILL.md)**
+- **[audit-verify-explain-grade-5](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/audit-verify-explain-grade-5/SKILL.md)**
+- **[elevenlabs-tts](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/elevenlabs-tts/SKILL.md)**
+- **[audit-reference-originality](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/audit-reference-originality/SKILL.md)**
+- **[editorial-service-booking](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/editorial-service-booking/SKILL.md)**
+- **[generate-reference-inspired-brand-worlds](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/generate-reference-inspired-brand-worlds/SKILL.md)**
+- **[build-game-audio-feedback](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-audio-feedback/SKILL.md)**
+- **[test-playable-web-games](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/test-playable-web-games/SKILL.md)**
+- **[operational-enterprise-ai](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/operational-enterprise-ai/SKILL.md)**
+- **[thinking-orbs](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/thinking-orbs/SKILL.md)**
+- **[documentary-brutalist-agency](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/documentary-brutalist-agency/SKILL.md)**
+- **[optimize-threejs-games](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/optimize-threejs-games/SKILL.md)**
+- **[beam-glow-states](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/beam-glow-states/SKILL.md)**
+- **[liquid-metal-border](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/liquid-metal-border/SKILL.md)**
+- **[x-bookmark-quote-posts](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/x-bookmark-quote-posts/SKILL.md)**
+- **[build-mobile-threejs-games](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-mobile-threejs-games/SKILL.md)**
+- **[design-game-encounters](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/design-game-encounters/SKILL.md)**
+- **[design-action-combat](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/design-action-combat/SKILL.md)**
+- **[build-game-camera-controls](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-camera-controls/SKILL.md)**
+- **[build-isometric-arpg](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-isometric-arpg/SKILL.md)**
+- **[iterate-until-verified](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/iterate-until-verified/SKILL.md)**
+- **[author-game-levels](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/author-game-levels/SKILL.md)**
+- **[article-prompts-to-skills](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/article-prompts-to-skills/SKILL.md)**
+- **[build-hybrid-game-assets](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-hybrid-game-assets/SKILL.md)**
+- **[ship-web-games](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/ship-web-games/SKILL.md)**
+- **[tune-enemy-ai](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/tune-enemy-ai/SKILL.md)**
+- **[build-game-inventory](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-inventory/SKILL.md)**
+- **[build-threejs-enemy-systems](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-threejs-enemy-systems/SKILL.md)**
+- **[build-daily-inspiration-sites](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/build-daily-inspiration-sites/SKILL.md)**
+- **[build-game-monster-system](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-monster-system/SKILL.md)**
+- **[write-like-meng-on-x](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/write-like-meng-on-x/SKILL.md)**
+- **[build-game-map-editor](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-map-editor/SKILL.md)**
+- **[pointer-trail-emitter](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/pointer-trail-emitter/SKILL.md)**
+- **[falling-leaves](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/falling-leaves/SKILL.md)**
+- **[build-game-changelog](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-game-changelog/SKILL.md)**
+- **[build-vesperfall-review-assets](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-vesperfall-review-assets/SKILL.md)**
+- **[implement-fog-of-war](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/implement-fog-of-war/SKILL.md)**
+- **[threejs-landscape](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/threejs-landscape/SKILL.md)**
+- **[threejs-weather](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/threejs-weather/SKILL.md)**
+- **[build-rigged-game-assets](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-development/build-rigged-game-assets/SKILL.md)**
+- **[threejs-towers](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/threejs-towers/SKILL.md)**
+- **[add-mouse-driven-orbit](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/add-mouse-driven-orbit/SKILL.md)**
+- **[build-interactive-particle-trail](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/build-interactive-particle-trail/SKILL.md)**
+- **[web-technique-to-skill](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/web-technique-to-skill/SKILL.md)**
+- **[build-wireframe-scan-reveal](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/build-wireframe-scan-reveal/SKILL.md)**
+- **[publish-project-to-github](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/publish-project-to-github/SKILL.md)**
+- **[3d-virtual-tour](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-virtual-tour/SKILL.md)**
+- **[3d-high-poly-models](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-high-poly-models/SKILL.md)**
+- **[3d-high-resolution-textures](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-high-resolution-textures/SKILL.md)**
+- **[3d-retina-resolution](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-retina-resolution/SKILL.md)**
+- **[3d-sky-background](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-sky-background/SKILL.md)**
+- **[3d-sky-rays](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-sky-rays/SKILL.md)**
+- **[3d-four-seasons](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-four-seasons/SKILL.md)**
+- **[3d-falling-leaves](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-falling-leaves/SKILL.md)**
+- **[codex-gpt-image-2-5-flare](https://github.com/mengto/skills/blob/HEAD/agent-skills/codex/codex-gpt-image-2-5-flare/SKILL.md)**
+- **[3d-ultra-realistic-water](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-ultra-realistic-water/SKILL.md)**
+- **[horizontal-scroll-scenes](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/horizontal-scroll-scenes/SKILL.md)**
+- **[workflow-score-to-target](https://github.com/mengto/skills/blob/HEAD/agent-skills/workflow/workflow-score-to-target/SKILL.md)**
+- **[workflow-progress-screenshots](https://github.com/mengto/skills/blob/HEAD/agent-skills/workflow/workflow-progress-screenshots/SKILL.md)**
+- **[paper-cinder-transition](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/paper-cinder-transition/SKILL.md)**
+- **[3d-orbit-inspect-demo](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-orbit-inspect-demo/SKILL.md)**
+- **[fire-paper-loader](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/fire-paper-loader/SKILL.md)**
+- **[workflow-ship-change](https://github.com/mengto/skills/blob/HEAD/agent-skills/workflow/workflow-ship-change/SKILL.md)**
+- **[3d-paper-material](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-paper-material/SKILL.md)**
+- **[3d-wood-material](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-wood-material/SKILL.md)**
+- **[workflow-threads-manager](https://github.com/mengto/skills/blob/HEAD/agent-skills/workflow/workflow-threads-manager/SKILL.md)**
+- **[3d-cloth-material](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-cloth-material/SKILL.md)**
+- **[3d-wood-lighting-scorecard](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-wood-lighting-scorecard/SKILL.md)**
+- **[game-dev-combat-animation](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-combat/game-dev-combat-animation/SKILL.md)**
+- **[game-dev-combat-skill-polish](https://github.com/mengto/skills/blob/HEAD/agent-skills/game-combat/game-dev-combat-skill-polish/SKILL.md)**
+- **[html-demo](https://github.com/mengto/skills/blob/HEAD/agent-skills/web-design/html-demo/SKILL.md)**
+- **[3d-underwater-god-rays](https://github.com/mengto/skills/blob/HEAD/agent-skills/3d/3d-underwater-god-rays/SKILL.md)**
+- **[illustration-ink-sketch](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-ink-sketch/SKILL.md)**
+- **[illustration-halftone-line](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-halftone-line/SKILL.md)**
+- **[illustration-one-line](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-one-line/SKILL.md)**
+- **[illustration-grainy-gouache](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-grainy-gouache/SKILL.md)**
+- **[illustration-line-interior](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-line-interior/SKILL.md)**
+- **[illustration-framed-panel](https://github.com/mengto/skills/blob/HEAD/agent-skills/illustration/illustration-framed-panel/SKILL.md)**
+- **[html-reel](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/html-reel/SKILL.md)**
+- **[customer-support-verification · repository entry](https://github.com/mengto/skills)**
+- **[customer-email-draft-threads · repository entry](https://github.com/mengto/skills)**
+- **[html-explainer-video](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/html-explainer-video/SKILL.md)**
+- **[create-ai-avatar](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/create-ai-avatar/SKILL.md)**
+- **[url-to-motion-design](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/url-to-motion-design/SKILL.md)**
+- **[design-taste-frontend · repository entry](https://github.com/mengto/skills)**
+- **[high-end-visual-design · repository entry](https://github.com/mengto/skills)**
+- **[frontend-design · repository entry](https://github.com/mengto/skills)**
+- **[redesign-existing-projects · repository entry](https://github.com/mengto/skills)**
+- **[gpt-taste · repository entry](https://github.com/mengto/skills)**
+- **[copywriting · repository entry](https://github.com/mengto/skills)**
+- **[seo-audit · repository entry](https://github.com/mengto/skills)**
+- **[full-output-enforcement · repository entry](https://github.com/mengto/skills)**
+- **[image-to-code · repository entry](https://github.com/mengto/skills)**
+- **[minimalist-ui · repository entry](https://github.com/mengto/skills)**
+- **[swiftui-pro · repository entry](https://github.com/mengto/skills)**
+- **[screenshot · repository entry](https://github.com/mengto/skills)**
+- **[stitch-design-taste · repository entry](https://github.com/mengto/skills)**
+- **[industrial-brutalist-ui · repository entry](https://github.com/mengto/skills)**
+- **[swiftui-debugging · repository entry](https://github.com/mengto/skills)**
+- **[netlify-deploy · repository entry](https://github.com/mengto/skills)**
+- **[playwright-interactive · repository entry](https://github.com/mengto/skills)**
+- **[playwright · repository entry](https://github.com/mengto/skills)**
+- **[pdf · repository entry](https://github.com/mengto/skills)**
+- **[digital-twin](https://github.com/mengto/skills/blob/HEAD/agent-skills/media/digital-twin/SKILL.md)**
+- **[handle-saas-billing-cases · repository entry](https://github.com/mengto/skills)**
+- **[handle-saas-account-cases · repository entry](https://github.com/mengto/skills)**
 
 <a id="full-design-owl-listenerdesigner-skills--65"></a>
 #### owl-listener/designer-skills · 65
 
-- **[presentation-deck](https://www.skills.sh/owl-listener/designer-skills/presentation-deck)**
-- **[illustration-style](https://www.skills.sh/owl-listener/designer-skills/illustration-style)**
-- **[data-visualization](https://www.skills.sh/owl-listener/designer-skills/data-visualization)**
-- **[animation-principles](https://www.skills.sh/owl-listener/designer-skills/animation-principles)**
-- **[case-study](https://www.skills.sh/owl-listener/designer-skills/case-study)**
-- **[accessibility-audit](https://www.skills.sh/owl-listener/designer-skills/accessibility-audit)**
-- **[ux-writing](https://www.skills.sh/owl-listener/designer-skills/ux-writing)**
-- **[design-principles](https://www.skills.sh/owl-listener/designer-skills/design-principles)**
-- **[competitive-analysis](https://www.skills.sh/owl-listener/designer-skills/competitive-analysis)**
-- **[design-brief](https://www.skills.sh/owl-listener/designer-skills/design-brief)**
-- **[prototype-strategy](https://www.skills.sh/owl-listener/designer-skills/prototype-strategy)**
-- **[critique-visual-hierarchy](https://www.skills.sh/owl-listener/designer-skills/critique-visual-hierarchy)**
-- **[user-persona](https://www.skills.sh/owl-listener/designer-skills/user-persona)**
-- **[gesture-patterns](https://www.skills.sh/owl-listener/designer-skills/gesture-patterns)**
-- **[jobs-to-be-done](https://www.skills.sh/owl-listener/designer-skills/jobs-to-be-done)**
-- **[experience-map](https://www.skills.sh/owl-listener/designer-skills/experience-map)**
-- **[empathy-map](https://www.skills.sh/owl-listener/designer-skills/empathy-map)**
-- **[documentation-template](https://www.skills.sh/owl-listener/designer-skills/documentation-template)**
-- **[affinity-diagram](https://www.skills.sh/owl-listener/designer-skills/affinity-diagram)**
-- **[design-rationale](https://www.skills.sh/owl-listener/designer-skills/design-rationale)**
-- **[diary-study-plan](https://www.skills.sh/owl-listener/designer-skills/diary-study-plan)**
-- **[stakeholder-alignment](https://www.skills.sh/owl-listener/designer-skills/stakeholder-alignment)**
-- **[test-scenario](https://www.skills.sh/owl-listener/designer-skills/test-scenario)**
-- **[design-review-process](https://www.skills.sh/owl-listener/designer-skills/design-review-process)**
-- **[opportunity-framework](https://www.skills.sh/owl-listener/designer-skills/opportunity-framework)**
-- **[team-workflow](https://www.skills.sh/owl-listener/designer-skills/team-workflow)**
-- **[design-sprint-plan](https://www.skills.sh/owl-listener/designer-skills/design-sprint-plan)**
-- **[click-test-plan](https://www.skills.sh/owl-listener/designer-skills/click-test-plan)**
-- **[critique-composition](https://www.skills.sh/owl-listener/designer-skills/critique-composition)**
-- **[version-control-strategy](https://www.skills.sh/owl-listener/designer-skills/version-control-strategy)**
-- **[aesthetic-usability](https://www.skills.sh/owl-listener/designer-skills/aesthetic-usability)**
-- **[motion-system](https://www.skills.sh/owl-listener/designer-skills/motion-system)**
-- **[critique-brand-consistency](https://www.skills.sh/owl-listener/designer-skills/critique-brand-consistency)**
-- **[law-of-proximity](https://www.skills.sh/owl-listener/designer-skills/law-of-proximity)**
-- **[localization-design](https://www.skills.sh/owl-listener/designer-skills/localization-design)**
-- **[survey-design](https://www.skills.sh/owl-listener/designer-skills/survey-design)**
-- **[law-of-common-region](https://www.skills.sh/owl-listener/designer-skills/law-of-common-region)**
-- **[critique-information-density](https://www.skills.sh/owl-listener/designer-skills/critique-information-density)**
-- **[fitts-law](https://www.skills.sh/owl-listener/designer-skills/fitts-law)**
-- **[hicks-law](https://www.skills.sh/owl-listener/designer-skills/hicks-law)**
-- **[von-restorff-effect](https://www.skills.sh/owl-listener/designer-skills/von-restorff-effect)**
-- **[design-debt-audit](https://www.skills.sh/owl-listener/designer-skills/design-debt-audit)**
-- **[millers-law](https://www.skills.sh/owl-listener/designer-skills/millers-law)**
-- **[content-strategy](https://www.skills.sh/owl-listener/designer-skills/content-strategy)**
-- **[doherty-threshold](https://www.skills.sh/owl-listener/designer-skills/doherty-threshold)**
-- **[research-repository](https://www.skills.sh/owl-listener/designer-skills/research-repository)**
-- **[design-negotiation](https://www.skills.sh/owl-listener/designer-skills/design-negotiation)**
-- **[critique-affordance](https://www.skills.sh/owl-listener/designer-skills/critique-affordance)**
-- **[interfaces-that-feel](https://www.skills.sh/owl-listener/designer-skills/interfaces-that-feel)**
-- **[business-design](https://www.skills.sh/owl-listener/designer-skills/business-design)**
-- **[law-of-similarity](https://www.skills.sh/owl-listener/designer-skills/law-of-similarity)**
-- **[law-of-figure-ground](https://www.skills.sh/owl-listener/designer-skills/law-of-figure-ground)**
-- **[conversational-ux](https://www.skills.sh/owl-listener/designer-skills/conversational-ux)**
-- **[law-of-closure](https://www.skills.sh/owl-listener/designer-skills/law-of-closure)**
-- **[law-of-continuity](https://www.skills.sh/owl-listener/designer-skills/law-of-continuity)**
-- **[platform-conventions](https://www.skills.sh/owl-listener/designer-skills/platform-conventions)**
-- **[jakobs-law](https://www.skills.sh/owl-listener/designer-skills/jakobs-law)**
-- **[peak-end-rule](https://www.skills.sh/owl-listener/designer-skills/peak-end-rule)**
-- **[zeigarnik-effect](https://www.skills.sh/owl-listener/designer-skills/zeigarnik-effect)**
-- **[teslers-law](https://www.skills.sh/owl-listener/designer-skills/teslers-law)**
-- **[serial-position-effect](https://www.skills.sh/owl-listener/designer-skills/serial-position-effect)**
-- **[parallel-concepts](https://www.skills.sh/owl-listener/designer-skills/parallel-concepts)**
-- **[concept-selection](https://www.skills.sh/owl-listener/designer-skills/concept-selection)**
-- **[behavioural-analytics](https://www.skills.sh/owl-listener/designer-skills/behavioural-analytics)**
-- **[qual-quant-triangulation](https://www.skills.sh/owl-listener/designer-skills/qual-quant-triangulation)**
+- **[presentation-deck](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/presentation-deck/SKILL.md)**
+- **[illustration-style](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/illustration-style/SKILL.md)**
+- **[data-visualization](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/data-visualization/SKILL.md)**
+- **[animation-principles](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/animation-principles/SKILL.md)**
+- **[case-study](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/case-study/SKILL.md)**
+- **[accessibility-audit](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/accessibility-audit/SKILL.md)**
+- **[ux-writing](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/ux-writing/SKILL.md)**
+- **[design-principles](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/design-principles/SKILL.md)**
+- **[competitive-analysis](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/competitive-analysis/SKILL.md)**
+- **[design-brief](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/design-brief/SKILL.md)**
+- **[prototype-strategy](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/prototype-strategy/SKILL.md)**
+- **[critique-visual-hierarchy](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-visual-hierarchy/SKILL.md)**
+- **[user-persona](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/user-persona/SKILL.md)**
+- **[gesture-patterns](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/gesture-patterns/SKILL.md)**
+- **[jobs-to-be-done](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/jobs-to-be-done/SKILL.md)**
+- **[experience-map](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/experience-map/SKILL.md)**
+- **[empathy-map](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/empathy-map/SKILL.md)**
+- **[documentation-template](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/documentation-template/SKILL.md)**
+- **[affinity-diagram](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/affinity-diagram/SKILL.md)**
+- **[design-rationale](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-rationale/SKILL.md)**
+- **[diary-study-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/diary-study-plan/SKILL.md)**
+- **[stakeholder-alignment](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/stakeholder-alignment/SKILL.md)**
+- **[test-scenario](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/test-scenario/SKILL.md)**
+- **[design-review-process](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-review-process/SKILL.md)**
+- **[opportunity-framework](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/opportunity-framework/SKILL.md)**
+- **[team-workflow](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/team-workflow/SKILL.md)**
+- **[design-sprint-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-sprint-plan/SKILL.md)**
+- **[click-test-plan](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/click-test-plan/SKILL.md)**
+- **[critique-composition](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-composition/SKILL.md)**
+- **[version-control-strategy](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/version-control-strategy/SKILL.md)**
+- **[aesthetic-usability](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/aesthetic-usability/SKILL.md)**
+- **[motion-system](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/motion-system/SKILL.md)**
+- **[critique-brand-consistency](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-brand-consistency/SKILL.md)**
+- **[law-of-proximity](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-proximity/SKILL.md)**
+- **[localization-design](https://github.com/owl-listener/designer-skills/blob/HEAD/design-systems/skills/localization-design/SKILL.md)**
+- **[survey-design](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/survey-design/SKILL.md)**
+- **[law-of-common-region](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-common-region/SKILL.md)**
+- **[critique-information-density](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-information-density/SKILL.md)**
+- **[fitts-law](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/fitts-law/SKILL.md)**
+- **[hicks-law](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/hicks-law/SKILL.md)**
+- **[von-restorff-effect](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/von-restorff-effect/SKILL.md)**
+- **[design-debt-audit](https://github.com/owl-listener/designer-skills/blob/HEAD/design-ops/skills/design-debt-audit/SKILL.md)**
+- **[millers-law](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/millers-law/SKILL.md)**
+- **[content-strategy](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/content-strategy/SKILL.md)**
+- **[doherty-threshold](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/doherty-threshold/SKILL.md)**
+- **[research-repository](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/research-repository/SKILL.md)**
+- **[design-negotiation](https://github.com/owl-listener/designer-skills/blob/HEAD/designer-toolkit/skills/design-negotiation/SKILL.md)**
+- **[critique-affordance](https://github.com/owl-listener/designer-skills/blob/HEAD/visual-critique/skills/critique-affordance/SKILL.md)**
+- **[interfaces-that-feel](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/interfaces-that-feel/SKILL.md)**
+- **[business-design](https://github.com/owl-listener/designer-skills/blob/HEAD/ux-strategy/skills/business-design/SKILL.md)**
+- **[law-of-similarity](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-similarity/SKILL.md)**
+- **[law-of-figure-ground](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-figure-ground/SKILL.md)**
+- **[conversational-ux](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/conversational-ux/SKILL.md)**
+- **[law-of-closure](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-closure/SKILL.md)**
+- **[law-of-continuity](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/law-of-continuity/SKILL.md)**
+- **[platform-conventions](https://github.com/owl-listener/designer-skills/blob/HEAD/ui-design/skills/platform-conventions/SKILL.md)**
+- **[jakobs-law](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/jakobs-law/SKILL.md)**
+- **[peak-end-rule](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/peak-end-rule/SKILL.md)**
+- **[zeigarnik-effect](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/zeigarnik-effect/SKILL.md)**
+- **[teslers-law](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/teslers-law/SKILL.md)**
+- **[serial-position-effect](https://github.com/owl-listener/designer-skills/blob/HEAD/interaction-design/skills/serial-position-effect/SKILL.md)**
+- **[parallel-concepts](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/parallel-concepts/SKILL.md)**
+- **[concept-selection](https://github.com/owl-listener/designer-skills/blob/HEAD/prototyping-testing/skills/concept-selection/SKILL.md)**
+- **[behavioural-analytics](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/behavioural-analytics/SKILL.md)**
+- **[qual-quant-triangulation](https://github.com/owl-listener/designer-skills/blob/HEAD/design-research/skills/qual-quant-triangulation/SKILL.md)**
 
 <a id="full-design-bergsideawesome-design-skills--64"></a>
 #### bergside/awesome-design-skills · 64
 
-- **[clean](https://www.skills.sh/bergside/awesome-design-skills/clean)**
-- **[refined](https://www.skills.sh/bergside/awesome-design-skills/refined)**
-- **[neumorphism](https://www.skills.sh/bergside/awesome-design-skills/neumorphism)**
-- **[modern](https://www.skills.sh/bergside/awesome-design-skills/modern)**
-- **[claymorphism](https://www.skills.sh/bergside/awesome-design-skills/claymorphism)**
-- **[sleek](https://www.skills.sh/bergside/awesome-design-skills/sleek)**
-- **[contemporary](https://www.skills.sh/bergside/awesome-design-skills/contemporary)**
-- **[corporate](https://www.skills.sh/bergside/awesome-design-skills/corporate)**
-- **[material](https://www.skills.sh/bergside/awesome-design-skills/material)**
-- **[futuristic](https://www.skills.sh/bergside/awesome-design-skills/futuristic)**
-- **[brutalism](https://www.skills.sh/bergside/awesome-design-skills/brutalism)**
-- **[paper](https://www.skills.sh/bergside/awesome-design-skills/paper)**
-- **[spacious](https://www.skills.sh/bergside/awesome-design-skills/spacious)**
-- **[doodle](https://www.skills.sh/bergside/awesome-design-skills/doodle)**
-- **[creative](https://www.skills.sh/bergside/awesome-design-skills/creative)**
-- **[gradient](https://www.skills.sh/bergside/awesome-design-skills/gradient)**
-- **[friendly](https://www.skills.sh/bergside/awesome-design-skills/friendly)**
-- **[artistic](https://www.skills.sh/bergside/awesome-design-skills/artistic)**
-- **[colorful](https://www.skills.sh/bergside/awesome-design-skills/colorful)**
-- **[bold](https://www.skills.sh/bergside/awesome-design-skills/bold)**
-- **[cosmic](https://www.skills.sh/bergside/awesome-design-skills/cosmic)**
-- **[ant](https://www.skills.sh/bergside/awesome-design-skills/ant)**
-- **[agentic](https://www.skills.sh/bergside/awesome-design-skills/agentic)**
-- **[flat](https://www.skills.sh/bergside/awesome-design-skills/flat)**
-- **[cafe](https://www.skills.sh/bergside/awesome-design-skills/cafe)**
-- **[vintage](https://www.skills.sh/bergside/awesome-design-skills/vintage)**
-- **[dramatic](https://www.skills.sh/bergside/awesome-design-skills/dramatic)**
-- **[dithered](https://www.skills.sh/bergside/awesome-design-skills/dithered)**
-- **[vibrant](https://www.skills.sh/bergside/awesome-design-skills/vibrant)**
-- **[mono](https://www.skills.sh/bergside/awesome-design-skills/mono)**
-- **[fantasy](https://www.skills.sh/bergside/awesome-design-skills/fantasy)**
-- **[neon](https://www.skills.sh/bergside/awesome-design-skills/neon)**
-- **[levels](https://www.skills.sh/bergside/awesome-design-skills/levels)**
-- **[retro](https://www.skills.sh/bergside/awesome-design-skills/retro)**
-- **[expressive](https://www.skills.sh/bergside/awesome-design-skills/expressive)**
-- **[skeumorphism](https://www.skills.sh/bergside/awesome-design-skills/skeumorphism)**
-- **[perspective](https://www.skills.sh/bergside/awesome-design-skills/perspective)**
-- **[immersive](https://www.skills.sh/bergside/awesome-design-skills/immersive)**
-- **[lingo](https://www.skills.sh/bergside/awesome-design-skills/lingo)**
-- **[claude](https://www.skills.sh/bergside/awesome-design-skills/claude)**
-- **[pacman](https://www.skills.sh/bergside/awesome-design-skills/pacman)**
-- **[tetris](https://www.skills.sh/bergside/awesome-design-skills/tetris)**
-- **[sketch](https://www.skills.sh/bergside/awesome-design-skills/sketch)**
-- **[codex](https://www.skills.sh/bergside/awesome-design-skills/codex)**
-- **[impeccable](https://www.skills.sh/bergside/awesome-design-skills/impeccable)**
-- **[terracotta](https://www.skills.sh/bergside/awesome-design-skills/terracotta)**
-- **[fiction](https://www.skills.sh/bergside/awesome-design-skills/fiction)**
-- **[riso](https://www.skills.sh/bergside/awesome-design-skills/riso)**
-- **[matrix](https://www.skills.sh/bergside/awesome-design-skills/matrix)**
-- **[sega](https://www.skills.sh/bergside/awesome-design-skills/sega)**
-- **[stitch](https://www.skills.sh/bergside/awesome-design-skills/stitch)**
-- **[geometric](https://www.skills.sh/bergside/awesome-design-skills/geometric)**
-- **[basic](https://www.skills.sh/bergside/awesome-design-skills/basic)**
-- **[power](https://www.skills.sh/bergside/awesome-design-skills/power)**
-- **[roku](https://www.skills.sh/bergside/awesome-design-skills/roku)**
-- **[pulse](https://www.skills.sh/bergside/awesome-design-skills/pulse)**
-- **[square](https://www.skills.sh/bergside/awesome-design-skills/square)**
-- **[dashboard](https://www.skills.sh/bergside/awesome-design-skills/dashboard)**
-- **[luxury](https://www.skills.sh/bergside/awesome-design-skills/luxury)**
-- **[elegant](https://www.skills.sh/bergside/awesome-design-skills/elegant)**
-- **[publication](https://www.skills.sh/bergside/awesome-design-skills/publication)**
-- **[application](https://www.skills.sh/bergside/awesome-design-skills/application)**
-- **[energetic](https://www.skills.sh/bergside/awesome-design-skills/energetic)**
-- **[simple](https://www.skills.sh/bergside/awesome-design-skills/simple)**
+- **[clean](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/clean/SKILL.md)**
+- **[refined](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/refined/SKILL.md)**
+- **[neumorphism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/neumorphism/SKILL.md)**
+- **[modern](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/modern/SKILL.md)**
+- **[claymorphism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/claymorphism/SKILL.md)**
+- **[sleek](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/sleek/SKILL.md)**
+- **[contemporary](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/contemporary/SKILL.md)**
+- **[corporate](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/corporate/SKILL.md)**
+- **[material](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/material/SKILL.md)**
+- **[futuristic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/futuristic/SKILL.md)**
+- **[brutalism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/brutalism/SKILL.md)**
+- **[paper](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/paper/SKILL.md)**
+- **[spacious](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/spacious/SKILL.md)**
+- **[doodle](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/doodle/SKILL.md)**
+- **[creative](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/creative/SKILL.md)**
+- **[gradient](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/gradient/SKILL.md)**
+- **[friendly](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/friendly/SKILL.md)**
+- **[artistic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/artistic/SKILL.md)**
+- **[colorful](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/colorful/SKILL.md)**
+- **[bold](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/bold/SKILL.md)**
+- **[cosmic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/cosmic/SKILL.md)**
+- **[ant](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/ant/SKILL.md)**
+- **[agentic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/agentic/SKILL.md)**
+- **[flat](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/flat/SKILL.md)**
+- **[cafe](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/cafe/SKILL.md)**
+- **[vintage](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/vintage/SKILL.md)**
+- **[dramatic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/dramatic/SKILL.md)**
+- **[dithered](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/dithered/SKILL.md)**
+- **[vibrant](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/vibrant/SKILL.md)**
+- **[mono](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/mono/SKILL.md)**
+- **[fantasy](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/fantasy/SKILL.md)**
+- **[neon](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/neon/SKILL.md)**
+- **[levels](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/levels/SKILL.md)**
+- **[retro](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/retro/SKILL.md)**
+- **[expressive](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/expressive/SKILL.md)**
+- **[skeumorphism](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/skeumorphism/SKILL.md)**
+- **[perspective](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/perspective/SKILL.md)**
+- **[immersive](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/immersive/SKILL.md)**
+- **[lingo](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/lingo/SKILL.md)**
+- **[claude](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/claude/SKILL.md)**
+- **[pacman](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/pacman/SKILL.md)**
+- **[tetris](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/tetris/SKILL.md)**
+- **[sketch](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/sketch/SKILL.md)**
+- **[codex](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/codex/SKILL.md)**
+- **[impeccable](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/impeccable/SKILL.md)**
+- **[terracotta](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/terracotta/SKILL.md)**
+- **[fiction](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/fiction/SKILL.md)**
+- **[riso](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/riso/SKILL.md)**
+- **[matrix](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/matrix/SKILL.md)**
+- **[sega](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/sega/SKILL.md)**
+- **[stitch](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/stitch/SKILL.md)**
+- **[geometric](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/geometric/SKILL.md)**
+- **[basic](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/basic/SKILL.md)**
+- **[power](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/power/SKILL.md)**
+- **[roku](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/roku/SKILL.md)**
+- **[pulse](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/pulse/SKILL.md)**
+- **[square](https://github.com/bergside/awesome-design-skills/blob/HEAD/skills/square/SKILL.md)**
+- **[dashboard · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[luxury · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[elegant · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[publication · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[application · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[energetic · repository entry](https://github.com/bergside/awesome-design-skills)**
+- **[simple · repository entry](https://github.com/bergside/awesome-design-skills)**
 
 [Back to contents](#contents)
 
@@ -3494,474 +3486,471 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 <a id="full-product-bmad-code-orgbmad-method--79"></a>
 #### bmad-code-org/bmad-method · 79
 
-- **[bmad-build](https://www.skills.sh/bmad-code-org/bmad-method/bmad-build)**
-- **[bmad-agent-pm](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-pm)**
-- **[bmad-agent-analyst](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-analyst)**
-- **[bmad-agent-ux-designer](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-ux-designer)**
-- **[bmad-ux](https://www.skills.sh/bmad-code-org/bmad-method/bmad-ux)**
-- **[bmad-advanced-elicitation](https://www.skills.sh/bmad-code-org/bmad-method/bmad-advanced-elicitation)**
-- **[bmad-build-auto](https://www.skills.sh/bmad-code-org/bmad-method/bmad-build-auto)**
-- **[bmad-party-mode](https://www.skills.sh/bmad-code-org/bmad-method/bmad-party-mode)**
-- **[bmad-project-context](https://www.skills.sh/bmad-code-org/bmad-method/bmad-project-context)**
-- **[bmad-deep-recon](https://www.skills.sh/bmad-code-org/bmad-method/bmad-deep-recon)**
-- **[bmad-forge-idea](https://www.skills.sh/bmad-code-org/bmad-method/bmad-forge-idea)**
-- **[bmad-customize](https://www.skills.sh/bmad-code-org/bmad-method/bmad-customize)**
-- **[bmad-walkthrough](https://www.skills.sh/bmad-code-org/bmad-method/bmad-walkthrough)**
-- **[bmod-core-tools](https://www.skills.sh/bmad-code-org/bmad-method/bmod-core-tools)**
-- **[bmod-method](https://www.skills.sh/bmad-code-org/bmad-method/bmod-method)**
-- **[bmad-retrospective](https://www.skills.sh/bmad-code-org/bmad-method/bmad-retrospective)**
-- **[bmad-correct-course](https://www.skills.sh/bmad-code-org/bmad-method/bmad-correct-course)**
-- **[bmad-eval](https://www.skills.sh/bmad-code-org/bmad-method/bmad-eval)**
-- **[bmad-toolsmith](https://www.skills.sh/bmad-code-org/bmad-method/bmad-toolsmith)**
-- **[bmod-toolsmith](https://www.skills.sh/bmad-code-org/bmad-method/bmod-toolsmith)**
-- **[bmad-ticket](https://www.skills.sh/bmad-code-org/bmad-method/bmad-ticket)**
-- **[bmad-agent-po](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-po)**
-- **[bmad-create-epics-and-stories](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-epics-and-stories)**
-- **[bmad-sprint-planning](https://www.skills.sh/bmad-code-org/bmad-method/bmad-sprint-planning)**
-- **[bmad-ingest](https://www.skills.sh/bmad-code-org/bmad-method/bmad-ingest)**
-- **[bmad-shard-pro](https://www.skills.sh/bmad-code-org/bmad-method/bmad-shard-pro)**
-- **[bmad-preview-ticketing](https://www.skills.sh/bmad-code-org/bmad-method/bmad-preview-ticketing)**
-- **[bmad-facilitate](https://www.skills.sh/bmad-code-org/bmad-method/bmad-facilitate)**
-- **[bmod-founder](https://www.skills.sh/bmad-code-org/bmad-method/bmod-founder)**
-- **[bmad-help](https://www.skills.sh/bmad-code-org/bmad-method/bmad-help)**
-- **[bmad-generate-project-context](https://www.skills.sh/bmad-code-org/bmad-method/bmad-generate-project-context)**
-- **[bmad-create-prd](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-prd)**
-- **[bmad-create-architecture](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-architecture)**
-- **[bmad-document-project](https://www.skills.sh/bmad-code-org/bmad-method/bmad-document-project)**
-- **[bmad-dev-story](https://www.skills.sh/bmad-code-org/bmad-method/bmad-dev-story)**
-- **[bmad-create-story](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-story)**
-- **[bmad-technical-research](https://www.skills.sh/bmad-code-org/bmad-method/bmad-technical-research)**
-- **[bmad-quick-dev](https://www.skills.sh/bmad-code-org/bmad-method/bmad-quick-dev)**
-- **[bmad-sprint-status](https://www.skills.sh/bmad-code-org/bmad-method/bmad-sprint-status)**
-- **[bmad-market-research](https://www.skills.sh/bmad-code-org/bmad-method/bmad-market-research)**
-- **[bmad-check-implementation-readiness](https://www.skills.sh/bmad-code-org/bmad-method/bmad-check-implementation-readiness)**
-- **[bmad-domain-research](https://www.skills.sh/bmad-code-org/bmad-method/bmad-domain-research)**
-- **[bmad-validate-prd](https://www.skills.sh/bmad-code-org/bmad-method/bmad-validate-prd)**
-- **[bmad-edit-prd](https://www.skills.sh/bmad-code-org/bmad-method/bmad-edit-prd)**
-- **[bmad-checkpoint-preview](https://www.skills.sh/bmad-code-org/bmad-method/bmad-checkpoint-preview)**
-- **[bmad-review-adversarial-general](https://www.skills.sh/bmad-code-org/bmad-method/bmad-review-adversarial-general)**
-- **[bmad-agent-tech-writer](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-tech-writer)**
-- **[bmad-editorial-review-prose](https://www.skills.sh/bmad-code-org/bmad-method/bmad-editorial-review-prose)**
-- **[bmad-review-edge-case-hunter](https://www.skills.sh/bmad-code-org/bmad-method/bmad-review-edge-case-hunter)**
-- **[bmad-editorial-review-structure](https://www.skills.sh/bmad-code-org/bmad-method/bmad-editorial-review-structure)**
-- **[bmad-shard-doc](https://www.skills.sh/bmad-code-org/bmad-method/bmad-shard-doc)**
-- **[bmad-index-docs](https://www.skills.sh/bmad-code-org/bmad-method/bmad-index-docs)**
-- **[bmad-create-ux-design](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-ux-design)**
-- **[bmad-distillator](https://www.skills.sh/bmad-code-org/bmad-method/bmad-distillator)**
-- **[bmad-dev-auto](https://www.skills.sh/bmad-code-org/bmad-method/bmad-dev-auto)**
-- **[bmad-investigate](https://www.skills.sh/bmad-code-org/bmad-method/bmad-investigate)**
-- **[bmad-agent-qa](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-qa)**
-- **[bmad-agent-sm](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-sm)**
-- **[bmad-agent-quick-flow-solo-dev](https://www.skills.sh/bmad-code-org/bmad-method/bmad-agent-quick-flow-solo-dev)**
-- **[bmad-os-gh-triage](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-gh-triage)**
-- **[bmad-review-verification-gap](https://www.skills.sh/bmad-code-org/bmad-method/bmad-review-verification-gap)**
-- **[bmad-os-release-module](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-release-module)**
-- **[bmad-os-draft-changelog](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-draft-changelog)**
-- **[bmad-os-diataxis-style-fix](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-diataxis-style-fix)**
-- **[bmad-os-changelog-social](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-changelog-social)**
-- **[bmad-os-review-pr](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-review-pr)**
-- **[bmad-init](https://www.skills.sh/bmad-code-org/bmad-method/bmad-init)**
-- **[bmad-os-root-cause-analysis](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-root-cause-analysis)**
-- **[bmad-os-audit-file-refs](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-audit-file-refs)**
-- **[deprecated-shim](https://www.skills.sh/bmad-code-org/bmad-method/deprecated-shim)**
-- **[missing-trigger](https://www.skills.sh/bmad-code-org/bmad-method/missing-trigger)**
-- **[with-trigger](https://www.skills.sh/bmad-code-org/bmad-method/with-trigger)**
-- **[bmad-quick-dev-new-preview](https://www.skills.sh/bmad-code-org/bmad-method/bmad-quick-dev-new-preview)**
-- **[bmad-os-review-prompt](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-review-prompt)**
-- **[bmad-os-findings-triage](https://www.skills.sh/bmad-code-org/bmad-method/bmad-os-findings-triage)**
-- **[bmad-create-product-brief](https://www.skills.sh/bmad-code-org/bmad-method/bmad-create-product-brief)**
-- **[bmad-product-brief-preview](https://www.skills.sh/bmad-code-org/bmad-method/bmad-product-brief-preview)**
-- **[bmad-editorial-review](https://www.skills.sh/bmad-code-org/bmad-method/bmad-editorial-review)**
-- **[bmad-quick-spec](https://www.skills.sh/bmad-code-org/bmad-method/bmad-quick-spec)**
+- **[bmad-build](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-build/SKILL.md)**
+- **[bmad-agent-pm](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-pm/SKILL.md)**
+- **[bmad-agent-analyst](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-analyst/SKILL.md)**
+- **[bmad-agent-ux-designer](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-ux-designer/SKILL.md)**
+- **[bmad-ux](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-ux/SKILL.md)**
+- **[bmad-advanced-elicitation](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-advanced-elicitation/SKILL.md)**
+- **[bmad-build-auto](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-build-auto/SKILL.md)**
+- **[bmad-party-mode](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-party-mode/SKILL.md)**
+- **[bmad-project-context](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-project-context/SKILL.md)**
+- **[bmad-deep-recon](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-deep-recon/SKILL.md)**
+- **[bmad-forge-idea](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-forge-idea/SKILL.md)**
+- **[bmad-customize](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-customize/SKILL.md)**
+- **[bmad-walkthrough](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-walkthrough/SKILL.md)**
+- **[bmod-core-tools](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmod-core-tools/SKILL.md)**
+- **[bmod-method](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmod-method/SKILL.md)**
+- **[bmad-retrospective](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-retrospective/SKILL.md)**
+- **[bmad-correct-course · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-eval](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-eval/SKILL.md)**
+- **[bmad-toolsmith](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-toolsmith/SKILL.md)**
+- **[bmod-toolsmith](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmod-toolsmith/SKILL.md)**
+- **[bmad-ticket · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-agent-po](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-agent-po/SKILL.md)**
+- **[bmad-create-epics-and-stories · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-sprint-planning · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-ingest](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-ingest/SKILL.md)**
+- **[bmad-shard-pro](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-shard-pro/SKILL.md)**
+- **[bmad-preview-ticketing · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-facilitate](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmad-facilitate/SKILL.md)**
+- **[bmod-founder](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/skills/bmod-founder/SKILL.md)**
+- **[bmad-help · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-generate-project-context · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-create-prd · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-create-architecture · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-document-project · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-dev-story · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-create-story · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-technical-research · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-quick-dev · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-sprint-status · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-market-research · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-check-implementation-readiness · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-domain-research · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-validate-prd · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-edit-prd · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-checkpoint-preview · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-review-adversarial-general · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-agent-tech-writer · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-editorial-review-prose · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-review-edge-case-hunter · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-editorial-review-structure · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-shard-doc · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-index-docs · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-create-ux-design · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-distillator · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-dev-auto · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-investigate · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-agent-qa · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-agent-sm · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-agent-quick-flow-solo-dev · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-gh-triage · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-review-verification-gap · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-release-module · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-draft-changelog · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-diataxis-style-fix · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-changelog-social · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-review-pr · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-init · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-root-cause-analysis · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-audit-file-refs · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[deprecated-shim](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/tools/tests/fixtures/validate-skills/deprecated-shim/SKILL.md)**
+- **[missing-trigger](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/tools/tests/fixtures/validate-skills/missing-trigger/SKILL.md)**
+- **[with-trigger](https://github.com/bmad-code-org/BMAD-METHOD/blob/HEAD/tools/tests/fixtures/validate-skills/with-trigger/SKILL.md)**
+- **[bmad-quick-dev-new-preview · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-review-prompt · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-os-findings-triage · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-create-product-brief · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-product-brief-preview · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-editorial-review · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
+- **[bmad-quick-spec · repository entry](https://github.com/bmad-code-org/BMAD-METHOD)**
 
 <a id="full-product-wshobsonagents--176"></a>
 #### wshobson/agents · 176
 
-- **[typescript-advanced-types](https://www.skills.sh/wshobson/agents/typescript-advanced-types)**
-- **[nodejs-backend-patterns](https://www.skills.sh/wshobson/agents/nodejs-backend-patterns)**
-- **[python-testing-patterns](https://www.skills.sh/wshobson/agents/python-testing-patterns)**
-- **[python-performance-optimization](https://www.skills.sh/wshobson/agents/python-performance-optimization)**
-- **[nextjs-app-router-patterns](https://www.skills.sh/wshobson/agents/nextjs-app-router-patterns)**
-- **[api-design-principles](https://www.skills.sh/wshobson/agents/api-design-principles)**
-- **[code-review-excellence](https://www.skills.sh/wshobson/agents/code-review-excellence)**
-- **[postgresql-table-design](https://www.skills.sh/wshobson/agents/postgresql-table-design)**
-- **[fastapi-templates](https://www.skills.sh/wshobson/agents/fastapi-templates)**
-- **[security-requirement-extraction](https://www.skills.sh/wshobson/agents/security-requirement-extraction)**
-- **[architecture-patterns](https://www.skills.sh/wshobson/agents/architecture-patterns)**
-- **[e2e-testing-patterns](https://www.skills.sh/wshobson/agents/e2e-testing-patterns)**
-- **[architecture-decision-records](https://www.skills.sh/wshobson/agents/architecture-decision-records)**
-- **[prompt-engineering-patterns](https://www.skills.sh/wshobson/agents/prompt-engineering-patterns)**
-- **[python-design-patterns](https://www.skills.sh/wshobson/agents/python-design-patterns)**
-- **[error-handling-patterns](https://www.skills.sh/wshobson/agents/error-handling-patterns)**
-- **[modern-javascript-patterns](https://www.skills.sh/wshobson/agents/modern-javascript-patterns)**
-- **[stride-analysis-patterns](https://www.skills.sh/wshobson/agents/stride-analysis-patterns)**
-- **[responsive-design](https://www.skills.sh/wshobson/agents/responsive-design)**
-- **[rust-async-patterns](https://www.skills.sh/wshobson/agents/rust-async-patterns)**
-- **[threat-mitigation-mapping](https://www.skills.sh/wshobson/agents/threat-mitigation-mapping)**
-- **[javascript-testing-patterns](https://www.skills.sh/wshobson/agents/javascript-testing-patterns)**
-- **[auth-implementation-patterns](https://www.skills.sh/wshobson/agents/auth-implementation-patterns)**
-- **[sql-optimization-patterns](https://www.skills.sh/wshobson/agents/sql-optimization-patterns)**
-- **[git-advanced-workflows](https://www.skills.sh/wshobson/agents/git-advanced-workflows)**
-- **[dotnet-backend-patterns](https://www.skills.sh/wshobson/agents/dotnet-backend-patterns)**
-- **[async-python-patterns](https://www.skills.sh/wshobson/agents/async-python-patterns)**
-- **[attack-tree-construction](https://www.skills.sh/wshobson/agents/attack-tree-construction)**
-- **[godot-gdscript-patterns](https://www.skills.sh/wshobson/agents/godot-gdscript-patterns)**
-- **[github-actions-templates](https://www.skills.sh/wshobson/agents/github-actions-templates)**
-- **[database-migration](https://www.skills.sh/wshobson/agents/database-migration)**
-- **[data-storytelling](https://www.skills.sh/wshobson/agents/data-storytelling)**
-- **[backtesting-frameworks](https://www.skills.sh/wshobson/agents/backtesting-frameworks)**
-- **[kpi-dashboard-design](https://www.skills.sh/wshobson/agents/kpi-dashboard-design)**
-- **[python-code-style](https://www.skills.sh/wshobson/agents/python-code-style)**
-- **[interaction-design](https://www.skills.sh/wshobson/agents/interaction-design)**
-- **[openapi-spec-generation](https://www.skills.sh/wshobson/agents/openapi-spec-generation)**
-- **[design-system-patterns](https://www.skills.sh/wshobson/agents/design-system-patterns)**
-- **[terraform-module-library](https://www.skills.sh/wshobson/agents/terraform-module-library)**
-- **[react-native-design](https://www.skills.sh/wshobson/agents/react-native-design)**
-- **[react-state-management](https://www.skills.sh/wshobson/agents/react-state-management)**
-- **[solidity-security](https://www.skills.sh/wshobson/agents/solidity-security)**
-- **[uv-package-manager](https://www.skills.sh/wshobson/agents/uv-package-manager)**
-- **[react-native-architecture](https://www.skills.sh/wshobson/agents/react-native-architecture)**
-- **[gdpr-data-handling](https://www.skills.sh/wshobson/agents/gdpr-data-handling)**
-- **[python-project-structure](https://www.skills.sh/wshobson/agents/python-project-structure)**
-- **[accessibility-compliance](https://www.skills.sh/wshobson/agents/accessibility-compliance)**
-- **[k8s-security-policies](https://www.skills.sh/wshobson/agents/k8s-security-policies)**
-- **[monorepo-management](https://www.skills.sh/wshobson/agents/monorepo-management)**
-- **[python-error-handling](https://www.skills.sh/wshobson/agents/python-error-handling)**
-- **[rag-implementation](https://www.skills.sh/wshobson/agents/rag-implementation)**
-- **[deployment-pipeline-design](https://www.skills.sh/wshobson/agents/deployment-pipeline-design)**
-- **[bash-defensive-patterns](https://www.skills.sh/wshobson/agents/bash-defensive-patterns)**
-- **[visual-design-foundations](https://www.skills.sh/wshobson/agents/visual-design-foundations)**
-- **[changelog-automation](https://www.skills.sh/wshobson/agents/changelog-automation)**
-- **[debugging-strategies](https://www.skills.sh/wshobson/agents/debugging-strategies)**
-- **[python-anti-patterns](https://www.skills.sh/wshobson/agents/python-anti-patterns)**
-- **[stripe-integration](https://www.skills.sh/wshobson/agents/stripe-integration)**
-- **[microservices-patterns](https://www.skills.sh/wshobson/agents/microservices-patterns)**
-- **[secrets-management](https://www.skills.sh/wshobson/agents/secrets-management)**
-- **[web-component-design](https://www.skills.sh/wshobson/agents/web-component-design)**
-- **[gitlab-ci-patterns](https://www.skills.sh/wshobson/agents/gitlab-ci-patterns)**
-- **[grafana-dashboards](https://www.skills.sh/wshobson/agents/grafana-dashboards)**
-- **[langchain-architecture](https://www.skills.sh/wshobson/agents/langchain-architecture)**
-- **[protocol-reverse-engineering](https://www.skills.sh/wshobson/agents/protocol-reverse-engineering)**
-- **[python-packaging](https://www.skills.sh/wshobson/agents/python-packaging)**
-- **[llm-evaluation](https://www.skills.sh/wshobson/agents/llm-evaluation)**
-- **[python-type-safety](https://www.skills.sh/wshobson/agents/python-type-safety)**
-- **[react-modernization](https://www.skills.sh/wshobson/agents/react-modernization)**
-- **[unity-ecs-patterns](https://www.skills.sh/wshobson/agents/unity-ecs-patterns)**
-- **[workflow-orchestration-patterns](https://www.skills.sh/wshobson/agents/workflow-orchestration-patterns)**
-- **[helm-chart-scaffolding](https://www.skills.sh/wshobson/agents/helm-chart-scaffolding)**
-- **[python-resilience](https://www.skills.sh/wshobson/agents/python-resilience)**
-- **[market-sizing-analysis](https://www.skills.sh/wshobson/agents/market-sizing-analysis)**
-- **[memory-safety-patterns](https://www.skills.sh/wshobson/agents/memory-safety-patterns)**
-- **[gitops-workflow](https://www.skills.sh/wshobson/agents/gitops-workflow)**
-- **[python-observability](https://www.skills.sh/wshobson/agents/python-observability)**
-- **[shellcheck-configuration](https://www.skills.sh/wshobson/agents/shellcheck-configuration)**
-- **[python-configuration](https://www.skills.sh/wshobson/agents/python-configuration)**
-- **[cost-optimization](https://www.skills.sh/wshobson/agents/cost-optimization)**
-- **[embedding-strategies](https://www.skills.sh/wshobson/agents/embedding-strategies)**
-- **[data-quality-frameworks](https://www.skills.sh/wshobson/agents/data-quality-frameworks)**
-- **[go-concurrency-patterns](https://www.skills.sh/wshobson/agents/go-concurrency-patterns)**
-- **[prometheus-configuration](https://www.skills.sh/wshobson/agents/prometheus-configuration)**
-- **[billing-automation](https://www.skills.sh/wshobson/agents/billing-automation)**
-- **[k8s-manifest-generator](https://www.skills.sh/wshobson/agents/k8s-manifest-generator)**
-- **[python-background-jobs](https://www.skills.sh/wshobson/agents/python-background-jobs)**
-- **[ml-pipeline-workflow](https://www.skills.sh/wshobson/agents/ml-pipeline-workflow)**
-- **[context-driven-development](https://www.skills.sh/wshobson/agents/context-driven-development)**
-- **[dependency-upgrade](https://www.skills.sh/wshobson/agents/dependency-upgrade)**
-- **[competitive-landscape](https://www.skills.sh/wshobson/agents/competitive-landscape)**
-- **[bats-testing-patterns](https://www.skills.sh/wshobson/agents/bats-testing-patterns)**
-- **[memory-forensics](https://www.skills.sh/wshobson/agents/memory-forensics)**
-- **[risk-metrics-calculation](https://www.skills.sh/wshobson/agents/risk-metrics-calculation)**
-- **[python-resource-management](https://www.skills.sh/wshobson/agents/python-resource-management)**
-- **[binary-analysis-patterns](https://www.skills.sh/wshobson/agents/binary-analysis-patterns)**
-- **[cqrs-implementation](https://www.skills.sh/wshobson/agents/cqrs-implementation)**
-- **[incident-runbook-templates](https://www.skills.sh/wshobson/agents/incident-runbook-templates)**
-- **[workflow-patterns](https://www.skills.sh/wshobson/agents/workflow-patterns)**
-- **[airflow-dag-patterns](https://www.skills.sh/wshobson/agents/airflow-dag-patterns)**
-- **[dbt-transformation-patterns](https://www.skills.sh/wshobson/agents/dbt-transformation-patterns)**
-- **[paypal-integration](https://www.skills.sh/wshobson/agents/paypal-integration)**
-- **[temporal-python-testing](https://www.skills.sh/wshobson/agents/temporal-python-testing)**
-- **[anti-reversing-techniques](https://www.skills.sh/wshobson/agents/anti-reversing-techniques)**
-- **[angular-migration](https://www.skills.sh/wshobson/agents/angular-migration)**
-- **[nx-workspace-patterns](https://www.skills.sh/wshobson/agents/nx-workspace-patterns)**
-- **[postmortem-writing](https://www.skills.sh/wshobson/agents/postmortem-writing)**
-- **[event-store-design](https://www.skills.sh/wshobson/agents/event-store-design)**
-- **[sast-configuration](https://www.skills.sh/wshobson/agents/sast-configuration)**
-- **[hybrid-search-implementation](https://www.skills.sh/wshobson/agents/hybrid-search-implementation)**
-- **[web3-testing](https://www.skills.sh/wshobson/agents/web3-testing)**
-- **[distributed-tracing](https://www.skills.sh/wshobson/agents/distributed-tracing)**
-- **[screen-reader-testing](https://www.skills.sh/wshobson/agents/screen-reader-testing)**
-- **[saga-orchestration](https://www.skills.sh/wshobson/agents/saga-orchestration)**
-- **[multi-cloud-architecture](https://www.skills.sh/wshobson/agents/multi-cloud-architecture)**
-- **[spark-optimization](https://www.skills.sh/wshobson/agents/spark-optimization)**
-- **[similarity-search-patterns](https://www.skills.sh/wshobson/agents/similarity-search-patterns)**
-- **[vector-index-tuning](https://www.skills.sh/wshobson/agents/vector-index-tuning)**
-- **[hybrid-cloud-networking](https://www.skills.sh/wshobson/agents/hybrid-cloud-networking)**
-- **[turborepo-caching](https://www.skills.sh/wshobson/agents/turborepo-caching)**
-- **[projection-patterns](https://www.skills.sh/wshobson/agents/projection-patterns)**
-- **[slo-implementation](https://www.skills.sh/wshobson/agents/slo-implementation)**
-- **[defi-protocol-templates](https://www.skills.sh/wshobson/agents/defi-protocol-templates)**
-- **[team-composition-analysis](https://www.skills.sh/wshobson/agents/team-composition-analysis)**
-- **[mtls-configuration](https://www.skills.sh/wshobson/agents/mtls-configuration)**
-- **[on-call-handoff-patterns](https://www.skills.sh/wshobson/agents/on-call-handoff-patterns)**
-- **[service-mesh-observability](https://www.skills.sh/wshobson/agents/service-mesh-observability)**
-- **[track-management](https://www.skills.sh/wshobson/agents/track-management)**
-- **[bazel-build-optimization](https://www.skills.sh/wshobson/agents/bazel-build-optimization)**
-- **[istio-traffic-management](https://www.skills.sh/wshobson/agents/istio-traffic-management)**
-- **[nft-standards](https://www.skills.sh/wshobson/agents/nft-standards)**
-- **[linkerd-patterns](https://www.skills.sh/wshobson/agents/linkerd-patterns)**
-- **[parallel-debugging](https://www.skills.sh/wshobson/agents/parallel-debugging)**
-- **[parallel-feature-development](https://www.skills.sh/wshobson/agents/parallel-feature-development)**
-- **[task-coordination-strategies](https://www.skills.sh/wshobson/agents/task-coordination-strategies)**
-- **[multi-reviewer-patterns](https://www.skills.sh/wshobson/agents/multi-reviewer-patterns)**
-- **[team-communication-protocols](https://www.skills.sh/wshobson/agents/team-communication-protocols)**
-- **[team-composition-patterns](https://www.skills.sh/wshobson/agents/team-composition-patterns)**
-- **[evaluation-methodology](https://www.skills.sh/wshobson/agents/evaluation-methodology)**
-- **[hads](https://www.skills.sh/wshobson/agents/hads)**
-- **[block-no-verify-hook](https://www.skills.sh/wshobson/agents/block-no-verify-hook)**
-- **[signed-audit-trails-recipe](https://www.skills.sh/wshobson/agents/signed-audit-trails-recipe)**
-- **[protect-mcp-setup](https://www.skills.sh/wshobson/agents/protect-mcp-setup)**
-- **[review-agent-setup](https://www.skills.sh/wshobson/agents/review-agent-setup)**
-- **[scan](https://www.skills.sh/wshobson/agents/scan)**
-- **[recsys-pipeline-architect](https://www.skills.sh/wshobson/agents/recsys-pipeline-architect)**
-- **[social-publishing](https://www.skills.sh/wshobson/agents/social-publishing)**
-- **[before-you-build](https://www.skills.sh/wshobson/agents/before-you-build)**
-- **[file-conversion](https://www.skills.sh/wshobson/agents/file-conversion)**
-- **[ai-debt-detector](https://www.skills.sh/wshobson/agents/ai-debt-detector)**
-- **[session-guard](https://www.skills.sh/wshobson/agents/session-guard)**
-- **[visual-edit-precision](https://www.skills.sh/wshobson/agents/visual-edit-precision)**
-- **[dataset-curation](https://www.skills.sh/wshobson/agents/dataset-curation)**
-- **[hermes-tweet](https://www.skills.sh/wshobson/agents/hermes-tweet)**
-- **[eval-harness-first](https://www.skills.sh/wshobson/agents/eval-harness-first)**
-- **[lora-qlora-recipes](https://www.skills.sh/wshobson/agents/lora-qlora-recipes)**
-- **[finetuning-method-selection](https://www.skills.sh/wshobson/agents/finetuning-method-selection)**
-- **[pptx-visual-assets](https://www.skills.sh/wshobson/agents/pptx-visual-assets)**
-- **[preference-optimization](https://www.skills.sh/wshobson/agents/preference-optimization)**
-- **[pptx-slide-specification](https://www.skills.sh/wshobson/agents/pptx-slide-specification)**
-- **[pptx-reference-deck-analysis](https://www.skills.sh/wshobson/agents/pptx-reference-deck-analysis)**
-- **[pptx-quality-gates](https://www.skills.sh/wshobson/agents/pptx-quality-gates)**
-- **[quantized-export](https://www.skills.sh/wshobson/agents/quantized-export)**
-- **[grpo-rlvr-training](https://www.skills.sh/wshobson/agents/grpo-rlvr-training)**
-- **[checkpoint-promotion](https://www.skills.sh/wshobson/agents/checkpoint-promotion)**
-- **[pptx-deck-context](https://www.skills.sh/wshobson/agents/pptx-deck-context)**
-- **[trace-to-training-data](https://www.skills.sh/wshobson/agents/trace-to-training-data)**
-- **[vision-sft](https://www.skills.sh/wshobson/agents/vision-sft)**
-- **[spark-memory-thermal-ops](https://www.skills.sh/wshobson/agents/spark-memory-thermal-ops)**
-- **[spark-training-gotchas](https://www.skills.sh/wshobson/agents/spark-training-gotchas)**
-- **[spark-environment-setup](https://www.skills.sh/wshobson/agents/spark-environment-setup)**
-- **[avoid-ai-writing](https://www.skills.sh/wshobson/agents/avoid-ai-writing)**
-- **[grounded-vault](https://www.skills.sh/wshobson/agents/grounded-vault)**
-- **[superself](https://www.skills.sh/wshobson/agents/superself)**
-- **[connectivity-triage](https://www.skills.sh/wshobson/agents/connectivity-triage)**
-- **[social-evidence-research](https://www.skills.sh/wshobson/agents/social-evidence-research)**
+- **[typescript-advanced-types](https://github.com/wshobson/agents/blob/HEAD/plugins/javascript-typescript/skills/typescript-advanced-types/SKILL.md)**
+- **[nodejs-backend-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/javascript-typescript/skills/nodejs-backend-patterns/SKILL.md)**
+- **[python-testing-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-testing-patterns/SKILL.md)**
+- **[python-performance-optimization](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-performance-optimization/SKILL.md)**
+- **[nextjs-app-router-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md)**
+- **[api-design-principles](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/api-design-principles/SKILL.md)**
+- **[code-review-excellence](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/code-review-excellence/SKILL.md)**
+- **[postgresql-table-design](https://github.com/wshobson/agents/blob/HEAD/plugins/database-design/skills/postgresql-table-design/SKILL.md)**
+- **[fastapi-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/api-scaffolding/skills/fastapi-templates/SKILL.md)**
+- **[security-requirement-extraction](https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/skills/security-requirement-extraction/SKILL.md)**
+- **[architecture-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/architecture-patterns/SKILL.md)**
+- **[e2e-testing-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/e2e-testing-patterns/SKILL.md)**
+- **[architecture-decision-records](https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-generation/skills/architecture-decision-records/SKILL.md)**
+- **[prompt-engineering-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/prompt-engineering-patterns/SKILL.md)**
+- **[python-design-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-design-patterns/SKILL.md)**
+- **[error-handling-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/error-handling-patterns/SKILL.md)**
+- **[modern-javascript-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/javascript-typescript/skills/modern-javascript-patterns/SKILL.md)**
+- **[stride-analysis-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/skills/stride-analysis-patterns/SKILL.md)**
+- **[responsive-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/responsive-design/SKILL.md)**
+- **[rust-async-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/systems-programming/skills/rust-async-patterns/SKILL.md)**
+- **[threat-mitigation-mapping](https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/skills/threat-mitigation-mapping/SKILL.md)**
+- **[javascript-testing-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/javascript-typescript/skills/javascript-testing-patterns/SKILL.md)**
+- **[auth-implementation-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/auth-implementation-patterns/SKILL.md)**
+- **[sql-optimization-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/sql-optimization-patterns/SKILL.md)**
+- **[git-advanced-workflows](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/git-advanced-workflows/SKILL.md)**
+- **[dotnet-backend-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/dotnet-contribution/skills/dotnet-backend-patterns/SKILL.md)**
+- **[async-python-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/async-python-patterns/SKILL.md)**
+- **[attack-tree-construction](https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/skills/attack-tree-construction/SKILL.md)**
+- **[godot-gdscript-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/game-development/skills/godot-gdscript-patterns/SKILL.md)**
+- **[github-actions-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/cicd-automation/skills/github-actions-templates/SKILL.md)**
+- **[database-migration](https://github.com/wshobson/agents/blob/HEAD/plugins/framework-migration/skills/database-migration/SKILL.md)**
+- **[data-storytelling](https://github.com/wshobson/agents/blob/HEAD/plugins/business-analytics/skills/data-storytelling/SKILL.md)**
+- **[backtesting-frameworks](https://github.com/wshobson/agents/blob/HEAD/plugins/quantitative-trading/skills/backtesting-frameworks/SKILL.md)**
+- **[kpi-dashboard-design](https://github.com/wshobson/agents/blob/HEAD/plugins/business-analytics/skills/kpi-dashboard-design/SKILL.md)**
+- **[python-code-style](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-code-style/SKILL.md)**
+- **[interaction-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/interaction-design/SKILL.md)**
+- **[openapi-spec-generation](https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-generation/skills/openapi-spec-generation/SKILL.md)**
+- **[design-system-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/design-system-patterns/SKILL.md)**
+- **[terraform-module-library](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/terraform-module-library/SKILL.md)**
+- **[react-native-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/react-native-design/SKILL.md)**
+- **[react-state-management](https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/skills/react-state-management/SKILL.md)**
+- **[solidity-security](https://github.com/wshobson/agents/blob/HEAD/plugins/blockchain-web3/skills/solidity-security/SKILL.md)**
+- **[uv-package-manager](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/uv-package-manager/SKILL.md)**
+- **[react-native-architecture](https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/skills/react-native-architecture/SKILL.md)**
+- **[gdpr-data-handling](https://github.com/wshobson/agents/blob/HEAD/plugins/hr-legal-compliance/skills/gdpr-data-handling/SKILL.md)**
+- **[python-project-structure](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-project-structure/SKILL.md)**
+- **[accessibility-compliance](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/accessibility-compliance/SKILL.md)**
+- **[k8s-security-policies](https://github.com/wshobson/agents/blob/HEAD/plugins/kubernetes-operations/skills/k8s-security-policies/SKILL.md)**
+- **[monorepo-management](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/monorepo-management/SKILL.md)**
+- **[python-error-handling](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-error-handling/SKILL.md)**
+- **[rag-implementation](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/rag-implementation/SKILL.md)**
+- **[deployment-pipeline-design](https://github.com/wshobson/agents/blob/HEAD/plugins/cicd-automation/skills/deployment-pipeline-design/SKILL.md)**
+- **[bash-defensive-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md)**
+- **[visual-design-foundations](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/visual-design-foundations/SKILL.md)**
+- **[changelog-automation](https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-generation/skills/changelog-automation/SKILL.md)**
+- **[debugging-strategies](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/debugging-strategies/SKILL.md)**
+- **[python-anti-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-anti-patterns/SKILL.md)**
+- **[stripe-integration](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/stripe-integration/SKILL.md)**
+- **[microservices-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/microservices-patterns/SKILL.md)**
+- **[secrets-management](https://github.com/wshobson/agents/blob/HEAD/plugins/cicd-automation/skills/secrets-management/SKILL.md)**
+- **[web-component-design](https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/skills/web-component-design/SKILL.md)**
+- **[gitlab-ci-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/cicd-automation/skills/gitlab-ci-patterns/SKILL.md)**
+- **[grafana-dashboards](https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/skills/grafana-dashboards/SKILL.md)**
+- **[langchain-architecture](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/langchain-architecture/SKILL.md)**
+- **[protocol-reverse-engineering](https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/skills/protocol-reverse-engineering/SKILL.md)**
+- **[python-packaging](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-packaging/SKILL.md)**
+- **[llm-evaluation](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/llm-evaluation/SKILL.md)**
+- **[python-type-safety](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-type-safety/SKILL.md)**
+- **[react-modernization](https://github.com/wshobson/agents/blob/HEAD/plugins/framework-migration/skills/react-modernization/SKILL.md)**
+- **[unity-ecs-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/game-development/skills/unity-ecs-patterns/SKILL.md)**
+- **[workflow-orchestration-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/workflow-orchestration-patterns/SKILL.md)**
+- **[helm-chart-scaffolding](https://github.com/wshobson/agents/blob/HEAD/plugins/kubernetes-operations/skills/helm-chart-scaffolding/SKILL.md)**
+- **[python-resilience](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-resilience/SKILL.md)**
+- **[market-sizing-analysis](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/market-sizing-analysis/SKILL.md)**
+- **[memory-safety-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/systems-programming/skills/memory-safety-patterns/SKILL.md)**
+- **[gitops-workflow](https://github.com/wshobson/agents/blob/HEAD/plugins/kubernetes-operations/skills/gitops-workflow/SKILL.md)**
+- **[python-observability](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-observability/SKILL.md)**
+- **[shellcheck-configuration](https://github.com/wshobson/agents/blob/HEAD/plugins/shell-scripting/skills/shellcheck-configuration/SKILL.md)**
+- **[python-configuration](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-configuration/SKILL.md)**
+- **[cost-optimization](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/cost-optimization/SKILL.md)**
+- **[embedding-strategies](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/embedding-strategies/SKILL.md)**
+- **[data-quality-frameworks](https://github.com/wshobson/agents/blob/HEAD/plugins/data-engineering/skills/data-quality-frameworks/SKILL.md)**
+- **[go-concurrency-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/systems-programming/skills/go-concurrency-patterns/SKILL.md)**
+- **[prometheus-configuration](https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/skills/prometheus-configuration/SKILL.md)**
+- **[billing-automation](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/billing-automation/SKILL.md)**
+- **[k8s-manifest-generator](https://github.com/wshobson/agents/blob/HEAD/plugins/kubernetes-operations/skills/k8s-manifest-generator/SKILL.md)**
+- **[python-background-jobs](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-background-jobs/SKILL.md)**
+- **[ml-pipeline-workflow](https://github.com/wshobson/agents/blob/HEAD/plugins/machine-learning-ops/skills/ml-pipeline-workflow/SKILL.md)**
+- **[context-driven-development](https://github.com/wshobson/agents/blob/HEAD/plugins/conductor/skills/context-driven-development/SKILL.md)**
+- **[dependency-upgrade](https://github.com/wshobson/agents/blob/HEAD/plugins/framework-migration/skills/dependency-upgrade/SKILL.md)**
+- **[competitive-landscape](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/competitive-landscape/SKILL.md)**
+- **[bats-testing-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/shell-scripting/skills/bats-testing-patterns/SKILL.md)**
+- **[memory-forensics](https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/skills/memory-forensics/SKILL.md)**
+- **[risk-metrics-calculation](https://github.com/wshobson/agents/blob/HEAD/plugins/quantitative-trading/skills/risk-metrics-calculation/SKILL.md)**
+- **[python-resource-management](https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/skills/python-resource-management/SKILL.md)**
+- **[binary-analysis-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/skills/binary-analysis-patterns/SKILL.md)**
+- **[cqrs-implementation](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/cqrs-implementation/SKILL.md)**
+- **[incident-runbook-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/skills/incident-runbook-templates/SKILL.md)**
+- **[workflow-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/conductor/skills/workflow-patterns/SKILL.md)**
+- **[airflow-dag-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/data-engineering/skills/airflow-dag-patterns/SKILL.md)**
+- **[dbt-transformation-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/data-engineering/skills/dbt-transformation-patterns/SKILL.md)**
+- **[paypal-integration](https://github.com/wshobson/agents/blob/HEAD/plugins/payment-processing/skills/paypal-integration/SKILL.md)**
+- **[temporal-python-testing](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/temporal-python-testing/SKILL.md)**
+- **[anti-reversing-techniques](https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/skills/anti-reversing-techniques/SKILL.md)**
+- **[angular-migration](https://github.com/wshobson/agents/blob/HEAD/plugins/framework-migration/skills/angular-migration/SKILL.md)**
+- **[nx-workspace-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/nx-workspace-patterns/SKILL.md)**
+- **[postmortem-writing](https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/skills/postmortem-writing/SKILL.md)**
+- **[event-store-design](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/event-store-design/SKILL.md)**
+- **[sast-configuration](https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/skills/sast-configuration/SKILL.md)**
+- **[hybrid-search-implementation](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md)**
+- **[web3-testing](https://github.com/wshobson/agents/blob/HEAD/plugins/blockchain-web3/skills/web3-testing/SKILL.md)**
+- **[distributed-tracing](https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/skills/distributed-tracing/SKILL.md)**
+- **[screen-reader-testing](https://github.com/wshobson/agents/blob/HEAD/plugins/accessibility-compliance/skills/screen-reader-testing/SKILL.md)**
+- **[saga-orchestration](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/saga-orchestration/SKILL.md)**
+- **[multi-cloud-architecture](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/multi-cloud-architecture/SKILL.md)**
+- **[spark-optimization](https://github.com/wshobson/agents/blob/HEAD/plugins/data-engineering/skills/spark-optimization/SKILL.md)**
+- **[similarity-search-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/similarity-search-patterns/SKILL.md)**
+- **[vector-index-tuning](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/skills/vector-index-tuning/SKILL.md)**
+- **[hybrid-cloud-networking](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/hybrid-cloud-networking/SKILL.md)**
+- **[turborepo-caching](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/turborepo-caching/SKILL.md)**
+- **[projection-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/skills/projection-patterns/SKILL.md)**
+- **[slo-implementation](https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/skills/slo-implementation/SKILL.md)**
+- **[defi-protocol-templates](https://github.com/wshobson/agents/blob/HEAD/plugins/blockchain-web3/skills/defi-protocol-templates/SKILL.md)**
+- **[team-composition-analysis](https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/skills/team-composition-analysis/SKILL.md)**
+- **[mtls-configuration](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/mtls-configuration/SKILL.md)**
+- **[on-call-handoff-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/skills/on-call-handoff-patterns/SKILL.md)**
+- **[service-mesh-observability](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/service-mesh-observability/SKILL.md)**
+- **[track-management](https://github.com/wshobson/agents/blob/HEAD/plugins/conductor/skills/track-management/SKILL.md)**
+- **[bazel-build-optimization](https://github.com/wshobson/agents/blob/HEAD/plugins/developer-essentials/skills/bazel-build-optimization/SKILL.md)**
+- **[istio-traffic-management](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/istio-traffic-management/SKILL.md)**
+- **[nft-standards](https://github.com/wshobson/agents/blob/HEAD/plugins/blockchain-web3/skills/nft-standards/SKILL.md)**
+- **[linkerd-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/skills/linkerd-patterns/SKILL.md)**
+- **[parallel-debugging](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/parallel-debugging/SKILL.md)**
+- **[parallel-feature-development](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/parallel-feature-development/SKILL.md)**
+- **[task-coordination-strategies](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/task-coordination-strategies/SKILL.md)**
+- **[multi-reviewer-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/multi-reviewer-patterns/SKILL.md)**
+- **[team-communication-protocols](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/team-communication-protocols/SKILL.md)**
+- **[team-composition-patterns](https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/skills/team-composition-patterns/SKILL.md)**
+- **[evaluation-methodology](https://github.com/wshobson/agents/blob/HEAD/plugins/plugin-eval/skills/evaluation-methodology/SKILL.md)**
+- **[hads](https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-standards/skills/hads/SKILL.md)**
+- **[block-no-verify-hook](https://github.com/wshobson/agents/blob/HEAD/plugins/block-no-verify/skills/block-no-verify-hook/SKILL.md)**
+- **[signed-audit-trails-recipe](https://github.com/wshobson/agents/blob/HEAD/plugins/signed-audit-trails/skills/signed-audit-trails-recipe/SKILL.md)**
+- **[protect-mcp-setup](https://github.com/wshobson/agents/blob/HEAD/plugins/protect-mcp/skills/protect-mcp-setup/SKILL.md)**
+- **[review-agent-setup](https://github.com/wshobson/agents/blob/HEAD/plugins/review-agent-governance/skills/review-agent-setup/SKILL.md)**
+- **[scan](https://github.com/wshobson/agents/blob/HEAD/plugins/ship-mate/skills/scan/SKILL.md)**
+- **[recsys-pipeline-architect](https://github.com/wshobson/agents/blob/HEAD/plugins/machine-learning-ops/skills/recsys-pipeline-architect/SKILL.md)**
+- **[social-publishing](https://github.com/wshobson/agents/blob/HEAD/plugins/social-publishing/skills/social-publishing/SKILL.md)**
+- **[before-you-build](https://github.com/wshobson/agents/blob/HEAD/plugins/before-you-build/skills/before-you-build/SKILL.md)**
+- **[file-conversion](https://github.com/wshobson/agents/blob/HEAD/plugins/file-conversion/skills/file-conversion/SKILL.md)**
+- **[ai-debt-detector](https://github.com/wshobson/agents/blob/HEAD/plugins/skill-forge-essentials/skills/ai-debt-detector/SKILL.md)**
+- **[session-guard](https://github.com/wshobson/agents/blob/HEAD/plugins/skill-forge-essentials/skills/session-guard/SKILL.md)**
+- **[visual-edit-precision](https://github.com/wshobson/agents/blob/HEAD/plugins/skill-forge-essentials/skills/visual-edit-precision/SKILL.md)**
+- **[dataset-curation](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/dataset-curation/SKILL.md)**
+- **[hermes-tweet](https://github.com/wshobson/agents/blob/HEAD/plugins/hermes-tweet/skills/hermes-tweet/SKILL.md)**
+- **[eval-harness-first](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/eval-harness-first/SKILL.md)**
+- **[lora-qlora-recipes](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/lora-qlora-recipes/SKILL.md)**
+- **[finetuning-method-selection](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/finetuning-method-selection/SKILL.md)**
+- **[pptx-visual-assets](https://github.com/wshobson/agents/blob/HEAD/plugins/pptx-deck-creation/skills/pptx-visual-assets/SKILL.md)**
+- **[preference-optimization](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/preference-optimization/SKILL.md)**
+- **[pptx-slide-specification](https://github.com/wshobson/agents/blob/HEAD/plugins/pptx-deck-creation/skills/pptx-slide-specification/SKILL.md)**
+- **[pptx-reference-deck-analysis](https://github.com/wshobson/agents/blob/HEAD/plugins/pptx-deck-creation/skills/pptx-reference-deck-analysis/SKILL.md)**
+- **[pptx-quality-gates](https://github.com/wshobson/agents/blob/HEAD/plugins/pptx-deck-creation/skills/pptx-quality-gates/SKILL.md)**
+- **[quantized-export](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/quantized-export/SKILL.md)**
+- **[grpo-rlvr-training](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/grpo-rlvr-training/SKILL.md)**
+- **[checkpoint-promotion](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/checkpoint-promotion/SKILL.md)**
+- **[pptx-deck-context](https://github.com/wshobson/agents/blob/HEAD/plugins/pptx-deck-creation/skills/pptx-deck-context/SKILL.md)**
+- **[trace-to-training-data](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/trace-to-training-data/SKILL.md)**
+- **[vision-sft](https://github.com/wshobson/agents/blob/HEAD/plugins/llm-finetuning/skills/vision-sft/SKILL.md)**
+- **[spark-memory-thermal-ops](https://github.com/wshobson/agents/blob/HEAD/plugins/dgx-spark-ops/skills/spark-memory-thermal-ops/SKILL.md)**
+- **[spark-training-gotchas](https://github.com/wshobson/agents/blob/HEAD/plugins/dgx-spark-ops/skills/spark-training-gotchas/SKILL.md)**
+- **[spark-environment-setup](https://github.com/wshobson/agents/blob/HEAD/plugins/dgx-spark-ops/skills/spark-environment-setup/SKILL.md)**
+- **[avoid-ai-writing](https://github.com/wshobson/agents/blob/HEAD/plugins/avoid-ai-writing/skills/avoid-ai-writing/SKILL.md)**
+- **[grounded-vault](https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-standards/skills/grounded-vault/SKILL.md)**
+- **[superself](https://github.com/wshobson/agents/blob/HEAD/plugins/superself/skills/superself/SKILL.md)**
+- **[connectivity-triage](https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/skills/connectivity-triage/SKILL.md)**
+- **[social-evidence-research](https://github.com/wshobson/agents/blob/HEAD/plugins/content-marketing/skills/social-evidence-research/SKILL.md)**
 
 <a id="full-product-phurynpm-skills--58"></a>
 #### phuryn/pm-skills · 58
 
-- **[create-prd](https://www.skills.sh/phuryn/pm-skills/create-prd)**
-- **[competitor-analysis](https://www.skills.sh/phuryn/pm-skills/competitor-analysis)**
-- **[privacy-policy](https://www.skills.sh/phuryn/pm-skills/privacy-policy)**
-- **[brainstorm-ideas-new](https://www.skills.sh/phuryn/pm-skills/brainstorm-ideas-new)**
-- **[user-stories](https://www.skills.sh/phuryn/pm-skills/user-stories)**
-- **[monetization-strategy](https://www.skills.sh/phuryn/pm-skills/monetization-strategy)**
-- **[sentiment-analysis](https://www.skills.sh/phuryn/pm-skills/sentiment-analysis)**
-- **[customer-journey-map](https://www.skills.sh/phuryn/pm-skills/customer-journey-map)**
-- **[summarize-meeting](https://www.skills.sh/phuryn/pm-skills/summarize-meeting)**
-- **[brainstorm-ideas-existing](https://www.skills.sh/phuryn/pm-skills/brainstorm-ideas-existing)**
-- **[swot-analysis](https://www.skills.sh/phuryn/pm-skills/swot-analysis)**
-- **[metrics-dashboard](https://www.skills.sh/phuryn/pm-skills/metrics-dashboard)**
-- **[opportunity-solution-tree](https://www.skills.sh/phuryn/pm-skills/opportunity-solution-tree)**
-- **[pricing-strategy](https://www.skills.sh/phuryn/pm-skills/pricing-strategy)**
-- **[review-resume](https://www.skills.sh/phuryn/pm-skills/review-resume)**
-- **[release-notes](https://www.skills.sh/phuryn/pm-skills/release-notes)**
-- **[identify-assumptions-new](https://www.skills.sh/phuryn/pm-skills/identify-assumptions-new)**
-- **[interview-script](https://www.skills.sh/phuryn/pm-skills/interview-script)**
-- **[lean-canvas](https://www.skills.sh/phuryn/pm-skills/lean-canvas)**
-- **[test-scenarios](https://www.skills.sh/phuryn/pm-skills/test-scenarios)**
-- **[positioning-ideas](https://www.skills.sh/phuryn/pm-skills/positioning-ideas)**
-- **[brainstorm-okrs](https://www.skills.sh/phuryn/pm-skills/brainstorm-okrs)**
-- **[brainstorm-experiments-new](https://www.skills.sh/phuryn/pm-skills/brainstorm-experiments-new)**
-- **[prioritize-features](https://www.skills.sh/phuryn/pm-skills/prioritize-features)**
-- **[product-vision](https://www.skills.sh/phuryn/pm-skills/product-vision)**
-- **[ab-test-analysis](https://www.skills.sh/phuryn/pm-skills/ab-test-analysis)**
-- **[cohort-analysis](https://www.skills.sh/phuryn/pm-skills/cohort-analysis)**
-- **[growth-loops](https://www.skills.sh/phuryn/pm-skills/growth-loops)**
-- **[north-star-metric](https://www.skills.sh/phuryn/pm-skills/north-star-metric)**
-- **[market-segments](https://www.skills.sh/phuryn/pm-skills/market-segments)**
-- **[summarize-interview](https://www.skills.sh/phuryn/pm-skills/summarize-interview)**
-- **[identify-assumptions-existing](https://www.skills.sh/phuryn/pm-skills/identify-assumptions-existing)**
-- **[marketing-ideas](https://www.skills.sh/phuryn/pm-skills/marketing-ideas)**
-- **[stakeholder-map](https://www.skills.sh/phuryn/pm-skills/stakeholder-map)**
-- **[prioritize-assumptions](https://www.skills.sh/phuryn/pm-skills/prioritize-assumptions)**
-- **[pestle-analysis](https://www.skills.sh/phuryn/pm-skills/pestle-analysis)**
-- **[analyze-feature-requests](https://www.skills.sh/phuryn/pm-skills/analyze-feature-requests)**
-- **[value-prop-statements](https://www.skills.sh/phuryn/pm-skills/value-prop-statements)**
-- **[porters-five-forces](https://www.skills.sh/phuryn/pm-skills/porters-five-forces)**
-- **[brainstorm-experiments-existing](https://www.skills.sh/phuryn/pm-skills/brainstorm-experiments-existing)**
-- **[beachhead-segment](https://www.skills.sh/phuryn/pm-skills/beachhead-segment)**
-- **[competitive-battlecard](https://www.skills.sh/phuryn/pm-skills/competitive-battlecard)**
-- **[sql-queries](https://www.skills.sh/phuryn/pm-skills/sql-queries)**
-- **[job-stories](https://www.skills.sh/phuryn/pm-skills/job-stories)**
-- **[gtm-motions](https://www.skills.sh/phuryn/pm-skills/gtm-motions)**
-- **[ansoff-matrix](https://www.skills.sh/phuryn/pm-skills/ansoff-matrix)**
-- **[sprint-plan](https://www.skills.sh/phuryn/pm-skills/sprint-plan)**
-- **[user-segmentation](https://www.skills.sh/phuryn/pm-skills/user-segmentation)**
-- **[dummy-dataset](https://www.skills.sh/phuryn/pm-skills/dummy-dataset)**
-- **[wwas](https://www.skills.sh/phuryn/pm-skills/wwas)**
-- **[retro](https://www.skills.sh/phuryn/pm-skills/retro)**
-- **[draft-nda](https://www.skills.sh/phuryn/pm-skills/draft-nda)**
-- **[intended-vs-implemented](https://www.skills.sh/phuryn/pm-skills/intended-vs-implemented)**
-- **[shipping-artifacts](https://www.skills.sh/phuryn/pm-skills/shipping-artifacts)**
-- **[code-review](https://www.skills.sh/phuryn/pm-skills/code-review)**
-- **[survey-design](https://www.skills.sh/phuryn/pm-skills/survey-design)**
-- **[live-qa](https://www.skills.sh/phuryn/pm-skills/live-qa)**
-- **[live-polls](https://www.skills.sh/phuryn/pm-skills/live-polls)**
+- **[create-prd](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/create-prd/SKILL.md)**
+- **[competitor-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/competitor-analysis/SKILL.md)**
+- **[privacy-policy](https://github.com/phuryn/pm-skills/blob/HEAD/pm-toolkit/skills/privacy-policy/SKILL.md)**
+- **[brainstorm-ideas-new](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/brainstorm-ideas-new/SKILL.md)**
+- **[user-stories](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/user-stories/SKILL.md)**
+- **[monetization-strategy](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/monetization-strategy/SKILL.md)**
+- **[sentiment-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/sentiment-analysis/SKILL.md)**
+- **[customer-journey-map](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/customer-journey-map/SKILL.md)**
+- **[summarize-meeting](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/summarize-meeting/SKILL.md)**
+- **[brainstorm-ideas-existing](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/brainstorm-ideas-existing/SKILL.md)**
+- **[swot-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/swot-analysis/SKILL.md)**
+- **[metrics-dashboard](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/metrics-dashboard/SKILL.md)**
+- **[opportunity-solution-tree](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/opportunity-solution-tree/SKILL.md)**
+- **[pricing-strategy](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/pricing-strategy/SKILL.md)**
+- **[review-resume](https://github.com/phuryn/pm-skills/blob/HEAD/pm-toolkit/skills/review-resume/SKILL.md)**
+- **[release-notes](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/release-notes/SKILL.md)**
+- **[identify-assumptions-new](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/identify-assumptions-new/SKILL.md)**
+- **[interview-script](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/interview-script/SKILL.md)**
+- **[lean-canvas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/lean-canvas/SKILL.md)**
+- **[test-scenarios](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/test-scenarios/SKILL.md)**
+- **[positioning-ideas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/positioning-ideas/SKILL.md)**
+- **[brainstorm-okrs](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/brainstorm-okrs/SKILL.md)**
+- **[brainstorm-experiments-new](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/brainstorm-experiments-new/SKILL.md)**
+- **[prioritize-features](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/prioritize-features/SKILL.md)**
+- **[product-vision](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/product-vision/SKILL.md)**
+- **[ab-test-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-data-analytics/skills/ab-test-analysis/SKILL.md)**
+- **[cohort-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-data-analytics/skills/cohort-analysis/SKILL.md)**
+- **[growth-loops](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/growth-loops/SKILL.md)**
+- **[north-star-metric](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/north-star-metric/SKILL.md)**
+- **[market-segments](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/market-segments/SKILL.md)**
+- **[summarize-interview](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/summarize-interview/SKILL.md)**
+- **[identify-assumptions-existing](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/identify-assumptions-existing/SKILL.md)**
+- **[marketing-ideas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/marketing-ideas/SKILL.md)**
+- **[stakeholder-map](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/stakeholder-map/SKILL.md)**
+- **[prioritize-assumptions](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/prioritize-assumptions/SKILL.md)**
+- **[pestle-analysis](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/pestle-analysis/SKILL.md)**
+- **[analyze-feature-requests](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/analyze-feature-requests/SKILL.md)**
+- **[value-prop-statements](https://github.com/phuryn/pm-skills/blob/HEAD/pm-marketing-growth/skills/value-prop-statements/SKILL.md)**
+- **[porters-five-forces](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/porters-five-forces/SKILL.md)**
+- **[brainstorm-experiments-existing](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-discovery/skills/brainstorm-experiments-existing/SKILL.md)**
+- **[beachhead-segment](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/beachhead-segment/SKILL.md)**
+- **[competitive-battlecard](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/competitive-battlecard/SKILL.md)**
+- **[sql-queries](https://github.com/phuryn/pm-skills/blob/HEAD/pm-data-analytics/skills/sql-queries/SKILL.md)**
+- **[job-stories](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/job-stories/SKILL.md)**
+- **[gtm-motions](https://github.com/phuryn/pm-skills/blob/HEAD/pm-go-to-market/skills/gtm-motions/SKILL.md)**
+- **[ansoff-matrix](https://github.com/phuryn/pm-skills/blob/HEAD/pm-product-strategy/skills/ansoff-matrix/SKILL.md)**
+- **[sprint-plan](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/sprint-plan/SKILL.md)**
+- **[user-segmentation](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/user-segmentation/SKILL.md)**
+- **[dummy-dataset](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/dummy-dataset/SKILL.md)**
+- **[wwas](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/wwas/SKILL.md)**
+- **[retro](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/retro/SKILL.md)**
+- **[draft-nda](https://github.com/phuryn/pm-skills/blob/HEAD/pm-toolkit/skills/draft-nda/SKILL.md)**
+- **[intended-vs-implemented](https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/intended-vs-implemented/SKILL.md)**
+- **[shipping-artifacts](https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/shipping-artifacts/SKILL.md)**
+- **[code-review](https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/code-review/SKILL.md)**
+- **[survey-design](https://github.com/phuryn/pm-skills/blob/HEAD/pm-market-research/skills/survey-design/SKILL.md)**
+- **[live-qa](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/live-qa/SKILL.md)**
+- **[live-polls](https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/live-polls/SKILL.md)**
 
 <a id="full-product-deanpetersproduct-manager-skills--76"></a>
 #### deanpeters/product-manager-skills · 76
 
-- **[user-story](https://www.skills.sh/deanpeters/product-manager-skills/user-story)**
-- **[roadmap-planning](https://www.skills.sh/deanpeters/product-manager-skills/roadmap-planning)**
-- **[company-research](https://www.skills.sh/deanpeters/product-manager-skills/company-research)**
-- **[discovery-process](https://www.skills.sh/deanpeters/product-manager-skills/discovery-process)**
-- **[jobs-to-be-done](https://www.skills.sh/deanpeters/product-manager-skills/jobs-to-be-done)**
-- **[prioritization-advisor](https://www.skills.sh/deanpeters/product-manager-skills/prioritization-advisor)**
-- **[discovery-interview-prep](https://www.skills.sh/deanpeters/product-manager-skills/discovery-interview-prep)**
-- **[product-strategy-session](https://www.skills.sh/deanpeters/product-manager-skills/product-strategy-session)**
-- **[customer-journey-map](https://www.skills.sh/deanpeters/product-manager-skills/customer-journey-map)**
-- **[epic-breakdown-advisor](https://www.skills.sh/deanpeters/product-manager-skills/epic-breakdown-advisor)**
-- **[epic-hypothesis](https://www.skills.sh/deanpeters/product-manager-skills/epic-hypothesis)**
-- **[business-health-diagnostic](https://www.skills.sh/deanpeters/product-manager-skills/business-health-diagnostic)**
-- **[opportunity-solution-tree](https://www.skills.sh/deanpeters/product-manager-skills/opportunity-solution-tree)**
-- **[feature-investment-advisor](https://www.skills.sh/deanpeters/product-manager-skills/feature-investment-advisor)**
-- **[finance-based-pricing-advisor](https://www.skills.sh/deanpeters/product-manager-skills/finance-based-pricing-advisor)**
-- **[context-engineering-advisor](https://www.skills.sh/deanpeters/product-manager-skills/context-engineering-advisor)**
-- **[customer-journey-mapping-workshop](https://www.skills.sh/deanpeters/product-manager-skills/customer-journey-mapping-workshop)**
-- **[user-story-mapping](https://www.skills.sh/deanpeters/product-manager-skills/user-story-mapping)**
-- **[acquisition-channel-advisor](https://www.skills.sh/deanpeters/product-manager-skills/acquisition-channel-advisor)**
-- **[lean-ux-canvas](https://www.skills.sh/deanpeters/product-manager-skills/lean-ux-canvas)**
-- **[ai-shaped-readiness-advisor](https://www.skills.sh/deanpeters/product-manager-skills/ai-shaped-readiness-advisor)**
-- **[finance-metrics-quickref](https://www.skills.sh/deanpeters/product-manager-skills/finance-metrics-quickref)**
-- **[problem-framing-canvas](https://www.skills.sh/deanpeters/product-manager-skills/problem-framing-canvas)**
-- **[problem-statement](https://www.skills.sh/deanpeters/product-manager-skills/problem-statement)**
-- **[altitude-horizon-framework](https://www.skills.sh/deanpeters/product-manager-skills/altitude-horizon-framework)**
-- **[eol-message](https://www.skills.sh/deanpeters/product-manager-skills/eol-message)**
-- **[storyboard](https://www.skills.sh/deanpeters/product-manager-skills/storyboard)**
-- **[positioning-statement](https://www.skills.sh/deanpeters/product-manager-skills/positioning-statement)**
-- **[director-readiness-advisor](https://www.skills.sh/deanpeters/product-manager-skills/director-readiness-advisor)**
-- **[executive-onboarding-playbook](https://www.skills.sh/deanpeters/product-manager-skills/executive-onboarding-playbook)**
-- **[user-story-splitting](https://www.skills.sh/deanpeters/product-manager-skills/user-story-splitting)**
-- **[positioning-workshop](https://www.skills.sh/deanpeters/product-manager-skills/positioning-workshop)**
-- **[pestel-analysis](https://www.skills.sh/deanpeters/product-manager-skills/pestel-analysis)**
-- **[press-release](https://www.skills.sh/deanpeters/product-manager-skills/press-release)**
-- **[pol-probe](https://www.skills.sh/deanpeters/product-manager-skills/pol-probe)**
-- **[pol-probe-advisor](https://www.skills.sh/deanpeters/product-manager-skills/pol-probe-advisor)**
-- **[saas-revenue-growth-metrics](https://www.skills.sh/deanpeters/product-manager-skills/saas-revenue-growth-metrics)**
-- **[workshop-facilitation](https://www.skills.sh/deanpeters/product-manager-skills/workshop-facilitation)**
-- **[proto-persona](https://www.skills.sh/deanpeters/product-manager-skills/proto-persona)**
-- **[saas-economics-efficiency-metrics](https://www.skills.sh/deanpeters/product-manager-skills/saas-economics-efficiency-metrics)**
-- **[tam-sam-som-calculator](https://www.skills.sh/deanpeters/product-manager-skills/tam-sam-som-calculator)**
-- **[user-story-mapping-workshop](https://www.skills.sh/deanpeters/product-manager-skills/user-story-mapping-workshop)**
-- **[recommendation-canvas](https://www.skills.sh/deanpeters/product-manager-skills/recommendation-canvas)**
-- **[skill-authoring-workflow](https://www.skills.sh/deanpeters/product-manager-skills/skill-authoring-workflow)**
-- **[vp-cpo-readiness-advisor](https://www.skills.sh/deanpeters/product-manager-skills/vp-cpo-readiness-advisor)**
-- **[product-sense-interview-answer](https://www.skills.sh/deanpeters/product-manager-skills/product-sense-interview-answer)**
-- **[organic-growth-advisor](https://www.skills.sh/deanpeters/product-manager-skills/organic-growth-advisor)**
-- **[pm-skill-creator](https://www.skills.sh/deanpeters/product-manager-skills/pm-skill-creator)**
-- **[company-intel](https://www.skills.sh/deanpeters/product-manager-skills/company-intel)**
-- **[derisk-measurement-advisor](https://www.skills.sh/deanpeters/product-manager-skills/derisk-measurement-advisor)**
-- **[agent-orchestration-advisor](https://www.skills.sh/deanpeters/product-manager-skills/agent-orchestration-advisor)**
-- **[incoming-request-advisor](https://www.skills.sh/deanpeters/product-manager-skills/incoming-request-advisor)**
-- **[competitive-research-snapshot](https://www.skills.sh/deanpeters/product-manager-skills/competitive-research-snapshot)**
-- **[competitive-analysis-process](https://www.skills.sh/deanpeters/product-manager-skills/competitive-analysis-process)**
-- **[autonomous-investigation](https://www.skills.sh/deanpeters/product-manager-skills/autonomous-investigation)**
-- **[battle-card-builder](https://www.skills.sh/deanpeters/product-manager-skills/battle-card-builder)**
-- **[ansoff-matrix](https://www.skills.sh/deanpeters/product-manager-skills/ansoff-matrix)**
-- **[competitive-intel-watch](https://www.skills.sh/deanpeters/product-manager-skills/competitive-intel-watch)**
-- **[intelligence-collection-disciplines](https://www.skills.sh/deanpeters/product-manager-skills/intelligence-collection-disciplines)**
-- **[intel-discipline-advisor](https://www.skills.sh/deanpeters/product-manager-skills/intel-discipline-advisor)**
-- **[market-landscape-scan](https://www.skills.sh/deanpeters/product-manager-skills/market-landscape-scan)**
-- **[eol-checklist](https://www.skills.sh/deanpeters/product-manager-skills/eol-checklist)**
-- **[eol-internal-enablement](https://www.skills.sh/deanpeters/product-manager-skills/eol-internal-enablement)**
-- **[eol-process](https://www.skills.sh/deanpeters/product-manager-skills/eol-process)**
-- **[eol-stakeholder-sequence](https://www.skills.sh/deanpeters/product-manager-skills/eol-stakeholder-sequence)**
-- **[eol-readiness-advisor](https://www.skills.sh/deanpeters/product-manager-skills/eol-readiness-advisor)**
-- **[pestel-delta-monitor](https://www.skills.sh/deanpeters/product-manager-skills/pestel-delta-monitor)**
-- **[porters-five-forces](https://www.skills.sh/deanpeters/product-manager-skills/porters-five-forces)**
-- **[stakeholder-mapping](https://www.skills.sh/deanpeters/product-manager-skills/stakeholder-mapping)**
-- **[pricing-packaging-tracker](https://www.skills.sh/deanpeters/product-manager-skills/pricing-packaging-tracker)**
-- **[stakeholder-engagement-advisor](https://www.skills.sh/deanpeters/product-manager-skills/stakeholder-engagement-advisor)**
-- **[stakeholder-identification](https://www.skills.sh/deanpeters/product-manager-skills/stakeholder-identification)**
-- **[lifecycle-play-advisor](https://www.skills.sh/deanpeters/product-manager-skills/lifecycle-play-advisor)**
-- **[voice-of-customer-miner](https://www.skills.sh/deanpeters/product-manager-skills/voice-of-customer-miner)**
-- **[swot-analysis](https://www.skills.sh/deanpeters/product-manager-skills/swot-analysis)**
-- **[product-lifecycle-plays](https://www.skills.sh/deanpeters/product-manager-skills/product-lifecycle-plays)**
+- **[user-story](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/user-story/SKILL.md)**
+- **[roadmap-planning](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/roadmap-planning/SKILL.md)**
+- **[company-research](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/company-research/SKILL.md)**
+- **[discovery-process](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/discovery-process/SKILL.md)**
+- **[jobs-to-be-done](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/jobs-to-be-done/SKILL.md)**
+- **[prioritization-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/prioritization-advisor/SKILL.md)**
+- **[discovery-interview-prep](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/discovery-interview-prep/SKILL.md)**
+- **[product-strategy-session](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/product-strategy-session/SKILL.md)**
+- **[customer-journey-map](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/customer-journey-map/SKILL.md)**
+- **[epic-breakdown-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/epic-breakdown-advisor/SKILL.md)**
+- **[epic-hypothesis](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/epic-hypothesis/SKILL.md)**
+- **[business-health-diagnostic](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/business-health-diagnostic/SKILL.md)**
+- **[opportunity-solution-tree](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/opportunity-solution-tree/SKILL.md)**
+- **[feature-investment-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/feature-investment-advisor/SKILL.md)**
+- **[finance-based-pricing-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/finance-based-pricing-advisor/SKILL.md)**
+- **[context-engineering-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/context-engineering-advisor/SKILL.md)**
+- **[customer-journey-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/customer-journey-mapping-workshop/SKILL.md)**
+- **[user-story-mapping](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/user-story-mapping/SKILL.md)**
+- **[acquisition-channel-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/acquisition-channel-advisor/SKILL.md)**
+- **[lean-ux-canvas](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/lean-ux-canvas/SKILL.md)**
+- **[ai-shaped-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/ai-shaped-readiness-advisor/SKILL.md)**
+- **[finance-metrics-quickref](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/finance-metrics-quickref/SKILL.md)**
+- **[problem-framing-canvas](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/problem-framing-canvas/SKILL.md)**
+- **[problem-statement](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/problem-statement/SKILL.md)**
+- **[altitude-horizon-framework](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/altitude-horizon-framework/SKILL.md)**
+- **[eol-message](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-message/SKILL.md)**
+- **[storyboard](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/storyboard/SKILL.md)**
+- **[positioning-statement](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/positioning-statement/SKILL.md)**
+- **[director-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/director-readiness-advisor/SKILL.md)**
+- **[executive-onboarding-playbook](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/executive-onboarding-playbook/SKILL.md)**
+- **[user-story-splitting](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/user-story-splitting/SKILL.md)**
+- **[positioning-workshop](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/positioning-workshop/SKILL.md)**
+- **[pestel-analysis](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pestel-analysis/SKILL.md)**
+- **[press-release](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/press-release/SKILL.md)**
+- **[pol-probe](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pol-probe/SKILL.md)**
+- **[pol-probe-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pol-probe-advisor/SKILL.md)**
+- **[saas-revenue-growth-metrics](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/saas-revenue-growth-metrics/SKILL.md)**
+- **[workshop-facilitation](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/workshop-facilitation/SKILL.md)**
+- **[proto-persona](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/proto-persona/SKILL.md)**
+- **[saas-economics-efficiency-metrics](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/saas-economics-efficiency-metrics/SKILL.md)**
+- **[tam-sam-som-calculator](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/tam-sam-som-calculator/SKILL.md)**
+- **[user-story-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/user-story-mapping-workshop/SKILL.md)**
+- **[recommendation-canvas](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/recommendation-canvas/SKILL.md)**
+- **[skill-authoring-workflow](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/skill-authoring-workflow/SKILL.md)**
+- **[vp-cpo-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/vp-cpo-readiness-advisor/SKILL.md)**
+- **[product-sense-interview-answer](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/product-sense-interview-answer/SKILL.md)**
+- **[organic-growth-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/organic-growth-advisor/SKILL.md)**
+- **[pm-skill-creator](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pm-skill-creator/SKILL.md)**
+- **[company-intel](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/company-intel/SKILL.md)**
+- **[derisk-measurement-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/derisk-measurement-advisor/SKILL.md)**
+- **[agent-orchestration-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/agent-orchestration-advisor/SKILL.md)**
+- **[incoming-request-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/incoming-request-advisor/SKILL.md)**
+- **[competitive-research-snapshot](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/competitive-research-snapshot/SKILL.md)**
+- **[competitive-analysis-process](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/competitive-analysis-process/SKILL.md)**
+- **[autonomous-investigation](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/autonomous-investigation/SKILL.md)**
+- **[battle-card-builder](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/battle-card-builder/SKILL.md)**
+- **[ansoff-matrix](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/ansoff-matrix/SKILL.md)**
+- **[competitive-intel-watch](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/competitive-intel-watch/SKILL.md)**
+- **[intelligence-collection-disciplines](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/intelligence-collection-disciplines/SKILL.md)**
+- **[intel-discipline-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/intel-discipline-advisor/SKILL.md)**
+- **[market-landscape-scan](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/market-landscape-scan/SKILL.md)**
+- **[eol-checklist](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-checklist/SKILL.md)**
+- **[eol-internal-enablement](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-internal-enablement/SKILL.md)**
+- **[eol-process](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-process/SKILL.md)**
+- **[eol-stakeholder-sequence](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-stakeholder-sequence/SKILL.md)**
+- **[eol-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/eol-readiness-advisor/SKILL.md)**
+- **[pestel-delta-monitor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pestel-delta-monitor/SKILL.md)**
+- **[porters-five-forces](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/porters-five-forces/SKILL.md)**
+- **[stakeholder-mapping](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/stakeholder-mapping/SKILL.md)**
+- **[pricing-packaging-tracker](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/pricing-packaging-tracker/SKILL.md)**
+- **[stakeholder-engagement-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/stakeholder-engagement-advisor/SKILL.md)**
+- **[stakeholder-identification](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/stakeholder-identification/SKILL.md)**
+- **[lifecycle-play-advisor](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/lifecycle-play-advisor/SKILL.md)**
+- **[voice-of-customer-miner](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/voice-of-customer-miner/SKILL.md)**
+- **[swot-analysis](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/swot-analysis/SKILL.md)**
+- **[product-lifecycle-plays](https://github.com/deanpeters/Product-Manager-Skills/blob/HEAD/skills/product-lifecycle-plays/SKILL.md)**
 
-<a id="full-product-product-on-purposepm-skills--54"></a>
-#### product-on-purpose/pm-skills · 54
+<a id="full-product-product-on-purposepm-skills--51"></a>
+#### product-on-purpose/pm-skills · 51
 
-- **[discover-competitive-analysis](https://www.skills.sh/product-on-purpose/pm-skills/discover-competitive-analysis)**
-- **[develop-adr](https://www.skills.sh/product-on-purpose/pm-skills/develop-adr)**
-- **[deliver-launch-checklist](https://www.skills.sh/product-on-purpose/pm-skills/deliver-launch-checklist)**
-- **[measure-dashboard-requirements](https://www.skills.sh/product-on-purpose/pm-skills/measure-dashboard-requirements)**
-- **[measure-experiment-results](https://www.skills.sh/product-on-purpose/pm-skills/measure-experiment-results)**
-- **[iterate-retrospective](https://www.skills.sh/product-on-purpose/pm-skills/iterate-retrospective)**
-- **[utility-mermaid-diagrams](https://www.skills.sh/product-on-purpose/pm-skills/utility-mermaid-diagrams)**
-- **[discover-stakeholder-summary](https://www.skills.sh/product-on-purpose/pm-skills/discover-stakeholder-summary)**
-- **[develop-spike-summary](https://www.skills.sh/product-on-purpose/pm-skills/develop-spike-summary)**
-- **[iterate-pivot-decision](https://www.skills.sh/product-on-purpose/pm-skills/iterate-pivot-decision)**
-- **[iterate-lessons-log](https://www.skills.sh/product-on-purpose/pm-skills/iterate-lessons-log)**
-- **[utility-slideshow-creator](https://www.skills.sh/product-on-purpose/pm-skills/utility-slideshow-creator)**
-- **[iterate-refinement-notes](https://www.skills.sh/product-on-purpose/pm-skills/iterate-refinement-notes)**
-- **[utility-pm-skill-builder](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-skill-builder)**
-- **[foundation-meeting-agenda](https://www.skills.sh/product-on-purpose/pm-skills/foundation-meeting-agenda)**
-- **[foundation-stakeholder-update](https://www.skills.sh/product-on-purpose/pm-skills/foundation-stakeholder-update)**
-- **[foundation-meeting-recap](https://www.skills.sh/product-on-purpose/pm-skills/foundation-meeting-recap)**
-- **[foundation-meeting-synthesize](https://www.skills.sh/product-on-purpose/pm-skills/foundation-meeting-synthesize)**
-- **[utility-pm-skill-validate](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-skill-validate)**
-- **[utility-pm-skill-iterate](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-skill-iterate)**
-- **[foundation-meeting-brief](https://www.skills.sh/product-on-purpose/pm-skills/foundation-meeting-brief)**
-- **[utility-update-pm-skills](https://www.skills.sh/product-on-purpose/pm-skills/utility-update-pm-skills)**
-- **[measure-okr-grader](https://www.skills.sh/product-on-purpose/pm-skills/measure-okr-grader)**
-- **[define-prioritization-framework](https://www.skills.sh/product-on-purpose/pm-skills/define-prioritization-framework)**
-- **[discover-journey-map](https://www.skills.sh/product-on-purpose/pm-skills/discover-journey-map)**
-- **[measure-survey-analysis](https://www.skills.sh/product-on-purpose/pm-skills/measure-survey-analysis)**
-- **[utility-pm-critic](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-critic)**
-- **[tool-note-and-vote](https://www.skills.sh/product-on-purpose/pm-skills/tool-note-and-vote)**
-- **[tool-foundation-sprint-founding-hypothesis](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-founding-hypothesis)**
-- **[tool-foundation-sprint-brief](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-brief)**
-- **[tool-foundation-sprint-differentiation](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-differentiation)**
-- **[tool-foundation-sprint-approach-options](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-approach-options)**
-- **[tool-design-sprint-decide-and-storyboard](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-decide-and-storyboard)**
-- **[tool-design-sprint-map-and-target](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-map-and-target)**
-- **[tool-design-sprint-test-and-score](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-test-and-score)**
-- **[tool-foundation-sprint-magic-lenses](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-magic-lenses)**
-- **[tool-design-sprint-prototype-plan](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-prototype-plan)**
-- **[tool-foundation-sprint-basics](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-basics)**
-- **[discover-market-sizing](https://www.skills.sh/product-on-purpose/pm-skills/discover-market-sizing)**
-- **[tool-design-sprint-readiness](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-readiness)**
-- **[tool-design-sprint-brief](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-brief)**
-- **[tool-foundation-sprint-readiness](https://www.skills.sh/product-on-purpose/pm-skills/tool-foundation-sprint-readiness)**
-- **[tool-design-sprint-sketch](https://www.skills.sh/product-on-purpose/pm-skills/tool-design-sprint-sketch)**
-- **[utility-pm-skill-auditor](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-skill-auditor)**
-- **[utility-pm-changelog-curator](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-changelog-curator)**
-- **[utility-pm-release-conductor](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-release-conductor)**
-- **[foundation-prioritized-action-plan](https://www.skills.sh/product-on-purpose/pm-skills/foundation-prioritized-action-plan)**
-- **[utility-pm-workflow-orchestrator](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-workflow-orchestrator)**
-- **[utility-pm-workflow-builder](https://www.skills.sh/product-on-purpose/pm-skills/utility-pm-workflow-builder)**
-- **[foundation-build-risk-review](https://www.skills.sh/product-on-purpose/pm-skills/foundation-build-risk-review)**
-- **[foundation-stakeholder-briefings](https://www.skills.sh/product-on-purpose/pm-skills/foundation-stakeholder-briefings)**
-- **[init-project](https://www.skills.sh/product-on-purpose/pm-skills/init-project)**
-- **[wrap-session](https://www.skills.sh/product-on-purpose/pm-skills/wrap-session)**
-- **[init-project-jpkb](https://www.skills.sh/product-on-purpose/pm-skills/init-project-jpkb)**
+- **[discover-competitive-analysis](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/discover-competitive-analysis/SKILL.md)**
+- **[develop-adr](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/develop-adr/SKILL.md)**
+- **[deliver-launch-checklist](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-launch-checklist/SKILL.md)**
+- **[measure-dashboard-requirements](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-dashboard-requirements/SKILL.md)**
+- **[measure-experiment-results](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-experiment-results/SKILL.md)**
+- **[iterate-retrospective](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/iterate-retrospective/SKILL.md)**
+- **[utility-mermaid-diagrams](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-mermaid-diagrams/SKILL.md)**
+- **[discover-stakeholder-summary](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/discover-stakeholder-summary/SKILL.md)**
+- **[develop-spike-summary](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/develop-spike-summary/SKILL.md)**
+- **[iterate-pivot-decision](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/iterate-pivot-decision/SKILL.md)**
+- **[iterate-lessons-log](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/iterate-lessons-log/SKILL.md)**
+- **[utility-slideshow-creator](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-slideshow-creator/SKILL.md)**
+- **[iterate-refinement-notes](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/iterate-refinement-notes/SKILL.md)**
+- **[utility-pm-skill-builder](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-skill-builder/SKILL.md)**
+- **[foundation-meeting-agenda](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-meeting-agenda/SKILL.md)**
+- **[foundation-stakeholder-update](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-stakeholder-update/SKILL.md)**
+- **[foundation-meeting-recap](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-meeting-recap/SKILL.md)**
+- **[foundation-meeting-synthesize](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-meeting-synthesize/SKILL.md)**
+- **[utility-pm-skill-validate](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-skill-validate/SKILL.md)**
+- **[utility-pm-skill-iterate](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-skill-iterate/SKILL.md)**
+- **[foundation-meeting-brief](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-meeting-brief/SKILL.md)**
+- **[utility-update-pm-skills](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-update-pm-skills/SKILL.md)**
+- **[measure-okr-grader](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-okr-grader/SKILL.md)**
+- **[define-prioritization-framework](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/define-prioritization-framework/SKILL.md)**
+- **[discover-journey-map](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/discover-journey-map/SKILL.md)**
+- **[measure-survey-analysis](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/measure-survey-analysis/SKILL.md)**
+- **[utility-pm-critic](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-critic/SKILL.md)**
+- **[tool-note-and-vote](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-note-and-vote/SKILL.md)**
+- **[tool-foundation-sprint-founding-hypothesis](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-founding-hypothesis/SKILL.md)**
+- **[tool-foundation-sprint-brief](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-brief/SKILL.md)**
+- **[tool-foundation-sprint-differentiation](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-differentiation/SKILL.md)**
+- **[tool-foundation-sprint-approach-options](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-approach-options/SKILL.md)**
+- **[tool-design-sprint-decide-and-storyboard](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-decide-and-storyboard/SKILL.md)**
+- **[tool-design-sprint-map-and-target](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-map-and-target/SKILL.md)**
+- **[tool-design-sprint-test-and-score](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-test-and-score/SKILL.md)**
+- **[tool-foundation-sprint-magic-lenses](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-magic-lenses/SKILL.md)**
+- **[tool-design-sprint-prototype-plan](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-prototype-plan/SKILL.md)**
+- **[tool-foundation-sprint-basics](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-basics/SKILL.md)**
+- **[discover-market-sizing](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/discover-market-sizing/SKILL.md)**
+- **[tool-design-sprint-readiness](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-readiness/SKILL.md)**
+- **[tool-design-sprint-brief](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-brief/SKILL.md)**
+- **[tool-foundation-sprint-readiness](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-foundation-sprint-readiness/SKILL.md)**
+- **[tool-design-sprint-sketch](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/tool-design-sprint-sketch/SKILL.md)**
+- **[utility-pm-skill-auditor](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-skill-auditor/SKILL.md)**
+- **[utility-pm-changelog-curator](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-changelog-curator/SKILL.md)**
+- **[utility-pm-release-conductor](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-release-conductor/SKILL.md)**
+- **[foundation-prioritized-action-plan](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-prioritized-action-plan/SKILL.md)**
+- **[utility-pm-workflow-orchestrator](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-workflow-orchestrator/SKILL.md)**
+- **[utility-pm-workflow-builder](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/utility-pm-workflow-builder/SKILL.md)**
+- **[foundation-build-risk-review](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-build-risk-review/SKILL.md)**
+- **[foundation-stakeholder-briefings](https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/foundation-stakeholder-briefings/SKILL.md)**
 
 <a id="full-product-addyosmaniagent-skills--5"></a>
 #### addyosmani/agent-skills · 5
 
-- **[code-simplification](https://www.skills.sh/addyosmani/agent-skills/code-simplification)**
-- **[api-and-interface-design](https://www.skills.sh/addyosmani/agent-skills/api-and-interface-design)**
-- **[git-workflow-and-versioning](https://www.skills.sh/addyosmani/agent-skills/git-workflow-and-versioning)**
-- **[using-agent-skills](https://www.skills.sh/addyosmani/agent-skills/using-agent-skills)**
-- **[deprecation-and-migration](https://www.skills.sh/addyosmani/agent-skills/deprecation-and-migration)**
+- **[code-simplification](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/code-simplification/SKILL.md)**
+- **[api-and-interface-design](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/api-and-interface-design/SKILL.md)**
+- **[git-workflow-and-versioning](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/git-workflow-and-versioning/SKILL.md)**
+- **[using-agent-skills](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/using-agent-skills/SKILL.md)**
+- **[deprecation-and-migration](https://github.com/addyosmani/agent-skills/blob/HEAD/skills/deprecation-and-migration/SKILL.md)**
 
 [Back to contents](#contents)
 
@@ -3973,666 +3962,621 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 <a id="full-ops-anthropicsknowledge-work-plugins--254"></a>
 #### anthropics/knowledge-work-plugins · 254
 
-- **[code-review](https://www.skills.sh/anthropics/knowledge-work-plugins/code-review)**
-- **[memory-management](https://www.skills.sh/anthropics/knowledge-work-plugins/memory-management)**
-- **[architecture](https://www.skills.sh/anthropics/knowledge-work-plugins/architecture)**
-- **[view-pdf](https://www.skills.sh/anthropics/knowledge-work-plugins/view-pdf)**
-- **[product-brainstorming](https://www.skills.sh/anthropics/knowledge-work-plugins/product-brainstorming)**
-- **[design-critique](https://www.skills.sh/anthropics/knowledge-work-plugins/design-critique)**
-- **[standup](https://www.skills.sh/anthropics/knowledge-work-plugins/standup)**
-- **[source-management](https://www.skills.sh/anthropics/knowledge-work-plugins/source-management)**
-- **[content-creation](https://www.skills.sh/anthropics/knowledge-work-plugins/content-creation)**
-- **[update](https://www.skills.sh/anthropics/knowledge-work-plugins/update)**
-- **[start](https://www.skills.sh/anthropics/knowledge-work-plugins/start)**
-- **[statistical-analysis](https://www.skills.sh/anthropics/knowledge-work-plugins/statistical-analysis)**
-- **[financial-statements](https://www.skills.sh/anthropics/knowledge-work-plugins/financial-statements)**
-- **[competitive-intelligence](https://www.skills.sh/anthropics/knowledge-work-plugins/competitive-intelligence)**
-- **[sql-queries](https://www.skills.sh/anthropics/knowledge-work-plugins/sql-queries)**
-- **[design-system](https://www.skills.sh/anthropics/knowledge-work-plugins/design-system)**
-- **[accessibility-review](https://www.skills.sh/anthropics/knowledge-work-plugins/accessibility-review)**
-- **[research-synthesis](https://www.skills.sh/anthropics/knowledge-work-plugins/research-synthesis)**
-- **[user-research](https://www.skills.sh/anthropics/knowledge-work-plugins/user-research)**
-- **[slack-messaging](https://www.skills.sh/anthropics/knowledge-work-plugins/slack-messaging)**
-- **[review-contract](https://www.skills.sh/anthropics/knowledge-work-plugins/review-contract)**
-- **[validate-data](https://www.skills.sh/anthropics/knowledge-work-plugins/validate-data)**
-- **[seo-audit](https://www.skills.sh/anthropics/knowledge-work-plugins/seo-audit)**
-- **[design-handoff](https://www.skills.sh/anthropics/knowledge-work-plugins/design-handoff)**
-- **[interview-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/interview-prep)**
-- **[write-spec](https://www.skills.sh/anthropics/knowledge-work-plugins/write-spec)**
-- **[reconciliation](https://www.skills.sh/anthropics/knowledge-work-plugins/reconciliation)**
-- **[legal-response](https://www.skills.sh/anthropics/knowledge-work-plugins/legal-response)**
-- **[account-research](https://www.skills.sh/anthropics/knowledge-work-plugins/account-research)**
-- **[competitive-brief](https://www.skills.sh/anthropics/knowledge-work-plugins/competitive-brief)**
-- **[risk-assessment](https://www.skills.sh/anthropics/knowledge-work-plugins/risk-assessment)**
-- **[variance-analysis](https://www.skills.sh/anthropics/knowledge-work-plugins/variance-analysis)**
-- **[compliance-check](https://www.skills.sh/anthropics/knowledge-work-plugins/compliance-check)**
-- **[draft-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/draft-outreach)**
-- **[campaign-plan](https://www.skills.sh/anthropics/knowledge-work-plugins/campaign-plan)**
-- **[performance-review](https://www.skills.sh/anthropics/knowledge-work-plugins/performance-review)**
-- **[daily-briefing](https://www.skills.sh/anthropics/knowledge-work-plugins/daily-briefing)**
-- **[brand-review](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-review)**
-- **[process-optimization](https://www.skills.sh/anthropics/knowledge-work-plugins/process-optimization)**
-- **[slack-search](https://www.skills.sh/anthropics/knowledge-work-plugins/slack-search)**
-- **[audit-support](https://www.skills.sh/anthropics/knowledge-work-plugins/audit-support)**
-- **[sprint-planning](https://www.skills.sh/anthropics/knowledge-work-plugins/sprint-planning)**
-- **[runbook](https://www.skills.sh/anthropics/knowledge-work-plugins/runbook)**
-- **[roadmap-update](https://www.skills.sh/anthropics/knowledge-work-plugins/roadmap-update)**
-- **[status-report](https://www.skills.sh/anthropics/knowledge-work-plugins/status-report)**
-- **[data-context-extractor](https://www.skills.sh/anthropics/knowledge-work-plugins/data-context-extractor)**
-- **[customer-research](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-research)**
-- **[synthesize-research](https://www.skills.sh/anthropics/knowledge-work-plugins/synthesize-research)**
-- **[close-management](https://www.skills.sh/anthropics/knowledge-work-plugins/close-management)**
-- **[performance-report](https://www.skills.sh/anthropics/knowledge-work-plugins/performance-report)**
-- **[call-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/call-prep)**
-- **[process-doc](https://www.skills.sh/anthropics/knowledge-work-plugins/process-doc)**
-- **[forecast](https://www.skills.sh/anthropics/knowledge-work-plugins/forecast)**
-- **[journal-entry-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/journal-entry-prep)**
-- **[write-query](https://www.skills.sh/anthropics/knowledge-work-plugins/write-query)**
-- **[ticket-triage](https://www.skills.sh/anthropics/knowledge-work-plugins/ticket-triage)**
-- **[meeting-briefing](https://www.skills.sh/anthropics/knowledge-work-plugins/meeting-briefing)**
-- **[compliance-tracking](https://www.skills.sh/anthropics/knowledge-work-plugins/compliance-tracking)**
-- **[stakeholder-update](https://www.skills.sh/anthropics/knowledge-work-plugins/stakeholder-update)**
-- **[guideline-generation](https://www.skills.sh/anthropics/knowledge-work-plugins/guideline-generation)**
-- **[metrics-review](https://www.skills.sh/anthropics/knowledge-work-plugins/metrics-review)**
-- **[draft-content](https://www.skills.sh/anthropics/knowledge-work-plugins/draft-content)**
-- **[email-sequence](https://www.skills.sh/anthropics/knowledge-work-plugins/email-sequence)**
-- **[create-an-asset](https://www.skills.sh/anthropics/knowledge-work-plugins/create-an-asset)**
-- **[recruiting-pipeline](https://www.skills.sh/anthropics/knowledge-work-plugins/recruiting-pipeline)**
-- **[discover-brand](https://www.skills.sh/anthropics/knowledge-work-plugins/discover-brand)**
-- **[enrich-lead](https://www.skills.sh/anthropics/knowledge-work-plugins/enrich-lead)**
-- **[org-planning](https://www.skills.sh/anthropics/knowledge-work-plugins/org-planning)**
-- **[call-summary](https://www.skills.sh/anthropics/knowledge-work-plugins/call-summary)**
-- **[prospect](https://www.skills.sh/anthropics/knowledge-work-plugins/prospect)**
-- **[customer-escalation](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-escalation)**
-- **[change-request](https://www.skills.sh/anthropics/knowledge-work-plugins/change-request)**
-- **[create-cowork-plugin](https://www.skills.sh/anthropics/knowledge-work-plugins/create-cowork-plugin)**
-- **[contact-research](https://www.skills.sh/anthropics/knowledge-work-plugins/contact-research)**
-- **[vendor-review](https://www.skills.sh/anthropics/knowledge-work-plugins/vendor-review)**
-- **[capacity-plan](https://www.skills.sh/anthropics/knowledge-work-plugins/capacity-plan)**
-- **[comp-analysis](https://www.skills.sh/anthropics/knowledge-work-plugins/comp-analysis)**
-- **[cowork-plugin-customizer](https://www.skills.sh/anthropics/knowledge-work-plugins/cowork-plugin-customizer)**
-- **[kb-article](https://www.skills.sh/anthropics/knowledge-work-plugins/kb-article)**
-- **[brief](https://www.skills.sh/anthropics/knowledge-work-plugins/brief)**
-- **[vendor-check](https://www.skills.sh/anthropics/knowledge-work-plugins/vendor-check)**
-- **[policy-lookup](https://www.skills.sh/anthropics/knowledge-work-plugins/policy-lookup)**
-- **[pipeline-review](https://www.skills.sh/anthropics/knowledge-work-plugins/pipeline-review)**
-- **[triage-nda](https://www.skills.sh/anthropics/knowledge-work-plugins/triage-nda)**
-- **[onboarding](https://www.skills.sh/anthropics/knowledge-work-plugins/onboarding)**
-- **[journal-entry](https://www.skills.sh/anthropics/knowledge-work-plugins/journal-entry)**
-- **[digest](https://www.skills.sh/anthropics/knowledge-work-plugins/digest)**
-- **[draft-response](https://www.skills.sh/anthropics/knowledge-work-plugins/draft-response)**
-- **[weekly-prep-brief](https://www.skills.sh/anthropics/knowledge-work-plugins/weekly-prep-brief)**
-- **[people-report](https://www.skills.sh/anthropics/knowledge-work-plugins/people-report)**
-- **[signature-request](https://www.skills.sh/anthropics/knowledge-work-plugins/signature-request)**
-- **[sox-testing](https://www.skills.sh/anthropics/knowledge-work-plugins/sox-testing)**
-- **[sequence-load](https://www.skills.sh/anthropics/knowledge-work-plugins/sequence-load)**
-- **[draft-offer](https://www.skills.sh/anthropics/knowledge-work-plugins/draft-offer)**
-- **[contract-review](https://www.skills.sh/anthropics/knowledge-work-plugins/contract-review)**
-- **[scientific-problem-selection](https://www.skills.sh/anthropics/knowledge-work-plugins/scientific-problem-selection)**
-- **[single-cell-rna-qc](https://www.skills.sh/anthropics/knowledge-work-plugins/single-cell-rna-qc)**
-- **[nextflow-development](https://www.skills.sh/anthropics/knowledge-work-plugins/nextflow-development)**
-- **[scvi-tools](https://www.skills.sh/anthropics/knowledge-work-plugins/scvi-tools)**
-- **[instrument-data-to-allotrope](https://www.skills.sh/anthropics/knowledge-work-plugins/instrument-data-to-allotrope)**
-- **[design-mcp-workflow](https://www.skills.sh/anthropics/knowledge-work-plugins/design-mcp-workflow)**
-- **[zoom-mcp](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-mcp)**
-- **[build-zoom-rest-api-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-rest-api-app)**
-- **[scribe](https://www.skills.sh/anthropics/knowledge-work-plugins/scribe)**
-- **[plan-zoom-product](https://www.skills.sh/anthropics/knowledge-work-plugins/plan-zoom-product)**
-- **[build-zoom-phone-integration](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-phone-integration)**
-- **[probe-sdk](https://www.skills.sh/anthropics/knowledge-work-plugins/probe-sdk)**
-- **[rivet-sdk](https://www.skills.sh/anthropics/knowledge-work-plugins/rivet-sdk)**
-- **[setup-zoom-oauth](https://www.skills.sh/anthropics/knowledge-work-plugins/setup-zoom-oauth)**
-- **[build-zoom-meeting-sdk-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-meeting-sdk-app)**
-- **[choose-zoom-approach](https://www.skills.sh/anthropics/knowledge-work-plugins/choose-zoom-approach)**
-- **[build-zoom-bot](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-bot)**
-- **[setup-zoom-websockets](https://www.skills.sh/anthropics/knowledge-work-plugins/setup-zoom-websockets)**
-- **[build-zoom-video-sdk-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-video-sdk-app)**
-- **[build-zoom-meeting-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-meeting-app)**
-- **[build-zoom-team-chat-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-team-chat-app)**
-- **[setup-zoom-webhooks](https://www.skills.sh/anthropics/knowledge-work-plugins/setup-zoom-webhooks)**
-- **[plan-zoom-integration](https://www.skills.sh/anthropics/knowledge-work-plugins/plan-zoom-integration)**
-- **[debug-zoom](https://www.skills.sh/anthropics/knowledge-work-plugins/debug-zoom)**
-- **[build-zoom-contact-center-app](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-contact-center-app)**
-- **[build-zoom-virtual-agent](https://www.skills.sh/anthropics/knowledge-work-plugins/build-zoom-virtual-agent)**
-- **[zoom-oauth](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-oauth)**
-- **[zoom-rtms](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-rtms)**
-- **[debug-zoom-integration](https://www.skills.sh/anthropics/knowledge-work-plugins/debug-zoom-integration)**
-- **[zoom-general](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-general)**
-- **[setup-zoom-mcp](https://www.skills.sh/anthropics/knowledge-work-plugins/setup-zoom-mcp)**
-- **[zoom-cobrowse-sdk](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-cobrowse-sdk)**
-- **[zoom-apps-sdk](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-apps-sdk)**
-- **[invoice-chase](https://www.skills.sh/anthropics/knowledge-work-plugins/invoice-chase)**
-- **[canva-creator](https://www.skills.sh/anthropics/knowledge-work-plugins/canva-creator)**
-- **[cash-flow-snapshot](https://www.skills.sh/anthropics/knowledge-work-plugins/cash-flow-snapshot)**
-- **[tax-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/tax-prep)**
-- **[content-strategy](https://www.skills.sh/anthropics/knowledge-work-plugins/content-strategy)**
-- **[plan-payroll](https://www.skills.sh/anthropics/knowledge-work-plugins/plan-payroll)**
-- **[close-month](https://www.skills.sh/anthropics/knowledge-work-plugins/close-month)**
-- **[business-pulse](https://www.skills.sh/anthropics/knowledge-work-plugins/business-pulse)**
-- **[job-post-builder](https://www.skills.sh/anthropics/knowledge-work-plugins/job-post-builder)**
-- **[month-end-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/month-end-prep)**
-- **[tax-season-organizer](https://www.skills.sh/anthropics/knowledge-work-plugins/tax-season-organizer)**
-- **[lead-triage](https://www.skills.sh/anthropics/knowledge-work-plugins/lead-triage)**
-- **[call-list](https://www.skills.sh/anthropics/knowledge-work-plugins/call-list)**
-- **[monday-brief](https://www.skills.sh/anthropics/knowledge-work-plugins/monday-brief)**
-- **[ticket-deflector](https://www.skills.sh/anthropics/knowledge-work-plugins/ticket-deflector)**
-- **[smb-onboard](https://www.skills.sh/anthropics/knowledge-work-plugins/smb-onboard)**
-- **[smb-router](https://www.skills.sh/anthropics/knowledge-work-plugins/smb-router)**
-- **[margin-analyzer](https://www.skills.sh/anthropics/knowledge-work-plugins/margin-analyzer)**
-- **[handle-complaint](https://www.skills.sh/anthropics/knowledge-work-plugins/handle-complaint)**
-- **[crm-cleanup](https://www.skills.sh/anthropics/knowledge-work-plugins/crm-cleanup)**
-- **[sales-brief](https://www.skills.sh/anthropics/knowledge-work-plugins/sales-brief)**
-- **[quarterly-review](https://www.skills.sh/anthropics/knowledge-work-plugins/quarterly-review)**
-- **[crm-maintenance](https://www.skills.sh/anthropics/knowledge-work-plugins/crm-maintenance)**
-- **[price-check](https://www.skills.sh/anthropics/knowledge-work-plugins/price-check)**
-- **[friday-brief](https://www.skills.sh/anthropics/knowledge-work-plugins/friday-brief)**
-- **[run-campaign](https://www.skills.sh/anthropics/knowledge-work-plugins/run-campaign)**
-- **[customer-pulse](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-pulse)**
-- **[month-heads-up](https://www.skills.sh/anthropics/knowledge-work-plugins/month-heads-up)**
-- **[customer-pulse-check](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-pulse-check)**
-- **[interactive-dashboard-builder](https://www.skills.sh/anthropics/knowledge-work-plugins/interactive-dashboard-builder)**
-- **[feature-spec](https://www.skills.sh/anthropics/knowledge-work-plugins/feature-spec)**
-- **[user-research-synthesis](https://www.skills.sh/anthropics/knowledge-work-plugins/user-research-synthesis)**
-- **[competitive-analysis](https://www.skills.sh/anthropics/knowledge-work-plugins/competitive-analysis)**
-- **[proposal-builder](https://www.skills.sh/anthropics/knowledge-work-plugins/proposal-builder)**
-- **[handle-objection](https://www.skills.sh/anthropics/knowledge-work-plugins/handle-objection)**
-- **[seo-ai-visibility](https://www.skills.sh/anthropics/knowledge-work-plugins/seo-ai-visibility)**
-- **[social-content-engine](https://www.skills.sh/anthropics/knowledge-work-plugins/social-content-engine)**
-- **[report-builder](https://www.skills.sh/anthropics/knowledge-work-plugins/report-builder)**
-- **[review-reputation](https://www.skills.sh/anthropics/knowledge-work-plugins/review-reputation)**
-- **[brand-style](https://www.skills.sh/anthropics/knowledge-work-plugins/brand-style)**
-- **[hiring-screener](https://www.skills.sh/anthropics/knowledge-work-plugins/hiring-screener)**
-- **[speed-to-lead](https://www.skills.sh/anthropics/knowledge-work-plugins/speed-to-lead)**
-- **[lead-finder](https://www.skills.sh/anthropics/knowledge-work-plugins/lead-finder)**
-- **[crm-hygiene-check](https://www.skills.sh/anthropics/knowledge-work-plugins/crm-hygiene-check)**
-- **[inbox-manager](https://www.skills.sh/anthropics/knowledge-work-plugins/inbox-manager)**
-- **[build-agent](https://www.skills.sh/anthropics/knowledge-work-plugins/build-agent)**
-- **[payroll-prep](https://www.skills.sh/anthropics/knowledge-work-plugins/payroll-prep)**
-- **[report-pack](https://www.skills.sh/anthropics/knowledge-work-plugins/report-pack)**
-- **[crm-autopilot](https://www.skills.sh/anthropics/knowledge-work-plugins/crm-autopilot)**
-- **[ap-processor](https://www.skills.sh/anthropics/knowledge-work-plugins/ap-processor)**
-- **[grant-rfp-writer](https://www.skills.sh/anthropics/knowledge-work-plugins/grant-rfp-writer)**
-- **[win-loss-review](https://www.skills.sh/anthropics/knowledge-work-plugins/win-loss-review)**
-- **[marketing-monday](https://www.skills.sh/anthropics/knowledge-work-plugins/marketing-monday)**
-- **[close-plan](https://www.skills.sh/anthropics/knowledge-work-plugins/close-plan)**
-- **[pay-the-bills](https://www.skills.sh/anthropics/knowledge-work-plugins/pay-the-bills)**
-- **[build-connector](https://www.skills.sh/anthropics/knowledge-work-plugins/build-connector)**
-- **[outreach-composer](https://www.skills.sh/anthropics/knowledge-work-plugins/outreach-composer)**
-- **[account-plan](https://www.skills.sh/anthropics/knowledge-work-plugins/account-plan)**
-- **[deal-review](https://www.skills.sh/anthropics/knowledge-work-plugins/deal-review)**
-- **[growth-pulse](https://www.skills.sh/anthropics/knowledge-work-plugins/growth-pulse)**
-- **[stakeholder-map](https://www.skills.sh/anthropics/knowledge-work-plugins/stakeholder-map)**
-- **[grow-pipeline](https://www.skills.sh/anthropics/knowledge-work-plugins/grow-pipeline)**
-- **[restock](https://www.skills.sh/anthropics/knowledge-work-plugins/restock)**
-- **[roadmap-management](https://www.skills.sh/anthropics/knowledge-work-plugins/roadmap-management)**
-- **[reactivate](https://www.skills.sh/anthropics/knowledge-work-plugins/reactivate)**
-- **[account-tiering](https://www.skills.sh/anthropics/knowledge-work-plugins/account-tiering)**
-- **[weekly-wrap](https://www.skills.sh/anthropics/knowledge-work-plugins/weekly-wrap)**
-- **[inbox-sweep](https://www.skills.sh/anthropics/knowledge-work-plugins/inbox-sweep)**
-- **[ad-manager](https://www.skills.sh/anthropics/knowledge-work-plugins/ad-manager)**
-- **[team-pipeline](https://www.skills.sh/anthropics/knowledge-work-plugins/team-pipeline)**
-- **[customer-health](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-health)**
-- **[expansion-whitespace](https://www.skills.sh/anthropics/knowledge-work-plugins/expansion-whitespace)**
-- **[customer-voice](https://www.skills.sh/anthropics/knowledge-work-plugins/customer-voice)**
-- **[account-context](https://www.skills.sh/anthropics/knowledge-work-plugins/account-context)**
-- **[schedule-meeting](https://www.skills.sh/anthropics/knowledge-work-plugins/schedule-meeting)**
-- **[deal-signals](https://www.skills.sh/anthropics/knowledge-work-plugins/deal-signals)**
-- **[deal-advance-gap](https://www.skills.sh/anthropics/knowledge-work-plugins/deal-advance-gap)**
-- **[route-lead](https://www.skills.sh/anthropics/knowledge-work-plugins/route-lead)**
-- **[end-of-day](https://www.skills.sh/anthropics/knowledge-work-plugins/end-of-day)**
-- **[setup](https://www.skills.sh/anthropics/knowledge-work-plugins/setup)**
-- **[update-opportunity](https://www.skills.sh/anthropics/knowledge-work-plugins/update-opportunity)**
-- **[deal-slip-scenario](https://www.skills.sh/anthropics/knowledge-work-plugins/deal-slip-scenario)**
-- **[renewal-radar](https://www.skills.sh/anthropics/knowledge-work-plugins/renewal-radar)**
-- **[log-activity](https://www.skills.sh/anthropics/knowledge-work-plugins/log-activity)**
-- **[rep-context](https://www.skills.sh/anthropics/knowledge-work-plugins/rep-context)**
-- **[knowledge-management](https://www.skills.sh/anthropics/knowledge-work-plugins/knowledge-management)**
-- **[metrics-tracking](https://www.skills.sh/anthropics/knowledge-work-plugins/metrics-tracking)**
-- **[data-validation](https://www.skills.sh/anthropics/knowledge-work-plugins/data-validation)**
-- **[performance-analytics](https://www.skills.sh/anthropics/knowledge-work-plugins/performance-analytics)**
-- **[stakeholder-comms](https://www.skills.sh/anthropics/knowledge-work-plugins/stakeholder-comms)**
-- **[data-exploration](https://www.skills.sh/anthropics/knowledge-work-plugins/data-exploration)**
-- **[campaign-planning](https://www.skills.sh/anthropics/knowledge-work-plugins/campaign-planning)**
-- **[compliance](https://www.skills.sh/anthropics/knowledge-work-plugins/compliance)**
-- **[response-drafting](https://www.skills.sh/anthropics/knowledge-work-plugins/response-drafting)**
-- **[nda-triage](https://www.skills.sh/anthropics/knowledge-work-plugins/nda-triage)**
-- **[escalation](https://www.skills.sh/anthropics/knowledge-work-plugins/escalation)**
-- **[canned-responses](https://www.skills.sh/anthropics/knowledge-work-plugins/canned-responses)**
-- **[ux-writing](https://www.skills.sh/anthropics/knowledge-work-plugins/ux-writing)**
-- **[design-system-management](https://www.skills.sh/anthropics/knowledge-work-plugins/design-system-management)**
-- **[change-management](https://www.skills.sh/anthropics/knowledge-work-plugins/change-management)**
-- **[people-analytics](https://www.skills.sh/anthropics/knowledge-work-plugins/people-analytics)**
-- **[resource-planning](https://www.skills.sh/anthropics/knowledge-work-plugins/resource-planning)**
-- **[vendor-management](https://www.skills.sh/anthropics/knowledge-work-plugins/vendor-management)**
-- **[compensation-benchmarking](https://www.skills.sh/anthropics/knowledge-work-plugins/compensation-benchmarking)**
-- **[employee-handbook](https://www.skills.sh/anthropics/knowledge-work-plugins/employee-handbook)**
-- **[zoom-meeting-sdk-electron](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-electron)**
-- **[zoom-video-sdk-react-native](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-react-native)**
-- **[zoom-meeting-sdk-react-native](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-react-native)**
-- **[zoom-meeting-sdk-macos](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-macos)**
-- **[zoom-meeting-sdk-windows](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-windows)**
-- **[zoom-video-sdk-android](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-android)**
-- **[zoom-video-sdk-ios](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-ios)**
-- **[zoom-video-sdk-unity](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-unity)**
-- **[zoom-meeting-sdk-unreal](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-unreal)**
-- **[zoom-video-sdk-macos](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-macos)**
-- **[zoom-meeting-sdk-web](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-web)**
-- **[zoom-meeting-sdk-ios](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-ios)**
-- **[zoom-video-sdk-flutter](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-video-sdk-flutter)**
-- **[zoom-meeting-sdk-android](https://www.skills.sh/anthropics/knowledge-work-plugins/zoom-meeting-sdk-android)**
-- **[clinical-trial-protocol-skill](https://www.skills.sh/anthropics/knowledge-work-plugins/clinical-trial-protocol-skill)**
-- **[whiteboard](https://www.skills.sh/anthropics/knowledge-work-plugins/whiteboard)**
-- **[windows](https://www.skills.sh/anthropics/knowledge-work-plugins/windows)**
-- **[web](https://www.skills.sh/anthropics/knowledge-work-plugins/web)**
-- **[linux](https://www.skills.sh/anthropics/knowledge-work-plugins/linux)**
-- **[ios](https://www.skills.sh/anthropics/knowledge-work-plugins/ios)**
-- **[android](https://www.skills.sh/anthropics/knowledge-work-plugins/android)**
+- **[code-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/code-review/SKILL.md)**
+- **[memory-management](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/productivity/skills/memory-management/SKILL.md)**
+- **[architecture](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/architecture/SKILL.md)**
+- **[view-pdf](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/pdf-viewer/skills/view-pdf/SKILL.md)**
+- **[product-brainstorming](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/product-brainstorming/SKILL.md)**
+- **[design-critique](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/design-critique/SKILL.md)**
+- **[standup](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/engineering/skills/standup/SKILL.md)**
+- **[source-management](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/enterprise-search/skills/source-management/SKILL.md)**
+- **[content-creation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/content-creation/SKILL.md)**
+- **[update](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/productivity/skills/update/SKILL.md)**
+- **[start](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/start/SKILL.md)**
+- **[statistical-analysis](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/statistical-analysis/SKILL.md)**
+- **[financial-statements](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/financial-statements/SKILL.md)**
+- **[competitive-intelligence](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/competitive-intelligence/SKILL.md)**
+- **[sql-queries](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/sql-queries/SKILL.md)**
+- **[design-system](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/design-system/SKILL.md)**
+- **[accessibility-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/accessibility-review/SKILL.md)**
+- **[research-synthesis](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/research-synthesis/SKILL.md)**
+- **[user-research](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/user-research/SKILL.md)**
+- **[slack-messaging](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/slack/skills/slack-messaging/SKILL.md)**
+- **[review-contract](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/review-contract/SKILL.md)**
+- **[validate-data](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/validate-data/SKILL.md)**
+- **[seo-audit](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/seo-audit/SKILL.md)**
+- **[design-handoff](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/design/skills/design-handoff/SKILL.md)**
+- **[interview-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/interview-prep/SKILL.md)**
+- **[write-spec](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/write-spec/SKILL.md)**
+- **[reconciliation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/reconciliation/SKILL.md)**
+- **[legal-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/legal-response/SKILL.md)**
+- **[account-research](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/account-research/SKILL.md)**
+- **[competitive-brief](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/competitive-brief/SKILL.md)**
+- **[risk-assessment](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/risk-assessment/SKILL.md)**
+- **[variance-analysis](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/variance-analysis/SKILL.md)**
+- **[compliance-check](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/compliance-check/SKILL.md)**
+- **[draft-outreach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/draft-outreach/SKILL.md)**
+- **[campaign-plan](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/campaign-plan/SKILL.md)**
+- **[performance-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/performance-review/SKILL.md)**
+- **[daily-briefing](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/daily-briefing/SKILL.md)**
+- **[brand-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/brand-review/SKILL.md)**
+- **[process-optimization](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/process-optimization/SKILL.md)**
+- **[slack-search](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/slack/skills/slack-search/SKILL.md)**
+- **[audit-support](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/audit-support/SKILL.md)**
+- **[sprint-planning](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/sprint-planning/SKILL.md)**
+- **[runbook](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/runbook/SKILL.md)**
+- **[roadmap-update](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/roadmap-update/SKILL.md)**
+- **[status-report](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/status-report/SKILL.md)**
+- **[data-context-extractor](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/data-context-extractor/SKILL.md)**
+- **[customer-research](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/customer-support/skills/customer-research/SKILL.md)**
+- **[synthesize-research](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/synthesize-research/SKILL.md)**
+- **[close-management](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/close-management/SKILL.md)**
+- **[performance-report](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/performance-report/SKILL.md)**
+- **[call-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/call-prep/SKILL.md)**
+- **[process-doc](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/process-doc/SKILL.md)**
+- **[forecast](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/forecast/SKILL.md)**
+- **[journal-entry-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/journal-entry-prep/SKILL.md)**
+- **[write-query](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/data/skills/write-query/SKILL.md)**
+- **[ticket-triage](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/customer-support/skills/ticket-triage/SKILL.md)**
+- **[meeting-briefing](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/meeting-briefing/SKILL.md)**
+- **[compliance-tracking](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/compliance-tracking/SKILL.md)**
+- **[stakeholder-update](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/stakeholder-update/SKILL.md)**
+- **[guideline-generation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/brand-voice/skills/guideline-generation/SKILL.md)**
+- **[metrics-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/product-management/skills/metrics-review/SKILL.md)**
+- **[draft-content](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/draft-content/SKILL.md)**
+- **[email-sequence](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/marketing/skills/email-sequence/SKILL.md)**
+- **[create-an-asset](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/create-an-asset/SKILL.md)**
+- **[recruiting-pipeline](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/recruiting-pipeline/SKILL.md)**
+- **[discover-brand](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/brand-voice/skills/discover-brand/SKILL.md)**
+- **[enrich-lead](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/apollo/skills/enrich-lead/SKILL.md)**
+- **[org-planning](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/org-planning/SKILL.md)**
+- **[call-summary](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/call-summary/SKILL.md)**
+- **[prospect](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/apollo/skills/prospect/SKILL.md)**
+- **[customer-escalation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/customer-support/skills/customer-escalation/SKILL.md)**
+- **[change-request](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/change-request/SKILL.md)**
+- **[create-cowork-plugin](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/cowork-plugin-management/skills/create-cowork-plugin/SKILL.md)**
+- **[contact-research](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/contact-research/SKILL.md)**
+- **[vendor-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/vendor-review/SKILL.md)**
+- **[capacity-plan](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/operations/skills/capacity-plan/SKILL.md)**
+- **[comp-analysis](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/comp-analysis/SKILL.md)**
+- **[cowork-plugin-customizer](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/cowork-plugin-management/skills/cowork-plugin-customizer/SKILL.md)**
+- **[kb-article](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/customer-support/skills/kb-article/SKILL.md)**
+- **[brief](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/brief/SKILL.md)**
+- **[vendor-check](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/vendor-check/SKILL.md)**
+- **[policy-lookup](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/policy-lookup/SKILL.md)**
+- **[pipeline-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/pipeline-review/SKILL.md)**
+- **[triage-nda](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/triage-nda/SKILL.md)**
+- **[onboarding](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/onboarding/SKILL.md)**
+- **[journal-entry](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/journal-entry/SKILL.md)**
+- **[digest](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/enterprise-search/skills/digest/SKILL.md)**
+- **[draft-response](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/customer-support/skills/draft-response/SKILL.md)**
+- **[weekly-prep-brief](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/common-room/skills/weekly-prep-brief/SKILL.md)**
+- **[people-report](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/people-report/SKILL.md)**
+- **[signature-request](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/legal/skills/signature-request/SKILL.md)**
+- **[sox-testing](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/finance/skills/sox-testing/SKILL.md)**
+- **[sequence-load](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/apollo/skills/sequence-load/SKILL.md)**
+- **[draft-offer](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/human-resources/skills/draft-offer/SKILL.md)**
+- **[contract-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/contract-review/SKILL.md)**
+- **[scientific-problem-selection](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/scientific-problem-selection/SKILL.md)**
+- **[single-cell-rna-qc](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/single-cell-rna-qc/SKILL.md)**
+- **[nextflow-development](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/nextflow-development/SKILL.md)**
+- **[scvi-tools](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/scvi-tools/SKILL.md)**
+- **[instrument-data-to-allotrope](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/bio-research/skills/instrument-data-to-allotrope/SKILL.md)**
+- **[design-mcp-workflow](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/design-mcp-workflow/SKILL.md)**
+- **[zoom-mcp](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/zoom-mcp/SKILL.md)**
+- **[build-zoom-rest-api-app](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/rest-api/SKILL.md)**
+- **[scribe](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/scribe/SKILL.md)**
+- **[plan-zoom-product](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/plan-zoom-product/SKILL.md)**
+- **[build-zoom-phone-integration](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/phone/SKILL.md)**
+- **[probe-sdk](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/probe-sdk/SKILL.md)**
+- **[rivet-sdk](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/rivet-sdk/SKILL.md)**
+- **[setup-zoom-oauth](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/setup-zoom-oauth/SKILL.md)**
+- **[build-zoom-meeting-sdk-app](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/SKILL.md)**
+- **[choose-zoom-approach](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/choose-zoom-approach/SKILL.md)**
+- **[build-zoom-bot](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/build-zoom-bot/SKILL.md)**
+- **[setup-zoom-websockets](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/websockets/SKILL.md)**
+- **[build-zoom-video-sdk-app](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/SKILL.md)**
+- **[build-zoom-meeting-app](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/build-zoom-meeting-app/SKILL.md)**
+- **[build-zoom-team-chat-app](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/team-chat/SKILL.md)**
+- **[setup-zoom-webhooks](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/webhooks/SKILL.md)**
+- **[plan-zoom-integration](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/plan-zoom-integration/SKILL.md)**
+- **[debug-zoom](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/debug-zoom/SKILL.md)**
+- **[build-zoom-contact-center-app](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/contact-center/SKILL.md)**
+- **[build-zoom-virtual-agent](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/virtual-agent/SKILL.md)**
+- **[zoom-oauth](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/oauth/SKILL.md)**
+- **[zoom-rtms](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/rtms/SKILL.md)**
+- **[debug-zoom-integration](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/debug-zoom-integration/SKILL.md)**
+- **[zoom-general](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/general/SKILL.md)**
+- **[setup-zoom-mcp](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/setup-zoom-mcp/SKILL.md)**
+- **[zoom-cobrowse-sdk](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md)**
+- **[zoom-apps-sdk](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/zoom-apps-sdk/SKILL.md)**
+- **[invoice-chase](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/invoice-chase/SKILL.md)**
+- **[canva-creator](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/canva-creator/SKILL.md)**
+- **[cash-flow-snapshot](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/cash-flow-snapshot/SKILL.md)**
+- **[tax-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/tax-prep/SKILL.md)**
+- **[content-strategy](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/content-strategy/SKILL.md)**
+- **[plan-payroll](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/plan-payroll/SKILL.md)**
+- **[close-month](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/close-month/SKILL.md)**
+- **[business-pulse](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/business-pulse/SKILL.md)**
+- **[job-post-builder](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/job-post-builder/SKILL.md)**
+- **[month-end-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/month-end-prep/SKILL.md)**
+- **[tax-season-organizer](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/tax-season-organizer/SKILL.md)**
+- **[lead-triage](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/lead-triage/SKILL.md)**
+- **[call-list](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/call-list/SKILL.md)**
+- **[monday-brief](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/monday-brief/SKILL.md)**
+- **[ticket-deflector](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/ticket-deflector/SKILL.md)**
+- **[smb-onboard](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/smb-onboard/SKILL.md)**
+- **[smb-router](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/smb-router/SKILL.md)**
+- **[margin-analyzer · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[handle-complaint · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[crm-cleanup · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[sales-brief · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[quarterly-review · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[crm-maintenance · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[price-check · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[friday-brief · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[run-campaign · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[customer-pulse · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[month-heads-up · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[customer-pulse-check · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[interactive-dashboard-builder · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[feature-spec · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[user-research-synthesis · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[competitive-analysis · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[proposal-builder](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/proposal-builder/SKILL.md)**
+- **[handle-objection](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/handle-objection/SKILL.md)**
+- **[seo-ai-visibility](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/seo-ai-visibility/SKILL.md)**
+- **[social-content-engine](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/social-content-engine/SKILL.md)**
+- **[report-builder](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/report-builder/SKILL.md)**
+- **[review-reputation](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/review-reputation/SKILL.md)**
+- **[brand-style](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/brand-style/SKILL.md)**
+- **[hiring-screener](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/hiring-screener/SKILL.md)**
+- **[speed-to-lead](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/speed-to-lead/SKILL.md)**
+- **[lead-finder](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/lead-finder/SKILL.md)**
+- **[crm-hygiene-check](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/crm-hygiene-check/SKILL.md)**
+- **[inbox-manager](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/inbox-manager/SKILL.md)**
+- **[build-agent](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/build-agent/SKILL.md)**
+- **[payroll-prep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/payroll-prep/SKILL.md)**
+- **[report-pack](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/report-pack/SKILL.md)**
+- **[crm-autopilot](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/crm-autopilot/SKILL.md)**
+- **[ap-processor](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/ap-processor/SKILL.md)**
+- **[grant-rfp-writer](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/grant-rfp-writer/SKILL.md)**
+- **[win-loss-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/win-loss-review/SKILL.md)**
+- **[marketing-monday](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/marketing-monday/SKILL.md)**
+- **[close-plan](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/close-plan/SKILL.md)**
+- **[pay-the-bills](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/pay-the-bills/SKILL.md)**
+- **[build-connector](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/build-connector/SKILL.md)**
+- **[outreach-composer](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/outreach-composer/SKILL.md)**
+- **[account-plan](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/account-plan/SKILL.md)**
+- **[deal-review](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/deal-review/SKILL.md)**
+- **[growth-pulse](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/growth-pulse/SKILL.md)**
+- **[stakeholder-map](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/stakeholder-map/SKILL.md)**
+- **[grow-pipeline](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/grow-pipeline/SKILL.md)**
+- **[restock](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/restock/SKILL.md)**
+- **[roadmap-management · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[reactivate](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/reactivate/SKILL.md)**
+- **[account-tiering](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/account-tiering/SKILL.md)**
+- **[weekly-wrap](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/weekly-wrap/SKILL.md)**
+- **[inbox-sweep](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/inbox-sweep/SKILL.md)**
+- **[ad-manager](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/small-business/skills/ad-manager/SKILL.md)**
+- **[team-pipeline](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/team-pipeline/SKILL.md)**
+- **[customer-health](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/customer-health/SKILL.md)**
+- **[expansion-whitespace](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/expansion-whitespace/SKILL.md)**
+- **[customer-voice](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/customer-voice/SKILL.md)**
+- **[account-context](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/account-context/SKILL.md)**
+- **[schedule-meeting](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/schedule-meeting/SKILL.md)**
+- **[deal-signals](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/deal-signals/SKILL.md)**
+- **[deal-advance-gap](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/deal-advance-gap/SKILL.md)**
+- **[route-lead](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/route-lead/SKILL.md)**
+- **[end-of-day](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/end-of-day/SKILL.md)**
+- **[setup](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/setup/SKILL.md)**
+- **[update-opportunity](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/update-opportunity/SKILL.md)**
+- **[deal-slip-scenario](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/deal-slip-scenario/SKILL.md)**
+- **[renewal-radar](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/renewal-radar/SKILL.md)**
+- **[log-activity](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/log-activity/SKILL.md)**
+- **[rep-context](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/sales/skills/rep-context/SKILL.md)**
+- **[knowledge-management · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[metrics-tracking · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[data-validation · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[performance-analytics · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[stakeholder-comms · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[data-exploration · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[campaign-planning · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[compliance · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[response-drafting · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[nda-triage · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[escalation · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[canned-responses · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[ux-writing · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[design-system-management · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[change-management · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[people-analytics · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[resource-planning · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[vendor-management · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[compensation-benchmarking · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[employee-handbook · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[zoom-meeting-sdk-electron](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/electron/SKILL.md)**
+- **[zoom-video-sdk-react-native](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/react-native/SKILL.md)**
+- **[zoom-meeting-sdk-react-native](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/react-native/SKILL.md)**
+- **[zoom-meeting-sdk-macos](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/macos/SKILL.md)**
+- **[zoom-meeting-sdk-windows](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/windows/SKILL.md)**
+- **[zoom-video-sdk-android](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/android/SKILL.md)**
+- **[zoom-video-sdk-ios](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/ios/SKILL.md)**
+- **[zoom-video-sdk-unity](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/unity/SKILL.md)**
+- **[zoom-meeting-sdk-unreal](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/unreal/SKILL.md)**
+- **[zoom-video-sdk-macos](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/macos/SKILL.md)**
+- **[zoom-meeting-sdk-web](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/web/SKILL.md)**
+- **[zoom-meeting-sdk-ios](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/ios/SKILL.md)**
+- **[zoom-video-sdk-flutter](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/video-sdk/flutter/SKILL.md)**
+- **[zoom-meeting-sdk-android](https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin/skills/meeting-sdk/android/SKILL.md)**
+- **[clinical-trial-protocol-skill · repository entry](https://github.com/anthropics/knowledge-work-plugins)**
+- **[whiteboard](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/zoom-mcp/whiteboard/SKILL.md)**
+- **[windows](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/video-sdk/windows/SKILL.md)**
+- **[web](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/video-sdk/web/SKILL.md)**
+- **[linux](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/video-sdk/linux/SKILL.md)**
+- **[ios](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/video-sdk/ios/SKILL.md)**
+- **[android](https://github.com/anthropics/knowledge-work-plugins/blob/HEAD/partner-built/zoom-plugin/skills/video-sdk/android/SKILL.md)**
 
 <a id="full-ops-anthropicsclaude-for-legal--104"></a>
 #### anthropics/claude-for-legal · 104
 
-- **[legal-writing](https://www.skills.sh/anthropics/claude-for-legal/legal-writing)**
-- **[draft](https://www.skills.sh/anthropics/claude-for-legal/draft)**
-- **[flashcards](https://www.skills.sh/anthropics/claude-for-legal/flashcards)**
-- **[review](https://www.skills.sh/anthropics/claude-for-legal/review)**
-- **[study-plan](https://www.skills.sh/anthropics/claude-for-legal/study-plan)**
-- **[policy-monitor](https://www.skills.sh/anthropics/claude-for-legal/policy-monitor)**
-- **[research-start](https://www.skills.sh/anthropics/claude-for-legal/research-start)**
-- **[claim-chart](https://www.skills.sh/anthropics/claude-for-legal/claim-chart)**
-- **[chronology](https://www.skills.sh/anthropics/claude-for-legal/chronology)**
-- **[demand-draft](https://www.skills.sh/anthropics/claude-for-legal/demand-draft)**
-- **[reg-gap-analysis](https://www.skills.sh/anthropics/claude-for-legal/reg-gap-analysis)**
-- **[socratic-drill](https://www.skills.sh/anthropics/claude-for-legal/socratic-drill)**
-- **[invention-intake](https://www.skills.sh/anthropics/claude-for-legal/invention-intake)**
-- **[case-brief](https://www.skills.sh/anthropics/claude-for-legal/case-brief)**
-- **[cold-start-interview](https://www.skills.sh/anthropics/claude-for-legal/cold-start-interview)**
-- **[memo](https://www.skills.sh/anthropics/claude-for-legal/memo)**
-- **[cease-desist](https://www.skills.sh/anthropics/claude-for-legal/cease-desist)**
-- **[exam-forecast](https://www.skills.sh/anthropics/claude-for-legal/exam-forecast)**
-- **[legal-hold](https://www.skills.sh/anthropics/claude-for-legal/legal-hold)**
-- **[board-minutes](https://www.skills.sh/anthropics/claude-for-legal/board-minutes)**
-- **[matter-intake](https://www.skills.sh/anthropics/claude-for-legal/matter-intake)**
-- **[client-letter](https://www.skills.sh/anthropics/claude-for-legal/client-letter)**
-- **[fto-triage](https://www.skills.sh/anthropics/claude-for-legal/fto-triage)**
-- **[brief-section-drafter](https://www.skills.sh/anthropics/claude-for-legal/brief-section-drafter)**
-- **[auto-updater](https://www.skills.sh/anthropics/claude-for-legal/auto-updater)**
-- **[deep-research](https://www.skills.sh/anthropics/claude-for-legal/deep-research)**
-- **[infringement-triage](https://www.skills.sh/anthropics/claude-for-legal/infringement-triage)**
-- **[amendment-history](https://www.skills.sh/anthropics/claude-for-legal/amendment-history)**
-- **[irac-practice](https://www.skills.sh/anthropics/claude-for-legal/irac-practice)**
-- **[clearance](https://www.skills.sh/anthropics/claude-for-legal/clearance)**
-- **[diligence-issue-extraction](https://www.skills.sh/anthropics/claude-for-legal/diligence-issue-extraction)**
-- **[outline-builder](https://www.skills.sh/anthropics/claude-for-legal/outline-builder)**
-- **[tabular-review](https://www.skills.sh/anthropics/claude-for-legal/tabular-review)**
-- **[demand-intake](https://www.skills.sh/anthropics/claude-for-legal/demand-intake)**
-- **[escalation-flagger](https://www.skills.sh/anthropics/claude-for-legal/escalation-flagger)**
-- **[subpoena-triage](https://www.skills.sh/anthropics/claude-for-legal/subpoena-triage)**
-- **[deadlines](https://www.skills.sh/anthropics/claude-for-legal/deadlines)**
-- **[stakeholder-summary](https://www.skills.sh/anthropics/claude-for-legal/stakeholder-summary)**
-- **[review-proposals](https://www.skills.sh/anthropics/claude-for-legal/review-proposals)**
-- **[cold-call-prep](https://www.skills.sh/anthropics/claude-for-legal/cold-call-prep)**
-- **[customize](https://www.skills.sh/anthropics/claude-for-legal/customize)**
-- **[closing-checklist](https://www.skills.sh/anthropics/claude-for-legal/closing-checklist)**
-- **[material-contract-schedule](https://www.skills.sh/anthropics/claude-for-legal/material-contract-schedule)**
-- **[written-consent](https://www.skills.sh/anthropics/claude-for-legal/written-consent)**
-- **[matter-briefing](https://www.skills.sh/anthropics/claude-for-legal/matter-briefing)**
-- **[skills-qa](https://www.skills.sh/anthropics/claude-for-legal/skills-qa)**
-- **[demand-received](https://www.skills.sh/anthropics/claude-for-legal/demand-received)**
-- **[client-intake](https://www.skills.sh/anthropics/claude-for-legal/client-intake)**
-- **[renewal-tracker](https://www.skills.sh/anthropics/claude-for-legal/renewal-tracker)**
-- **[feature-risk-assessment](https://www.skills.sh/anthropics/claude-for-legal/feature-risk-assessment)**
-- **[internal-investigation](https://www.skills.sh/anthropics/claude-for-legal/internal-investigation)**
-- **[plain-language-letters](https://www.skills.sh/anthropics/claude-for-legal/plain-language-letters)**
-- **[skill-manager](https://www.skills.sh/anthropics/claude-for-legal/skill-manager)**
-- **[portfolio](https://www.skills.sh/anthropics/claude-for-legal/portfolio)**
-- **[is-this-a-problem](https://www.skills.sh/anthropics/claude-for-legal/is-this-a-problem)**
-- **[investigation-query](https://www.skills.sh/anthropics/claude-for-legal/investigation-query)**
-- **[policy-diff](https://www.skills.sh/anthropics/claude-for-legal/policy-diff)**
-- **[bar-prep-questions](https://www.skills.sh/anthropics/claude-for-legal/bar-prep-questions)**
-- **[registry-browser](https://www.skills.sh/anthropics/claude-for-legal/registry-browser)**
-- **[deposition-prep](https://www.skills.sh/anthropics/claude-for-legal/deposition-prep)**
-- **[ai-inventory](https://www.skills.sh/anthropics/claude-for-legal/ai-inventory)**
-- **[investigation-add](https://www.skills.sh/anthropics/claude-for-legal/investigation-add)**
-- **[aia-generation](https://www.skills.sh/anthropics/claude-for-legal/aia-generation)**
-- **[handbook-updates](https://www.skills.sh/anthropics/claude-for-legal/handbook-updates)**
-- **[leave-tracker](https://www.skills.sh/anthropics/claude-for-legal/leave-tracker)**
-- **[takedown](https://www.skills.sh/anthropics/claude-for-legal/takedown)**
-- **[policy-redraft](https://www.skills.sh/anthropics/claude-for-legal/policy-redraft)**
-- **[matter-workspace](https://www.skills.sh/anthropics/claude-for-legal/matter-workspace)**
-- **[use-case-triage](https://www.skills.sh/anthropics/claude-for-legal/use-case-triage)**
-- **[matter-close](https://www.skills.sh/anthropics/claude-for-legal/matter-close)**
-- **[skill-installer](https://www.skills.sh/anthropics/claude-for-legal/skill-installer)**
-- **[ai-tool-handoff](https://www.skills.sh/anthropics/claude-for-legal/ai-tool-handoff)**
-- **[investigation-open](https://www.skills.sh/anthropics/claude-for-legal/investigation-open)**
-- **[oc-status](https://www.skills.sh/anthropics/claude-for-legal/oc-status)**
-- **[vendor-ai-review](https://www.skills.sh/anthropics/claude-for-legal/vendor-ai-review)**
-- **[deal-team-summary](https://www.skills.sh/anthropics/claude-for-legal/deal-team-summary)**
-- **[policy-starter](https://www.skills.sh/anthropics/claude-for-legal/policy-starter)**
-- **[matter-update](https://www.skills.sh/anthropics/claude-for-legal/matter-update)**
-- **[worker-classification](https://www.skills.sh/anthropics/claude-for-legal/worker-classification)**
-- **[comments](https://www.skills.sh/anthropics/claude-for-legal/comments)**
-- **[client-comms-log](https://www.skills.sh/anthropics/claude-for-legal/client-comms-log)**
-- **[build-guide](https://www.skills.sh/anthropics/claude-for-legal/build-guide)**
-- **[investigation-summary](https://www.skills.sh/anthropics/claude-for-legal/investigation-summary)**
-- **[international-expansion](https://www.skills.sh/anthropics/claude-for-legal/international-expansion)**
-- **[integration-management](https://www.skills.sh/anthropics/claude-for-legal/integration-management)**
-- **[gaps](https://www.skills.sh/anthropics/claude-for-legal/gaps)**
-- **[status](https://www.skills.sh/anthropics/claude-for-legal/status)**
-- **[privilege-log-review](https://www.skills.sh/anthropics/claude-for-legal/privilege-log-review)**
-- **[reg-feed-watcher](https://www.skills.sh/anthropics/claude-for-legal/reg-feed-watcher)**
-- **[disable](https://www.skills.sh/anthropics/claude-for-legal/disable)**
-- **[investigation-memo](https://www.skills.sh/anthropics/claude-for-legal/investigation-memo)**
-- **[gap-surfacer](https://www.skills.sh/anthropics/claude-for-legal/gap-surfacer)**
-- **[session](https://www.skills.sh/anthropics/claude-for-legal/session)**
-- **[portfolio-status](https://www.skills.sh/anthropics/claude-for-legal/portfolio-status)**
-- **[expansion-kickoff](https://www.skills.sh/anthropics/claude-for-legal/expansion-kickoff)**
-- **[related-skills-surfacer](https://www.skills.sh/anthropics/claude-for-legal/related-skills-surfacer)**
-- **[form-generation](https://www.skills.sh/anthropics/claude-for-legal/form-generation)**
-- **[wage-hour-qa](https://www.skills.sh/anthropics/claude-for-legal/wage-hour-qa)**
-- **[uninstall](https://www.skills.sh/anthropics/claude-for-legal/uninstall)**
-- **[expansion-update](https://www.skills.sh/anthropics/claude-for-legal/expansion-update)**
-- **[supervisor-review-queue](https://www.skills.sh/anthropics/claude-for-legal/supervisor-review-queue)**
-- **[log-leave](https://www.skills.sh/anthropics/claude-for-legal/log-leave)**
-- **[semester-handoff](https://www.skills.sh/anthropics/claude-for-legal/semester-handoff)**
-- **[ramp](https://www.skills.sh/anthropics/claude-for-legal/ramp)**
+- **[legal-writing](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/legal-writing/SKILL.md)**
+- **[draft](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/draft/SKILL.md)**
+- **[flashcards](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/flashcards/SKILL.md)**
+- **[review](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/review/SKILL.md)**
+- **[study-plan](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/study-plan/SKILL.md)**
+- **[policy-monitor](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/policy-monitor/SKILL.md)**
+- **[research-start](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/research-start/SKILL.md)**
+- **[claim-chart](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/claim-chart/SKILL.md)**
+- **[chronology](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/chronology/SKILL.md)**
+- **[demand-draft](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/demand-draft/SKILL.md)**
+- **[reg-gap-analysis](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/reg-gap-analysis/SKILL.md)**
+- **[socratic-drill](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/socratic-drill/SKILL.md)**
+- **[invention-intake](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/invention-intake/SKILL.md)**
+- **[case-brief](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/case-brief/SKILL.md)**
+- **[cold-start-interview](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/cold-start-interview/SKILL.md)**
+- **[memo](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/memo/SKILL.md)**
+- **[cease-desist](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/cease-desist/SKILL.md)**
+- **[exam-forecast](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/exam-forecast/SKILL.md)**
+- **[legal-hold](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/legal-hold/SKILL.md)**
+- **[board-minutes](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/board-minutes/SKILL.md)**
+- **[matter-intake](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/matter-intake/SKILL.md)**
+- **[client-letter](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/client-letter/SKILL.md)**
+- **[fto-triage](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/fto-triage/SKILL.md)**
+- **[brief-section-drafter](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/brief-section-drafter/SKILL.md)**
+- **[auto-updater](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/auto-updater/SKILL.md)**
+- **[deep-research](https://github.com/anthropics/claude-for-legal/blob/HEAD/external_plugins/cocounsel-legal/skills/deep-research/SKILL.md)**
+- **[infringement-triage](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/infringement-triage/SKILL.md)**
+- **[amendment-history](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/amendment-history/SKILL.md)**
+- **[irac-practice](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/irac-practice/SKILL.md)**
+- **[clearance](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/clearance/SKILL.md)**
+- **[diligence-issue-extraction](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/diligence-issue-extraction/SKILL.md)**
+- **[outline-builder](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/outline-builder/SKILL.md)**
+- **[tabular-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/tabular-review/SKILL.md)**
+- **[demand-intake](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/demand-intake/SKILL.md)**
+- **[escalation-flagger](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/escalation-flagger/SKILL.md)**
+- **[subpoena-triage](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/subpoena-triage/SKILL.md)**
+- **[deadlines](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/deadlines/SKILL.md)**
+- **[stakeholder-summary](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/stakeholder-summary/SKILL.md)**
+- **[review-proposals](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/review-proposals/SKILL.md)**
+- **[cold-call-prep](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/cold-call-prep/SKILL.md)**
+- **[customize](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/customize/SKILL.md)**
+- **[closing-checklist](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/closing-checklist/SKILL.md)**
+- **[material-contract-schedule](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/material-contract-schedule/SKILL.md)**
+- **[written-consent](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/written-consent/SKILL.md)**
+- **[matter-briefing](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/matter-briefing/SKILL.md)**
+- **[skills-qa](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/skills-qa/SKILL.md)**
+- **[demand-received](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/demand-received/SKILL.md)**
+- **[client-intake](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/client-intake/SKILL.md)**
+- **[renewal-tracker](https://github.com/anthropics/claude-for-legal/blob/HEAD/commercial-legal/skills/renewal-tracker/SKILL.md)**
+- **[feature-risk-assessment](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/feature-risk-assessment/SKILL.md)**
+- **[internal-investigation](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/internal-investigation/SKILL.md)**
+- **[plain-language-letters](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/plain-language-letters/SKILL.md)**
+- **[skill-manager](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/skill-manager/SKILL.md)**
+- **[portfolio](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/portfolio/SKILL.md)**
+- **[is-this-a-problem](https://github.com/anthropics/claude-for-legal/blob/HEAD/product-legal/skills/is-this-a-problem/SKILL.md)**
+- **[investigation-query](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/investigation-query/SKILL.md)**
+- **[policy-diff](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/policy-diff/SKILL.md)**
+- **[bar-prep-questions](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/bar-prep-questions/SKILL.md)**
+- **[registry-browser](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/registry-browser/SKILL.md)**
+- **[deposition-prep](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/deposition-prep/SKILL.md)**
+- **[ai-inventory](https://github.com/anthropics/claude-for-legal/blob/HEAD/ai-governance-legal/skills/ai-inventory/SKILL.md)**
+- **[investigation-add](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/investigation-add/SKILL.md)**
+- **[aia-generation](https://github.com/anthropics/claude-for-legal/blob/HEAD/ai-governance-legal/skills/aia-generation/SKILL.md)**
+- **[handbook-updates](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/handbook-updates/SKILL.md)**
+- **[leave-tracker](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/leave-tracker/SKILL.md)**
+- **[takedown](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/takedown/SKILL.md)**
+- **[policy-redraft](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/policy-redraft/SKILL.md)**
+- **[matter-workspace](https://github.com/anthropics/claude-for-legal/blob/HEAD/ip-legal/skills/matter-workspace/SKILL.md)**
+- **[use-case-triage](https://github.com/anthropics/claude-for-legal/blob/HEAD/privacy-legal/skills/use-case-triage/SKILL.md)**
+- **[matter-close](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/matter-close/SKILL.md)**
+- **[skill-installer](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/skill-installer/SKILL.md)**
+- **[ai-tool-handoff](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/ai-tool-handoff/SKILL.md)**
+- **[investigation-open](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/investigation-open/SKILL.md)**
+- **[oc-status](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/oc-status/SKILL.md)**
+- **[vendor-ai-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/ai-governance-legal/skills/vendor-ai-review/SKILL.md)**
+- **[deal-team-summary](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/deal-team-summary/SKILL.md)**
+- **[policy-starter](https://github.com/anthropics/claude-for-legal/blob/HEAD/ai-governance-legal/skills/policy-starter/SKILL.md)**
+- **[matter-update](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/matter-update/SKILL.md)**
+- **[worker-classification](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/worker-classification/SKILL.md)**
+- **[comments](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/comments/SKILL.md)**
+- **[client-comms-log](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/client-comms-log/SKILL.md)**
+- **[build-guide](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/build-guide/SKILL.md)**
+- **[investigation-summary](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/investigation-summary/SKILL.md)**
+- **[international-expansion](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/international-expansion/SKILL.md)**
+- **[integration-management](https://github.com/anthropics/claude-for-legal/blob/HEAD/corporate-legal/skills/integration-management/SKILL.md)**
+- **[gaps](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/gaps/SKILL.md)**
+- **[status](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/status/SKILL.md)**
+- **[privilege-log-review](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/privilege-log-review/SKILL.md)**
+- **[reg-feed-watcher](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/reg-feed-watcher/SKILL.md)**
+- **[disable](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/disable/SKILL.md)**
+- **[investigation-memo](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/investigation-memo/SKILL.md)**
+- **[gap-surfacer](https://github.com/anthropics/claude-for-legal/blob/HEAD/regulatory-legal/skills/gap-surfacer/SKILL.md)**
+- **[session](https://github.com/anthropics/claude-for-legal/blob/HEAD/law-student/skills/session/SKILL.md)**
+- **[portfolio-status](https://github.com/anthropics/claude-for-legal/blob/HEAD/litigation-legal/skills/portfolio-status/SKILL.md)**
+- **[expansion-kickoff](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/expansion-kickoff/SKILL.md)**
+- **[related-skills-surfacer](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/related-skills-surfacer/SKILL.md)**
+- **[form-generation](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/form-generation/SKILL.md)**
+- **[wage-hour-qa](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/wage-hour-qa/SKILL.md)**
+- **[uninstall](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-builder-hub/skills/uninstall/SKILL.md)**
+- **[expansion-update](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/expansion-update/SKILL.md)**
+- **[supervisor-review-queue](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/supervisor-review-queue/SKILL.md)**
+- **[log-leave](https://github.com/anthropics/claude-for-legal/blob/HEAD/employment-legal/skills/log-leave/SKILL.md)**
+- **[semester-handoff](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/semester-handoff/SKILL.md)**
+- **[ramp](https://github.com/anthropics/claude-for-legal/blob/HEAD/legal-clinic/skills/ramp/SKILL.md)**
 
 <a id="full-ops-anthropicsfinancial-services--66"></a>
 #### anthropics/financial-services · 66
 
-- **[earnings-analysis](https://www.skills.sh/anthropics/financial-services/earnings-analysis)**
-- **[equity-research](https://www.skills.sh/anthropics/financial-services/equity-research)**
-- **[pitch-deck](https://www.skills.sh/anthropics/financial-services/pitch-deck)**
-- **[competitive-analysis](https://www.skills.sh/anthropics/financial-services/competitive-analysis)**
-- **[macro-rates-monitor](https://www.skills.sh/anthropics/financial-services/macro-rates-monitor)**
-- **[audit-xls](https://www.skills.sh/anthropics/financial-services/audit-xls)**
-- **[ppt-template-creator](https://www.skills.sh/anthropics/financial-services/ppt-template-creator)**
-- **[clean-data-xls](https://www.skills.sh/anthropics/financial-services/clean-data-xls)**
-- **[option-vol-analysis](https://www.skills.sh/anthropics/financial-services/option-vol-analysis)**
-- **[initiating-coverage](https://www.skills.sh/anthropics/financial-services/initiating-coverage)**
-- **[lbo-model](https://www.skills.sh/anthropics/financial-services/lbo-model)**
-- **[fixed-income-portfolio](https://www.skills.sh/anthropics/financial-services/fixed-income-portfolio)**
-- **[earnings-preview-single](https://www.skills.sh/anthropics/financial-services/earnings-preview-single)**
-- **[datapack-builder](https://www.skills.sh/anthropics/financial-services/datapack-builder)**
-- **[bond-futures-basis](https://www.skills.sh/anthropics/financial-services/bond-futures-basis)**
-- **[ib-check-deck](https://www.skills.sh/anthropics/financial-services/ib-check-deck)**
-- **[bond-relative-value](https://www.skills.sh/anthropics/financial-services/bond-relative-value)**
-- **[fx-carry-trade](https://www.skills.sh/anthropics/financial-services/fx-carry-trade)**
-- **[tear-sheet](https://www.skills.sh/anthropics/financial-services/tear-sheet)**
-- **[skill-creator](https://www.skills.sh/anthropics/financial-services/skill-creator)**
-- **[funding-digest](https://www.skills.sh/anthropics/financial-services/funding-digest)**
-- **[fsi-strip-profile](https://www.skills.sh/anthropics/financial-services/fsi-strip-profile)**
-- **[deck-refresh](https://www.skills.sh/anthropics/financial-services/deck-refresh)**
-- **[swap-curve-strategy](https://www.skills.sh/anthropics/financial-services/swap-curve-strategy)**
-- **[xlsx-author](https://www.skills.sh/anthropics/financial-services/xlsx-author)**
-- **[pptx-author](https://www.skills.sh/anthropics/financial-services/pptx-author)**
-- **[dd-checklist](https://www.skills.sh/anthropics/financial-services/dd-checklist)**
-- **[break-trace](https://www.skills.sh/anthropics/financial-services/break-trace)**
-- **[roll-forward](https://www.skills.sh/anthropics/financial-services/roll-forward)**
-- **[kyc-rules](https://www.skills.sh/anthropics/financial-services/kyc-rules)**
-- **[thesis-tracker](https://www.skills.sh/anthropics/financial-services/thesis-tracker)**
-- **[sector-overview](https://www.skills.sh/anthropics/financial-services/sector-overview)**
-- **[kyc-doc-parse](https://www.skills.sh/anthropics/financial-services/kyc-doc-parse)**
-- **[nav-tieout](https://www.skills.sh/anthropics/financial-services/nav-tieout)**
-- **[idea-generation](https://www.skills.sh/anthropics/financial-services/idea-generation)**
-- **[catalyst-calendar](https://www.skills.sh/anthropics/financial-services/catalyst-calendar)**
-- **[investment-proposal](https://www.skills.sh/anthropics/financial-services/investment-proposal)**
-- **[earnings-preview](https://www.skills.sh/anthropics/financial-services/earnings-preview)**
-- **[ic-memo](https://www.skills.sh/anthropics/financial-services/ic-memo)**
-- **[morning-note](https://www.skills.sh/anthropics/financial-services/morning-note)**
-- **[portfolio-monitoring](https://www.skills.sh/anthropics/financial-services/portfolio-monitoring)**
-- **[client-report](https://www.skills.sh/anthropics/financial-services/client-report)**
-- **[returns-analysis](https://www.skills.sh/anthropics/financial-services/returns-analysis)**
-- **[client-review](https://www.skills.sh/anthropics/financial-services/client-review)**
-- **[merger-model](https://www.skills.sh/anthropics/financial-services/merger-model)**
-- **[cim-builder](https://www.skills.sh/anthropics/financial-services/cim-builder)**
-- **[dd-meeting-prep](https://www.skills.sh/anthropics/financial-services/dd-meeting-prep)**
-- **[ai-readiness](https://www.skills.sh/anthropics/financial-services/ai-readiness)**
-- **[value-creation-plan](https://www.skills.sh/anthropics/financial-services/value-creation-plan)**
-- **[deal-sourcing](https://www.skills.sh/anthropics/financial-services/deal-sourcing)**
-- **[buyer-list](https://www.skills.sh/anthropics/financial-services/buyer-list)**
-- **[teaser](https://www.skills.sh/anthropics/financial-services/teaser)**
-- **[deal-tracker](https://www.skills.sh/anthropics/financial-services/deal-tracker)**
-- **[process-letter](https://www.skills.sh/anthropics/financial-services/process-letter)**
-- **[portfolio-rebalance](https://www.skills.sh/anthropics/financial-services/portfolio-rebalance)**
-- **[tax-loss-harvesting](https://www.skills.sh/anthropics/financial-services/tax-loss-harvesting)**
-- **[fsi-comps-analysis](https://www.skills.sh/anthropics/financial-services/fsi-comps-analysis)**
-- **[3-statements](https://www.skills.sh/anthropics/financial-services/3-statements)**
-- **[check-deck](https://www.skills.sh/anthropics/financial-services/check-deck)**
-- **[verify](https://www.skills.sh/anthropics/financial-services/verify)**
-- **[portfolio-rebalance-review](https://www.skills.sh/anthropics/financial-services/portfolio-rebalance-review)**
-- **[estate-and-tax-brief](https://www.skills.sh/anthropics/financial-services/estate-and-tax-brief)**
-- **[pre-meeting](https://www.skills.sh/anthropics/financial-services/pre-meeting)**
-- **[post-meeting](https://www.skills.sh/anthropics/financial-services/post-meeting)**
-- **[alts-brief](https://www.skills.sh/anthropics/financial-services/alts-brief)**
-- **[compliance](https://www.skills.sh/anthropics/financial-services/compliance)**
+- **[earnings-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/earnings-analysis/SKILL.md)**
+- **[equity-research](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/equity-research/SKILL.md)**
+- **[pitch-deck](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/pitch-deck/SKILL.md)**
+- **[competitive-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/market-researcher/skills/competitive-analysis/SKILL.md)**
+- **[macro-rates-monitor](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/macro-rates-monitor/SKILL.md)**
+- **[audit-xls](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/audit-xls/SKILL.md)**
+- **[ppt-template-creator](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/financial-analysis/skills/ppt-template-creator/SKILL.md)**
+- **[clean-data-xls](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/financial-analysis/skills/clean-data-xls/SKILL.md)**
+- **[option-vol-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/option-vol-analysis/SKILL.md)**
+- **[initiating-coverage](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/equity-research/skills/initiating-coverage/SKILL.md)**
+- **[lbo-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/lbo-model/SKILL.md)**
+- **[fixed-income-portfolio](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/fixed-income-portfolio/SKILL.md)**
+- **[earnings-preview-single](https://github.com/anthropics/financial-services/blob/main/plugins/partner-built/spglobal/skills/earnings-preview-beta/SKILL.md)**
+- **[datapack-builder](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/datapack-builder/SKILL.md)**
+- **[bond-futures-basis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/bond-futures-basis/SKILL.md)**
+- **[ib-check-deck](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/ib-check-deck/SKILL.md)**
+- **[bond-relative-value](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/bond-relative-value/SKILL.md)**
+- **[fx-carry-trade](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/fx-carry-trade/SKILL.md)**
+- **[tear-sheet](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/spglobal/skills/tear-sheet/SKILL.md)**
+- **[skill-creator](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/financial-analysis/skills/skill-creator/SKILL.md)**
+- **[funding-digest](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/spglobal/skills/funding-digest/SKILL.md)**
+- **[fsi-strip-profile](https://github.com/anthropics/financial-services/blob/main/plugins/vertical-plugins/investment-banking/skills/strip-profile/SKILL.md)**
+- **[deck-refresh](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/deck-refresh/SKILL.md)**
+- **[swap-curve-strategy](https://github.com/anthropics/financial-services/blob/HEAD/plugins/partner-built/lseg/skills/swap-curve-strategy/SKILL.md)**
+- **[xlsx-author](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/xlsx-author/SKILL.md)**
+- **[pptx-author](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/pptx-author/SKILL.md)**
+- **[dd-checklist](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/dd-checklist/SKILL.md)**
+- **[break-trace](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/gl-reconciler/skills/break-trace/SKILL.md)**
+- **[roll-forward](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/roll-forward/SKILL.md)**
+- **[kyc-rules](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/kyc-screener/skills/kyc-rules/SKILL.md)**
+- **[thesis-tracker](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/equity-research/skills/thesis-tracker/SKILL.md)**
+- **[sector-overview](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/pitch-agent/skills/sector-overview/SKILL.md)**
+- **[kyc-doc-parse](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/kyc-screener/skills/kyc-doc-parse/SKILL.md)**
+- **[nav-tieout](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/fund-admin/skills/nav-tieout/SKILL.md)**
+- **[idea-generation](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/market-researcher/skills/idea-generation/SKILL.md)**
+- **[catalyst-calendar](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/equity-research/skills/catalyst-calendar/SKILL.md)**
+- **[investment-proposal](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/meeting-prep-agent/skills/investment-proposal/SKILL.md)**
+- **[earnings-preview](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/earnings-preview/SKILL.md)**
+- **[ic-memo](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/ic-memo/SKILL.md)**
+- **[morning-note](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/earnings-reviewer/skills/morning-note/SKILL.md)**
+- **[portfolio-monitoring](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/portfolio-monitoring/SKILL.md)**
+- **[client-report](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/meeting-prep-agent/skills/client-report/SKILL.md)**
+- **[returns-analysis](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/returns-analysis/SKILL.md)**
+- **[client-review](https://github.com/anthropics/financial-services/blob/HEAD/plugins/agent-plugins/meeting-prep-agent/skills/client-review/SKILL.md)**
+- **[merger-model](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/merger-model/SKILL.md)**
+- **[cim-builder](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/cim-builder/SKILL.md)**
+- **[dd-meeting-prep](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/dd-meeting-prep/SKILL.md)**
+- **[ai-readiness](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/ai-readiness/SKILL.md)**
+- **[value-creation-plan](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/value-creation-plan/SKILL.md)**
+- **[deal-sourcing](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/private-equity/skills/deal-sourcing/SKILL.md)**
+- **[buyer-list](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/buyer-list/SKILL.md)**
+- **[teaser](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/teaser/SKILL.md)**
+- **[deal-tracker](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/deal-tracker/SKILL.md)**
+- **[process-letter](https://github.com/anthropics/financial-services/blob/HEAD/plugins/vertical-plugins/investment-banking/skills/process-letter/SKILL.md)**
+- **[portfolio-rebalance · repository entry](https://github.com/anthropics/financial-services)**
+- **[tax-loss-harvesting · repository entry](https://github.com/anthropics/financial-services)**
+- **[fsi-comps-analysis · repository entry](https://github.com/anthropics/financial-services)**
+- **[3-statements · repository entry](https://github.com/anthropics/financial-services)**
+- **[check-deck · repository entry](https://github.com/anthropics/financial-services)**
+- **[verify](https://github.com/anthropics/financial-services/blob/HEAD/claude-for-msft-365-install/.claude/skills/verify/SKILL.md)**
+- **[portfolio-rebalance-review · repository entry](https://github.com/anthropics/financial-services)**
+- **[estate-and-tax-brief · repository entry](https://github.com/anthropics/financial-services)**
+- **[pre-meeting · repository entry](https://github.com/anthropics/financial-services)**
+- **[post-meeting · repository entry](https://github.com/anthropics/financial-services)**
+- **[alts-brief · repository entry](https://github.com/anthropics/financial-services)**
+- **[compliance · repository entry](https://github.com/anthropics/financial-services)**
 
-<a id="full-ops-larksuitecli--25"></a>
-#### larksuite/cli · 25
+<a id="full-ops-larksuitecli--21"></a>
+#### larksuite/cli · 21
 
-- **[lark-shared](https://www.skills.sh/larksuite/cli/lark-shared)**
-- **[lark-wiki](https://www.skills.sh/larksuite/cli/lark-wiki)**
-- **[lark-whiteboard](https://www.skills.sh/larksuite/cli/lark-whiteboard)**
-- **[lark-mail](https://www.skills.sh/larksuite/cli/lark-mail)**
-- **[lark-event](https://www.skills.sh/larksuite/cli/lark-event)**
-- **[lark-contact](https://www.skills.sh/larksuite/cli/lark-contact)**
-- **[lark-workflow-meeting-summary](https://www.skills.sh/larksuite/cli/lark-workflow-meeting-summary)**
-- **[lark-minutes](https://www.skills.sh/larksuite/cli/lark-minutes)**
-- **[lark-vc](https://www.skills.sh/larksuite/cli/lark-vc)**
-- **[lark-workflow-standup-report](https://www.skills.sh/larksuite/cli/lark-workflow-standup-report)**
-- **[lark-openapi-explorer](https://www.skills.sh/larksuite/cli/lark-openapi-explorer)**
-- **[lark-skill-maker](https://www.skills.sh/larksuite/cli/lark-skill-maker)**
-- **[lark-attendance](https://www.skills.sh/larksuite/cli/lark-attendance)**
-- **[lark-okr](https://www.skills.sh/larksuite/cli/lark-okr)**
-- **[lark-markdown](https://www.skills.sh/larksuite/cli/lark-markdown)**
-- **[lark-vc-agent](https://www.skills.sh/larksuite/cli/lark-vc-agent)**
-- **[lark-apps](https://www.skills.sh/larksuite/cli/lark-apps)**
-- **[lark-note](https://www.skills.sh/larksuite/cli/lark-note)**
-- **[lark-meeting](https://www.skills.sh/larksuite/cli/lark-meeting)**
-- **[lark-whiteboard-cli](https://www.skills.sh/larksuite/cli/lark-whiteboard-cli)**
-- **[good-skill-complex](https://www.skills.sh/larksuite/cli/good-skill-complex)**
-- **[good-skill](https://www.skills.sh/larksuite/cli/good-skill)**
-- **[good-skill-minimal](https://www.skills.sh/larksuite/cli/good-skill-minimal)**
-- **[cli-e2e-testcase-writer](https://www.skills.sh/larksuite/cli/cli-e2e-testcase-writer)**
-- **[lark-suite](https://www.skills.sh/larksuite/cli/lark-suite)**
+- **[lark-shared](https://github.com/larksuite/cli/blob/HEAD/skills/lark-shared/SKILL.md)**
+- **[lark-wiki](https://github.com/larksuite/cli/blob/HEAD/skills/lark-wiki/SKILL.md)**
+- **[lark-whiteboard](https://github.com/larksuite/cli/blob/HEAD/skills/lark-whiteboard/SKILL.md)**
+- **[lark-mail](https://github.com/larksuite/cli/blob/HEAD/skills/lark-mail/SKILL.md)**
+- **[lark-event](https://github.com/larksuite/cli/blob/HEAD/skills/lark-event/SKILL.md)**
+- **[lark-contact](https://github.com/larksuite/cli/blob/HEAD/skills/lark-contact/SKILL.md)**
+- **[lark-workflow-meeting-summary](https://github.com/larksuite/cli/blob/HEAD/skills/lark-workflow-meeting-summary/SKILL.md)**
+- **[lark-meeting](https://github.com/larksuite/cli/blob/HEAD/skills/lark-meeting/SKILL.md)**
+- **[lark-workflow-standup-report](https://github.com/larksuite/cli/blob/HEAD/skills/lark-workflow-standup-report/SKILL.md)**
+- **[lark-openapi-explorer](https://github.com/larksuite/cli/blob/HEAD/skills/lark-openapi-explorer/SKILL.md)**
+- **[lark-skill-maker](https://github.com/larksuite/cli/blob/HEAD/skills/lark-skill-maker/SKILL.md)**
+- **[lark-attendance](https://github.com/larksuite/cli/blob/HEAD/skills/lark-attendance/SKILL.md)**
+- **[lark-okr](https://github.com/larksuite/cli/blob/HEAD/skills/lark-okr/SKILL.md)**
+- **[lark-markdown](https://github.com/larksuite/cli/blob/HEAD/skills/lark-markdown/SKILL.md)**
+- **[lark-apps](https://github.com/larksuite/cli/blob/HEAD/skills/lark-apps/SKILL.md)**
+- **[lark-note](https://github.com/larksuite/cli/blob/HEAD/skills/lark-note/SKILL.md)**
+- **[good-skill-complex](https://github.com/larksuite/cli/blob/HEAD/scripts/skill-format-check/tests/good-skill-complex/SKILL.md)**
+- **[good-skill](https://github.com/larksuite/cli/blob/HEAD/scripts/skill-format-check/tests/good-skill/SKILL.md)**
+- **[good-skill-minimal](https://github.com/larksuite/cli/blob/HEAD/scripts/skill-format-check/tests/good-skill-minimal/SKILL.md)**
+- **[cli-e2e-testcase-writer](https://github.com/larksuite/cli/blob/HEAD/tests/cli_e2e/cli-e2e-testcase-writer/SKILL.md)**
+- **[lark-suite](https://github.com/larksuite/cli/blob/HEAD/isolated-skills/lark-suite/SKILL.md)**
 
-<a id="full-ops-googleworkspacecli--102"></a>
-#### googleworkspace/cli · 102
+<a id="full-ops-googleworkspacecli--85"></a>
+#### googleworkspace/cli · 85
 
-- **[gws-gmail-send](https://www.skills.sh/googleworkspace/cli/gws-gmail-send)**
-- **[gws-shared](https://www.skills.sh/googleworkspace/cli/gws-shared)**
-- **[gws-sheets-read](https://www.skills.sh/googleworkspace/cli/gws-sheets-read)**
-- **[gws-docs-write](https://www.skills.sh/googleworkspace/cli/gws-docs-write)**
-- **[gws-calendar-agenda](https://www.skills.sh/googleworkspace/cli/gws-calendar-agenda)**
-- **[gws-drive-upload](https://www.skills.sh/googleworkspace/cli/gws-drive-upload)**
-- **[gws-calendar-insert](https://www.skills.sh/googleworkspace/cli/gws-calendar-insert)**
-- **[gws-gmail-triage](https://www.skills.sh/googleworkspace/cli/gws-gmail-triage)**
-- **[gws-sheets-append](https://www.skills.sh/googleworkspace/cli/gws-sheets-append)**
-- **[gws-forms](https://www.skills.sh/googleworkspace/cli/gws-forms)**
-- **[gws-meet](https://www.skills.sh/googleworkspace/cli/gws-meet)**
-- **[gws-gmail-read](https://www.skills.sh/googleworkspace/cli/gws-gmail-read)**
-- **[gws-keep](https://www.skills.sh/googleworkspace/cli/gws-keep)**
-- **[gws-gmail-watch](https://www.skills.sh/googleworkspace/cli/gws-gmail-watch)**
-- **[gws-gmail-reply](https://www.skills.sh/googleworkspace/cli/gws-gmail-reply)**
-- **[gws-gmail-forward](https://www.skills.sh/googleworkspace/cli/gws-gmail-forward)**
-- **[gws-chat](https://www.skills.sh/googleworkspace/cli/gws-chat)**
-- **[gws-people](https://www.skills.sh/googleworkspace/cli/gws-people)**
-- **[gws-gmail-reply-all](https://www.skills.sh/googleworkspace/cli/gws-gmail-reply-all)**
-- **[gws-workflow-email-to-task](https://www.skills.sh/googleworkspace/cli/gws-workflow-email-to-task)**
-- **[recipe-create-presentation](https://www.skills.sh/googleworkspace/cli/recipe-create-presentation)**
-- **[gws-chat-send](https://www.skills.sh/googleworkspace/cli/gws-chat-send)**
-- **[gws-workflow-meeting-prep](https://www.skills.sh/googleworkspace/cli/gws-workflow-meeting-prep)**
-- **[gws-workflow-weekly-digest](https://www.skills.sh/googleworkspace/cli/gws-workflow-weekly-digest)**
-- **[recipe-draft-email-from-doc](https://www.skills.sh/googleworkspace/cli/recipe-draft-email-from-doc)**
-- **[persona-project-manager](https://www.skills.sh/googleworkspace/cli/persona-project-manager)**
-- **[recipe-email-drive-link](https://www.skills.sh/googleworkspace/cli/recipe-email-drive-link)**
-- **[gws-events](https://www.skills.sh/googleworkspace/cli/gws-events)**
-- **[persona-researcher](https://www.skills.sh/googleworkspace/cli/persona-researcher)**
-- **[recipe-create-gmail-filter](https://www.skills.sh/googleworkspace/cli/recipe-create-gmail-filter)**
-- **[recipe-save-email-attachments](https://www.skills.sh/googleworkspace/cli/recipe-save-email-attachments)**
-- **[recipe-backup-sheet-as-csv](https://www.skills.sh/googleworkspace/cli/recipe-backup-sheet-as-csv)**
-- **[recipe-organize-drive-folder](https://www.skills.sh/googleworkspace/cli/recipe-organize-drive-folder)**
-- **[persona-exec-assistant](https://www.skills.sh/googleworkspace/cli/persona-exec-assistant)**
-- **[recipe-find-free-time](https://www.skills.sh/googleworkspace/cli/recipe-find-free-time)**
-- **[gws-workflow-file-announce](https://www.skills.sh/googleworkspace/cli/gws-workflow-file-announce)**
-- **[recipe-compare-sheet-tabs](https://www.skills.sh/googleworkspace/cli/recipe-compare-sheet-tabs)**
-- **[persona-content-creator](https://www.skills.sh/googleworkspace/cli/persona-content-creator)**
-- **[gws-events-renew](https://www.skills.sh/googleworkspace/cli/gws-events-renew)**
-- **[gws-events-subscribe](https://www.skills.sh/googleworkspace/cli/gws-events-subscribe)**
-- **[recipe-plan-weekly-schedule](https://www.skills.sh/googleworkspace/cli/recipe-plan-weekly-schedule)**
-- **[recipe-create-doc-from-template](https://www.skills.sh/googleworkspace/cli/recipe-create-doc-from-template)**
-- **[recipe-bulk-download-folder](https://www.skills.sh/googleworkspace/cli/recipe-bulk-download-folder)**
-- **[recipe-sync-contacts-to-sheet](https://www.skills.sh/googleworkspace/cli/recipe-sync-contacts-to-sheet)**
-- **[recipe-generate-report-from-sheet](https://www.skills.sh/googleworkspace/cli/recipe-generate-report-from-sheet)**
-- **[recipe-label-and-archive-emails](https://www.skills.sh/googleworkspace/cli/recipe-label-and-archive-emails)**
-- **[recipe-reschedule-meeting](https://www.skills.sh/googleworkspace/cli/recipe-reschedule-meeting)**
-- **[recipe-save-email-to-doc](https://www.skills.sh/googleworkspace/cli/recipe-save-email-to-doc)**
-- **[recipe-block-focus-time](https://www.skills.sh/googleworkspace/cli/recipe-block-focus-time)**
-- **[recipe-watch-drive-changes](https://www.skills.sh/googleworkspace/cli/recipe-watch-drive-changes)**
-- **[recipe-create-shared-drive](https://www.skills.sh/googleworkspace/cli/recipe-create-shared-drive)**
-- **[persona-team-lead](https://www.skills.sh/googleworkspace/cli/persona-team-lead)**
-- **[recipe-share-doc-and-notify](https://www.skills.sh/googleworkspace/cli/recipe-share-doc-and-notify)**
-- **[recipe-find-large-files](https://www.skills.sh/googleworkspace/cli/recipe-find-large-files)**
-- **[recipe-create-task-list](https://www.skills.sh/googleworkspace/cli/recipe-create-task-list)**
-- **[recipe-schedule-recurring-event](https://www.skills.sh/googleworkspace/cli/recipe-schedule-recurring-event)**
-- **[recipe-review-overdue-tasks](https://www.skills.sh/googleworkspace/cli/recipe-review-overdue-tasks)**
-- **[recipe-copy-sheet-for-new-month](https://www.skills.sh/googleworkspace/cli/recipe-copy-sheet-for-new-month)**
-- **[recipe-review-meet-participants](https://www.skills.sh/googleworkspace/cli/recipe-review-meet-participants)**
-- **[recipe-batch-invite-to-event](https://www.skills.sh/googleworkspace/cli/recipe-batch-invite-to-event)**
-- **[recipe-collect-form-responses](https://www.skills.sh/googleworkspace/cli/recipe-collect-form-responses)**
-- **[recipe-create-events-from-sheet](https://www.skills.sh/googleworkspace/cli/recipe-create-events-from-sheet)**
-- **[persona-it-admin](https://www.skills.sh/googleworkspace/cli/persona-it-admin)**
-- **[recipe-create-vacation-responder](https://www.skills.sh/googleworkspace/cli/recipe-create-vacation-responder)**
-- **[recipe-share-folder-with-team](https://www.skills.sh/googleworkspace/cli/recipe-share-folder-with-team)**
-- **[persona-customer-support](https://www.skills.sh/googleworkspace/cli/persona-customer-support)**
-- **[recipe-forward-labeled-emails](https://www.skills.sh/googleworkspace/cli/recipe-forward-labeled-emails)**
-- **[persona-event-coordinator](https://www.skills.sh/googleworkspace/cli/persona-event-coordinator)**
-- **[gws-modelarmor](https://www.skills.sh/googleworkspace/cli/gws-modelarmor)**
-- **[persona-sales-ops](https://www.skills.sh/googleworkspace/cli/persona-sales-ops)**
-- **[recipe-create-meet-space](https://www.skills.sh/googleworkspace/cli/recipe-create-meet-space)**
-- **[recipe-create-expense-tracker](https://www.skills.sh/googleworkspace/cli/recipe-create-expense-tracker)**
-- **[recipe-create-feedback-form](https://www.skills.sh/googleworkspace/cli/recipe-create-feedback-form)**
-- **[recipe-post-mortem-setup](https://www.skills.sh/googleworkspace/cli/recipe-post-mortem-setup)**
-- **[gws-modelarmor-create-template](https://www.skills.sh/googleworkspace/cli/gws-modelarmor-create-template)**
-- **[persona-hr-coordinator](https://www.skills.sh/googleworkspace/cli/persona-hr-coordinator)**
-- **[recipe-share-event-materials](https://www.skills.sh/googleworkspace/cli/recipe-share-event-materials)**
-- **[recipe-send-team-announcement](https://www.skills.sh/googleworkspace/cli/recipe-send-team-announcement)**
-- **[gws-modelarmor-sanitize-prompt](https://www.skills.sh/googleworkspace/cli/gws-modelarmor-sanitize-prompt)**
-- **[gws-classroom](https://www.skills.sh/googleworkspace/cli/gws-classroom)**
-- **[gws-modelarmor-sanitize-response](https://www.skills.sh/googleworkspace/cli/gws-modelarmor-sanitize-response)**
-- **[recipe-log-deal-update](https://www.skills.sh/googleworkspace/cli/recipe-log-deal-update)**
-- **[recipe-create-classroom-course](https://www.skills.sh/googleworkspace/cli/recipe-create-classroom-course)**
-- **[gws-script](https://www.skills.sh/googleworkspace/cli/gws-script)**
-- **[gws-script-push](https://www.skills.sh/googleworkspace/cli/gws-script-push)**
-- **[recipe-batch-rename-files](https://www.skills.sh/googleworkspace/cli/recipe-batch-rename-files)**
-- **[gws-apps-script](https://www.skills.sh/googleworkspace/cli/gws-apps-script)**
-- **[recipe-cancel-and-notify](https://www.skills.sh/googleworkspace/cli/recipe-cancel-and-notify)**
-- **[recipe-batch-reply-to-emails](https://www.skills.sh/googleworkspace/cli/recipe-batch-reply-to-emails)**
-- **[gws-apps-script-push](https://www.skills.sh/googleworkspace/cli/gws-apps-script-push)**
-- **[recipe-send-personalized-emails](https://www.skills.sh/googleworkspace/cli/recipe-send-personalized-emails)**
-- **[recipe-search-and-export-emails](https://www.skills.sh/googleworkspace/cli/recipe-search-and-export-emails)**
-- **[recipe-audit-external-sharing](https://www.skills.sh/googleworkspace/cli/recipe-audit-external-sharing)**
-- **[gws-groupssettings](https://www.skills.sh/googleworkspace/cli/gws-groupssettings)**
-- **[recipe-deploy-apps-script](https://www.skills.sh/googleworkspace/cli/recipe-deploy-apps-script)**
-- **[recipe-triage-security-alerts](https://www.skills.sh/googleworkspace/cli/recipe-triage-security-alerts)**
-- **[recipe-transfer-file-ownership](https://www.skills.sh/googleworkspace/cli/recipe-transfer-file-ownership)**
-- **[gws-alertcenter](https://www.skills.sh/googleworkspace/cli/gws-alertcenter)**
-- **[gws-cloudidentity](https://www.skills.sh/googleworkspace/cli/gws-cloudidentity)**
-- **[gws-vault](https://www.skills.sh/googleworkspace/cli/gws-vault)**
-- **[gws-licensing](https://www.skills.sh/googleworkspace/cli/gws-licensing)**
-- **[gws-reseller](https://www.skills.sh/googleworkspace/cli/gws-reseller)**
+- **[gws-gmail-send](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-send/SKILL.md)**
+- **[gws-shared](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-shared/SKILL.md)**
+- **[gws-sheets-read](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-sheets-read/SKILL.md)**
+- **[gws-docs-write](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-docs-write/SKILL.md)**
+- **[gws-calendar-agenda](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-calendar-agenda/SKILL.md)**
+- **[gws-drive-upload](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-drive-upload/SKILL.md)**
+- **[gws-calendar-insert](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-calendar-insert/SKILL.md)**
+- **[gws-gmail-triage](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-triage/SKILL.md)**
+- **[gws-sheets-append](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-sheets-append/SKILL.md)**
+- **[gws-forms](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-forms/SKILL.md)**
+- **[gws-meet](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-meet/SKILL.md)**
+- **[gws-gmail-read](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-read/SKILL.md)**
+- **[gws-keep](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-keep/SKILL.md)**
+- **[gws-gmail-watch](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-watch/SKILL.md)**
+- **[gws-gmail-reply](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-reply/SKILL.md)**
+- **[gws-gmail-forward](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-forward/SKILL.md)**
+- **[gws-chat](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-chat/SKILL.md)**
+- **[gws-people](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-people/SKILL.md)**
+- **[gws-gmail-reply-all](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-gmail-reply-all/SKILL.md)**
+- **[gws-workflow-email-to-task](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-email-to-task/SKILL.md)**
+- **[recipe-create-presentation](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-presentation/SKILL.md)**
+- **[gws-chat-send](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-chat-send/SKILL.md)**
+- **[gws-workflow-meeting-prep](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-meeting-prep/SKILL.md)**
+- **[gws-workflow-weekly-digest](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-weekly-digest/SKILL.md)**
+- **[recipe-draft-email-from-doc](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-draft-email-from-doc/SKILL.md)**
+- **[persona-project-manager](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-project-manager/SKILL.md)**
+- **[recipe-email-drive-link](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-email-drive-link/SKILL.md)**
+- **[gws-events](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-events/SKILL.md)**
+- **[persona-researcher](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-researcher/SKILL.md)**
+- **[recipe-create-gmail-filter](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-gmail-filter/SKILL.md)**
+- **[recipe-save-email-attachments](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-save-email-attachments/SKILL.md)**
+- **[recipe-backup-sheet-as-csv](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-backup-sheet-as-csv/SKILL.md)**
+- **[recipe-organize-drive-folder](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-organize-drive-folder/SKILL.md)**
+- **[persona-exec-assistant](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-exec-assistant/SKILL.md)**
+- **[recipe-find-free-time](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-find-free-time/SKILL.md)**
+- **[gws-workflow-file-announce](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-workflow-file-announce/SKILL.md)**
+- **[recipe-compare-sheet-tabs](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-compare-sheet-tabs/SKILL.md)**
+- **[persona-content-creator](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-content-creator/SKILL.md)**
+- **[gws-events-renew](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-events-renew/SKILL.md)**
+- **[gws-events-subscribe](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-events-subscribe/SKILL.md)**
+- **[recipe-plan-weekly-schedule](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-plan-weekly-schedule/SKILL.md)**
+- **[recipe-create-doc-from-template](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-doc-from-template/SKILL.md)**
+- **[recipe-bulk-download-folder](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-bulk-download-folder/SKILL.md)**
+- **[recipe-sync-contacts-to-sheet](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-sync-contacts-to-sheet/SKILL.md)**
+- **[recipe-generate-report-from-sheet](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-generate-report-from-sheet/SKILL.md)**
+- **[recipe-label-and-archive-emails](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-label-and-archive-emails/SKILL.md)**
+- **[recipe-reschedule-meeting](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-reschedule-meeting/SKILL.md)**
+- **[recipe-save-email-to-doc](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-save-email-to-doc/SKILL.md)**
+- **[recipe-block-focus-time](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-block-focus-time/SKILL.md)**
+- **[recipe-watch-drive-changes](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-watch-drive-changes/SKILL.md)**
+- **[recipe-create-shared-drive](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-shared-drive/SKILL.md)**
+- **[persona-team-lead](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-team-lead/SKILL.md)**
+- **[recipe-share-doc-and-notify](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-share-doc-and-notify/SKILL.md)**
+- **[recipe-find-large-files](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-find-large-files/SKILL.md)**
+- **[recipe-create-task-list](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-task-list/SKILL.md)**
+- **[recipe-schedule-recurring-event](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-schedule-recurring-event/SKILL.md)**
+- **[recipe-review-overdue-tasks](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-review-overdue-tasks/SKILL.md)**
+- **[recipe-copy-sheet-for-new-month](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-copy-sheet-for-new-month/SKILL.md)**
+- **[recipe-review-meet-participants](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-review-meet-participants/SKILL.md)**
+- **[recipe-batch-invite-to-event](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-batch-invite-to-event/SKILL.md)**
+- **[recipe-collect-form-responses](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-collect-form-responses/SKILL.md)**
+- **[recipe-create-events-from-sheet](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-events-from-sheet/SKILL.md)**
+- **[persona-it-admin](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-it-admin/SKILL.md)**
+- **[recipe-create-vacation-responder](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-vacation-responder/SKILL.md)**
+- **[recipe-share-folder-with-team](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-share-folder-with-team/SKILL.md)**
+- **[persona-customer-support](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-customer-support/SKILL.md)**
+- **[recipe-forward-labeled-emails](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-forward-labeled-emails/SKILL.md)**
+- **[persona-event-coordinator](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-event-coordinator/SKILL.md)**
+- **[gws-modelarmor](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-modelarmor/SKILL.md)**
+- **[persona-sales-ops](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-sales-ops/SKILL.md)**
+- **[recipe-create-meet-space](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-meet-space/SKILL.md)**
+- **[recipe-create-expense-tracker](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-expense-tracker/SKILL.md)**
+- **[recipe-create-feedback-form](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-feedback-form/SKILL.md)**
+- **[recipe-post-mortem-setup](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-post-mortem-setup/SKILL.md)**
+- **[gws-modelarmor-create-template](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-modelarmor-create-template/SKILL.md)**
+- **[persona-hr-coordinator](https://github.com/googleworkspace/cli/blob/HEAD/skills/persona-hr-coordinator/SKILL.md)**
+- **[recipe-share-event-materials](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-share-event-materials/SKILL.md)**
+- **[recipe-send-team-announcement](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-send-team-announcement/SKILL.md)**
+- **[gws-modelarmor-sanitize-prompt](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-modelarmor-sanitize-prompt/SKILL.md)**
+- **[gws-classroom](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-classroom/SKILL.md)**
+- **[gws-modelarmor-sanitize-response](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-modelarmor-sanitize-response/SKILL.md)**
+- **[recipe-log-deal-update](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-log-deal-update/SKILL.md)**
+- **[recipe-create-classroom-course](https://github.com/googleworkspace/cli/blob/HEAD/skills/recipe-create-classroom-course/SKILL.md)**
+- **[gws-script](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-script/SKILL.md)**
+- **[gws-script-push](https://github.com/googleworkspace/cli/blob/HEAD/skills/gws-script-push/SKILL.md)**
 
-<a id="full-ops-claude-office-skillsskills--89"></a>
-#### claude-office-skills/skills · 89
+<a id="full-ops-claude-office-skillsskills--65"></a>
+#### claude-office-skills/skills · 65
 
-- **[html-slides](https://www.skills.sh/claude-office-skills/skills/html-slides)**
-- **[stock-analysis](https://www.skills.sh/claude-office-skills/skills/stock-analysis)**
-- **[office-mcp](https://www.skills.sh/claude-office-skills/skills/office-mcp)**
-- **[utomation](https://www.skills.sh/claude-office-skills/skills/utomation)**
-- **[whatsapp-automation](https://www.skills.sh/claude-office-skills/skills/whatsapp-automation)**
-- **[telegram-bot](https://www.skills.sh/claude-office-skills/skills/telegram-bot)**
-- **[google-ads-manager](https://www.skills.sh/claude-office-skills/skills/google-ads-manager)**
-- **[airtable-automation](https://www.skills.sh/claude-office-skills/skills/airtable-automation)**
-- **[pdf-to-docx](https://www.skills.sh/claude-office-skills/skills/pdf-to-docx)**
-- **[xtraction](https://www.skills.sh/claude-office-skills/skills/xtraction)**
-- **[office-to-md](https://www.skills.sh/claude-office-skills/skills/office-to-md)**
-- **[pptx-manipulation](https://www.skills.sh/claude-office-skills/skills/pptx-manipulation)**
-- **[image-generation](https://www.skills.sh/claude-office-skills/skills/image-generation)**
-- **[rganizer](https://www.skills.sh/claude-office-skills/skills/rganizer)**
-- **[contract-review](https://www.skills.sh/claude-office-skills/skills/contract-review)**
-- **[crm-automation](https://www.skills.sh/claude-office-skills/skills/crm-automation)**
-- **[weekly-report](https://www.skills.sh/claude-office-skills/skills/weekly-report)**
-- **[investment-memo](https://www.skills.sh/claude-office-skills/skills/investment-memo)**
-- **[resume-tailor](https://www.skills.sh/claude-office-skills/skills/resume-tailor)**
-- **[discord-bot](https://www.skills.sh/claude-office-skills/skills/discord-bot)**
-- **[doc-parser](https://www.skills.sh/claude-office-skills/skills/doc-parser)**
-- **[eller](https://www.skills.sh/claude-office-skills/skills/eller)**
-- **[sheets-automation](https://www.skills.sh/claude-office-skills/skills/sheets-automation)**
-- **[report-generator](https://www.skills.sh/claude-office-skills/skills/report-generator)**
-- **[md-to-office](https://www.skills.sh/claude-office-skills/skills/md-to-office)**
-- **[onverter](https://www.skills.sh/claude-office-skills/skills/onverter)**
-- **[competitive-analysis](https://www.skills.sh/claude-office-skills/skills/competitive-analysis)**
-- **[financial-modeling](https://www.skills.sh/claude-office-skills/skills/financial-modeling)**
-- **[infographic](https://www.skills.sh/claude-office-skills/skills/infographic)**
-- **[news-monitor](https://www.skills.sh/claude-office-skills/skills/news-monitor)**
-- **[company-research](https://www.skills.sh/claude-office-skills/skills/company-research)**
-- **[dcf-valuation](https://www.skills.sh/claude-office-skills/skills/dcf-valuation)**
-- **[invoice-generator](https://www.skills.sh/claude-office-skills/skills/invoice-generator)**
-- **[cover-letter](https://www.skills.sh/claude-office-skills/skills/cover-letter)**
-- **[contract-template](https://www.skills.sh/claude-office-skills/skills/contract-template)**
-- **[deep-research](https://www.skills.sh/claude-office-skills/skills/deep-research)**
-- **[email-marketing](https://www.skills.sh/claude-office-skills/skills/email-marketing)**
-- **[diagram-creator](https://www.skills.sh/claude-office-skills/skills/diagram-creator)**
-- **[subscription-management](https://www.skills.sh/claude-office-skills/skills/subscription-management)**
-- **[html-to-ppt](https://www.skills.sh/claude-office-skills/skills/html-to-ppt)**
-- **[gmail-workflows](https://www.skills.sh/claude-office-skills/skills/gmail-workflows)**
-- **[saas-metrics](https://www.skills.sh/claude-office-skills/skills/saas-metrics)**
-- **[ayments](https://www.skills.sh/claude-office-skills/skills/ayments)**
-- **[data-pipeline](https://www.skills.sh/claude-office-skills/skills/data-pipeline)**
-- **[slack-workflows](https://www.skills.sh/claude-office-skills/skills/slack-workflows)**
-- **[hr-automation](https://www.skills.sh/claude-office-skills/skills/hr-automation)**
-- **[ai-slides](https://www.skills.sh/claude-office-skills/skills/ai-slides)**
-- **[table-extractor](https://www.skills.sh/claude-office-skills/skills/table-extractor)**
-- **[ai-agent-builder](https://www.skills.sh/claude-office-skills/skills/ai-agent-builder)**
-- **[n8n-workflow](https://www.skills.sh/claude-office-skills/skills/n8n-workflow)**
-- **[notion-automation](https://www.skills.sh/claude-office-skills/skills/notion-automation)**
-- **[seo-optimizer](https://www.skills.sh/claude-office-skills/skills/seo-optimizer)**
-- **[batch-convert](https://www.skills.sh/claude-office-skills/skills/batch-convert)**
-- **[web-search](https://www.skills.sh/claude-office-skills/skills/web-search)**
-- **[batch-processor](https://www.skills.sh/claude-office-skills/skills/batch-processor)**
-- **[shopify-automation](https://www.skills.sh/claude-office-skills/skills/shopify-automation)**
-- **[devops-automation](https://www.skills.sh/claude-office-skills/skills/devops-automation)**
-- **[expense-report](https://www.skills.sh/claude-office-skills/skills/expense-report)**
-- **[ipeline](https://www.skills.sh/claude-office-skills/skills/ipeline)**
-- **[data-extractor](https://www.skills.sh/claude-office-skills/skills/data-extractor)**
-- **[enerator](https://www.skills.sh/claude-office-skills/skills/enerator)**
-- **[crypto-report](https://www.skills.sh/claude-office-skills/skills/crypto-report)**
-- **[email-drafter](https://www.skills.sh/claude-office-skills/skills/email-drafter)**
-- **[customer-success](https://www.skills.sh/claude-office-skills/skills/customer-success)**
-- **[md-slides](https://www.skills.sh/claude-office-skills/skills/md-slides)**
-- **[racker](https://www.skills.sh/claude-office-skills/skills/racker)**
-- **[iller](https://www.skills.sh/claude-office-skills/skills/iller)**
-- **[ntegration](https://www.skills.sh/claude-office-skills/skills/ntegration)**
-- **[plit](https://www.skills.sh/claude-office-skills/skills/plit)**
-- **[ompress](https://www.skills.sh/claude-office-skills/skills/ompress)**
-- **[riter](https://www.skills.sh/claude-office-skills/skills/riter)**
-- **[ualification](https://www.skills.sh/claude-office-skills/skills/ualification)**
-- **[creening](https://www.skills.sh/claude-office-skills/skills/creening)**
-- **[template-engine](https://www.skills.sh/claude-office-skills/skills/template-engine)**
-- **[invoice-template](https://www.skills.sh/claude-office-skills/skills/invoice-template)**
-- **[onitoring](https://www.skills.sh/claude-office-skills/skills/onitoring)**
-- **[atermark](https://www.skills.sh/claude-office-skills/skills/atermark)**
-- **[ssistant](https://www.skills.sh/claude-office-skills/skills/ssistant)**
-- **[form-builder](https://www.skills.sh/claude-office-skills/skills/form-builder)**
-- **[ync](https://www.skills.sh/claude-office-skills/skills/ync)**
-- **[lassifier](https://www.skills.sh/claude-office-skills/skills/lassifier)**
-- **[doc-pipeline](https://www.skills.sh/claude-office-skills/skills/doc-pipeline)**
-- **[mcp-hub](https://www.skills.sh/claude-office-skills/skills/mcp-hub)**
-- **[dev-slides](https://www.skills.sh/claude-office-skills/skills/dev-slides)**
-- **[nda-generator](https://www.skills.sh/claude-office-skills/skills/nda-generator)**
-- **[lead-routing](https://www.skills.sh/claude-office-skills/skills/lead-routing)**
-- **[nalyzer](https://www.skills.sh/claude-office-skills/skills/nalyzer)**
-- **[skill-name](https://www.skills.sh/claude-office-skills/skills/skill-name)**
-- **[ds](https://www.skills.sh/claude-office-skills/skills/ds)**
+- **[html-slides](https://github.com/claude-office-skills/skills/blob/HEAD/html-slides/SKILL.md)**
+- **[stock-analysis](https://github.com/claude-office-skills/skills/blob/HEAD/stock-analysis/SKILL.md)**
+- **[office-mcp](https://github.com/claude-office-skills/skills/blob/HEAD/office-mcp/SKILL.md)**
+- **[whatsapp-automation](https://github.com/claude-office-skills/skills/blob/HEAD/whatsapp-automation/SKILL.md)**
+- **[telegram-bot](https://github.com/claude-office-skills/skills/blob/HEAD/telegram-bot/SKILL.md)**
+- **[google-ads-manager](https://github.com/claude-office-skills/skills/blob/HEAD/google-ads-manager/SKILL.md)**
+- **[airtable-automation](https://github.com/claude-office-skills/skills/blob/HEAD/airtable-automation/SKILL.md)**
+- **[pdf-to-docx](https://github.com/claude-office-skills/skills/blob/HEAD/pdf-to-docx/SKILL.md)**
+- **[office-to-md](https://github.com/claude-office-skills/skills/blob/HEAD/office-to-md/SKILL.md)**
+- **[pptx-manipulation](https://github.com/claude-office-skills/skills/blob/HEAD/pptx-manipulation/SKILL.md)**
+- **[image-generation](https://github.com/claude-office-skills/skills/blob/HEAD/image-generation/SKILL.md)**
+- **[contract-review](https://github.com/claude-office-skills/skills/blob/HEAD/contract-review/SKILL.md)**
+- **[crm-automation](https://github.com/claude-office-skills/skills/blob/HEAD/crm-automation/SKILL.md)**
+- **[weekly-report](https://github.com/claude-office-skills/skills/blob/HEAD/weekly-report/SKILL.md)**
+- **[investment-memo](https://github.com/claude-office-skills/skills/blob/HEAD/investment-memo/SKILL.md)**
+- **[resume-tailor](https://github.com/claude-office-skills/skills/blob/HEAD/resume-tailor/SKILL.md)**
+- **[discord-bot](https://github.com/claude-office-skills/skills/blob/HEAD/discord-bot/SKILL.md)**
+- **[doc-parser](https://github.com/claude-office-skills/skills/blob/HEAD/doc-parser/SKILL.md)**
+- **[sheets-automation](https://github.com/claude-office-skills/skills/blob/HEAD/sheets-automation/SKILL.md)**
+- **[report-generator](https://github.com/claude-office-skills/skills/blob/HEAD/report-generator/SKILL.md)**
+- **[md-to-office](https://github.com/claude-office-skills/skills/blob/HEAD/md-to-office/SKILL.md)**
+- **[competitive-analysis](https://github.com/claude-office-skills/skills/blob/HEAD/competitive-analysis/SKILL.md)**
+- **[financial-modeling](https://github.com/claude-office-skills/skills/blob/HEAD/financial-modeling/SKILL.md)**
+- **[infographic](https://github.com/claude-office-skills/skills/blob/HEAD/infographic/SKILL.md)**
+- **[news-monitor](https://github.com/claude-office-skills/skills/blob/HEAD/news-monitor/SKILL.md)**
+- **[company-research](https://github.com/claude-office-skills/skills/blob/HEAD/company-research/SKILL.md)**
+- **[dcf-valuation](https://github.com/claude-office-skills/skills/blob/HEAD/dcf-valuation/SKILL.md)**
+- **[invoice-generator](https://github.com/claude-office-skills/skills/blob/HEAD/invoice-generator/SKILL.md)**
+- **[cover-letter](https://github.com/claude-office-skills/skills/blob/HEAD/cover-letter/SKILL.md)**
+- **[contract-template](https://github.com/claude-office-skills/skills/blob/HEAD/contract-template/SKILL.md)**
+- **[deep-research](https://github.com/claude-office-skills/skills/blob/HEAD/deep-research/SKILL.md)**
+- **[email-marketing](https://github.com/claude-office-skills/skills/blob/HEAD/email-marketing/SKILL.md)**
+- **[diagram-creator](https://github.com/claude-office-skills/skills/blob/HEAD/diagram-creator/SKILL.md)**
+- **[subscription-management](https://github.com/claude-office-skills/skills/blob/HEAD/subscription-management/SKILL.md)**
+- **[html-to-ppt](https://github.com/claude-office-skills/skills/blob/HEAD/html-to-ppt/SKILL.md)**
+- **[gmail-workflows](https://github.com/claude-office-skills/skills/blob/HEAD/gmail-workflows/SKILL.md)**
+- **[saas-metrics](https://github.com/claude-office-skills/skills/blob/HEAD/saas-metrics/SKILL.md)**
+- **[data-pipeline](https://github.com/claude-office-skills/skills/blob/HEAD/data-pipeline/SKILL.md)**
+- **[slack-workflows](https://github.com/claude-office-skills/skills/blob/HEAD/slack-workflows/SKILL.md)**
+- **[hr-automation](https://github.com/claude-office-skills/skills/blob/HEAD/hr-automation/SKILL.md)**
+- **[ai-slides](https://github.com/claude-office-skills/skills/blob/HEAD/ai-slides/SKILL.md)**
+- **[table-extractor](https://github.com/claude-office-skills/skills/blob/HEAD/table-extractor/SKILL.md)**
+- **[ai-agent-builder](https://github.com/claude-office-skills/skills/blob/HEAD/ai-agent-builder/SKILL.md)**
+- **[n8n-workflow](https://github.com/claude-office-skills/skills/blob/HEAD/n8n-workflow/SKILL.md)**
+- **[notion-automation](https://github.com/claude-office-skills/skills/blob/HEAD/notion-automation/SKILL.md)**
+- **[seo-optimizer](https://github.com/claude-office-skills/skills/blob/HEAD/seo-optimizer/SKILL.md)**
+- **[batch-convert](https://github.com/claude-office-skills/skills/blob/HEAD/batch-convert/SKILL.md)**
+- **[web-search](https://github.com/claude-office-skills/skills/blob/HEAD/web-search/SKILL.md)**
+- **[batch-processor](https://github.com/claude-office-skills/skills/blob/HEAD/batch-processor/SKILL.md)**
+- **[shopify-automation](https://github.com/claude-office-skills/skills/blob/HEAD/shopify-automation/SKILL.md)**
+- **[devops-automation](https://github.com/claude-office-skills/skills/blob/HEAD/devops-automation/SKILL.md)**
+- **[expense-report](https://github.com/claude-office-skills/skills/blob/HEAD/expense-report/SKILL.md)**
+- **[data-extractor](https://github.com/claude-office-skills/skills/blob/HEAD/data-extractor/SKILL.md)**
+- **[crypto-report](https://github.com/claude-office-skills/skills/blob/HEAD/crypto-report/SKILL.md)**
+- **[email-drafter](https://github.com/claude-office-skills/skills/blob/HEAD/email-drafter/SKILL.md)**
+- **[customer-success](https://github.com/claude-office-skills/skills/blob/HEAD/customer-success/SKILL.md)**
+- **[md-slides](https://github.com/claude-office-skills/skills/blob/HEAD/md-slides/SKILL.md)**
+- **[template-engine](https://github.com/claude-office-skills/skills/blob/HEAD/template-engine/SKILL.md)**
+- **[invoice-template](https://github.com/claude-office-skills/skills/blob/HEAD/invoice-template/SKILL.md)**
+- **[form-builder](https://github.com/claude-office-skills/skills/blob/HEAD/form-builder/SKILL.md)**
+- **[doc-pipeline](https://github.com/claude-office-skills/skills/blob/HEAD/doc-pipeline/SKILL.md)**
+- **[mcp-hub](https://github.com/claude-office-skills/skills/blob/HEAD/mcp-hub/SKILL.md)**
+- **[dev-slides](https://github.com/claude-office-skills/skills/blob/HEAD/dev-slides/SKILL.md)**
+- **[nda-generator](https://github.com/claude-office-skills/skills/blob/HEAD/nda-generator/SKILL.md)**
+- **[lead-routing](https://github.com/claude-office-skills/skills/blob/HEAD/lead-routing/SKILL.md)**
 
 [Back to contents](#contents)
 
@@ -4641,62 +4585,58 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 
 Additional skill listings beyond the focused topics, grouped by source pack. A pack can include cross-domain entries. Names and source links only; these have not all been installed or task-tested.
 
-<a id="full-content-openaiskills--53"></a>
-#### openai/skills · 53
+<a id="full-content-openaiskills--49"></a>
+#### openai/skills · 49
 
-- **[pdf](https://www.skills.sh/openai/skills/pdf)**
-- **[security-best-practices](https://www.skills.sh/openai/skills/security-best-practices)**
-- **[gh-fix-ci](https://www.skills.sh/openai/skills/gh-fix-ci)**
-- **[linear](https://www.skills.sh/openai/skills/linear)**
-- **[playwright](https://www.skills.sh/openai/skills/playwright)**
-- **[security-threat-model](https://www.skills.sh/openai/skills/security-threat-model)**
-- **[openai-docs](https://www.skills.sh/openai/skills/openai-docs)**
-- **[screenshot](https://www.skills.sh/openai/skills/screenshot)**
-- **[imagegen](https://www.skills.sh/openai/skills/imagegen)**
-- **[jupyter-notebook](https://www.skills.sh/openai/skills/jupyter-notebook)**
-- **[playwright-interactive](https://www.skills.sh/openai/skills/playwright-interactive)**
-- **[skill-creator](https://www.skills.sh/openai/skills/skill-creator)**
-- **[gh-address-comments](https://www.skills.sh/openai/skills/gh-address-comments)**
-- **[cloudflare-deploy](https://www.skills.sh/openai/skills/cloudflare-deploy)**
-- **[aspnet-core](https://www.skills.sh/openai/skills/aspnet-core)**
-- **[transcribe](https://www.skills.sh/openai/skills/transcribe)**
-- **[security-ownership-map](https://www.skills.sh/openai/skills/security-ownership-map)**
-- **[skill-installer](https://www.skills.sh/openai/skills/skill-installer)**
-- **[notion-research-documentation](https://www.skills.sh/openai/skills/notion-research-documentation)**
-- **[sentry](https://www.skills.sh/openai/skills/sentry)**
-- **[speech](https://www.skills.sh/openai/skills/speech)**
-- **[notion-knowledge-capture](https://www.skills.sh/openai/skills/notion-knowledge-capture)**
-- **[netlify-deploy](https://www.skills.sh/openai/skills/netlify-deploy)**
-- **[yeet](https://www.skills.sh/openai/skills/yeet)**
-- **[vercel-deploy](https://www.skills.sh/openai/skills/vercel-deploy)**
-- **[hatch-pet](https://www.skills.sh/openai/skills/hatch-pet)**
-- **[chatgpt-apps](https://www.skills.sh/openai/skills/chatgpt-apps)**
-- **[notion-spec-to-implementation](https://www.skills.sh/openai/skills/notion-spec-to-implementation)**
-- **[winui-app](https://www.skills.sh/openai/skills/winui-app)**
-- **[cli-creator](https://www.skills.sh/openai/skills/cli-creator)**
-- **[render-deploy](https://www.skills.sh/openai/skills/render-deploy)**
-- **[notion-meeting-intelligence](https://www.skills.sh/openai/skills/notion-meeting-intelligence)**
-- **[figma-use](https://www.skills.sh/openai/skills/figma-use)**
-- **[figma-generate-design](https://www.skills.sh/openai/skills/figma-generate-design)**
-- **[define-goal](https://www.skills.sh/openai/skills/define-goal)**
-- **[figma-code-connect-components](https://www.skills.sh/openai/skills/figma-code-connect-components)**
-- **[figma-generate-library](https://www.skills.sh/openai/skills/figma-generate-library)**
-- **[figma-create-new-file](https://www.skills.sh/openai/skills/figma-create-new-file)**
-- **[migrate-to-codex](https://www.skills.sh/openai/skills/migrate-to-codex)**
-- **[plugin-creator](https://www.skills.sh/openai/skills/plugin-creator)**
-- **[spreadsheet](https://www.skills.sh/openai/skills/spreadsheet)**
-- **[frontend-skill](https://www.skills.sh/openai/skills/frontend-skill)**
-- **[doc](https://www.skills.sh/openai/skills/doc)**
-- **[develop-web-game](https://www.skills.sh/openai/skills/develop-web-game)**
-- **[sora](https://www.skills.sh/openai/skills/sora)**
-- **[slides](https://www.skills.sh/openai/skills/slides)**
-- **[create-plan](https://www.skills.sh/openai/skills/create-plan)**
-- **[codex-readiness-unit-test](https://www.skills.sh/openai/skills/codex-readiness-unit-test)**
-- **[codex-readiness-integration-test](https://www.skills.sh/openai/skills/codex-readiness-integration-test)**
-- **[build-things](https://www.skills.sh/openai/skills/build-things)**
-- **[gitlab-address-comments](https://www.skills.sh/openai/skills/gitlab-address-comments)**
-- **[codex-wrapped](https://www.skills.sh/openai/skills/codex-wrapped)**
-- **[atlas](https://www.skills.sh/openai/skills/atlas)**
+- **[pdf](https://github.com/openai/skills/blob/HEAD/skills/.curated/pdf/SKILL.md)**
+- **[security-best-practices](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-best-practices/SKILL.md)**
+- **[gh-fix-ci](https://github.com/openai/skills/blob/HEAD/skills/.curated/gh-fix-ci/SKILL.md)**
+- **[linear](https://github.com/openai/skills/blob/HEAD/skills/.curated/linear/SKILL.md)**
+- **[playwright](https://github.com/openai/skills/blob/HEAD/skills/.curated/playwright/SKILL.md)**
+- **[security-threat-model](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-threat-model/SKILL.md)**
+- **[openai-docs](https://github.com/openai/skills/blob/HEAD/skills/.system/openai-docs/SKILL.md)**
+- **[screenshot](https://github.com/openai/skills/blob/HEAD/skills/.curated/screenshot/SKILL.md)**
+- **[imagegen](https://github.com/openai/skills/blob/HEAD/skills/.system/imagegen/SKILL.md)**
+- **[jupyter-notebook](https://github.com/openai/skills/blob/HEAD/skills/.curated/jupyter-notebook/SKILL.md)**
+- **[playwright-interactive](https://github.com/openai/skills/blob/HEAD/skills/.curated/playwright-interactive/SKILL.md)**
+- **[skill-creator](https://github.com/openai/skills/blob/HEAD/skills/.system/skill-creator/SKILL.md)**
+- **[gh-address-comments](https://github.com/openai/skills/blob/HEAD/skills/.curated/gh-address-comments/SKILL.md)**
+- **[cloudflare-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/cloudflare-deploy/SKILL.md)**
+- **[aspnet-core](https://github.com/openai/skills/blob/HEAD/skills/.curated/aspnet-core/SKILL.md)**
+- **[transcribe](https://github.com/openai/skills/blob/HEAD/skills/.curated/transcribe/SKILL.md)**
+- **[security-ownership-map](https://github.com/openai/skills/blob/HEAD/skills/.curated/security-ownership-map/SKILL.md)**
+- **[skill-installer](https://github.com/openai/skills/blob/HEAD/skills/.system/skill-installer/SKILL.md)**
+- **[notion-research-documentation](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-research-documentation/SKILL.md)**
+- **[sentry](https://github.com/openai/skills/blob/HEAD/skills/.curated/sentry/SKILL.md)**
+- **[speech](https://github.com/openai/skills/blob/HEAD/skills/.curated/speech/SKILL.md)**
+- **[notion-knowledge-capture](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-knowledge-capture/SKILL.md)**
+- **[netlify-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/netlify-deploy/SKILL.md)**
+- **[yeet](https://github.com/openai/skills/blob/HEAD/skills/.curated/yeet/SKILL.md)**
+- **[vercel-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/vercel-deploy/SKILL.md)**
+- **[hatch-pet](https://github.com/openai/skills/blob/HEAD/skills/.curated/hatch-pet/SKILL.md)**
+- **[chatgpt-apps](https://github.com/openai/skills/blob/HEAD/skills/.curated/chatgpt-apps/SKILL.md)**
+- **[notion-spec-to-implementation](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-spec-to-implementation/SKILL.md)**
+- **[winui-app](https://github.com/openai/skills/blob/HEAD/skills/.curated/winui-app/SKILL.md)**
+- **[cli-creator](https://github.com/openai/skills/blob/HEAD/skills/.curated/cli-creator/SKILL.md)**
+- **[render-deploy](https://github.com/openai/skills/blob/HEAD/skills/.curated/render-deploy/SKILL.md)**
+- **[notion-meeting-intelligence](https://github.com/openai/skills/blob/HEAD/skills/.curated/notion-meeting-intelligence/SKILL.md)**
+- **[figma-use](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-use/SKILL.md)**
+- **[figma-generate-design](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-generate-design/SKILL.md)**
+- **[define-goal](https://github.com/openai/skills/blob/HEAD/skills/.curated/define-goal/SKILL.md)**
+- **[figma-code-connect-components](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-code-connect-components/SKILL.md)**
+- **[figma-generate-library](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-generate-library/SKILL.md)**
+- **[figma-create-new-file](https://github.com/openai/skills/blob/HEAD/skills/.curated/figma-create-new-file/SKILL.md)**
+- **[migrate-to-codex](https://github.com/openai/skills/blob/HEAD/skills/.curated/migrate-to-codex/SKILL.md)**
+- **[plugin-creator](https://github.com/openai/skills/blob/HEAD/skills/.system/plugin-creator/SKILL.md)**
+- **[frontend-skill · repository entry](https://github.com/openai/skills)**
+- **[develop-web-game · repository entry](https://github.com/openai/skills)**
+- **[create-plan · repository entry](https://github.com/openai/skills)**
+- **[codex-readiness-unit-test · repository entry](https://github.com/openai/skills)**
+- **[codex-readiness-integration-test · repository entry](https://github.com/openai/skills)**
+- **[build-things · repository entry](https://github.com/openai/skills)**
+- **[gitlab-address-comments · repository entry](https://github.com/openai/skills)**
+- **[codex-wrapped · repository entry](https://github.com/openai/skills)**
+- **[atlas · repository entry](https://github.com/openai/skills)**
 
 [Back to contents](#contents)
 
@@ -4705,6 +4645,7 @@ Additional skill listings beyond the focused topics, grouped by source pack. A p
 ## Curation & maintenance
 
 - Organize by concrete tasks, with source links and short descriptions. Full instructions, dependencies and licenses live upstream.
+- Prefer specific source files. Entries marked "repository entry" have no confirmed file match; check the author's repository for current content. Collection names link to repositories. See [upstream-links.json](data/upstream-links.json) for the link audit.
 - Focused collections include use descriptions. The extended index groups entries by source pack; individual entries can cross domains, so a pack's section is not an item-level classification.
 - A reachable page, an existing upstream skill, a successful installation and a useful real-task result are different checks. New operating guides were checked against first-party descriptions. The entire catalog has not been installed or tested; a cached page returning 200 does not establish current installability.
 - READMEs and the machine catalog are generated from source documents. Checks enforce complete resource exposure, matching bilingual external-link sets, valid local links and anchors, and GitHub's README size limit.
