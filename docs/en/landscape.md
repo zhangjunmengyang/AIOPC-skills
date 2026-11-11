@@ -22,6 +22,27 @@ Coarse coverage, not quality: ● strong / ○ partial / — none.
 | Ops / legal / finance | ● | — | ● | — | ○ | ○ | ○ | — |
 | Mental models | ● | — | — | ● | — | ○ | — | — |
 
+## Platform coverage
+
+Coarse coverage: ● strong / ○ partial / — none.
+
+| Platform | AIOPC | OPC Pack | Solo Founder | Founder Playbook | Founder Skills | Lenny | Startup OS | Minimalist |
+|---|---|---|---|---|---|---|---|---|
+| Xiaohongshu | ● | — | — | — | — | — | — | — |
+| WeChat | ● | — | — | — | — | — | — | — |
+| Douyin / Channels | ● | — | — | — | — | — | — | — |
+| TikTok | ● | — | — | — | ● | — | — | — |
+| X / Twitter | ● | ● | — | — | ● | — | ○ | — |
+| LinkedIn | ● | — | — | — | ● | — | — | — |
+| Reddit | ● | ● | — | — | — | — | — | — |
+| YouTube | ● | — | ○ | — | — | — | ● | — |
+| Ecommerce | ● | — | ○ | — | — | — | ○ | — |
+| App Store | ● | — | ○ | — | — | — | — | — |
+| SEO / GEO | ● | ● | ● | — | — | — | ○ | ○ |
+| Community / Newsletter | ● | — | — | — | ○ | ○ | ○ | — |
+
+> Takeaway: competitors are stronger on English platforms, classic frameworks and developer tools; Chinese platforms are where we are uniquely deep.
+
 ---
 
 - **[OPC Skill Pack](https://www.skills.sh/resciencelab/opc-skills)** — Direct OPC competitor: 12 skills for launch and solo tools
