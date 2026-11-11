@@ -84,6 +84,7 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 
 ## 🧠 Classics & landscape
 
+- 🧭 **[OPC Workflow & Capability Map](docs/en/workflow.md)** — 12 stages, 21 capabilities and the 10 most-missed items.
 - 🧠 **[Classic frameworks & mental models](docs/en/classics.md)** — Munger, Naval, PG, Taleb, Lean Startup, Mom Test and 20 frameworks.
 - 🧑‍💼 **[Solo Founder OS](docs/en/solo-founder.md)** — 71 skills from the direct competitor solo-founder-skills, re-grouped by capability.
 - 🧑‍💼 **[Founder Packs, by capability](docs/en/founder-packs.md)** — 98 skills from six founder packs, re-grouped by capability.

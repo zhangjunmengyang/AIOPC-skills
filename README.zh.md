@@ -84,6 +84,7 @@
 
 ## 🧠 经典与竞品
 
+- 🧭 **[OPC 全流程与能力地图](docs/zh/workflow.md)** — 12 个阶段、21 项能力、10 个最容易漏的坑。
 - 🧠 **[商业经典与思维模型](docs/zh/classics.md)** — 芒格、Naval、PG、塔勒布，以及 Lean Startup、Mom Test 等 20 个框架。
 - 🧑‍💼 **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 71 个技能，按能力重排。
 - 🧑‍💼 **[创始人技能包（按能力拆）](docs/zh/founder-packs.md)** — 六个创始人包的 98 个技能，按能力重排。
