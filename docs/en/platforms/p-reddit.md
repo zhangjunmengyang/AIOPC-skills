@@ -6,6 +6,14 @@ Native posts, lead discovery and ads.
 
 > **Playbook:** Pick subreddit → genuine answers → soft share → leads
 
+| Step | Start with |
+|---|---|
+| Research | [reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research) |
+| Posts | [reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts) |
+| Leads | [reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads) |
+| Ads | [reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads) |
+| Automation | [reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation) |
+
 ---
 
 ## ⭐ Top picks

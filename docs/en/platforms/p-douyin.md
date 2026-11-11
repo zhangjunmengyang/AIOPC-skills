@@ -6,6 +6,14 @@ Hooks, scripts, titles and covers, extraction and chapter navigation.
 
 > **Playbook:** Topic → hook → script → shoot/edit → publish/review
 
+| Step | Start with |
+|---|---|
+| Topic | [dbs-content-system](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-system) |
+| Hook | [dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook) |
+| Script | [dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow) |
+| Title/cover | [dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro) |
+| Publish/review | [dbs-report](https://www.skills.sh/dontbesilent2025/dbskill/dbs-report) |
+
 ---
 
 ## ⭐ Top picks

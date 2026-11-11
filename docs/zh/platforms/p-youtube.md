@@ -6,6 +6,14 @@
 
 > **打法：** 选题 → 脚本 → 拍摄/剪辑 → 缩略图/标题 → 发布/广告
 
+| 步骤 | 先用 |
+|---|---|
+| 选题 | [youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo) |
+| 脚本 | [youtube-scriptwriting](https://www.skills.sh/cdeistopened/skill-stack/youtube-scriptwriting) |
+| 缩略图 | [thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design) |
+| 上传 | [youtube-uploader](https://www.skills.sh/aviz85/claude-skills-library/youtube-uploader) |
+| 广告 | [ads-youtube](https://www.skills.sh/agricidaniel/claude-ads/ads-youtube) |
+
 ---
 
 ## ⭐ 先试这几个

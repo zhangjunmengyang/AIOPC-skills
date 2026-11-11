@@ -6,6 +6,14 @@ Professional content, ghostwriting, outreach and ads.
 
 > **Playbook:** Persona → case post → engagement/outreach → conversion
 
+| Step | Start with |
+|---|---|
+| Persona | [linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding) |
+| Posts | [linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts) |
+| Writing | [linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer) |
+| Outreach | [compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach) |
+| Ads | [ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin) |
+
 ---
 
 ## ⭐ Top picks

@@ -6,6 +6,14 @@ Content, scripts, captions and ads.
 
 > **Playbook:** Product/topic → script → shoot/edit → publish → ads/creators
 
+| Step | Start with |
+|---|---|
+| Product/topic | [tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy) |
+| Script | [tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script) |
+| Captions | [tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions) |
+| Ads | [tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads) |
+| Creators | [tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing) |
+
 ---
 
 ## ⭐ Top picks

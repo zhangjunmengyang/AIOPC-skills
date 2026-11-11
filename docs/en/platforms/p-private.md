@@ -6,6 +6,15 @@ Community, email list and podcast — turn traffic into a reachable asset.
 
 > **Playbook:** Acquire → capture → content → convert → repeat
 
+| Step | Start with |
+|---|---|
+| Acquire | [lead-magnets](https://www.skills.sh/coreyhaines31/marketingskills/lead-magnets) |
+| Capture | [newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator) |
+| Content | [newsletter-generation](https://www.skills.sh/bytedance/deer-flow/newsletter-generation) |
+| Community | [community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing) |
+| Monetize | [newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner) |
+| Podcast | [podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing) |
+
 ---
 
 ## ⭐ Top picks

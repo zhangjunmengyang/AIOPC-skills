@@ -6,6 +6,15 @@ Covers, titles, copy, publishing and review — one loop.
 
 > **Playbook:** Topic → title/cover → copy/images → publish → review
 
+| Step | Start with |
+|---|---|
+| Topic | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
+| Title | [dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title) |
+| Cover/images | [baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images) |
+| Copy | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
+| Publish | [xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu) |
+| Review | [xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer) |
+
 ---
 
 ## ⭐ Top picks

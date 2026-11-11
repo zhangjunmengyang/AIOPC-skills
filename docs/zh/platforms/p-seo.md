@@ -6,6 +6,15 @@
 
 > **打法：** 关键词 → 内容 → 技术 → 外链 → 监测
 
+| 步骤 | 先用 |
+|---|---|
+| 关键词 | [keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research) |
+| 内容 | [seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content) |
+| 技术 | [seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical) |
+| 外链 | [link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building) |
+| AI 搜索 | [ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo) |
+| 监测 | [google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console) |
+
 ---
 
 ## ⭐ 先试这几个

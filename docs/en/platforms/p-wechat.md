@@ -6,6 +6,15 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 
 > **Playbook:** Topic/research → long-form → layout/images → publish → private-domain follow-up
 
+| Step | Start with |
+|---|---|
+| Topic | [content-strategy](https://www.skills.sh/coreyhaines31/marketingskills/content-strategy) |
+| Long-form | [wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer) |
+| Layout | [dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html) |
+| Images | [huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image) |
+| Publish | [baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat) |
+| Group summary | [baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary) |
+
 ---
 
 ## ⭐ Top picks
@@ -13,6 +22,7 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 - **[wechat-article-writer](https://www.skills.sh/iamzhihuix/happy-claude-skills/wechat-article-writer)** — Four-step WeChat article workflow.
 - **[dbs-wechat-html](https://www.skills.sh/dontbesilent2025/dbskill/dbs-wechat-html)** — Convert Markdown to WeChat-ready HTML.
 - **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — Publish Markdown to WeChat drafts.
+- **[baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary)** — Baoyu Wechat Summary.
 
 ---
 
@@ -23,6 +33,7 @@ Long-form, layout, illustrations, publishing and group-chat summaries.
 - **[baoyu-post-to-wechat](https://www.skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat)** — Publish Markdown to WeChat drafts.
 - **[wechat-article-publisher](https://www.skills.sh/iamzifei/wechat-article-publisher-skill/wechat-article-publisher)** — Publish articles to WeChat.
 - **[md2wechat](https://www.skills.sh/geekjourneyx/md2wechat-skill/md2wechat)** — Convert Markdown to WeChat HTML.
+- **[baoyu-wechat-summary](https://www.skills.sh/jimliu/baoyu-skills/baoyu-wechat-summary)** — Baoyu Wechat Summary.
 - **[huashu-wechat-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-wechat-image)** — WeChat article illustration workflow.
 - **[gzh-design](https://www.skills.sh/isjiamu/gzh-design-skill/gzh-design)** — WeChat layout design.
 - **[wechat-article-to-markdown](https://www.skills.sh/jackwener/wechat-article-to-markdown/wechat-article-to-markdown)** — WeChat article to Markdown.

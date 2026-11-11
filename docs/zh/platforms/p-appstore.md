@@ -6,6 +6,14 @@
 
 > **打法：** 关键词 → 截图 → 描述 → 审核 → 数据
 
+| 步骤 | 先用 |
+|---|---|
+| 关键词 | [aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit) |
+| 截图 | [app-store-screenshots](https://www.skills.sh/101-skills/superpowers/app-store-screenshots) |
+| 本地化 | [asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata) |
+| 定价 | [asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing) |
+| 数据 | [asc-metrics](https://www.skills.sh/appeeky/aso-skills/asc-metrics) |
+
 ---
 
 ## ⭐ 先试这几个
@@ -13,6 +21,7 @@
 - **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — 应用商店 ASO 审计。
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
 - **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — App Store 订阅名称与描述本地化。
+- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — 。
 
 ---
 
@@ -21,6 +30,7 @@
 - **[aso-audit](https://www.skills.sh/coreyhaines31/marketingskills/aso-audit)** — 应用商店 ASO 审计。
 - **[asc-localize-metadata](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-localize-metadata)** — App Store 元数据本地化。
 - **[asc-subscription-localization](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-subscription-localization)** — App Store 订阅名称与描述本地化。
+- **[asc-ppp-pricing](https://www.skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing)** — 。
 - **[analytics](https://www.skills.sh/coreyhaines31/marketingskills/analytics)** — 营销分析。
 - **[attribution](https://www.skills.sh/coreyhaines31/marketingskills/attribution)** — 归因。
 - **[app-store-optimization](https://www.skills.sh/alirezarezvani/claude-skills/app-store-optimization)** — App Store 优化。

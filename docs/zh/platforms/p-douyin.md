@@ -6,6 +6,14 @@
 
 > **打法：** 选题 → 开头 → 逐字稿 → 拍摄/剪辑 → 发布/复盘
 
+| 步骤 | 先用 |
+|---|---|
+| 选题 | [dbs-content-system](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-system) |
+| 开头 | [dbs-hook](https://www.skills.sh/dontbesilent2025/dbskill/dbs-hook) |
+| 逐字稿 | [dbs-script-flow](https://www.skills.sh/dontbesilent2025/dbskill/dbs-script-flow) |
+| 标题/封面 | [dbs-title-cover-intro](https://www.skills.sh/dontbesilent2025/dbskill/dbs-title-cover-intro) |
+| 发布/复盘 | [dbs-report](https://www.skills.sh/dontbesilent2025/dbskill/dbs-report) |
+
 ---
 
 ## ⭐ 先试这几个

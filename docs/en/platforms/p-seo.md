@@ -6,6 +6,15 @@ Technical, content, backlinks, local and AI search.
 
 > **Playbook:** Keywords → content → technical → backlinks → monitoring
 
+| Step | Start with |
+|---|---|
+| Keywords | [keyword-research](https://www.skills.sh/every-app/open-seo/keyword-research) |
+| Content | [seo-content](https://www.skills.sh/agricidaniel/claude-seo/seo-content) |
+| Technical | [seo-technical](https://www.skills.sh/agricidaniel/claude-seo/seo-technical) |
+| Backlinks | [link-building](https://www.skills.sh/coreyhaines31/marketingskills/link-building) |
+| AI search | [ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo) |
+| Monitoring | [google-search-console](https://www.skills.sh/kostja94/marketing-skills/google-search-console) |
+
 ---
 
 ## ⭐ Top picks

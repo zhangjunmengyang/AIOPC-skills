@@ -6,6 +6,15 @@
 
 > **打法：** 选品 → listing → 流量 → 转化 → 复购
 
+| 步骤 | 先用 |
+|---|---|
+| 选品 | [market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis) |
+| Listing | [product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator) |
+| SEO | [seo-ecommerce](https://www.skills.sh/agricidaniel/claude-seo/seo-ecommerce) |
+| 定价 | [etsy-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy) |
+| 结账 | [checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization) |
+| 广告 | [amazon-advertising-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-advertising-strategy) |
+
 ---
 
 ## ⭐ 先试这几个

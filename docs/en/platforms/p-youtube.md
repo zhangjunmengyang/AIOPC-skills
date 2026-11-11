@@ -6,6 +6,14 @@ Search, Shorts, thumbnails and ads.
 
 > **Playbook:** Topic → script → shoot/edit → thumbnail/title → publish/ads
 
+| Step | Start with |
+|---|---|
+| Topic | [youtube-seo](https://www.skills.sh/kostja94/marketing-skills/youtube-seo) |
+| Script | [youtube-scriptwriting](https://www.skills.sh/cdeistopened/skill-stack/youtube-scriptwriting) |
+| Thumbnail | [thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design) |
+| Upload | [youtube-uploader](https://www.skills.sh/aviz85/claude-skills-library/youtube-uploader) |
+| Ads | [ads-youtube](https://www.skills.sh/agricidaniel/claude-ads/ads-youtube) |
+
 ---
 
 ## ⭐ Top picks

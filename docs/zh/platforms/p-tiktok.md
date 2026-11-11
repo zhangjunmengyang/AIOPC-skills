@@ -6,6 +6,14 @@
 
 > **打法：** 选品/选题 → 脚本 → 拍摄/剪辑 → 发布 → 广告/达人
 
+| 步骤 | 先用 |
+|---|---|
+| 选品/选题 | [tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy) |
+| 脚本 | [tiktok-script](https://www.skills.sh/social-media-skills/skills/tiktok-script) |
+| 文案 | [tiktok-captions](https://www.skills.sh/kostja94/marketing-skills/tiktok-captions) |
+| 广告 | [tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads) |
+| 达人 | [tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing) |
+
 ---
 
 ## ⭐ 先试这几个

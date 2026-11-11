@@ -6,6 +6,14 @@
 
 > **打法：** 定位 → 帖子/线程 → 互动 → 复盘
 
+| 步骤 | 先用 |
+|---|---|
+| 定位 | [positioning-messaging](https://www.skills.sh/refoundai/lenny-skills/positioning-messaging) |
+| 帖子 | [twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts) |
+| 钩子 | [hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer) |
+| 算法 | [twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer) |
+| 自动化 | [twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation) |
+
 ---
 
 ## ⭐ 先试这几个

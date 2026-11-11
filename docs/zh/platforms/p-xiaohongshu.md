@@ -6,6 +6,15 @@
 
 > **打法：** 选题 → 标题/封面 → 正文/配图 → 发布 → 数据复盘
 
+| 步骤 | 先用 |
+|---|---|
+| 选题 | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
+| 标题 | [dbs-xhs-title](https://www.skills.sh/dontbesilent2025/dbskill/dbs-xhs-title) |
+| 封面/配图 | [baoyu-xhs-images](https://www.skills.sh/jimliu/baoyu-skills/baoyu-xhs-images) |
+| 正文 | [write-xiaohongshu](https://www.skills.sh/adjfks/corner-skills/write-xiaohongshu) |
+| 发布 | [xiaohongshu](https://www.skills.sh/zhjiang22/openclaw-xhs/xiaohongshu) |
+| 复盘 | [xiaohongshu-note-analyzer](https://www.skills.sh/softbread/xiaohongshu-doctor/xiaohongshu-note-analyzer) |
+
 ---
 
 ## ⭐ 先试这几个

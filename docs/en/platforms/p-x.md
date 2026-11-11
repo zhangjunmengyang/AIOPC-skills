@@ -6,6 +6,14 @@ Posts, threads, algorithm optimization and automation.
 
 > **Playbook:** Positioning → post/thread → engagement → review
 
+| Step | Start with |
+|---|---|
+| Positioning | [positioning-messaging](https://www.skills.sh/refoundai/lenny-skills/positioning-messaging) |
+| Posts | [twitter-x-posts](https://www.skills.sh/kostja94/marketing-skills/twitter-x-posts) |
+| Hooks | [hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer) |
+| Algorithm | [twitter-algorithm-optimizer](https://www.skills.sh/composiohq/awesome-claude-skills/twitter-algorithm-optimizer) |
+| Automation | [twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation) |
+
 ---
 
 ## ⭐ Top picks

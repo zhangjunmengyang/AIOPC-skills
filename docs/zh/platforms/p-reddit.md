@@ -6,6 +6,14 @@
 
 > **打法：** 选 subreddit → 真实回答 → 软性分享 → 线索
 
+| 步骤 | 先用 |
+|---|---|
+| 研究 | [reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research) |
+| 帖子 | [reddit-posts](https://www.skills.sh/kostja94/marketing-skills/reddit-posts) |
+| 线索 | [reddit-leads](https://www.skills.sh/lignertys/reddit-research-skills/reddit-leads) |
+| 广告 | [reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads) |
+| 自动化 | [reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation) |
+
 ---
 
 ## ⭐ 先试这几个

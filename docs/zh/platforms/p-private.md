@@ -6,6 +6,15 @@
 
 > **打法：** 引流 → 承接 → 内容 → 转化 → 复购
 
+| 步骤 | 先用 |
+|---|---|
+| 引流 | [lead-magnets](https://www.skills.sh/coreyhaines31/marketingskills/lead-magnets) |
+| 承接 | [newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator) |
+| 内容 | [newsletter-generation](https://www.skills.sh/bytedance/deer-flow/newsletter-generation) |
+| 社群 | [community-marketing](https://www.skills.sh/coreyhaines31/marketingskills/community-marketing) |
+| 变现 | [newsletter-monetization-planner](https://www.skills.sh/aaron-he-zhu/aaron-marketing-skills/newsletter-monetization-planner) |
+| 播客 | [podcast-marketing](https://www.skills.sh/kostja94/marketing-skills/podcast-marketing) |
+
 ---
 
 ## ⭐ 先试这几个

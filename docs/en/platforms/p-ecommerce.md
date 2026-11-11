@@ -6,6 +6,15 @@ Product research, listings, SEO, pricing and checkout.
 
 > **Playbook:** Product → listing → traffic → conversion → repeat purchase
 
+| Step | Start with |
+|---|---|
+| Product | [market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis) |
+| Listing | [product-description-generator](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-description-generator) |
+| SEO | [seo-ecommerce](https://www.skills.sh/agricidaniel/claude-seo/seo-ecommerce) |
+| Pricing | [etsy-pricing-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy) |
+| Checkout | [checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization) |
+| Ads | [amazon-advertising-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-advertising-strategy) |
+
 ---
 
 ## ⭐ Top picks

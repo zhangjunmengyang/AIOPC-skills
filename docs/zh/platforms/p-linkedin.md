@@ -6,6 +6,14 @@
 
 > **打法：** 人设 → 案例帖 → 互动/外联 → 转化
 
+| 步骤 | 先用 |
+|---|---|
+| 人设 | [linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding) |
+| 帖子 | [linkedin-posts](https://www.skills.sh/kostja94/marketing-skills/linkedin-posts) |
+| 写作 | [linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer) |
+| 外联 | [compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach) |
+| 广告 | [ads-linkedin](https://www.skills.sh/agricidaniel/claude-ads/ads-linkedin) |
+
 ---
 
 ## ⭐ 先试这几个
