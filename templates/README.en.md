@@ -1,37 +1,37 @@
 <a id="top"></a>
 
-<h1 align="center">
-  <img src="assets/banner.png" alt="AIOPC Skills — AI skills, MCP servers and tools for one-person companies" width="100%" />
-</h1>
-
 <p align="center">
-  <a href="README.zh.md">中文</a> · <a href="#contents">Full contents</a> · <a href="#getting-started">Getting started</a> · <a href="#contributing">Contribute</a>
+  <img src="assets/banner.png" alt="AIOPC Skills — AI skills, MCP servers and tools for one-person companies" width="100%" />
 </p>
 
-An AI resource index for independent developers, consultants, creators and small service businesses. Covers demand discovery, product, acquisition, sales, delivery and operations. Both the focused collections and the extended catalog are expanded on this page and searchable in your browser.
+<p align="center">
+  <a href="README.zh.md">中文</a> · <a href="#contents">Browse</a> · <a href="#start-here">Quick start</a> · <a href="#contributing">Contribute</a>
+</p>
 
-**{{UNIQUE_URLS}} resource and reference URLs · English and Chinese.** Links go directly to author repositories, source files or official documentation. Counts use unique full URLs; platform and topic views reuse resources. Machine-readable version: [catalog.json](catalog.json).
+AI skills, tools and practical guides for building and running a one-person business.
+
+{{UNIQUE_URLS}} source links · English & Chinese · Fully expanded below
 
 <a id="contents"></a>
 ## Contents
 
-[Start with your task](#start-here) · [Installation & use](#getting-started) · [Starter kit](#starter-kit) · [Curation & maintenance](#curation)
-
 {{TOC}}
+
+{{CATALOG}}
 
 <a id="start-here"></a>
 ## Start with your task
 
-| Current task | On this page | First deliverable |
-|---|---|---|
-| An idea without evidence of paying demand | [Starting up](#startup) · [Operating playbooks](#operator-playbook) | A customer, a problem and a small paid deliverable |
-| Turning a service into a product | [Product & engineering](#product) · [Design](#design) | An acceptance scope and a minimum deliverable version |
-| A launched product with little traffic | [Marketing & growth](#marketing) · [Platforms](#platforms) | One channel and one content or landing-page experiment |
-| Inquiries that do not reliably become paid work | [Sales & operations](#ops) · [Operating playbooks](#operator-playbook) | A quote, scope, payment milestones and acceptance agreement |
-| More work than delivery capacity | [Operating playbooks](#operator-playbook) | Capacity, change records, handover notes and margin per job |
-| Software serving real customers | [Operating tools & guides](#operating-resources) | Payment-event handling, alerts and a recovery drill |
-| Content, courses or digital goods | [Content production](#content) · [Platforms](#platforms) | A product that can be bought, delivered and refunded |
-| Reducing dependence on platforms and constant availability | [Operating playbooks](#operator-playbook) · [Operating tools](#operating-resources) | Exportable customer/content assets, absence cover and a handover checklist |
+| Current task | First deliverable |
+|---|---|
+| [Validate paying demand](#startup) | A customer, a problem and a small paid deliverable |
+| [Turn a service into a product](#product) | An acceptance scope and a minimum deliverable version |
+| [Find the first users](#marketing) | One channel and one content or landing-page experiment |
+| [Close sales and collect payments](#ops) | A quote, scope, payment milestones and acceptance agreement |
+| [Manage delivery capacity](#operator-playbook) | Capacity, change records, handover notes and margin per job |
+| [Keep a live service reliable](#operating-resources) | Payment-event handling, alerts and a recovery drill |
+| [Sell content or digital goods](#content) | A product that can be bought, delivered and refunded |
+| [Reduce platform and availability dependence](#operator-playbook) | Exportable assets, absence cover and a handover checklist |
 
 <a id="getting-started"></a>
 ## Installation & use
@@ -70,8 +70,6 @@ The CLI currently requires Node.js 22.20 or later and lets you select a target a
 | Browser operations | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Let an MCP-compatible agent operate and inspect web pages |
 | Backup recovery | [restic restore guide](https://restic.readthedocs.io/en/stable/050_restore.html) | Restore a backup to a target directory and verify the result |
 
-{{CATALOG}}
-
 <a id="curation"></a>
 ## Curation & maintenance
 
@@ -80,7 +78,7 @@ The CLI currently requires Node.js 22.20 or later and lets you select a target a
 - Focused collections include use descriptions. The extended index groups entries by source pack; individual entries can cross domains, so a pack's section is not an item-level classification.
 - A reachable page, an existing upstream skill, a successful installation and a useful real-task result are different checks. New operating guides were checked against first-party descriptions. The entire catalog has not been installed or tested; a cached page returning 200 does not establish current installability.
 - READMEs and the machine catalog are generated from source documents. Checks enforce complete resource exposure, matching bilingual external-link sets, valid local links and anchors, and GitHub's README size limit.
-- See [CHANGELOG](CHANGELOG.md) for changes and [NOTICE](NOTICE.md) for attribution.
+- Counts use unique full URLs; topic and platform sections can reuse a resource. Download [catalog.json](catalog.json) for structured data, see [CHANGELOG](CHANGELOG.md) for changes and [NOTICE](NOTICE.md) for attribution.
 
 <a id="contributing"></a>
 ## Contributing

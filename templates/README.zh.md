@@ -1,37 +1,37 @@
 <a id="top"></a>
 
-<h1 align="center">
-  <img src="assets/banner.png" alt="AIOPC Skills — 面向一人公司的 AI 技能、MCP 与工具索引" width="100%" />
-</h1>
-
 <p align="center">
-  <a href="README.md">English</a> · <a href="#contents">完整目录</a> · <a href="#getting-started">开始使用</a> · <a href="#contributing">参与贡献</a>
+  <img src="assets/banner.png" alt="AIOPC Skills — 面向一人公司的 AI 技能、MCP 与工具索引" width="100%" />
 </p>
 
-面向独立开发者、咨询顾问、内容创作者和小型服务商的 AI 资源索引。覆盖找需求、做产品、获客、销售、交付和经营，精选条目与扩展目录都在本页展开，可直接用浏览器搜索。
+<p align="center">
+  <a href="README.md">English</a> · <a href="#contents">资源目录</a> · <a href="#start-here">开始使用</a> · <a href="#contributing">参与贡献</a>
+</p>
 
-**{{UNIQUE_URLS}} 个资源与参考链接 · 中英文同步。** 直接链接作者仓库、源码文件或官方文档。按完整 URL 去重；平台和专题会复用同一资源。机器可读版本：[catalog.json](catalog.json)。
+面向一人公司的 AI 技能、工具与实践指南，覆盖从验证想法到获客、交付和经营。
+
+{{UNIQUE_URLS}} 个来源链接 · 中英文同步 · 全部在本页展开
 
 <a id="contents"></a>
 ## 目录
 
-[从当前任务开始](#start-here) · [安装与使用](#getting-started) · [入门组合](#starter-kit) · [收录与维护](#curation)
-
 {{TOC}}
+
+{{CATALOG}}
 
 <a id="start-here"></a>
 ## 从当前任务开始
 
-| 当前任务 | 本页入口 | 先做出什么 |
-|---|---|---|
-| 有想法，还没找到付费需求 | [创业起点](#startup) · [经营路线](#operator-playbook) | 明确客户、问题和一次可收费的小交付 |
-| 想把服务做成产品 | [产品与研发](#product) · [设计](#design) | 可验收的范围与最小可交付版本 |
-| 产品上线了，没人来 | [营销与增长](#marketing) · [平台目录](#platforms) | 一个渠道、一个内容或落地页实验 |
-| 有咨询，成交和回款不稳定 | [销售与运营](#ops) · [经营路线](#operator-playbook) | 报价、范围、付款节点和交付验收约定 |
-| 接单后忙不过来 | [经营路线](#operator-playbook) | 产能表、变更记录、交接说明和每单毛利 |
-| 软件已经在服务真实客户 | [经营工具与指南](#operating-resources) | 付款事件处理、告警和一次恢复演练 |
-| 做内容、课程或数字商品 | [内容生产](#content) · [平台目录](#platforms) | 一个可购买、可交付、能处理退款的商品 |
-| 想降低对平台和个人在线时间的依赖 | [经营路线](#operator-playbook) · [经营工具](#operating-resources) | 可导出的客户与内容、离岗安排和交接清单 |
+| 当前任务 | 先做出什么 |
+|---|---|
+| [验证付费需求](#startup) | 明确客户、问题和一次可收费的小交付 |
+| [把服务做成产品](#product) | 可验收的范围与最小可交付版本 |
+| [找到首批用户](#marketing) | 一个渠道、一个内容或落地页实验 |
+| [推进成交和回款](#ops) | 报价、范围、付款节点和验收约定 |
+| [处理接单后的忙乱](#operator-playbook) | 产能表、变更记录、交接说明和每单毛利 |
+| [保障线上服务](#operating-resources) | 付款事件处理、告警和一次恢复演练 |
+| [销售内容或数字商品](#content) | 可购买、可交付、能处理退款的商品 |
+| [减少对平台和个人在线的依赖](#operator-playbook) | 可导出的客户与内容、离岗安排和交接清单 |
 
 <a id="getting-started"></a>
 ## 安装与使用
@@ -70,8 +70,6 @@ CLI 当前要求 Node.js 22.20 或更高版本，安装时选择目标 Agent。M
 | 浏览器操作 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 让支持 MCP 的 Agent 操作网页并检查界面 |
 | 备份恢复 | [restic 恢复指南](https://restic.readthedocs.io/en/stable/050_restore.html) | 将备份恢复到目标目录并核对结果 |
 
-{{CATALOG}}
-
 <a id="curation"></a>
 ## 收录与维护
 
@@ -80,7 +78,7 @@ CLI 当前要求 Node.js 22.20 或更高版本，安装时选择目标 Agent。M
 - 精选专题提供用途说明，扩展目录按来源技能包归组；包内某项技能可能跨领域，分组不等于逐条用途判断。
 - 页面可访问、上游内容存在、安装成功、真实任务有效是不同检查。新增经营指南已核对第一方用途说明；本仓库未对全部资源完成安装与任务实测，也不将旧页面的 200 响应当作现行安装保证。
 - README 和机器目录由源文档生成。持续检查资源是否全部展开、两种语言的外链是否一致、本地链接与锚点是否有效，以及页面是否超过 GitHub 的展示限制。
-- 更新记录见 [CHANGELOG](CHANGELOG.md)，内容归属见 [NOTICE](NOTICE.md)。
+- 数量按完整 URL 去重，平台与专题会复用资源。结构化目录见 [catalog.json](catalog.json)，更新记录见 [CHANGELOG](CHANGELOG.md)，内容归属见 [NOTICE](NOTICE.md)。
 
 <a id="contributing"></a>
 <a id="贡献"></a>

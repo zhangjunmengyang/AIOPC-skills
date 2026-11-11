@@ -20,21 +20,89 @@ ANCHOR = re.compile(r'<a\s+(?:id|name)="([^"]+)"\s*></a>')
 
 # Order is editorial. Every document is expanded, including the supplementary index.
 GROUPS = [
-    ('skills', '按职能找技能', 'Skills by function', [
+    ('skills', '职能技能', 'Skills by function', [
         '01-startup', '02-writing', '03-product', '04-design', '05-marketing',
         '06-ops', '07-content', '08-data', '09-opc', '10-mcp']),
-    ('platforms', '按平台找技能', 'Skills by platform', [
+    ('platforms', '平台技能', 'Skills by platform', [
         'platforms/p-xiaohongshu', 'platforms/p-wechat', 'platforms/p-douyin',
         'platforms/p-tiktok', 'platforms/p-x', 'platforms/p-linkedin',
         'platforms/p-reddit', 'platforms/p-youtube', 'platforms/p-ecommerce',
         'platforms/p-appstore', 'platforms/p-seo', 'platforms/p-private']),
-    ('business', '经营路线', 'Operating playbooks', ['operator-playbook', 'workflow', 'operating-resources']),
-    ('founders', '创始人与专题', 'Founder collections & topics', [
+    ('business', '经营实践', 'Run the business', ['operator-playbook', 'workflow', 'operating-resources']),
+    ('founders', '创业专题', 'Founder collections', [
         'solo-founder', 'founder-packs', 'lenny', 'classics', 'naming', 'landscape']),
     ('extended', '扩展目录', 'Extended catalog', [
         'full-marketing', 'full-design', 'full-product', 'full-ops', 'full-content']),
 ]
 SLUGS = [name for _, _, _, names in GROUPS for name in names]
+GROUP_ICONS = {
+    'skills': 'layers', 'platforms': 'panels-top-left', 'business': 'workflow',
+    'founders': 'book-open', 'extended': 'library-big',
+}
+
+# Navigation labels are intentionally shorter than document titles.
+NAV_LABELS = {
+    '01-startup': ('创业起点', 'Starting up'),
+    '02-writing': ('文案写作', 'Copywriting'),
+    '03-product': ('产品与研发', 'Product & engineering'),
+    '04-design': ('设计与前端', 'Design & frontend'),
+    '05-marketing': ('营销增长', 'Marketing & growth'),
+    '06-ops': ('销售与运营', 'Sales & operations'),
+    '07-content': ('内容生产', 'Content production'),
+    '08-data': ('数据研究', 'Data & research'),
+    '09-opc': ('公司经营', 'Business operations'),
+    '10-mcp': ('MCP 与工具', 'MCP & tools'),
+    'platforms/p-xiaohongshu': ('小红书', 'Xiaohongshu'),
+    'platforms/p-wechat': ('公众号', 'WeChat'),
+    'platforms/p-douyin': ('抖音与视频号', 'Douyin / Channels'),
+    'platforms/p-tiktok': ('TikTok', 'TikTok'),
+    'platforms/p-x': ('X / Twitter', 'X / Twitter'),
+    'platforms/p-linkedin': ('LinkedIn', 'LinkedIn'),
+    'platforms/p-reddit': ('Reddit', 'Reddit'),
+    'platforms/p-youtube': ('YouTube', 'YouTube'),
+    'platforms/p-ecommerce': ('电商', 'Ecommerce'),
+    'platforms/p-appstore': ('App Store', 'App Store'),
+    'platforms/p-seo': ('SEO / GEO', 'SEO / GEO'),
+    'platforms/p-private': ('私域与订阅', 'Newsletter / Podcast'),
+    'operator-playbook': ('经营路线', 'Playbooks'),
+    'workflow': ('工作流', 'Workflow'),
+    'operating-resources': ('工具与指南', 'Tools & guides'),
+    'solo-founder': ('一人公司技能', 'Solo founder'),
+    'founder-packs': ('创始人技能包', 'Founder packs'),
+    'lenny': ('Lenny 产品与增长', 'Lenny'),
+    'classics': ('商业框架', 'Business frameworks'),
+    'naming': ('取名与品牌', 'Naming & branding'),
+    'landscape': ('来源合集', 'Source collections'),
+    'full-marketing': ('营销与销售', 'Marketing & sales'),
+    'full-design': ('设计', 'Design'),
+    'full-product': ('产品与创业', 'Product & startup'),
+    'full-ops': ('运营、法务与财务', 'Ops, legal & finance'),
+    'full-content': ('内容与数据', 'Content & data'),
+}
+GROUP_SUMMARIES = {
+    'skills': ('从产品、设计到营销、销售和运营', 'Product, design, marketing, sales and operations'),
+    'platforms': ('社交媒体、电商、应用商店与搜索', 'Social media, ecommerce, app stores and search'),
+    'business': ('工作流、交付、回款与持续经营', 'Workflow, delivery, payments and continuity'),
+    'founders': ('创始人技能包、产品经验与商业框架', 'Founder packs, product practice and business frameworks'),
+    'extended': ('按来源仓库整理的更多资源', 'More resources, grouped by source repository'),
+}
+
+
+def navigation_grid(links: list[tuple[str, str]]) -> str:
+    """A native GitHub table keeps short navigation links in two aligned columns."""
+    rows = ['<table>']
+    for i in range(0, len(links), 2):
+        cells = [f'<td width="50%"><a href="{html.escape(url, quote=True)}">{html.escape(label)}</a></td>' for label, url in links[i:i + 2]]
+        if len(cells) == 1:
+            cells.append('<td></td>')
+        rows.append('<tr>' + ''.join(cells) + '</tr>')
+    return '\n'.join(rows + ['</table>'])
+
+
+def quiet_resource_line(line: str) -> str:
+    # Keep names clickable; verification status is plain supporting text.
+    line = re.sub(r'\[([^\]\n]+) · (仓库入口|repository entry)\]\(([^\s)]+)\)', r'[\1](\3) (\2)', line)
+    return re.sub(r'\*\*(\[[^\]\n]+\]\([^\s)]+\)(?: \((?:仓库入口|repository entry)\))?)\*\*', r'\1', line)
 
 
 def section_id(name: str) -> str:
@@ -92,8 +160,11 @@ def render_document(name: str, lang: str, docs: dict[Path, str]) -> str:
     lines = source.read_text().splitlines()
     base = section_id(name)
     title = document_title(source)
+    if name.startswith('full-'):
+        title = NAV_LABELS[name][0 if lang == 'zh' else 1]
     output = [f'<a id="{base}"></a>', f'### {title}', '']
     skip_picks = False
+    flattened_wrapper = False
     heading_counts: dict[str, int] = defaultdict(int)
     known_ids: set[str] = set()
     for line in lines:
@@ -104,6 +175,7 @@ def render_document(name: str, lang: str, docs: dict[Path, str]) -> str:
                 continue
             if level == 2:
                 skip_picks = label in {'Top picks', '先试这几个'}
+                flattened_wrapper = label in {'All skills', 'All tools', '全部技能', '全部工具'}
             if skip_picks:
                 continue
             if label in {'All skills', 'All tools', '全部技能', '全部工具'}:
@@ -116,13 +188,16 @@ def render_document(name: str, lang: str, docs: dict[Path, str]) -> str:
             if anchor not in known_ids:
                 output.extend([f'<a id="{anchor}"></a>'])
                 known_ids.add(anchor)
-            output.extend([f'{"#" * max(4, min(level + 1, 6))} {label}', ''])
+            depth = max(4, min(level + (1 if flattened_wrapper else 2), 6))
+            output.extend([f'{"#" * depth} {label}', ''])
             continue
         if skip_picks:
             continue
         if ('返回总览' in line or 'Back to index' in line) and line.startswith('['):
             continue
         if line.startswith('> 索引页：') or line.startswith('> Index page:'):
+            continue
+        if name.startswith('full-') and line.startswith(('补充精选专题之外', 'Additional skill listings beyond')):
             continue
         if line.strip() == '---':
             continue
@@ -135,7 +210,12 @@ def render_document(name: str, lang: str, docs: dict[Path, str]) -> str:
             continue
         line = re.sub(r'\]\(([^\s)]+)\)', lambda m: '](' + rewrite_target(m[1], source, docs) + ')', line)
         line = re.sub(r'(src|href)="([^"]+)"', lambda m: m[1] + '="' + rewrite_target(m[2], source, docs) + '"', line)
-        output.append(line)
+        nav_links = LINK.findall(line)
+        if len(nav_links) >= 5 and all(url.startswith('#') for _, url in nav_links) and not LINK.sub('', line).strip(' ·'):
+            if len(nav_links) >= 8:
+                output.extend([navigation_grid(nav_links), ''])
+        else:
+            output.append(quiet_resource_line(line))
     body = re.sub(r'\n{3,}', '\n\n', '\n'.join(output)).strip()
     # A top pick may contain a reference absent from the full list. Never lose it.
     missing = external_urls(source.read_text()) - external_urls(body)
@@ -179,13 +259,16 @@ def build_catalog() -> dict:
 def build_readme(lang: str, catalog: dict) -> str:
     template = (ROOT / 'templates' / f'README.{lang}.md').read_text()
     docs = document_map(lang)
-    toc = []
+    toc = ['| 栏目 | 内容 |', '|---|---|'] if lang == 'zh' else ['| Browse | What you’ll find |', '|---|---|']
     sections = []
     for gid, zh, en, names in GROUPS:
         label = zh if lang == 'zh' else en
-        toc.append(f'- **[{label}](#{gid})**：' if lang == 'zh' else f'- **[{label}](#{gid})**: ')
-        toc[-1] += ' · '.join(f'[{document_title(ROOT / "docs" / lang / (name + ".md"))}](#{section_id(name)})' for name in names)
-        sections.extend([f'<a id="{gid}"></a>', f'## {label}', ''])
+        summary = GROUP_SUMMARIES[gid][0 if lang == 'zh' else 1]
+        icon = f'<img src="assets/icons/{GROUP_ICONS[gid]}.svg" width="18" height="18" alt="" />'
+        toc.append(f'| {icon} [{label}](#{gid}) | {summary} |')
+        heading_icon = f'<img src="assets/icons/{GROUP_ICONS[gid]}.svg" width="24" height="24" alt="" />'
+        sections.extend([f'<a id="{gid}"></a>', f'## {heading_icon} {label}', ''])
+        sections.extend([navigation_grid([(NAV_LABELS[name][0 if lang == 'zh' else 1], '#' + section_id(name)) for name in names]), ''])
         if gid == 'extended':
             sections.append('以下是精选专题之外的补充条目，按原技能包分组。只提供名称与原链接，未逐条实测；同名条目可能来自不同作者。\n' if lang == 'zh' else 'Additional entries beyond the focused sections, grouped by source pack. These contain names and source links; they have not all been tested. The same name can belong to different authors.\n')
         sections.extend(render_document(name, lang, docs) + '\n' for name in names)

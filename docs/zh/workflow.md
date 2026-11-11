@@ -14,21 +14,21 @@
 
 ## 12 阶段
 
-| 阶段 | 要做的决策 | 去哪 |
-|---|---|---|
-| 0 | **盘点自己** — 时间、现金、技能、关系、风险底线 | [打开](01-startup.md) |
-| 1 | **选题** — 问题库、六维评分、赛道选择 | [打开](01-startup.md) |
-| 2 | **验证** — 访谈、预售、人工交付 | [打开](01-startup.md) |
-| 3 | **产品定义** — PRD、范围、验收标准 | [打开](03-product.md) |
-| 4 | **设计** — 风格、设计系统、页面、Figma | [打开](04-design.md) |
-| 5 | **搭建** — 开发、支付、部署 | [打开](03-product.md) |
-| 6 | **上线** — 商店/官网、发布、审核 | [打开](05-marketing.md) |
-| 7 | **获客** — 内容、SEO/GEO、社媒、广告 | [打开](05-marketing.md) |
-| 8 | **销售** — 外联、演示、报价、成交 | [打开](06-ops.md) |
-| 9 | **交付** — SOP、onboarding、验收 | [打开](06-ops.md) |
-| 10 | **留存** — 支持、复购、社群、转介绍 | [打开](workflow.md#support) |
-| 11 | **经营** — 财务、税务、法务、保险 | [打开](09-opc.md) |
-| 12 | **资产化** — 内容、受众、代码、出售/授权 | [打开](workflow.md#risk) |
+| 阶段 | 要做的决策 |
+|---|---|
+| 0 | [盘点自己](01-startup.md) — 时间、现金、技能、关系、风险底线 |
+| 1 | [选题](01-startup.md) — 问题库、六维评分、赛道选择 |
+| 2 | [验证](01-startup.md) — 访谈、预售、人工交付 |
+| 3 | [产品定义](03-product.md) — PRD、范围、验收标准 |
+| 4 | [设计](04-design.md) — 风格、设计系统、页面、Figma |
+| 5 | [搭建](03-product.md) — 开发、支付、部署 |
+| 6 | [上线](05-marketing.md) — 商店/官网、发布、审核 |
+| 7 | [获客](05-marketing.md) — 内容、SEO/GEO、社媒、广告 |
+| 8 | [销售](06-ops.md) — 外联、演示、报价、成交 |
+| 9 | [交付](06-ops.md) — SOP、onboarding、验收 |
+| 10 | [留存](workflow.md#support) — 支持、复购、社群、转介绍 |
+| 11 | [经营](09-opc.md) — 财务、税务、法务、保险 |
+| 12 | [资产化](workflow.md#risk) — 内容、受众、代码、出售/授权 |
 
 ---
 
@@ -58,29 +58,29 @@
 
 ● 有专门页面 / ○ 部分覆盖 / — 还没做。
 
-| 能力 | 状态 | 去哪 |
-|---|---|---|
-| 选题与验证 | ● | [打开](01-startup.md) |
-| 用户研究 | ● | [打开](01-startup.md) |
-| 产品定义 | ● | [打开](03-product.md) |
-| 设计 | ● | [打开](04-design.md) |
-| 开发 | ● | [打开](03-product.md) |
-| 支付 | ○ | [打开](03-product.md) |
-| 上线 | ● | [打开](05-marketing.md) |
-| SEO / GEO | ● | [打开](05-marketing.md) |
-| 内容 | ● | [打开](07-content.md) |
-| 社媒 | ● | [打开](platforms/p-xiaohongshu.md) |
-| 广告 | ● | [打开](platforms/p-seo.md) |
-| 销售 | ● | [打开](06-ops.md) |
-| 定价 | ● | [打开](09-opc.md) |
-| 交付 | ● | [打开](06-ops.md) |
-| 客服 | ● | [打开](workflow.md#support) |
-| 留存 | ● | [打开](workflow.md#support) |
-| 数据 | ● | [打开](08-data.md) |
-| 财务 | ● | [打开](workflow.md#finance) |
-| 法务 | ● | [打开](workflow.md#legal) |
-| 风险与安全 | ● | [打开](workflow.md#risk) |
-| 资产化 | ○ | [打开](workflow.md#risk) |
+| 能力 | 状态 |
+|---|---|
+| [选题与验证](01-startup.md) | ● |
+| [用户研究](01-startup.md) | ● |
+| [产品定义](03-product.md) | ● |
+| [设计](04-design.md) | ● |
+| [开发](03-product.md) | ● |
+| [支付](03-product.md) | ○ |
+| [上线](05-marketing.md) | ● |
+| [SEO / GEO](05-marketing.md) | ● |
+| [内容](07-content.md) | ● |
+| [社媒](platforms/p-xiaohongshu.md) | ● |
+| [广告](platforms/p-seo.md) | ● |
+| [销售](06-ops.md) | ● |
+| [定价](09-opc.md) | ● |
+| [交付](06-ops.md) | ● |
+| [客服](workflow.md#support) | ● |
+| [留存](workflow.md#support) | ● |
+| [数据](08-data.md) | ● |
+| [财务](workflow.md#finance) | ● |
+| [法务](workflow.md#legal) | ● |
+| [风险与安全](workflow.md#risk) | ● |
+| [资产化](workflow.md#risk) | ○ |
 
 ---
 

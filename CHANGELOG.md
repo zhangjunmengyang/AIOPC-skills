@@ -1,5 +1,15 @@
 # Changes / 更新记录
 
+## 2026-11-11 — Reading layout / 阅读排版
+
+- 总目录改为五个清晰入口，分类与长章节使用短名称分列导航；较短章节直接展开。
+- 五个主栏目使用统一的 Lucide 线条图标，随仓库保存 SVG 与许可证，不使用 emoji。
+- 首屏缩短介绍，安装说明、任务选择和入门组合移至资源正文之后，保留顶部快捷入口。
+- 资源链接取消统一加粗，「仓库入口」移到链接外；修正标题层级，合并工作流表格中的重复「打开」列。
+- 保留全部来源链接、资源正文和已定稿图片，无折叠内容。
+
+Simplified the main contents to five entries with Lucide line icons, aligned short category links, reduced the preface and moved usage guides after the catalog. Resource links use normal weight with source-status labels outside the link. Corrected heading hierarchy and removed repetitive "Open" table columns. All resource links, expanded content and approved artwork remain available. Original icon SVGs and their license are bundled locally; no emoji are used.
+
 ## 2026-11-11 — Direct sources / 资源直达源码
 
 - 中英文 README、源文档和机器目录改为直链作者仓库、具体源码或官方文档，不再以 skills.sh 聚合页作为资源入口。

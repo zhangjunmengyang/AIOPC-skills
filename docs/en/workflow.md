@@ -14,21 +14,21 @@ Twelve stages from self-audit to asset building, 21 capabilities and the 10 most
 
 ## 12 stages
 
-| Stage | Decision | Where |
-|---|---|---|
-| 0 | **Self-audit** — Time, cash, skills, relationships, risk | [Open](01-startup.md) |
-| 1 | **Pick a direction** — Problem bank, scoring, niche | [Open](01-startup.md) |
-| 2 | **Validate** — Interviews, pre-sales, manual delivery | [Open](01-startup.md) |
-| 3 | **Define the product** — PRD, scope, acceptance | [Open](03-product.md) |
-| 4 | **Design** — Style, design system, pages, Figma | [Open](04-design.md) |
-| 5 | **Build** — Build, payments, deploy | [Open](03-product.md) |
-| 6 | **Launch** — Store/site, launch, review | [Open](05-marketing.md) |
-| 7 | **Acquire** — Content, SEO/GEO, social, ads | [Open](05-marketing.md) |
-| 8 | **Sell** — Outreach, demo, quote, close | [Open](06-ops.md) |
-| 9 | **Deliver** — SOP, onboarding, acceptance | [Open](06-ops.md) |
-| 10 | **Retain** — Support, repeat, community, referrals | [Open](workflow.md#support) |
-| 11 | **Operate** — Finance, tax, legal, insurance | [Open](09-opc.md) |
-| 12 | **Build assets** — Content, audience, code, sell/license | [Open](workflow.md#risk) |
+| Stage | Decision |
+|---|---|
+| 0 | [Self-audit](01-startup.md) — Time, cash, skills, relationships, risk |
+| 1 | [Pick a direction](01-startup.md) — Problem bank, scoring, niche |
+| 2 | [Validate](01-startup.md) — Interviews, pre-sales, manual delivery |
+| 3 | [Define the product](03-product.md) — PRD, scope, acceptance |
+| 4 | [Design](04-design.md) — Style, design system, pages, Figma |
+| 5 | [Build](03-product.md) — Build, payments, deploy |
+| 6 | [Launch](05-marketing.md) — Store/site, launch, review |
+| 7 | [Acquire](05-marketing.md) — Content, SEO/GEO, social, ads |
+| 8 | [Sell](06-ops.md) — Outreach, demo, quote, close |
+| 9 | [Deliver](06-ops.md) — SOP, onboarding, acceptance |
+| 10 | [Retain](workflow.md#support) — Support, repeat, community, referrals |
+| 11 | [Operate](09-opc.md) — Finance, tax, legal, insurance |
+| 12 | [Build assets](workflow.md#risk) — Content, audience, code, sell/license |
 
 ---
 
@@ -58,29 +58,29 @@ Assets to keep building include customer lists, content libraries, code and prod
 
 ● dedicated page / ○ partial / — missing.
 
-| Capability | Status | Where |
-|---|---|---|
-| Direction and validation | ● | [Open](01-startup.md) |
-| User research | ● | [Open](01-startup.md) |
-| Product definition | ● | [Open](03-product.md) |
-| Design | ● | [Open](04-design.md) |
-| Development | ● | [Open](03-product.md) |
-| Payments | ○ | [Open](03-product.md) |
-| Launch | ● | [Open](05-marketing.md) |
-| SEO / GEO | ● | [Open](05-marketing.md) |
-| Content | ● | [Open](07-content.md) |
-| Social media | ● | [Open](platforms/p-xiaohongshu.md) |
-| Advertising | ● | [Open](platforms/p-seo.md) |
-| Sales | ● | [Open](06-ops.md) |
-| Pricing | ● | [Open](09-opc.md) |
-| Delivery | ● | [Open](06-ops.md) |
-| Support | ● | [Open](workflow.md#support) |
-| Retention | ● | [Open](workflow.md#support) |
-| Data | ● | [Open](08-data.md) |
-| Finance | ● | [Open](workflow.md#finance) |
-| Legal | ● | [Open](workflow.md#legal) |
-| Risk and security | ● | [Open](workflow.md#risk) |
-| Asset building | ○ | [Open](workflow.md#risk) |
+| Capability | Status |
+|---|---|
+| [Direction and validation](01-startup.md) | ● |
+| [User research](01-startup.md) | ● |
+| [Product definition](03-product.md) | ● |
+| [Design](04-design.md) | ● |
+| [Development](03-product.md) | ● |
+| [Payments](03-product.md) | ○ |
+| [Launch](05-marketing.md) | ● |
+| [SEO / GEO](05-marketing.md) | ● |
+| [Content](07-content.md) | ● |
+| [Social media](platforms/p-xiaohongshu.md) | ● |
+| [Advertising](platforms/p-seo.md) | ● |
+| [Sales](06-ops.md) | ● |
+| [Pricing](09-opc.md) | ● |
+| [Delivery](06-ops.md) | ● |
+| [Support](workflow.md#support) | ● |
+| [Retention](workflow.md#support) | ● |
+| [Data](08-data.md) | ● |
+| [Finance](workflow.md#finance) | ● |
+| [Legal](workflow.md#legal) | ● |
+| [Risk and security](workflow.md#risk) | ● |
+| [Asset building](workflow.md#risk) | ○ |
 
 ---
 
