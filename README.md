@@ -14,7 +14,7 @@
 
 </div>
 
-A toolbox for one-person companies and solo builders. Broken down to concrete skills, not mega-lists. We prioritize skills with real workflows, templates or scripts — prompt-only one-liners are out.
+A toolbox for one-person companies and solo builders. Broken down to concrete skills, not mega-lists. Entries are drawn from high-install skill packs and community lists on skills.sh (marketingskills, designer-skills, awesome-design-skills, etc.), split into individual skills and re-categorized. We prioritize skills with real workflows, templates or scripts — prompt-only one-liners are out.
 
 Links verified **2026-11-11**. Each skills.sh page includes an install command and source repo; for MCP / Tool entries, read the repo README.
 
@@ -36,6 +36,25 @@ Links verified **2026-11-11**. Each skills.sh page includes an install command a
 | 🔌 Tooling | [MCP & Runtime](#mcp) | Servers, automation and coding agents |
 
 **Tags:** each entry is a concrete task skill; `MCP` is a Model Context Protocol server, `Tool` is a standalone tool.
+
+---
+
+## ⚡ If You Only Install 12
+
+| Job | Start with | Why |
+|---|---|---|
+| Idea | [idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine) | Turn rough ideas into sharp concepts. |
+| De-AI (Chinese) | [humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh) | Chinese de-AI rewriting that keeps meaning and tone. |
+| Conversion copy | [copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting) | Conversion copywriting. |
+| PRD | [prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development) | Structured PRD process. |
+| UI design | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | Distinctive, production-grade frontend design. |
+| Design to code | [figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design) | Turn Figma designs into code. |
+| SEO audit | [seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit) | Full-site SEO audit. |
+| AI search | [ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo) | Make content quotable by AI search. |
+| Landing CRO | [landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit) | Audit a landing page for conversion blockers. |
+| Competitor watch | [firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor) | Monitor web pages for changes. |
+| Pricing | [pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing) | SaaS pricing strategy. |
+| Unit economics | [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) | Model unit economics. |
 
 ---
 

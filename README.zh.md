@@ -14,7 +14,7 @@
 
 </div>
 
-一人公司 / 超级个体的 AI 工具箱。按“要干的活”拆到具体技能，不堆合集。优先收有具体流程、模板或脚本的技能；纯一句 prompt 包装不收。
+一人公司 / 超级个体的 AI 工具箱。按“要干的活”拆到具体技能，不堆合集。条目来自 skills.sh 上安装量靠前的技能包与社区清单（marketingskills、designer-skills、awesome-design-skills 等），已拆成单个技能并重新分类。优先收有具体流程、模板或脚本的技能；纯一句 prompt 包装不收。
 
 链接核验于 **2026-11-11**。skills.sh 页面里有安装命令和原仓库；MCP / Tool 条目直接看仓库 README。
 
@@ -36,6 +36,25 @@
 | 🔌 工具接入 | [MCP 与运行时](#mcp) | 服务器、自动化、编程 Agent |
 
 **条目标记：** 每条都是具体任务技能；`MCP` 为 Model Context Protocol server，`Tool` 为独立工具。
+
+---
+
+## ⚡ 如果只装 12 个
+
+| 任务 | 先装 | 一句话 |
+|---|---|---|
+| 想法打磨 | [idea-refine](https://www.skills.sh/addyosmani/agent-skills/idea-refine) | 把粗糙想法打磨成可执行概念 |
+| 中文去 AI 味 | [humanizer-zh](https://www.skills.sh/op7418/humanizer-zh/humanizer-zh) | 中文去 AI 味，保留原意和语气 |
+| 转化文案 | [copywriting](https://www.skills.sh/coreyhaines31/marketingskills/copywriting) | 转化文案写作 |
+| PRD | [prd-development](https://www.skills.sh/deanpeters/product-manager-skills/prd-development) | 结构化 PRD 流程 |
+| 界面设计 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 高质量前端界面设计 |
+| 设计稿实现 | [figma-implement-design](https://www.skills.sh/openai/skills/figma-implement-design) | 把设计稿实现成代码 |
+| SEO 审计 | [seo-audit](https://www.skills.sh/coreyhaines31/marketingskills/seo-audit) | 全站 SEO 审计 |
+| AI 搜索 | [ai-seo](https://www.skills.sh/coreyhaines31/marketingskills/ai-seo) | 让内容被 AI 搜索引用 |
+| 落地页转化 | [landing-page-conversion-audit](https://www.skills.sh/autonnel/autonnel-skills/landing-page-conversion-audit) | 落地页转化审计 |
+| 竞品监控 | [firecrawl-monitor](https://www.skills.sh/firecrawl/cli/firecrawl-monitor) | 网页变化监控与通知 |
+| 定价 | [pricing](https://www.skills.sh/coreyhaines31/marketingskills/pricing) | SaaS 定价策略 |
+| 单位经济 | [unit-economics](https://www.skills.sh/anthropics/financial-services/unit-economics) | 单位经济 |
 
 ---
 
