@@ -14,7 +14,7 @@
 
 </div>
 
-A toolbox for one-person companies and solo builders. One line per item, **organized by concrete task**, not by mega-list. We only list skills with real steps, templates or scripts — no prompt-only wrappers.
+A toolbox for one-person companies and solo builders. One line per item, **organized by concrete task**, not by mega-list. We prioritize skills with real workflows, templates or scripts — prompt-only one-liners are out.
 
 Links verified **2026-11-11**. Each skills.sh page includes an install command; for MCP / Tool entries, read the repo README. PRs welcome — see [Contributing](#contribute).
 
