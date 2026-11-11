@@ -22,6 +22,10 @@ Native posts, lead discovery and ads.
 - **[reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads)** — Set up Reddit ads.
 - **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
+- **[reddit-insights](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/reddit-insights)** — Reddit insights.
+- **[reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research)** — Reddit research.
+- **[reddit-marketing](https://www.skills.sh/social-media-skills/skills/reddit-marketing)** — Reddit marketing.
+- **[reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation)** — Reddit automation.
 
 ---
 

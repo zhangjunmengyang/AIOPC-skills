@@ -30,6 +30,12 @@ Community, email list and podcast — turn traffic into a reachable asset.
 - **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — Research your audience.
 - **[content-calendar](https://www.skills.sh/social-media-skills/skills/content-calendar)** — Build a content calendar.
 - **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack ghostwriting and growth.
+- **[podcast-automation](https://www.skills.sh/claude-office-skills/skills/podcast-automation)** — Podcast automation.
+- **[ai-podcast](https://www.skills.sh/inference-sh/skills/ai-podcast)** — AI podcast.
+- **[podcast-and-audiograms](https://www.skills.sh/social-media-skills/skills/podcast-and-audiograms)** — Podcasts and audiograms.
+- **[newsletter-curation](https://www.skills.sh/inference-sh/skills/newsletter-curation)** — Newsletter curation.
+- **[newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator)** — Newsletter signup generator.
+- **[email-and-newsletter](https://www.skills.sh/social-media-skills/skills/email-and-newsletter)** — Email and newsletter.
 
 ---
 

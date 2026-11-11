@@ -29,6 +29,36 @@
 - **[market-gap-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/market-gap-analysis)** — 市场缺口。
 - **[product-review-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/product-review-analysis)** — 评论分析。
 - **[checkout-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/checkout-optimization)** — 结账优化。
+- **[etsy-seo-tags](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-seo-tags)** — Etsy 标签 SEO。
+- **[etsy-keyword-research](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-keyword-research)** — Etsy 关键词。
+- **[etsy-competitor-analysis](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-competitor-analysis)** — Etsy 竞品。
+- **[etsy-digital-products](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-digital-products)** — Etsy 数字商品。
+- **[etsy-print-on-demand](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-print-on-demand)** — Etsy POD。
+- **[etsy-listing-photography](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-listing-photography)** — Etsy 商品图。
+- **[etsy-review-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-review-strategy)** — Etsy 评价策略。
+- **[etsy-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-analytics)** — Etsy 店铺分析。
+- **[etsy-shop-setup](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-shop-setup)** — Etsy 开店。
+- **[etsy-star-seller](https://www.skills.sh/nexscope-ai/ecommerce-skills/etsy-star-seller)** — Etsy 星级卖家。
+- **[amazon-seller](https://www.skills.sh/claude-office-skills/skills/amazon-seller)** — Amazon 卖家。
+- **[amazon-a-plus-content](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-a-plus-content)** — Amazon A+ 内容。
+- **[amazon-backend-keywords](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-backend-keywords)** — Amazon 后台关键词。
+- **[amazon-brand-analytics](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-brand-analytics)** — Amazon 品牌分析。
+- **[amazon-buy-box](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-buy-box)** — Amazon Buy Box。
+- **[amazon-category-ungating](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-category-ungating)** — Amazon 类目解锁。
+- **[amazon-competitor-analysis](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-competitor-analysis)** — Amazon 竞品分析。
+- **[amazon-competitor-monitoring](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-competitor-monitoring)** — Amazon 竞品监控。
+- **[amazon-coupon-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-coupon-strategy)** — Amazon 优惠券。
+- **[amazon-advertising-strategy](https://www.skills.sh/nexscope-ai/amazon-skills/amazon-advertising-strategy)** — Amazon 广告。
+- **[shopify-liquid-themes](https://www.skills.sh/benjaminsehl/liquid-skills/shopify-liquid-themes)** — Shopify 主题。
+- **[shopify-products](https://www.skills.sh/jezweb/claude-skills/shopify-products)** — Shopify 商品。
+- **[shopify-checkout-customization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-checkout-customization)** — Shopify 结账定制。
+- **[shopify-email-flows](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-email-flows)** — Shopify 邮件流。
+- **[shopify-landing-page-builder](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-landing-page-builder)** — Shopify 落地页。
+- **[shopify-upsell-cross-sell](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-upsell-cross-sell)** — Shopify 追加销售。
+- **[shopify-speed-optimization](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-speed-optimization)** — Shopify 提速。
+- **[shopify-international](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-international)** — Shopify 国际化。
+- **[shopify-loyalty-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-loyalty-program)** — Shopify 会员。
+- **[shopify-cart-abandonment](https://www.skills.sh/nexscope-ai/ecommerce-skills/shopify-cart-abandonment)** — Shopify 弃购。
 
 ---
 

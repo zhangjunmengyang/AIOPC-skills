@@ -27,6 +27,14 @@ Hooks, scripts, titles and covers, extraction and chapter navigation.
 - **[viral-hook-creator](https://www.skills.sh/ognjengt/founder-skills/viral-hook-creator)** — Generate viral hooks.
 - **[storyboard-creation](https://www.skills.sh/101-skills/superpowers/storyboard-creation)** — Generate visual storyboards with AI.
 - **[video-use](https://www.skills.sh/browser-use/video-use/video-use)** — Edit video with a coding agent.
+- **[huashu-douyin-script](https://www.skills.sh/alchaincyf/huashu-skills/huashu-douyin-script)** — Douyin scripts.
+- **[dbs-content-system](https://www.skills.sh/dontbesilent2025/dbskill/dbs-content-system)** — Content system.
+- **[dbs-diagnosis](https://www.skills.sh/dontbesilent2025/dbskill/dbs-diagnosis)** — Account diagnosis.
+- **[dbs-jtbd](https://www.skills.sh/dontbesilent2025/dbskill/dbs-jtbd)** — JTBD analysis.
+- **[dbs-plain-writing](https://www.skills.sh/dontbesilent2025/dbskill/dbs-plain-writing)** — Plain-language writing.
+- **[dbs-spread](https://www.skills.sh/dontbesilent2025/dbskill/dbs-spread)** — Spread and distribution.
+- **[dbs-deconstruct](https://www.skills.sh/dontbesilent2025/dbskill/dbs-deconstruct)** — Deconstruct viral content.
+- **[dbs-resonate](https://www.skills.sh/dontbesilent2025/dbskill/dbs-resonate)** — Resonance design.
 
 ---
 

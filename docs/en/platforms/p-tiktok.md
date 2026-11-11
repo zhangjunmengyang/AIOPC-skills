@@ -23,6 +23,14 @@ Content, scripts, captions and ads.
 - **[ads-tiktok](https://www.skills.sh/agricidaniel/claude-ads/ads-tiktok)** — Audit TikTok ads.
 - **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
 - **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
+- **[tiktok-shop-content-strategy](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-content-strategy)** — TikTok Shop content strategy.
+- **[tiktok-shop-ads](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-ads)** — TikTok Shop ads.
+- **[tiktok-shop-affiliate-program](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-affiliate-program)** — TikTok Shop affiliate program.
+- **[tiktok-shop-analytics](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-analytics)** — TikTok Shop analytics.
+- **[tiktok-shop-branding](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-branding)** — TikTok Shop branding.
+- **[tiktok-shop-compliance](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance)** — TikTok Shop compliance.
+- **[tiktok-creator-marketplace](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-creator-marketplace)** — TikTok creator marketplace.
+- **[tiktok-influencer-marketing](https://www.skills.sh/nexscope-ai/ecommerce-skills/tiktok-influencer-marketing)** — TikTok influencer marketing.
 
 ---
 

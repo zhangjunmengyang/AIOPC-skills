@@ -17,7 +17,7 @@
 
 </div>
 
-A toolbox for one-person companies and solo builders. The workflow is split into nine stacks — idea → validation → product → design → marketing → sales → operations → numbers — and each stack is broken down to concrete skills.
+A toolbox for one-person companies and solo builders. The workflow is split into nine functional stacks — idea → validation → product → design → marketing → sales → operations → numbers. There is also a platform-first view (Xiaohongshu, WeChat, Douyin, TikTok, X…) for channel-specific playbooks.
 
 > Every entry is one line. Each stack has its own page: read the top picks first, then browse the full list.
 
@@ -67,7 +67,7 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 
 ---
 
-## 🧭 The nine stacks
+## 🧭 Nine functional stacks
 
 - 🚀 **[Starting Up](docs/en/01-startup.md)** · 36 skills — Idea, validation, business model and positioning — decide what to build first.
 - ✍️ **[Copywriting](docs/en/02-writing.md)** · 55 skills — Organized by where the copy lives: Xiaohongshu, WeChat, short video, ads, cold email, landing pages, ecommerce, app stores.

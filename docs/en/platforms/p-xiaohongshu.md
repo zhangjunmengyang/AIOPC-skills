@@ -27,6 +27,13 @@ Covers, titles, copy, publishing and review — one loop.
 - **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — Write captions.
 - **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — Write hooks.
 - **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — Design thumbnails.
+- **[huashu-xhs-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-xhs-image)** — Xiaohongshu illustrations.
+- **[xhs-note-creator](https://www.skills.sh/comeonzhj/auto-redbook-skills/xhs-note-creator)** — Xiaohongshu note generator.
+- **[canghe-xhs-images](https://www.skills.sh/freestylefly/canghe-skills/canghe-xhs-images)** — Xiaohongshu image generator.
+- **[xiaohongshu-cover-generator](https://www.skills.sh/freestylefly/xiaohongshu-skills/xiaohongshu-cover-generator)** — Xiaohongshu cover generator.
+- **[xiaohongshu-cli](https://www.skills.sh/jackwener/xiaohongshu-cli/xiaohongshu-cli)** — Xiaohongshu CLI.
+- **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote cover generator.
+- **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — Xiaohongshu operations.
 
 ---
 

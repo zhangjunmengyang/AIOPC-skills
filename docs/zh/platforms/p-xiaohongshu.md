@@ -27,6 +27,13 @@
 - **[caption-writer](https://www.skills.sh/social-media-skills/skills/caption-writer)** — 配图文案。
 - **[hook-writer](https://www.skills.sh/social-media-skills/skills/hook-writer)** — 钩子文案。
 - **[thumbnail-design](https://www.skills.sh/social-media-skills/skills/thumbnail-design)** — 缩略图设计。
+- **[huashu-xhs-image](https://www.skills.sh/alchaincyf/huashu-skills/huashu-xhs-image)** — 小红书配图。
+- **[xhs-note-creator](https://www.skills.sh/comeonzhj/auto-redbook-skills/xhs-note-creator)** — 小红书笔记生成。
+- **[canghe-xhs-images](https://www.skills.sh/freestylefly/canghe-skills/canghe-xhs-images)** — 小红书图片生成。
+- **[xiaohongshu-cover-generator](https://www.skills.sh/freestylefly/xiaohongshu-skills/xiaohongshu-cover-generator)** — 小红书封面生成。
+- **[xiaohongshu-cli](https://www.skills.sh/jackwener/xiaohongshu-cli/xiaohongshu-cli)** — 小红书命令行。
+- **[muapi-rednote-cover](https://www.skills.sh/samuraigpt/generative-media-skills/muapi-rednote-cover)** — Rednote 封面。
+- **[xiaohongshu-ops](https://www.skills.sh/xiangyu-cas/xiaohongshu-ops-skill/xiaohongshu-ops)** — 小红书运营。
 
 ---
 

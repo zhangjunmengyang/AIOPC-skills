@@ -22,6 +22,10 @@
 - **[reddit-ads](https://www.skills.sh/kostja94/marketing-skills/reddit-ads)** — Reddit 广告。
 - **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — 受众研究。
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — 社媒内容策略。
+- **[reddit-insights](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/reddit-insights)** — Reddit 洞察。
+- **[reddit-research](https://www.skills.sh/lignertys/reddit-research-skills/reddit-research)** — Reddit 研究。
+- **[reddit-marketing](https://www.skills.sh/social-media-skills/skills/reddit-marketing)** — Reddit 营销。
+- **[reddit-automation](https://www.skills.sh/doany-skills/skills/reddit-automation)** — Reddit 自动化。
 
 ---
 

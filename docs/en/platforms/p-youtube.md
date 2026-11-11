@@ -25,6 +25,13 @@ Search, Shorts, thumbnails and ads.
 - **[video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit)** — AI video editing.
 - **[ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation)** — Multi-model AI video generation.
 - **[script-writer](https://www.skills.sh/ailabs-393/ai-labs-claude-skills/script-writer)** — Write video scripts.
+- **[youtube-scriptwriting](https://www.skills.sh/cdeistopened/skill-stack/youtube-scriptwriting)** — YouTube scriptwriting.
+- **[youtube-transcript](https://www.skills.sh/badlogic/pi-skills/youtube-transcript)** — YouTube transcripts.
+- **[youtube-uploader](https://www.skills.sh/aviz85/claude-skills-library/youtube-uploader)** — YouTube uploader.
+- **[youtube-automation](https://www.skills.sh/claude-office-skills/skills/youtube-automation)** — YouTube automation.
+- **[youtube-intro-outro](https://www.skills.sh/iart-ai/youtube-video-skills/youtube-intro-outro)** — YouTube intro and outro.
+- **[youtube-ads](https://www.skills.sh/kostja94/marketing-skills/youtube-ads)** — YouTube ads.
+- **[youtube-thumbnail](https://www.skills.sh/charlie947/social-media-skills/youtube-thumbnail)** — YouTube thumbnails.
 
 ---
 

@@ -23,6 +23,12 @@ Professional content, ghostwriting, outreach and ads.
 - **[compose-outreach](https://www.skills.sh/anthropics/knowledge-work-plugins/compose-outreach)** — Write personalized outreach.
 - **[brand-voice](https://www.skills.sh/affaan-m/ecc/brand-voice)** — Build a durable voice profile from source material.
 - **[social](https://www.skills.sh/coreyhaines31/marketingskills/social)** — Social content strategy.
+- **[linkedin-writer](https://www.skills.sh/ognjengt/founder-skills/linkedin-writer)** — LinkedIn writer.
+- **[linkedin-content](https://www.skills.sh/inference-sh/skills/linkedin-content)** — LinkedIn content.
+- **[linkedin-growth](https://www.skills.sh/social-media-skills/skills/linkedin-growth)** — LinkedIn growth.
+- **[linkedin-personal-branding](https://www.skills.sh/schwepps/skills/linkedin-personal-branding)** — LinkedIn personal branding.
+- **[linkedin-profile-optimizer](https://www.skills.sh/brianrwagner/ai-marketing-claude-code-skills/linkedin-profile-optimizer)** — LinkedIn profile optimizer.
+- **[linkedin-company-pages](https://www.skills.sh/social-media-skills/skills/linkedin-company-pages)** — LinkedIn company pages.
 
 ---
 

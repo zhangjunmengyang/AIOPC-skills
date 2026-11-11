@@ -30,6 +30,12 @@
 - **[audience-research](https://www.skills.sh/social-media-skills/skills/audience-research)** — 受众研究。
 - **[content-calendar](https://www.skills.sh/social-media-skills/skills/content-calendar)** — 内容日历。
 - **[substack-ghostwriting](https://www.skills.sh/samber/cc-skills/substack-ghostwriting)** — Substack 代写与增长。
+- **[podcast-automation](https://www.skills.sh/claude-office-skills/skills/podcast-automation)** — 播客自动化。
+- **[ai-podcast](https://www.skills.sh/inference-sh/skills/ai-podcast)** — AI 播客。
+- **[podcast-and-audiograms](https://www.skills.sh/social-media-skills/skills/podcast-and-audiograms)** — 播客与音频图。
+- **[newsletter-curation](https://www.skills.sh/inference-sh/skills/newsletter-curation)** — Newsletter 策展。
+- **[newsletter-signup-generator](https://www.skills.sh/kostja94/marketing-skills/newsletter-signup-generator)** — 订阅页生成。
+- **[email-and-newsletter](https://www.skills.sh/social-media-skills/skills/email-and-newsletter)** — 邮件与 Newsletter。
 
 ---
 
