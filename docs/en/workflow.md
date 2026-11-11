@@ -1,14 +1,14 @@
 [← Back to index](../../README.md) · [中文](../zh/workflow.md)
 
-# 🧭 OPC Workflow & Capability Map
+# OPC Workflow & Capability Map
 
 Twelve stages from self-audit to asset building, 21 capabilities and the 10 most-missed items. It is not a line but a loop: after asset building, go back to picking and validating — review decides whether to double down, pivot or stop. Complements the OPC talk deck: the deck explains why and how to teach; this page maps each step to skills.
 
 > Companion deck: [OPC Sharing](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — macro framing, 2C/2B routes, cases and talk outline.
 
-<img src="../../assets/opc-workflow.svg" alt="OPC workflow" width="100%" />
+<img src="../../assets/opc-workflow-en.png" alt="One-person company workflow: pick, validate, define, design, build, launch, acquire, sell, deliver, retain, operate and build assets; review returns to picking or validating." width="100%" />
 
-<p align="center"><sub>One map: 12 stages / 3 routes / 3 loops / private assets · <a href="../../assets/opc-workflow.png">Download PNG</a></sub></p>
+<p align="center"><sub>12 stages and the review loop · <a href="../../assets/opc-workflow-en.png">Download full image</a> · <a href="../../assets/opc-workflow.png">中文版</a></sub></p>
 
 ---
 
@@ -29,6 +29,28 @@ Twelve stages from self-audit to asset building, 21 capabilities and the 10 most
 | 10 | **Retain** — Support, repeat, community, referrals | [Open](workflow.md#support) |
 | 11 | **Operate** — Finance, tax, legal, insurance | [Open](09-opc.md) |
 | 12 | **Build assets** — Content, audience, code, sell/license | [Open](workflow.md#risk) |
+
+---
+
+## Three ongoing loops
+
+| Loop | Repeated actions |
+|---|---|
+| Validation | Build → measure → improve → build again |
+| Acquisition | Content → leads → sales → case studies → new content |
+| Compounding | Assets → more customers → more assets |
+
+After each review, decide whether to double down, pivot or stop. If continuing, return to picking or validating. Keep the assets accumulated so far.
+
+## Three routes
+
+| Route | Focus |
+|---|---|
+| Consumer apps | Store launch, ASO, subscriptions and retention |
+| B2B services and products | Target customers, outreach, pilots, delivery and renewal |
+| Content and knowledge products | Topic validation, content production, community and repeat purchases |
+
+Assets to keep building include customer lists, content libraries, code and products, case studies and testimonials, relationships, brands and domains, SOPs and templates, and personal reputation.
 
 ---
 

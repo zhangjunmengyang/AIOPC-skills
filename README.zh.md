@@ -1,21 +1,12 @@
 <a id="top"></a>
 
-<div align="center">
+<h1 align="center">
+  <img src="assets/banner.png" alt="AIOPC Skills — 面向一人公司的 AI 技能、MCP 与工具索引" width="100%" />
+</h1>
 
-<img src="assets/banner.svg" alt="AIOPC Skills" width="100%" />
-
-# 🧰 AIOPC Skills
-
-**给 AI 用的技能、MCP 与工具索引**
-*按一人公司的真实工作流组织，不堆合集。*
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#贡献)
-[![Last Updated](https://img.shields.io/badge/updated-2026--11--11-blue.svg)](#)
-[![Skills](https://img.shields.io/badge/skills-700-7C5CFF.svg)](#)
-[![English](https://img.shields.io/badge/English-README.md-lightgrey)](README.md)
-
-</div>
+<p align="center">
+  <a href="README.md">English</a> · <a href="docs/zh/workflow.md">工作流</a> · <a href="#贡献">参与贡献</a>
+</p>
 
 一人公司 / 超级个体的 AI 工具箱。按“选题 → 验证 → 产品 → 设计 → 营销 → 销售 → 运营 → 算账”拆成 9 个职能栈；另有一条按平台（小红书、公众号、抖音、TikTok、X…）的入口，方便按渠道找打法。
 
@@ -23,7 +14,7 @@
 
 ---
 
-## 🚀 怎么用
+## 怎么用
 
 1. **按当前任务选一个栈**：不知道选哪个，就从下面的「如果只装 12 个」开始。
 2. **打开那一页，先试 Top picks**：每页只推 4 个，带“为什么”和“第一次怎么用”。
@@ -31,7 +22,7 @@
 
 ---
 
-## ⚡ 如果只装 12 个
+## 如果只装 12 个
 
 | 任务 | 先装 | 一句话 |
 |---|---|---|
@@ -50,61 +41,61 @@
 
 ---
 
-## 🎯 按平台打
+## 按平台打
 
-- 📕 **[小红书](docs/zh/platforms/p-xiaohongshu.md)** — 封面、标题、正文、发布、复盘，一条链路。
-- 📗 **[公众号](docs/zh/platforms/p-wechat.md)** — 长文、排版、配图、发布、群聊提炼。
-- 🎬 **[抖音 / 视频号](docs/zh/platforms/p-douyin.md)** — 开头、逐字稿、标题封面、信息提取、章节导航。
-- 🎵 **[TikTok](docs/zh/platforms/p-tiktok.md)** — 内容、脚本、文案、广告。
-- 🐦 **[X / Twitter](docs/zh/platforms/p-x.md)** — 帖子、线程、算法优化、自动化。
-- 💼 **[LinkedIn](docs/zh/platforms/p-linkedin.md)** — 专业内容、代写、外联、广告。
-- 👽 **[Reddit](docs/zh/platforms/p-reddit.md)** — 原生帖子、找线索、广告。
-- ▶️ **[YouTube](docs/zh/platforms/p-youtube.md)** — 搜索、Shorts、缩略图、广告。
-- 🛒 **[电商（Etsy / Amazon / Shopify）](docs/zh/platforms/p-ecommerce.md)** — 选品、listing、SEO、定价、结账。
-- 📱 **[App Store / ASO](docs/zh/platforms/p-appstore.md)** — 商店页、关键词、本地化、定价。
-- 🔍 **[SEO / GEO](docs/zh/platforms/p-seo.md)** — 技术、内容、外链、本地、AI 搜索。
-- 📬 **[私域 / Newsletter / 播客](docs/zh/platforms/p-private.md)** — 社群、邮件列表、播客，把流量变成可反复触达的资产。
-
----
-
-## 🧭 9 个职能栈
-
-- 🚀 **[一、创业起点](docs/zh/01-startup.md)** · 36 个技能 — 选题、验证、商业模式、定位——先把“做什么”想清楚。
-- ✍️ **[二、文案](docs/zh/02-writing.md)** · 55 个技能 — 按“写给哪里”拆：小红书、公众号、短视频、广告、冷邮件、落地页、电商、商店。
-- 🛠️ **[三、产品与研发](docs/zh/03-product.md)** · 49 个技能 — 从需求到上线，按工程阶段拆。
-- 🎨 **[四、设计与前端](docs/zh/04-design.md)** · 189 个技能 — 设计是一大块：风格、排版、组件、动效、Figma、前端实现。
-- 📣 **[五、营销与增长](docs/zh/05-marketing.md)** · 103 个技能 — 按“被看见 → 被理解 → 被购买”拆开，每一格只放能直接用的。
-- 💼 **[六、销售、客服与运营](docs/zh/06-ops.md)** · 54 个技能 — 把“卖”和“交付”拆成可复用动作。
-- 🎬 **[七、内容生产](docs/zh/07-content.md)** · 26 个技能 — 图、视频、PPT、文档、音频，按最终交付物分。
-- 🔎 **[八、数据与研究](docs/zh/08-data.md)** · 19 个技能 — 找资料、抓数据、做分析、盯变化。
-- 📈 **[九、OPC / 经营](docs/zh/09-opc.md)** · 29 个技能 — 定价、财务、营销规划，一人公司的经营动作。
-- 🔌 **[MCP 与运行时](docs/zh/10-mcp.md)** · 19 个工具 — 服务器、自动化、编程 Agent
+- **[小红书](docs/zh/platforms/p-xiaohongshu.md)** — 封面、标题、正文、发布、复盘，一条链路。
+- **[公众号](docs/zh/platforms/p-wechat.md)** — 长文、排版、配图、发布、群聊提炼。
+- **[抖音 / 视频号](docs/zh/platforms/p-douyin.md)** — 开头、逐字稿、标题封面、信息提取、章节导航。
+- **[TikTok](docs/zh/platforms/p-tiktok.md)** — 内容、脚本、文案、广告。
+- **[X / Twitter](docs/zh/platforms/p-x.md)** — 帖子、线程、算法优化、自动化。
+- **[LinkedIn](docs/zh/platforms/p-linkedin.md)** — 专业内容、代写、外联、广告。
+- **[Reddit](docs/zh/platforms/p-reddit.md)** — 原生帖子、找线索、广告。
+- **[YouTube](docs/zh/platforms/p-youtube.md)** — 搜索、Shorts、缩略图、广告。
+- **[电商（Etsy / Amazon / Shopify）](docs/zh/platforms/p-ecommerce.md)** — 选品、listing、SEO、定价、结账。
+- **[App Store / ASO](docs/zh/platforms/p-appstore.md)** — 商店页、关键词、本地化、定价。
+- **[SEO / GEO](docs/zh/platforms/p-seo.md)** — 技术、内容、外链、本地、AI 搜索。
+- **[私域 / Newsletter / 播客](docs/zh/platforms/p-private.md)** — 社群、邮件列表、播客，把流量变成可反复触达的资产。
 
 ---
 
-## 🧠 经典与竞品
+## 9 个职能栈
 
-- 🧭 **[OPC 全流程与能力地图](docs/zh/workflow.md)** — 12 个阶段、21 项能力、10 个最容易漏的坑。
-- 🧠 **[商业经典与思维模型](docs/zh/classics.md)** — 芒格、Naval、PG、塔勒布，以及 Lean Startup、Mom Test 等 20 个框架。
-- 🧑‍💼 **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 71 个技能，按能力重排。
-- 🧑‍💼 **[创始人技能包（按能力拆）](docs/zh/founder-packs.md)** — 六个创始人包的 98 个技能，按能力重排。
-- 🧭 **[Lenny 产品与增长](docs/zh/lenny.md)** — 148 个技能全量收录，按产品/增长/销售/团队/决策重排。
-- 🗺️ **[竞品与大佬合集](docs/zh/landscape.md)** — 我们跟踪的 OPC/创始人技能合集。
-- 🏷️ **[取名与命名](docs/zh/naming.md)** — 品牌名、App 名、域名、商品名，中英文都覆盖。
-
----
-
-## 📚 全量目录
-
-- 🧠 **[营销与销售](docs/zh/full-marketing.md)** — 641 条，名称 + 链接。
-- 🎨 **[设计](docs/zh/full-design.md)** — 330 条，名称 + 链接。
-- 🛠️ **[产品与创业](docs/zh/full-product.md)** — 448 条，名称 + 链接。
-- 💼 **[运营、法务与财务](docs/zh/full-ops.md)** — 656 条，名称 + 链接。
-- 🎬 **[内容与数据](docs/zh/full-content.md)** — 53 条，名称 + 链接。
+- **[一、创业起点](docs/zh/01-startup.md)** · 36 个技能 — 选题、验证、商业模式、定位——先把“做什么”想清楚。
+- **[二、文案](docs/zh/02-writing.md)** · 55 个技能 — 按“写给哪里”拆：小红书、公众号、短视频、广告、冷邮件、落地页、电商、商店。
+- **[三、产品与研发](docs/zh/03-product.md)** · 49 个技能 — 从需求到上线，按工程阶段拆。
+- **[四、设计与前端](docs/zh/04-design.md)** · 189 个技能 — 设计是一大块：风格、排版、组件、动效、Figma、前端实现。
+- **[五、营销与增长](docs/zh/05-marketing.md)** · 103 个技能 — 按“被看见 → 被理解 → 被购买”拆开，每一格只放能直接用的。
+- **[六、销售、客服与运营](docs/zh/06-ops.md)** · 54 个技能 — 把“卖”和“交付”拆成可复用动作。
+- **[七、内容生产](docs/zh/07-content.md)** · 26 个技能 — 图、视频、PPT、文档、音频，按最终交付物分。
+- **[八、数据与研究](docs/zh/08-data.md)** · 19 个技能 — 找资料、抓数据、做分析、盯变化。
+- **[九、OPC / 经营](docs/zh/09-opc.md)** · 29 个技能 — 定价、财务、营销规划，一人公司的经营动作。
+- **[MCP 与运行时](docs/zh/10-mcp.md)** · 19 个工具 — 服务器、自动化、编程 Agent
 
 ---
 
-## 🧪 收录标准
+## 经典与竞品
+
+- **[OPC 全流程与能力地图](docs/zh/workflow.md)** — 12 个阶段、21 项能力、10 个最容易漏的坑。
+- **[商业经典与思维模型](docs/zh/classics.md)** — 芒格、Naval、PG、塔勒布，以及 Lean Startup、Mom Test 等 20 个框架。
+- **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 71 个技能，按能力重排。
+- **[创始人技能包（按能力拆）](docs/zh/founder-packs.md)** — 六个创始人包的 98 个技能，按能力重排。
+- **[Lenny 产品与增长](docs/zh/lenny.md)** — 148 个技能全量收录，按产品/增长/销售/团队/决策重排。
+- **[竞品与大佬合集](docs/zh/landscape.md)** — 我们跟踪的 OPC/创始人技能合集。
+- **[取名与命名](docs/zh/naming.md)** — 品牌名、App 名、域名、商品名，中英文都覆盖。
+
+---
+
+## 全量目录
+
+- **[营销与销售](docs/zh/full-marketing.md)** — 641 条，名称 + 链接。
+- **[设计](docs/zh/full-design.md)** — 330 条，名称 + 链接。
+- **[产品与创业](docs/zh/full-product.md)** — 448 条，名称 + 链接。
+- **[运营、法务与财务](docs/zh/full-ops.md)** — 656 条，名称 + 链接。
+- **[内容与数据](docs/zh/full-content.md)** — 53 条，名称 + 链接。
+
+---
+
+## 收录标准
 
 - 来源：skills.sh 上安装量靠前的技能包与社区清单，拆成单个技能后重新分类。
 - 这是索引，不是镜像：每条都回到原技能页；摘要为简短整理，不转载原文。
@@ -115,7 +106,7 @@
 ---
 
 <a id="贡献"></a>
-## 🤝 贡献
+## 贡献
 
 欢迎 PR。格式：`- **[名称](链接)** — 一句话说明。` 提交前先打开链接确认可访问，并说明补了哪个栈。
 
@@ -125,6 +116,6 @@
 
 <div align="center">
 
-**[⬆ 回到顶部](#top)** · [English](README.md)
+**[回到顶部](#top)** · [English](README.md)
 
 </div>
