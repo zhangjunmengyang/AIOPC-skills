@@ -27,7 +27,7 @@
   <!-- header -->
   <text x="72" y="70" class="mono muted" font-size="13" letter-spacing="3">ONE-PERSON COMPANY · FIELD GUIDE</text>
   <text x="72" y="138" class="cn ink" font-size="58" font-weight="700" letter-spacing="-1">一人公司全流程</text>
-  <text x="72" y="178" class="cn muted" font-size="19">从盘点自己到资产化：12 个阶段，3 条路线，3 个循环</text>
+  <text x="72" y="178" class="cn muted" font-size="19">从盘点自己到资产化：12 个阶段，3 条路线，3 个循环，1 个闭环</text>
   <line x1="72" y1="202" x2="1528" y2="202" class="hair"/>
 
   <!-- section 01 -->
@@ -140,10 +140,16 @@
   <line x1="564" y1="444" x2="552" y2="444" class="line" marker-end="url(#arrow)"/>
   <line x1="316" y1="444" x2="304" y2="444" class="line" marker-end="url(#arrow)"/>
 
+  <!-- closed loop: 12 back to 1 -->
+  <path d="M 72 444 C 34 444, 34 306, 66 306" class="line" marker-end="url(#arrow)"/>
+  <text transform="rotate(-90 26 375)" x="26" y="375" text-anchor="middle" class="mono muted" font-size="10.5" letter-spacing="1.5">复盘 · 下一轮</text>
+
   <!-- foundation bar -->
   <rect x="72" y="524" width="1472" height="58" rx="4" fill="#EFE7D8" stroke="#D8CCB8"/>
   <text x="92" y="559" class="cn ink" font-size="15" font-weight="700">0 盘点自己</text>
   <text x="192" y="559" class="cn muted" font-size="14">时间 · 现金 · 技能 · 关系 · 风险底线 —— 所有阶段的地基</text>
+
+  <text x="72" y="594" class="cn muted" font-size="12.5">闭环：每轮结束回到选题 / 验证；复盘 → 加码、转向或停止，资产留在池子里。</text>
 
   <!-- section 02 routes -->
   <text x="72" y="626" class="mono muted" font-size="12" letter-spacing="2">02 / 三条路线</text>

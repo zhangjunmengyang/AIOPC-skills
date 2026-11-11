@@ -2,7 +2,7 @@
 
 # 🧭 OPC Workflow & Capability Map
 
-Twelve stages from self-audit to asset building, 21 capabilities and the 10 most-missed items. Complements the OPC talk deck: the deck explains why and how to teach; this page maps each step to skills.
+Twelve stages from self-audit to asset building, 21 capabilities and the 10 most-missed items. It is not a line but a loop: after asset building, go back to picking and validating — review decides whether to double down, pivot or stop. Complements the OPC talk deck: the deck explains why and how to teach; this page maps each step to skills.
 
 > Companion deck: [OPC Sharing](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — macro framing, 2C/2B routes, cases and talk outline.
 
