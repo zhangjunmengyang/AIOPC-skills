@@ -6,6 +6,24 @@
 
 ---
 
+## 能力覆盖对比
+
+粗粒度看覆盖，不代表质量；● 强 / ○ 部分 / — 未覆盖。
+
+| 能力 | AIOPC | OPC Pack | Solo Founder | Founder Playbook | Founder Skills | Lenny | Startup OS | Minimalist |
+|---|---|---|---|---|---|---|---|---|
+| 选题 / 验证 | ● | ○ | ● | ● | ○ | ● | ○ | ● |
+| 产品 / 开发 | ● | ○ | ● | ○ | ○ | ● | ● | ○ |
+| 设计 / 品牌 | ● | ● | ○ | — | ○ | ○ | ○ | — |
+| 文案 | ● | ○ | ● | — | ● | ○ | ● | ○ |
+| 营销 / SEO | ● | ● | ○ | ● | ● | ● | ● | ○ |
+| 中文平台运营 | ● | — | — | — | — | — | — | — |
+| 销售 / 客户 | ● | — | ○ | ● | ● | ● | ● | — |
+| 运营 / 法务 / 财务 | ● | — | ● | — | ○ | ○ | ○ | — |
+| 思维模型 | ● | — | — | ● | — | ○ | — | — |
+
+---
+
 - **[OPC Skill Pack](https://www.skills.sh/resciencelab/opc-skills)** — 直接竞品：12 个 OPC 技能，偏出海工具与发布
 - **[Solo Founder Skills](https://www.skills.sh/whawkinsiv/solo-founder-skills)** — 直接竞品：71 个一人公司全栈技能，从记账到部署
 - **[Founder Playbook](https://www.skills.sh/getagentseal/founder-playbook)** — 16 个经典商业书/框架技能化

@@ -2,7 +2,7 @@
 
 # 🧑‍💼 创始人技能包（按能力拆）
 
-把 resciencelab/opc-skills、ognjengt/founder-skills、jakeschincariol/founder-skill、ferdinandobons/startup-skill、ncklrs/startup-os-skills 里的 48 个技能，按能力重新分组。
+把 resciencelab/opc-skills、ognjengt/founder-skills、jakeschincariol/founder-skill、ferdinandobons/startup-skill、ncklrs/startup-os-skills 里的 56 个技能，按能力重新分组。
 
 ---
 
@@ -33,6 +33,9 @@
 - **[product-specs-writer](https://www.skills.sh/ncklrs/startup-os-skills/product-specs-writer)** — 产品规格写作。
 - **[sop-creator](https://www.skills.sh/ognjengt/founder-skills/sop-creator)** — SOP 生成。
 - **[proposal-writer](https://www.skills.sh/ncklrs/startup-os-skills/proposal-writer)** — 提案写作。
+- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — 用户引导专家。
+- **[product-analyst](https://www.skills.sh/ncklrs/startup-os-skills/product-analyst)** — 产品分析师。
+- **[growth-product-manager](https://www.skills.sh/ncklrs/startup-os-skills/growth-product-manager)** — 增长产品经理。
 - **[founder-plan](https://www.skills.sh/jakeschincariol/founder-skill/founder-plan)** — 创始人计划。
 
 ### 营销与内容
@@ -47,6 +50,9 @@
 - **[marketing-strategist](https://www.skills.sh/ncklrs/startup-os-skills/marketing-strategist)** — 营销策略。
 - **[pr-specialist](https://www.skills.sh/ncklrs/startup-os-skills/pr-specialist)** — PR 专家。
 - **[performance-marketer](https://www.skills.sh/ncklrs/startup-os-skills/performance-marketer)** — 效果营销。
+- **[community-builder](https://www.skills.sh/ncklrs/startup-os-skills/community-builder)** — 社区建设。
+- **[partnership-marketer](https://www.skills.sh/ncklrs/startup-os-skills/partnership-marketer)** — 合作营销。
+- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — 客户生命周期营销。
 
 ### 销售与客户
 
@@ -57,6 +63,7 @@
 - **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — 续费管理。
 - **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR 主持。
 - **[customer-health-analyst](https://www.skills.sh/ncklrs/startup-os-skills/customer-health-analyst)** — 客户健康分析。
+- **[sales-ops-analyst](https://www.skills.sh/ncklrs/startup-os-skills/sales-ops-analyst)** — 销售运营分析。
 
 ### 定价与财务
 
@@ -85,6 +92,7 @@
 - **[founder-brand](https://www.skills.sh/jakeschincariol/founder-skill/founder-brand)** — 创始人品牌。
 - **[startup-pitch](https://www.skills.sh/ferdinandobons/startup-skill/startup-pitch)** — 创业路演。
 - **[archive](https://www.skills.sh/resciencelab/opc-skills/archive)** — 归档整理。
+- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — 支持运营。
 
 
 > 索引页：摘要为整理，版权归原作者；完整内容请回原链接。

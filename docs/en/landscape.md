@@ -6,6 +6,24 @@ OPC and founder skill collections we track, and the capabilities we extracted fr
 
 ---
 
+## Capability coverage
+
+Coarse coverage, not quality: ● strong / ○ partial / — none.
+
+| Capability | AIOPC | OPC Pack | Solo Founder | Founder Playbook | Founder Skills | Lenny | Startup OS | Minimalist |
+|---|---|---|---|---|---|---|---|---|
+| Validation | ● | ○ | ● | ● | ○ | ● | ○ | ● |
+| Product / build | ● | ○ | ● | ○ | ○ | ● | ● | ○ |
+| Design / brand | ● | ● | ○ | — | ○ | ○ | ○ | — |
+| Copywriting | ● | ○ | ● | — | ● | ○ | ● | ○ |
+| Marketing / SEO | ● | ● | ○ | ● | ● | ● | ● | ○ |
+| Chinese platforms | ● | — | — | — | — | — | — | — |
+| Sales / customers | ● | — | ○ | ● | ● | ● | ● | — |
+| Ops / legal / finance | ● | — | ● | — | ○ | ○ | ○ | — |
+| Mental models | ● | — | — | ● | — | ○ | — | — |
+
+---
+
 - **[OPC Skill Pack](https://www.skills.sh/resciencelab/opc-skills)** — Direct OPC competitor: 12 skills for launch and solo tools
 - **[Solo Founder Skills](https://www.skills.sh/whawkinsiv/solo-founder-skills)** — Direct competitor: 71 solo-founder skills end to end
 - **[Founder Playbook](https://www.skills.sh/getagentseal/founder-playbook)** — 16 classic business books turned into skills

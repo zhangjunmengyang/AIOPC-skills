@@ -2,7 +2,7 @@
 
 # 🧑‍💼 Founder Packs, by capability
 
-48 skills from resciencelab/opc-skills, ognjengt/founder-skills, jakeschincariol/founder-skill, ferdinandobons/startup-skill and ncklrs/startup-os-skills, re-grouped by capability.
+56 skills from resciencelab/opc-skills, ognjengt/founder-skills, jakeschincariol/founder-skill, ferdinandobons/startup-skill and ncklrs/startup-os-skills, re-grouped by capability.
 
 ---
 
@@ -33,6 +33,9 @@
 - **[product-specs-writer](https://www.skills.sh/ncklrs/startup-os-skills/product-specs-writer)** — Product spec writing.
 - **[sop-creator](https://www.skills.sh/ognjengt/founder-skills/sop-creator)** — SOP creator.
 - **[proposal-writer](https://www.skills.sh/ncklrs/startup-os-skills/proposal-writer)** — Proposal writing.
+- **[onboarding-specialist](https://www.skills.sh/ncklrs/startup-os-skills/onboarding-specialist)** — Onboarding specialist.
+- **[product-analyst](https://www.skills.sh/ncklrs/startup-os-skills/product-analyst)** — Product analyst.
+- **[growth-product-manager](https://www.skills.sh/ncklrs/startup-os-skills/growth-product-manager)** — Growth PM.
 - **[founder-plan](https://www.skills.sh/jakeschincariol/founder-skill/founder-plan)** — Founder plan.
 
 ### Marketing & content
@@ -47,6 +50,9 @@
 - **[marketing-strategist](https://www.skills.sh/ncklrs/startup-os-skills/marketing-strategist)** — Marketing strategy.
 - **[pr-specialist](https://www.skills.sh/ncklrs/startup-os-skills/pr-specialist)** — PR specialist.
 - **[performance-marketer](https://www.skills.sh/ncklrs/startup-os-skills/performance-marketer)** — Performance marketing.
+- **[community-builder](https://www.skills.sh/ncklrs/startup-os-skills/community-builder)** — Community builder.
+- **[partnership-marketer](https://www.skills.sh/ncklrs/startup-os-skills/partnership-marketer)** — Partnership marketer.
+- **[customer-lifecycle-marketer](https://www.skills.sh/ncklrs/startup-os-skills/customer-lifecycle-marketer)** — Customer lifecycle marketer.
 
 ### Sales & customers
 
@@ -57,6 +63,7 @@
 - **[renewal-manager](https://www.skills.sh/ncklrs/startup-os-skills/renewal-manager)** — Renewal manager.
 - **[qbr-facilitator](https://www.skills.sh/ncklrs/startup-os-skills/qbr-facilitator)** — QBR facilitator.
 - **[customer-health-analyst](https://www.skills.sh/ncklrs/startup-os-skills/customer-health-analyst)** — Customer health analyst.
+- **[sales-ops-analyst](https://www.skills.sh/ncklrs/startup-os-skills/sales-ops-analyst)** — Sales ops analyst.
 
 ### Pricing & finance
 
@@ -85,6 +92,7 @@
 - **[founder-brand](https://www.skills.sh/jakeschincariol/founder-skill/founder-brand)** — Founder brand.
 - **[startup-pitch](https://www.skills.sh/ferdinandobons/startup-skill/startup-pitch)** — Startup pitch.
 - **[archive](https://www.skills.sh/resciencelab/opc-skills/archive)** — Archive.
+- **[support-operations](https://www.skills.sh/ncklrs/startup-os-skills/support-operations)** — Support operations.
 
 
 > Index page: summaries are editorial notes; read the full content at the source link.
