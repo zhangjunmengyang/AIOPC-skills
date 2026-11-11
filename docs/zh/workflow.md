@@ -4,6 +4,8 @@
 
 从盘点自己到资产化，12 个阶段、21 项能力、10 个最容易漏的坑。和《OPC 分享》那份讲稿互补：讲稿讲为什么和怎么讲，这里讲每一步用什么技能。
 
+> 配套讲稿：[OPC 分享](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — 宏观认知、2C/2B 路线、案例、分享大纲。
+
 ---
 
 ## 12 阶段
@@ -46,7 +48,7 @@
 | 销售 | ● | [打开](06-ops.md) |
 | 定价 | ● | [打开](09-opc.md) |
 | 交付 | ● | [打开](06-ops.md) |
-| 客服 | ○ | [打开](workflow.md#support) |
+| 客服 | ● | [打开](workflow.md#support) |
 | 留存 | ● | [打开](workflow.md#support) |
 | 数据 | ● | [打开](08-data.md) |
 | 财务 | ● | [打开](workflow.md#finance) |

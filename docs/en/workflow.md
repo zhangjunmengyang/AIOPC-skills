@@ -4,6 +4,8 @@
 
 Twelve stages from self-audit to asset building, 21 capabilities and the 10 most-missed items. Complements the OPC talk deck: the deck explains why and how to teach; this page maps each step to skills.
 
+> Companion deck: [OPC Sharing](https://docs.xiaohongshu.com/doc/55736c63da0ab149198d36cab67220b4) — macro framing, 2C/2B routes, cases and talk outline.
+
 ---
 
 ## 12 stages
@@ -46,7 +48,7 @@ Twelve stages from self-audit to asset building, 21 capabilities and the 10 most
 | 销售 | ● | [Open](06-ops.md) |
 | 定价 | ● | [Open](09-opc.md) |
 | 交付 | ● | [Open](06-ops.md) |
-| 客服 | ○ | [Open](workflow.md#support) |
+| 客服 | ● | [Open](workflow.md#support) |
 | 留存 | ● | [Open](workflow.md#support) |
 | 数据 | ● | [Open](08-data.md) |
 | 财务 | ● | [Open](workflow.md#finance) |
