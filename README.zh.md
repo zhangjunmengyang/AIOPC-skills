@@ -12,7 +12,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#贡献)
 [![Last Updated](https://img.shields.io/badge/updated-2026--11--11-blue.svg)](#)
-[![Skills](https://img.shields.io/badge/skills-600-7C5CFF.svg)](#)
+[![Skills](https://img.shields.io/badge/skills-700-7C5CFF.svg)](#)
 [![English](https://img.shields.io/badge/English-README.md-lightgrey)](README.md)
 
 </div>
@@ -79,6 +79,15 @@
 - 🔎 **[八、数据与研究](docs/zh/08-data.md)** · 19 个技能 — 找资料、抓数据、做分析、盯变化。
 - 📈 **[九、OPC / 经营](docs/zh/09-opc.md)** · 29 个技能 — 定价、财务、营销规划，一人公司的经营动作。
 - 🔌 **[MCP 与运行时](docs/zh/10-mcp.md)** · 19 个工具 — 服务器、自动化、编程 Agent
+
+---
+
+## 🧠 经典与竞品
+
+- 🧠 **[商业经典与思维模型](docs/zh/classics.md)** — 芒格、Naval、PG、塔勒布，以及 Lean Startup、Mom Test 等 20 个框架。
+- 🧑‍💼 **[一人公司全栈](docs/zh/solo-founder.md)** — 直接竞品 solo-founder-skills 的 59 个技能，按能力重排。
+- 🧭 **[Lenny 产品与增长](docs/zh/lenny.md)** — 从 148 个技能里选 45 个，按产品/增长/销售/团队/决策重排。
+- 🗺️ **[竞品与大佬合集](docs/zh/landscape.md)** — 我们跟踪的 OPC/创始人技能合集。
 
 ---
 

@@ -1,0 +1,27 @@
+[← 返回总览](../../README.zh.md) · [English](../en/landscape.md)
+
+# 🗺️ 竞品与大佬合集
+
+我们持续跟踪的 OPC / 创始人技能合集，以及从各自拆出来的能力。
+
+---
+
+- **[OPC Skill Pack](https://www.skills.sh/resciencelab/opc-skills)** — 直接竞品：12 个 OPC 技能，偏出海工具与发布
+- **[Solo Founder Skills](https://www.skills.sh/whawkinsiv/solo-founder-skills)** — 直接竞品：71 个一人公司全栈技能，从记账到部署
+- **[Founder Playbook](https://www.skills.sh/getagentseal/founder-playbook)** — 16 个经典商业书/框架技能化
+- **[Founder Skills](https://www.skills.sh/ognjengt/founder-skills)** — 15 个创始人增长与营销技能
+- **[Founder Skill](https://www.skills.sh/jakeschincariol/founder-skill)** — 11 个 C-level 视角技能：CFO、定价、董事会
+- **[Startup Skill](https://www.skills.sh/ferdinandobons/startup-skill)** — 4 个创业设计、路演、竞品、定位技能
+- **[Startup OS](https://www.skills.sh/ncklrs/startup-os-skills)** — 53 个 GTM、销售、产品、Remotion 技能
+- **[Lenny Skills](https://www.skills.sh/refoundai/lenny-skills)** — 148 个 Lenny Rachitsky 产品/增长/管理技能
+- **[Minimalist Entrepreneur](https://www.skills.sh/slavingia/skills)** — Sahil Lavingia 的 10 个极简创业技能
+- **[Great Minds](https://www.skills.sh/alchaincyf/munger-skill)** — 芒格、Naval、PG、塔勒布的思维模型技能
+
+---
+
+> 索引页：摘要为整理，版权归原作者；完整内容请回原链接。
+
+---
+
+[← 返回总览](../../README.zh.md)
+

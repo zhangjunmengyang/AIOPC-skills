@@ -12,7 +12,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Last Updated](https://img.shields.io/badge/updated-2026--11--11-blue.svg)](#)
-[![Skills](https://img.shields.io/badge/skills-600-7C5CFF.svg)](#)
+[![Skills](https://img.shields.io/badge/skills-700-7C5CFF.svg)](#)
 [![中文](https://img.shields.io/badge/Chinese-README.zh.md-red)](README.zh.md)
 
 </div>
@@ -79,6 +79,15 @@ A toolbox for one-person companies and solo builders. The workflow is split into
 - 🔎 **[Data & Research](docs/en/08-data.md)** · 19 skills — Search, scrape, analyze and monitor.
 - 📈 **[OPC & Business](docs/en/09-opc.md)** · 29 skills — Pricing, finance and marketing for a one-person company.
 - 🔌 **[MCP & Runtime](docs/en/10-mcp.md)** · 19 tools — servers, automation and coding agents
+
+---
+
+## 🧠 Classics & landscape
+
+- 🧠 **[Classic frameworks & mental models](docs/en/classics.md)** — Munger, Naval, PG, Taleb, Lean Startup, Mom Test and 20 frameworks.
+- 🧑‍💼 **[Solo Founder OS](docs/en/solo-founder.md)** — 59 skills from the direct competitor solo-founder-skills, re-grouped by capability.
+- 🧭 **[Lenny's product & growth skills](docs/en/lenny.md)** — 45 selected from 148, re-grouped by product, growth, sales, team and decisions.
+- 🗺️ **[Competitive landscape](docs/en/landscape.md)** — the OPC and founder packs we track.
 
 ---
 
